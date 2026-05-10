@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 cb3885afe18ad9ce2e79c3ec1496bef4e07dfc70 Alex Berin Jr. <alexberin02@gmail.com> 1775841111 +0800	branch: Created from HEAD
+cb3885afe18ad9ce2e79c3ec1496bef4e07dfc70 b8c3204bf5cddfa42b5c74d49983d59f84437455 Alex Berin Jr. <alexberin02@gmail.com> 1775841111 +0800	commit: Update TryMe UI, replace emojis with icons, and refine quiz scenarios
+b8c3204bf5cddfa42b5c74d49983d59f84437455 4013ef9748da3d6d57944dffc35269169b38ec47 Alex Berin Jr. <alexberin02@gmail.com> 1775841560 +0800	commit: Refactor fetch-alerts with reliable Google News keyword searches to fix 404s
+4013ef9748da3d6d57944dffc35269169b38ec47 733f2ed1b60de3f0e30eaad2afb289319081e2fb Alex Berin Jr. <alexberin02@gmail.com> 1775842272 +0800	commit: Enhance fetch-alerts to extract reliable source-specific icons + GMA & ABS-CBN feeds
+733f2ed1b60de3f0e30eaad2afb289319081e2fb 9e4923218d3d4f744f732ce73521969e751770c9 Alex Berin Jr. <alexberin02@gmail.com> 1775842482 +0800	commit: chore: Update fetch-alerts cron to 12h and target react-ver-4 branch
+9e4923218d3d4f744f732ce73521969e751770c9 15dd0cfa2ff5a6a0f501ea823176f8e13c0f5052 Alex Berin Jr. <alexberin02@gmail.com> 1775843342 +0800	commit: Optimize UI for mobile and tablet devices

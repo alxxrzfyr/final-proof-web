@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 535971c4a2e3157baa4ae22d3d2a67cd16637881 Alex Berin Jr. <alexberin02@gmail.com> 1775230771 +0800	commit (initial): react framework version
+535971c4a2e3157baa4ae22d3d2a67cd16637881 66ba1c8a33b2a9dc6904e3943905c09fda2a918b Alex Berin Jr. <alexberin02@gmail.com> 1775242314 +0800	commit: feat: integrate official reliable RSS sources and local/intl scope
+66ba1c8a33b2a9dc6904e3943905c09fda2a918b 6c877a2da097a5c88a7a5fa773ffd784a6255543 Alex Berin Jr. <alexberin02@gmail.com> 1775242472 +0800	commit (merge): Merge remote-tracking branch 'origin/react-ver' into react-ver
+6c877a2da097a5c88a7a5fa773ffd784a6255543 a6384585229694678fac456ceeb8bb2012351551 Alex Berin Jr. <alexberin02@gmail.com> 1775242535 +0800	commit: fix: update workflow and uncommitted changes
+a6384585229694678fac456ceeb8bb2012351551 3a3683e370eb5937859c80ff5c1886b8e687af28 Alex Berin Jr. <alexberin02@gmail.com> 1775245687 +0800	commit: fix: use relative path for alerts.json to fix GitHub Pages root domain 404
+3a3683e370eb5937859c80ff5c1886b8e687af28 e2d04905f229b6f8d0400441559486ff0e231c5e Alex Berin Jr. <alexberin02@gmail.com> 1775245763 +0800	pull origin react-ver --rebase (finish): refs/heads/react-ver onto 98fce05e9e831fd9ee036798ba9f3a053133c062
+e2d04905f229b6f8d0400441559486ff0e231c5e 05d3a754f181c640e3927117be257e5568177c60 Alex Berin Jr. <alexberin02@gmail.com> 1775283413 +0800	commit: Update ScamInfoSection to use local background logos
+05d3a754f181c640e3927117be257e5568177c60 1e02e6ab8dc93f13454d23a4debdbd7fbaa521df Alex Berin Jr. <alexberin02@gmail.com> 1775283444 +0800	pull origin react-ver --rebase (finish): refs/heads/react-ver onto 91717c85fa8609625896e19fc00c411373965809
+1e02e6ab8dc93f13454d23a4debdbd7fbaa521df 80fabe98666e4039d79eaaaf65f5df6efc1ba5ea Alex Berin Jr. <alexberin02@gmail.com> 1775328146 +0800	commit: Refactor: Move chart data to data.ts, update quiz clues, and fix background image format
+80fabe98666e4039d79eaaaf65f5df6efc1ba5ea cb3885afe18ad9ce2e79c3ec1496bef4e07dfc70 Alex Berin Jr. <alexberin02@gmail.com> 1775328311 +0800	pull --no-edit origin HEAD: Merge made by the 'ort' strategy.

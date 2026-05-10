@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 188ee6a05f468ec7fe924f3806b7cc50e9d9aa21 Alex Berin Jr. <alexberin02@gmail.com> 1775242390 +0800	WIP on react-ver: 66ba1c8 feat: integrate official reliable RSS sources and local/intl scope
+188ee6a05f468ec7fe924f3806b7cc50e9d9aa21 657f9834f425595fa537ed633a776ab5fc26563a Alex Berin Jr. <alexberin02@gmail.com> 1775245736 +0800	WIP on react-ver: 3a3683e fix: use relative path for alerts.json to fix GitHub Pages root domain 404

@@ -1,0 +1,31 @@
+0000000000000000000000000000000000000000 535971c4a2e3157baa4ae22d3d2a67cd16637881 Alex Berin Jr. <alexberin02@gmail.com> 1775230771 +0800	commit (initial): react framework version
+535971c4a2e3157baa4ae22d3d2a67cd16637881 66ba1c8a33b2a9dc6904e3943905c09fda2a918b Alex Berin Jr. <alexberin02@gmail.com> 1775242314 +0800	commit: feat: integrate official reliable RSS sources and local/intl scope
+66ba1c8a33b2a9dc6904e3943905c09fda2a918b 66ba1c8a33b2a9dc6904e3943905c09fda2a918b Alex Berin Jr. <alexberin02@gmail.com> 1775242391 +0800	reset: moving to HEAD
+66ba1c8a33b2a9dc6904e3943905c09fda2a918b 6c877a2da097a5c88a7a5fa773ffd784a6255543 Alex Berin Jr. <alexberin02@gmail.com> 1775242472 +0800	commit (merge): Merge remote-tracking branch 'origin/react-ver' into react-ver
+6c877a2da097a5c88a7a5fa773ffd784a6255543 a6384585229694678fac456ceeb8bb2012351551 Alex Berin Jr. <alexberin02@gmail.com> 1775242535 +0800	commit: fix: update workflow and uncommitted changes
+a6384585229694678fac456ceeb8bb2012351551 3a3683e370eb5937859c80ff5c1886b8e687af28 Alex Berin Jr. <alexberin02@gmail.com> 1775245687 +0800	commit: fix: use relative path for alerts.json to fix GitHub Pages root domain 404
+3a3683e370eb5937859c80ff5c1886b8e687af28 3a3683e370eb5937859c80ff5c1886b8e687af28 Alex Berin Jr. <alexberin02@gmail.com> 1775245737 +0800	reset: moving to HEAD
+3a3683e370eb5937859c80ff5c1886b8e687af28 98fce05e9e831fd9ee036798ba9f3a053133c062 Alex Berin Jr. <alexberin02@gmail.com> 1775245762 +0800	pull origin react-ver --rebase (start): checkout 98fce05e9e831fd9ee036798ba9f3a053133c062
+98fce05e9e831fd9ee036798ba9f3a053133c062 e2d04905f229b6f8d0400441559486ff0e231c5e Alex Berin Jr. <alexberin02@gmail.com> 1775245763 +0800	pull origin react-ver --rebase (pick): fix: use relative path for alerts.json to fix GitHub Pages root domain 404
+e2d04905f229b6f8d0400441559486ff0e231c5e e2d04905f229b6f8d0400441559486ff0e231c5e Alex Berin Jr. <alexberin02@gmail.com> 1775245763 +0800	pull origin react-ver --rebase (finish): returning to refs/heads/react-ver
+e2d04905f229b6f8d0400441559486ff0e231c5e 05d3a754f181c640e3927117be257e5568177c60 Alex Berin Jr. <alexberin02@gmail.com> 1775283413 +0800	commit: Update ScamInfoSection to use local background logos
+05d3a754f181c640e3927117be257e5568177c60 91717c85fa8609625896e19fc00c411373965809 Alex Berin Jr. <alexberin02@gmail.com> 1775283442 +0800	pull origin react-ver --rebase (start): checkout 91717c85fa8609625896e19fc00c411373965809
+91717c85fa8609625896e19fc00c411373965809 1e02e6ab8dc93f13454d23a4debdbd7fbaa521df Alex Berin Jr. <alexberin02@gmail.com> 1775283444 +0800	pull origin react-ver --rebase (pick): Update ScamInfoSection to use local background logos
+1e02e6ab8dc93f13454d23a4debdbd7fbaa521df 1e02e6ab8dc93f13454d23a4debdbd7fbaa521df Alex Berin Jr. <alexberin02@gmail.com> 1775283444 +0800	pull origin react-ver --rebase (finish): returning to refs/heads/react-ver
+1e02e6ab8dc93f13454d23a4debdbd7fbaa521df 80fabe98666e4039d79eaaaf65f5df6efc1ba5ea Alex Berin Jr. <alexberin02@gmail.com> 1775328146 +0800	commit: Refactor: Move chart data to data.ts, update quiz clues, and fix background image format
+80fabe98666e4039d79eaaaf65f5df6efc1ba5ea cb3885afe18ad9ce2e79c3ec1496bef4e07dfc70 Alex Berin Jr. <alexberin02@gmail.com> 1775328311 +0800	pull --no-edit origin HEAD: Merge made by the 'ort' strategy.
+cb3885afe18ad9ce2e79c3ec1496bef4e07dfc70 cb3885afe18ad9ce2e79c3ec1496bef4e07dfc70 Alex Berin Jr. <alexberin02@gmail.com> 1775841111 +0800	checkout: moving from react-ver to react-ver-4
+cb3885afe18ad9ce2e79c3ec1496bef4e07dfc70 b8c3204bf5cddfa42b5c74d49983d59f84437455 Alex Berin Jr. <alexberin02@gmail.com> 1775841111 +0800	commit: Update TryMe UI, replace emojis with icons, and refine quiz scenarios
+b8c3204bf5cddfa42b5c74d49983d59f84437455 4013ef9748da3d6d57944dffc35269169b38ec47 Alex Berin Jr. <alexberin02@gmail.com> 1775841560 +0800	commit: Refactor fetch-alerts with reliable Google News keyword searches to fix 404s
+4013ef9748da3d6d57944dffc35269169b38ec47 733f2ed1b60de3f0e30eaad2afb289319081e2fb Alex Berin Jr. <alexberin02@gmail.com> 1775842272 +0800	commit: Enhance fetch-alerts to extract reliable source-specific icons + GMA & ABS-CBN feeds
+733f2ed1b60de3f0e30eaad2afb289319081e2fb 9e4923218d3d4f744f732ce73521969e751770c9 Alex Berin Jr. <alexberin02@gmail.com> 1775842482 +0800	commit: chore: Update fetch-alerts cron to 12h and target react-ver-4 branch
+9e4923218d3d4f744f732ce73521969e751770c9 9e4923218d3d4f744f732ce73521969e751770c9 Alex Berin Jr. <alexberin02@gmail.com> 1775843342 +0800	branch: Reset to HEAD
+9e4923218d3d4f744f732ce73521969e751770c9 9e4923218d3d4f744f732ce73521969e751770c9 Alex Berin Jr. <alexberin02@gmail.com> 1775843342 +0800	checkout: moving from react-ver-4 to react-ver-4
+9e4923218d3d4f744f732ce73521969e751770c9 15dd0cfa2ff5a6a0f501ea823176f8e13c0f5052 Alex Berin Jr. <alexberin02@gmail.com> 1775843342 +0800	commit: Optimize UI for mobile and tablet devices
+15dd0cfa2ff5a6a0f501ea823176f8e13c0f5052 15dd0cfa2ff5a6a0f501ea823176f8e13c0f5052 Alex Berin Jr. <alexberin02@gmail.com> 1776577970 +0800	checkout: moving from react-ver-4 to react-ver-5
+15dd0cfa2ff5a6a0f501ea823176f8e13c0f5052 d8dec935ad913950a983d46bf48d7644abc61ef8 Alex Berin Jr. <alexberin02@gmail.com> 1776578151 +0800	commit: enhanced version
+d8dec935ad913950a983d46bf48d7644abc61ef8 1bdbb4e3f2f95f3533bbf2fa1673fcf9405eb707 Alex Berin Jr. <alexberin02@gmail.com> 1776656302 +0800	commit: react framework
+1bdbb4e3f2f95f3533bbf2fa1673fcf9405eb707 0000000000000000000000000000000000000000 Alex Berin Jr. <alexberin02@gmail.com> 1776656325 +0800	Branch: renamed refs/heads/react-ver-5 to refs/heads/main
+0000000000000000000000000000000000000000 1bdbb4e3f2f95f3533bbf2fa1673fcf9405eb707 Alex Berin Jr. <alexberin02@gmail.com> 1776656325 +0800	Branch: renamed refs/heads/react-ver-5 to refs/heads/main
+1bdbb4e3f2f95f3533bbf2fa1673fcf9405eb707 1bdbb4e3f2f95f3533bbf2fa1673fcf9405eb707 Alex Berin Jr. <alexberin02@gmail.com> 1778173488 +0800	checkout: moving from main to need_info
+1bdbb4e3f2f95f3533bbf2fa1673fcf9405eb707 5e852a6424e6d7d8837145f9e85e2377873a95ad Alex Berin Jr. <alexberin02@gmail.com> 1778173569 +0800	commit: final version

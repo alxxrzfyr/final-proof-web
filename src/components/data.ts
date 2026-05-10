@@ -292,7 +292,7 @@ export const scamTypes: ScamType[] = [
           type: 'chat',
           sender: 'GCash Promo Viber',
           senderBadge: 'NOT AN OFFICIAL GCASH CHANNEL',
-          body: 'PANSIN PO! Ikaw ay napili bilang isa sa 100 LUCKY WINNERS ng GCash Anniversary Promo! 🎊\n\nPremyo: ₱8,000 GCash Credits\n\nI-claim sa link na ito: <span class="underline text-blue-600">gcash-anniversary-promo[.]ph/claim</span>\n\nValid hanggang 11:59 PM ngayong gabi lamang!',
+          body: 'CONGRATULATIONS PO! Ikaw ang aming napili bilang isa sa 100 LUCKY WINNERS ng GCash Anniversary Promo! 🎊\n\nPremyo: ₱8,000 GCash Credits\n\nI-claim sa link na ito: <span class="underline text-blue-600">gcash-anniversary-ph/claim</span>\n\nValid hanggang 11:59 PM ngayong gabi lamang!',
           annotations: [
             'GCash does not announce winners through Viber or WhatsApp groups',
             'Fake domain: gcash-anniversary-promo.ph (real domain is gcash.com)',
@@ -400,7 +400,7 @@ export const scamTypes: ScamType[] = [
           type: 'messenger',
           sender: 'Tulong PH Foundation',
           senderBadge: 'PAGE CREATED 3 DAYS AGO',
-          body: 'EMERGENCY APPEAL: Tulong para sa mga nasunog sa Divisoria! 🙏 Mag-donate na po habang mainit ang sitwasyon. Lahat ng donations napupunta direkta sa mga pamilyang apektado:\n\n<span class="underline text-blue-600">tulong-ph-relief[.]org/donate</span>',
+          body: 'EMERGENCY APPEAL: Tulong para sa mga nasunogan sa Divisoria! 🙏 Mag-donate na po kayo. Lahat ng donations napupunta direkta sa mga pamilyang apektado:\n\n<span class="underline text-blue-600">tulong-ph-relief/org</span>. Salamat po.',
           annotations: [
             'Messenger Page created only 3 days ago',
             'Organization not found in DSWD or SEC registry',

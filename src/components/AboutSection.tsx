@@ -140,6 +140,14 @@ export function AboutSection({ lang }: Props) {
 
   const [activeSub,  setActiveSub]  = useState<string>('about-intro');
   const [slideIndex, setSlideIndex] = useState(0);
+  const [copied, setCopied] = useState(false);
+
+  const handleShare = useCallback(() => {
+    navigator.clipboard.writeText('https://proofph.vercel.app').then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    });
+  }, []);
 
   // ── Intersection observer (breadcrumb highlight) ──────────────
   useEffect(() => {
@@ -460,9 +468,16 @@ export function AboutSection({ lang }: Props) {
               </p>
             </div>
             <div className="flex w-full shrink-0 flex-col gap-4 sm:w-auto sm:flex-row">
-              <button className="flex cursor-pointer items-center justify-center gap-2 rounded-full bg-yellow-400 px-8 py-4 text-sm font-bold whitespace-nowrap text-[#1a1816] transition-all hover:-translate-y-0.5 hover:bg-yellow-300 hover:shadow-[0_0_15px_rgba(250,204,21,0.3)] sm:text-base">
-                <span className="material-symbols-outlined text-lg">share</span>
-                {lang === 'fil' ? 'Ibahagi' : lang === 'ceb' ? 'Ipaambit' : 'Share'}
+              <button
+                onClick={handleShare}
+                className="flex cursor-pointer items-center justify-center gap-2 rounded-full bg-yellow-400 px-8 py-4 text-sm font-bold whitespace-nowrap text-[#1a1816] transition-all hover:-translate-y-0.5 hover:bg-yellow-300 hover:shadow-[0_0_15px_rgba(250,204,21,0.3)] sm:text-base"
+              >
+                <span className="material-symbols-outlined text-lg">
+                  {copied ? 'check' : 'share'}
+                </span>
+                {copied
+                  ? (lang === 'fil' ? 'Nakopya!' : lang === 'ceb' ? 'Nakopya!' : 'Copied!')
+                  : (lang === 'fil' ? 'Ibahagi' : lang === 'ceb' ? 'Ipaambit' : 'Share')}
               </button>
             </div>
           </div>

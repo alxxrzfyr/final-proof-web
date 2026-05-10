@@ -1114,6 +1114,7 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
   <div className="divide-y divide-[#f0ece6] bg-white">
     {[
       {
+        id: 'scam-phishing',
         title: 'Phishing Scams',
         body: (
           <>
@@ -1126,6 +1127,7 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
         ),
       },
       {
+        id: 'scam-fake-prize',
         title: 'Fake Prize Scams',
         body: (
           <>
@@ -1138,6 +1140,7 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
         ),
       },
       {
+        id: 'scam-fraudulent-links',
         title: 'Fraudulent Links',
         body: (
           <>
@@ -1150,7 +1153,7 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
         ),
       },
     ].map((item) => (
-      <div key={item.title} className="group flex gap-4 px-6 py-7 transition-colors duration-200 hover:bg-[#f8f7f5] sm:gap-6 sm:px-8 sm:py-8">
+      <div key={item.title} id={item.id} className="group flex gap-4 px-6 py-7 transition-colors duration-200 hover:bg-[#f8f7f5] sm:gap-6 sm:px-8 sm:py-8 scroll-mt-32">
         <div className="flex flex-col items-center pt-2.5">
           <span className="h-2.5 w-2.5 shrink-0 rounded-full bg-[#0a2fad] transition-transform duration-200 group-hover:scale-125" />
           <div className="mt-2 flex-1 w-px bg-[#0a2fad]/10" />

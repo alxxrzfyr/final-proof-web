@@ -329,21 +329,24 @@ useEffect(() => {
                 icon: 'mail',
                 title: lang === 'fil' ? 'Mga Mensaheng Phishing' : lang === 'ceb' ? 'Mga Mensahe nga Phishing' : 'Phishing Messages',
                 desc: lang === 'fil' ? 'Mga mapanlinlang na email at mensahe na nagnanakaw ng inyong impormasyon.' : lang === 'ceb' ? 'Mga limbong nga email ug mensahe nga nagkawat sa imong personal nga impormasyon.' : 'Deceptive emails designed to steal your credentials and personal data.',
+                scrollTo: 'phishing-messages',
               },
               {
                 icon: 'redeem',
                 title: lang === 'fil' ? 'Mga Huwad na Premyo' : lang === 'ceb' ? 'Mga Peke nga Premyo' : 'Fake Prizes',
                 desc: lang === 'fil' ? 'Mga alok na masyadong maganda para maging totoo at nagnanakaw ng inyong pera.' : lang === 'ceb' ? 'Mga alok nga daw kaayo maayo aron mahimong tinuod, gilaraw aron makawat sa imong kwarta.' : 'Too-good-to-be-true offers designed to steal your money or information.',
+                scrollTo: 'fake-prizes',
               },
               {
                 icon: 'link_off',
                 title: lang === 'fil' ? 'Mga Mapanlinlang na Link' : lang === 'ceb' ? 'Mga Limbong nga Link' : 'Fraudulent Links',
                 desc: lang === 'fil' ? 'Mga mapanganib na URL at website na nagpapanggap na lehitimo.' : lang === 'ceb' ? 'Mga makadaot nga URL nga nagpakaaron-ingnon nga tinuod ug lehitimong mga website.' : 'Malicious URLs that masquerade as trusted and legitimate websites.',
+                scrollTo: 'fraudulent-links',
               },
             ].map((card, i) => (
               <button
                 key={i}
-                onClick={card.onClick}
+                onClick={() => { sessionStorage.setItem('scrollTarget', card.scrollTo); onNavigate('about-scam'); }}
                 className="group flex cursor-pointer flex-col items-center rounded-xl border border-[#e5ded4] bg-[#f8f7f5] p-6 text-center shadow-sm transition-all duration-300 hover:-translate-y-2 hover:shadow-lg sm:p-8"
               >
                 <div className="mb-4 flex h-16 w-16 items-center justify-center rounded-xl bg-white text-[#0a2fad] shadow-sm transition-colors group-hover:bg-[#0a2fad] group-hover:text-white sm:mb-5 sm:h-20 sm:w-20">

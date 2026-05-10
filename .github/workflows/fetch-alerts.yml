@@ -1,36 +1,21 @@
-# .github/workflows/fetch-alerts.yml
-# ═══════════════════════════════════════════════════════════════
-# Runs every 1 hour to keep the scam alerts feed updated.
-# Executes fetch-alerts.js → rewrites alerts.json →
-# commits and pushes the change back to the repo.
-# GitHub Pages picks up the new file automatically on next deploy.
-# ═══════════════════════════════════════════════════════════════
-
 name: automated alert scam
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Every 12 hours
-  workflow_dispatch: # Manual trigger from Actions tab
-
-concurrency:
-  group: refresh-scam-alerts
-  cancel-in-progress: true
+    - cron: '0 */12 * * *' # Still runs every 12 hours
+  workflow_dispatch:
 
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     permissions:
-      contents: write
-      actions: write
+      contents: write # Only need permission to push code
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          ref: main # ← FIX: commit lands on the deployed branch
+          ref: main
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -38,28 +23,16 @@ jobs:
           node-version: '22'
 
       - name: Fetch latest scam alerts
-        id: fetch
         run: node "rss feed/fetch-alerts.js"
 
-      - name: Commit & push alerts.json if changed
-        id: commit_step
+      - name: Commit & push alerts.json
         run: |
-          git config user.name  "PROOF Alert Bot"
+          git config user.name "PROOF Alert Bot"
           git config user.email "alerts-bot@users.noreply.github.com"
           git add "rss feed/alerts.json"
-
           if git diff --cached --quiet; then
-            echo "No new alerts to commit."
-            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No new alerts."
           else
-            git commit -m "chore: refresh scam alerts [skip ci]"
+            git commit -m "chore: refresh scam alerts"
             git push
-            echo "changed=true" >> $GITHUB_OUTPUT
           fi
-
-      - name: Trigger GitHub Pages Deploy
-        if: steps.commit_step.outputs.changed == 'true'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh workflow run deploy.yml --ref main

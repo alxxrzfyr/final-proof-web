@@ -7,22 +7,22 @@
 // ═══════════════════════════════════════════════════════════════
 export const threatStats = [
   {
-    label: 'Losses from online scams (2024)',
-    value: '₱198M',
+    label: 'Losses from cybercrime (2025)',
+    value: '₱418M',
     color: 'text-red-400',
-    sublabel: 'CICC logged full-year losses',
+    sublabel: 'CICC 2025 reported losses',
   },
   {
-    label: 'Cybercrime complaints (2024)',
-    value: '10,004',
+    label: 'Consumer fraud cases (2025)',
+    value: '6,453',
     color: 'text-yellow-400',
-    sublabel: 'CICC complaints, full year',
+    sublabel: 'Largest CICC complaint category',
   },
   {
-    label: 'Phishing sites increase (2025)',
-    value: '423%',
+    label: 'Cybercrime complaints (2025)',
+    value: '18,633',
     color: 'text-red-400',
-    sublabel: 'Check Point Research vs 2024',
+    sublabel: 'CICC annual report',
   },
   {
     label: 'Filipinos scammed at least once',
@@ -33,15 +33,32 @@ export const threatStats = [
 ];
 
 export const pieData = [
-  { name: 'Consumer fraud (online selling)', value: 35, color: '#dc2626' },
-  { name: 'Online fraud (investment/romance/job)', value: 32, color: '#0a2fad' },
-  { name: 'Other cybercrimes', value: 33, color: '#6b7280' },
+  {
+    name: 'Consumer fraud',
+    value: 6453,
+    color: '#dc2626',
+  },
+  {
+    name: 'Online fraud',
+    value: 4243,
+    color: '#0a2fad',
+  },
+  {
+    name: 'Online harassment',
+    value: 2160,
+    color: '#f59e0b',
+  },
+  {
+    name: 'Identity theft',
+    value: 1626,
+    color: '#6b7280',
+  },
 ];
 
 export const lineData = [
-  { year: '2023', cases: 8000 },
+  { year: '2023', cases: 3317 },
   { year: '2024', cases: 10004 },
-  { year: '2025', cases: 9834 },
+  { year: '2025', cases: 18633 },
 ];
 
 export const quickJumpPills = [

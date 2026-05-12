@@ -40,4 +40,7 @@ jobs:
           else
             git commit -m "chore: refresh scam alerts"
             git push origin main
+            
+            # This sends the signal to Vercel to rebuild your site
+            curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}"
           fi

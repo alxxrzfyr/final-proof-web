@@ -130,15 +130,15 @@ export function EmailMockup({ from, brand, subject, body, cta, isSuspicious }: E
           </p>
           <p className="text-sm text-[#4b5563]" style={{ fontWeight: 600 }}>to me - 10:42 AM (2 minutes ago)</p>
         </div>
-        <div className="flex gap-2 text-gray-700">
-          <span className="material-symbols-outlined text-lg">star</span>
-          <span className="material-symbols-outlined text-lg">reply</span>
+        <div className="flex shrink-0 gap-2 text-gray-700">
+          <span className="material-symbols-outlined hidden text-lg sm:inline">star</span>
+          <span className="material-symbols-outlined hidden text-lg sm:inline">reply</span>
           <span className="material-symbols-outlined text-lg">more_vert</span>
         </div>
       </div>
 
       {/* Body */}
-      <div className="px-5 py-5">
+      <div className="px-4 py-4 sm:px-5 sm:py-5">
         <div 
             className="whitespace-pre-line text-base leading-relaxed text-[#1a1816]" 
             style={{ fontWeight: 600 }} 
@@ -266,7 +266,7 @@ export function MessengerMockup({ sender, brand, body, isVerified = false }: Mes
           <p className="text-xs text-gray-700" style={{ fontWeight: 500 }}>Active 2m ago</p>
         </div>
         <span className="material-symbols-outlined text-xl text-[#0084ff]">call</span>
-        <span className="material-symbols-outlined text-xl text-[#0084ff]">videocam</span>
+        <span className="material-symbols-outlined hidden text-xl text-[#0084ff] sm:inline">videocam</span>
       </div>
 
       {/* Messages */}
@@ -347,8 +347,8 @@ export function PopupMockup({ body, cta, domain = 'survey-prizewinners.info/ph',
             <div className="h-2.5 w-2.5 rounded-full bg-yellow-400" />
             <div className="h-2.5 w-2.5 rounded-full bg-green-400" />
           </div>
-          <span className="material-symbols-outlined text-[14px] text-gray-400">arrow_back</span>
-          <span className="material-symbols-outlined text-[14px] text-gray-400">arrow_forward</span>
+          <span className="material-symbols-outlined hidden text-[14px] text-gray-400 sm:inline">arrow_back</span>
+          <span className="material-symbols-outlined hidden text-[14px] text-gray-400 sm:inline">arrow_forward</span>
           <span className="material-symbols-outlined text-[14px] text-gray-400">refresh</span>
           {/* URL bar */}
           <div className="flex flex-1 items-center gap-1.5 rounded-full border border-gray-300 bg-white px-3 py-1 shadow-sm">
@@ -868,8 +868,8 @@ export function ShippingReceiptMockup({
               ['Date', date],
               ['Requested payment', amount],
             ].map(([label, value]) => (
-              <div key={label} className="grid grid-cols-[7.5rem_1fr] gap-3 border-b border-[#eee7df] pb-2 last:border-b-0 last:pb-0">
-                <span className="text-xs uppercase tracking-wider text-[#5c544d]" style={{ fontWeight: 800 }}>
+              <div key={label} className="grid grid-cols-[6rem_1fr] gap-2 border-b border-[#eee7df] pb-2 last:border-b-0 last:pb-0 sm:grid-cols-[7.5rem_1fr] sm:gap-3">
+                <span className="text-[10px] uppercase tracking-wide text-[#5c544d] sm:tracking-wider" style={{ fontWeight: 800 }}>
                   {label}
                 </span>
                 <span className="break-words text-[#1a1816]" style={{ fontWeight: 700 }}>

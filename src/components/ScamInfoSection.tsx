@@ -676,28 +676,28 @@ function ScamExampleCard({ tab, index }: { tab: any; index: number }) {
   return (
     <div className="flex flex-col overflow-hidden rounded-2xl border border-[#cfc7bd] bg-white shadow-[0_10px_24px_rgba(26,24,22,0.08)]">
       {/* Card Header */}
-      <div className="flex items-center gap-3 bg-[#1a1816] px-5 py-4">
+      <div className="flex flex-wrap items-center gap-2 bg-[#1a1816] px-4 py-3 sm:gap-3 sm:px-5 sm:py-4">
         <span
           className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-white/20 text-xs text-white"
           style={{ fontWeight: 800 }}
         >
           {index + 1}
         </span>
-        <span className="flex-1 text-sm text-white sm:text-base" style={{ fontWeight: 700 }}>
+        <span className="min-w-0 flex-1 break-words text-sm leading-snug text-white sm:text-base" style={{ fontWeight: 700 }}>
           {tab.label}
         </span>
         <span
-          className="rounded-full bg-white/15 px-3 py-1 text-[10px] tracking-widest text-white uppercase"
+          className="shrink-0 rounded-full bg-white/15 px-2 py-0.5 text-[9px] tracking-widest text-white uppercase sm:px-3 sm:py-1 sm:text-[10px]"
           style={{ fontWeight: 700 }}
         >
           EXAMPLE
         </span>
       </div>
 
-      <div className="flex flex-1 flex-col p-4 sm:p-5">
+      <div className="flex flex-1 flex-col p-3 sm:p-5">
 
         {/* Mockup zone — flex-1 fills all remaining card height */}
-        <div className="mb-4 flex flex-1 flex-col overflow-hidden rounded-xl border border-[#d6cfc6] bg-[#f5f2eb] p-3 sm:p-4">
+        <div className="mb-3 flex flex-1 flex-col overflow-hidden rounded-xl border border-[#d6cfc6] bg-[#f5f2eb] p-3 sm:mb-4 sm:p-4">
           {mockup && <div className="flex flex-1 min-h-0 w-full flex-col">{mockup}</div>}
 
           {/* Fallback: no dedicated mockup component */}
@@ -754,8 +754,8 @@ function ScamExampleCard({ tab, index }: { tab: any; index: number }) {
                   Suspicious Payment QR
                 </p>
               </div>
-              <div className="flex flex-1 items-center justify-center p-6">
-                <div className="mx-auto grid gap-5 sm:grid-cols-[auto_1fr] sm:items-center">
+              <div className="flex flex-1 items-center justify-center p-3 sm:p-6">
+                <div className="mx-auto grid gap-4 sm:grid-cols-[auto_1fr] sm:items-center sm:gap-5">
                   <div className="mx-auto flex h-48 w-48 shrink-0 items-center justify-center rounded-lg border-2 border-[#e5ded4] bg-white p-3 sm:mx-0">
                     <div className="relative">
                       <QRCodeSVG
@@ -790,22 +790,32 @@ function ScamExampleCard({ tab, index }: { tab: any; index: number }) {
                 return (
                   <div
                     key={i}
-                    className={`px-4 py-4 ${i !== arr.length - 1 ? 'border-b border-[#d4d4d4]' : ''} ${isSafe ? 'bg-[#f4fbf5]' : 'bg-[#fff8f8]'}`}
+                    className={`px-3 py-3 sm:px-4 sm:py-4 ${i !== arr.length - 1 ? 'border-b border-[#d4d4d4]' : ''} ${isSafe ? 'bg-[#f4fbf5]' : 'bg-[#fff8f8]'}`}
                   >
-                    {/* Label */}
-                    <p className="mb-2 text-[10px] font-bold tracking-widest uppercase text-[#1a1816]">
-                      {u.label}
-                    </p>
+                    {/* Label row — verdict badge sits here on mobile */}
+                    <div className="mb-2 flex items-center justify-between gap-2">
+                      <p className="text-[10px] font-bold tracking-widest uppercase text-[#1a1816]">
+                        {u.label}
+                      </p>
+                      {/* Badge — visible at label row on mobile, hidden inside address bar */}
+                      <span className={`flex sm:hidden shrink-0 items-center gap-1 rounded-full border px-2.5 py-0.5 text-[11px] font-bold ${isSafe ? 'border-green-400 bg-green-500 text-white' : 'border-red-400 bg-red-600 text-white'}`}>
+                        <span className="material-symbols-outlined text-[11px]">
+                          {isSafe ? 'check_circle' : 'cancel'}
+                        </span>
+                        {isSafe ? 'Official' : 'Fake'}
+                      </span>
+                    </div>
 
-                    {/* Address bar — WHITE CONTAINER UNTOUCHED */}
-                    <div className="flex items-center gap-3 rounded-xl border border-[#cccccc] bg-white px-4 py-3 shadow-sm">
-                      <span className={`material-symbols-outlined shrink-0 text-[20px] ${isSafe ? 'text-green-600' : 'text-[#888]'}`}>
+                    {/* Address bar */}
+                    <div className="flex items-center gap-2 rounded-xl border border-[#cccccc] bg-white px-3 py-2.5 shadow-sm sm:gap-3 sm:px-4 sm:py-3">
+                      <span className={`material-symbols-outlined shrink-0 text-[18px] sm:text-[20px] ${isSafe ? 'text-green-600' : 'text-[#888]'}`}>
                         {isSafe ? 'lock' : 'lock_open'}
                       </span>
-                      <p className="flex-1 text-sm text-[#111] sm:text-base" style={{ fontFamily: 'system-ui, sans-serif', letterSpacing: '0.01em', fontWeight: 550 }}>
+                      <p className="min-w-0 flex-1 break-all text-xs text-[#111] sm:text-sm" style={{ fontFamily: 'system-ui, sans-serif', letterSpacing: '0.01em', fontWeight: 550 }}>
                         {u.url}
                       </p>
-                      <span className={`shrink-0 rounded-full border px-3 py-1 text-xs font-bold flex items-center gap-1 ${isSafe ? 'border-green-400 bg-green-500 text-white' : 'border-red-400 bg-red-600 text-white'}`}>
+                      {/* Badge — hidden on mobile (shown above), visible on sm+ */}
+                      <span className={`hidden sm:flex shrink-0 items-center gap-1 rounded-full border px-3 py-1 text-xs font-bold ${isSafe ? 'border-green-400 bg-green-500 text-white' : 'border-red-400 bg-red-600 text-white'}`}>
                         <span className="material-symbols-outlined text-[12px]">
                           {isSafe ? 'check_circle' : 'cancel'}
                         </span>
@@ -825,12 +835,12 @@ function ScamExampleCard({ tab, index }: { tab: any; index: number }) {
                 <p className="mb-3 text-[10px] font-extrabold uppercase tracking-widest text-[#1a1816]">
                   How the Attack Unfolds
                 </p>
-                <div className="relative pl-8">
-                  <div className="absolute top-4 left-[15px] h-[calc(100%-2rem)] w-0.5 rounded-full bg-gradient-to-b from-red-400 via-red-300 to-red-100" />
+                <div className="relative pl-9">
+                  <div className="absolute top-4 left-[17px] h-[calc(100%-2rem)] w-0.5 rounded-full bg-gradient-to-b from-red-400 via-red-300 to-red-100" />
                   <div className="space-y-0">
                     {content.extra.steps.map((step: string, i: number) => (
-                      <div key={i} className="relative flex items-start gap-4 pb-4 last:pb-0">
-                        <span className="absolute -left-8 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border-2 border-white bg-red-600 text-[11px] text-white shadow-md" style={{ fontWeight: 800, top: '2px' }}>
+                      <div key={i} className="relative flex items-start gap-3 pb-4 last:pb-0">
+                        <span className="absolute -left-9 flex h-6 w-6 shrink-0 items-center justify-center rounded-full border-2 border-white bg-red-600 text-[11px] text-white shadow-md" style={{ fontWeight: 800, top: '2px' }}>
                           {i + 1}
                         </span>
                         <div className="w-full rounded-lg border border-[#e5ded4] bg-white px-3 py-2.5 shadow-sm">
@@ -871,7 +881,7 @@ function ScamExampleCard({ tab, index }: { tab: any; index: number }) {
                 {(content.annotations?.length > 0 ? content.annotations : content.extra?.warnings || []).map((a: string, i: number) => (
                   <div key={i} className="flex items-start gap-2">
                     <RedXIcon />
-                    <p className="text-[15px] leading-snug text-[#241f1b] sm:text-base" style={{ fontWeight: 600 }}>{a}</p>
+                    <p className="text-sm leading-snug text-[#241f1b] sm:text-[15px]" style={{ fontWeight: 600 }}>{a}</p>
                   </div>
                 ))}
               </div>
@@ -888,7 +898,7 @@ function ScamExampleCard({ tab, index }: { tab: any; index: number }) {
                 {tipLines.map((tip: string, i: number) => (
                   <div key={i} className="flex items-start gap-2">
                     <GreenCheckIcon />
-                    <p className="text-[15px] leading-snug text-[#241f1b] sm:text-base" style={{ fontWeight: 600 }}>{tip}</p>
+                    <p className="text-sm leading-snug text-[#241f1b] sm:text-[15px]" style={{ fontWeight: 600 }}>{tip}</p>
                   </div>
                 ))}
               </div>
@@ -1423,9 +1433,9 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
                 className="overflow-hidden rounded-2xl border border-[#e5ded4] bg-white shadow-sm"
               >
                 {/* Header */}
-                <div className="flex min-w-0 items-center gap-4 border-b border-[#f0ece6] bg-[#f8f7f5] px-5 py-5 sm:gap-5 sm:px-6 sm:py-6">
-                  <span className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-[#1a1816] text-white sm:h-13 sm:w-13">
-                    <span className="material-symbols-outlined" style={{ fontSize: '1.5rem' }}>
+                <div className="flex min-w-0 items-start gap-3 border-b border-[#f0ece6] bg-[#f8f7f5] px-4 py-4 sm:items-center sm:gap-5 sm:px-6 sm:py-6">
+                  <span className="mt-0.5 flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-[#1a1816] text-white sm:mt-0 sm:h-12 sm:w-12">
+                    <span className="material-symbols-outlined" style={{ fontSize: '1.25rem' }}>
                       {item.icon}
                     </span>
                   </span>
@@ -1466,7 +1476,7 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
         <div className="mb-10 overflow-hidden rounded-2xl border border-[#e5ded4] bg-[#f8f7f5] shadow-sm sm:mb-14">
 
           {/* Container Header */}
-          <div className="flex flex-col gap-4 border-b border-[#e5ded4] bg-white px-5 py-5 sm:flex-row sm:items-center sm:gap-3 sm:px-6">
+          <div className="flex flex-col gap-3 border-b border-[#e5ded4] bg-white px-4 py-4 sm:flex-row sm:items-center sm:gap-3 sm:px-6">
             <div className="flex items-center gap-3">
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-red-600">
                 <span className="material-symbols-outlined text-xl text-white">notifications_active</span>
@@ -1481,37 +1491,39 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
               </div>
             </div>
 
-            <div className="flex items-center rounded-full border border-[#e5ded4] bg-[#f8f7f5] p-1 sm:ml-auto">
-              <button
-                onClick={() => setAlertScope('local')}
-                className={`rounded-full px-4 py-1.5 text-xs tracking-wider uppercase transition-all ${alertScope === 'local' ? 'bg-[#0a2fad] text-white shadow-sm' : 'text-[#5c544d] hover:text-[#1a1816]'}`}
-                style={{ fontWeight: alertScope === 'local' ? 800 : 700 }}
-              >
-                Local (PH)
-              </button>
-              <button
-                onClick={() => setAlertScope('international')}
-                className={`rounded-full px-4 py-1.5 text-xs tracking-wider uppercase transition-all ${alertScope === 'international' ? 'bg-[#0a2fad] text-white shadow-sm' : 'text-[#5c544d] hover:text-[#1a1816]'}`}
-                style={{ fontWeight: alertScope === 'international' ? 800 : 700 }}
-              >
-                International
-              </button>
-            </div>
+            <div className="flex items-center gap-3 sm:ml-auto">
+              <div className="flex flex-1 items-center rounded-full border border-[#e5ded4] bg-[#f8f7f5] p-1 sm:flex-none">
+                <button
+                  onClick={() => setAlertScope('local')}
+                  className={`rounded-full px-4 py-1.5 text-xs tracking-wider uppercase transition-all ${alertScope === 'local' ? 'bg-[#0a2fad] text-white shadow-sm' : 'text-[#5c544d] hover:text-[#1a1816]'}`}
+                  style={{ fontWeight: alertScope === 'local' ? 800 : 700 }}
+                >
+                  Local (PH)
+                </button>
+                <button
+                  onClick={() => setAlertScope('international')}
+                  className={`rounded-full px-4 py-1.5 text-xs tracking-wider uppercase transition-all ${alertScope === 'international' ? 'bg-[#0a2fad] text-white shadow-sm' : 'text-[#5c544d] hover:text-[#1a1816]'}`}
+                  style={{ fontWeight: alertScope === 'international' ? 800 : 700 }}
+                >
+                  International
+                </button>
+              </div>
 
-            <div className="flex items-center gap-1.5">
-              <span className="relative flex h-2.5 w-2.5">
-                <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-red-400 opacity-75"></span>
-                <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-red-500"></span>
-              </span>
-              <span className="text-xs tracking-wider text-red-600 uppercase" style={{ fontWeight: 700 }}>
-                Live
-              </span>
+              <div className="flex shrink-0 items-center gap-1.5">
+                <span className="relative flex h-2.5 w-2.5">
+                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-red-400 opacity-75"></span>
+                  <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-red-500"></span>
+                </span>
+                <span className="text-xs tracking-wider text-red-600 uppercase" style={{ fontWeight: 700 }}>
+                  Live
+                </span>
+              </div>
             </div>
           </div>
 
           {/* Alert Cards */}
-          <div className="p-5 sm:p-6">
-            <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="p-4 sm:p-6">
+            <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4 lg:grid-cols-3">
               {alerts
                 .filter((a) => a.scope === alertScope || (!a.scope && alertScope === 'local'))
                 .slice(0, 12)
@@ -1523,8 +1535,8 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
                     rel="noopener noreferrer"
                     className="group flex flex-col rounded-xl border border-[#0a2fad] bg-white p-5 transition-all hover:border-[#0a2fad]/40 hover:shadow-lg lg:border-[#a09890]"
                   >
-                    <div className="mb-3 flex w-full items-center justify-between">
-                      <div className="flex max-w-[65%] items-center gap-2">
+                    <div className="mb-3 flex w-full flex-wrap items-center justify-between gap-1">
+                      <div className="flex min-w-0 items-center gap-2">
                         {alert.logo ? (
                           <img
                             src={alert.logo}
@@ -1566,7 +1578,7 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
           {/* Quick Resources + Report */}
           <div className="grid grid-cols-1 gap-5 sm:gap-6 lg:grid-cols-5">
             {/* Quick Resources , spans 3 cols */}
-            <div className="rounded-2xl border border-[#e5ded4] bg-[#f8f7f5] p-6 sm:p-8 lg:col-span-3">
+            <div className="rounded-2xl border border-[#e5ded4] bg-[#f8f7f5] p-5 sm:p-8 lg:col-span-3">
               <div className="mb-6 flex items-center gap-3">
                 <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-[#0a2fad]">
                   <span className="material-symbols-outlined text-xl text-white">verified</span>
@@ -1583,7 +1595,7 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
                   </p>
                 </div>
               </div>
-              <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4">
+              <div className="grid grid-cols-1 gap-3 min-[400px]:grid-cols-2 sm:gap-4">
                 {[
                   {
                     name: 'CICC',
@@ -1629,7 +1641,7 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
                       </span>
                     </div>
                     <p
-                      className="text-xs leading-snug text-[#3d3530] sm:text-sm"
+                      className="text-xs leading-snug text-[#3d3530]"
                       style={{ fontWeight: 500 }}
                     >
                       {resource.desc}
@@ -1646,7 +1658,7 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
             </div>
 
             {/* Report a Threat , spans 2 cols */}
-            <div className="relative flex flex-col overflow-hidden rounded-2xl bg-[#1a1816] p-6 text-white sm:p-8 lg:col-span-2">
+            <div className="relative flex flex-col overflow-hidden rounded-2xl bg-[#1a1816] p-5 text-white sm:p-8 lg:col-span-2">
               <div className="absolute top-0 right-0 h-40 w-40 translate-x-1/2 -translate-y-1/2 rounded-full bg-red-600/10" />
               <div className="absolute bottom-0 left-0 h-32 w-32 -translate-x-1/2 translate-y-1/2 rounded-full bg-red-600/10" />
 

@@ -563,7 +563,7 @@ useEffect(() => {
                     {lang === 'fil' ? 'Trend ng mga Kaso sa Pilipinas' : lang === 'ceb' ? 'Mga Kaso sa Cybercrime (PH)' : 'Reported Cybercrime Cases (PH)'}
                   </h3>
                   <p className="text-[11px] text-[#5c544d]" style={{ fontWeight: 500 }}>
-                    Source: PNP-ACG (2023, 2025) and CICC (2024)
+                    Source: Cybercrime Investigation and Coordinating Center (CICC), 2023–2025 reports
                   </p>
                 </div>
               </div>

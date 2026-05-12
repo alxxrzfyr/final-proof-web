@@ -35,23 +35,28 @@ export const threatStats = [
 export const pieData = [
   {
     name: 'Consumer fraud',
-    value: 6453,
+    value: 35,
     color: '#dc2626',
   },
   {
     name: 'Online fraud',
-    value: 4243,
+    value: 23,
     color: '#0a2fad',
   },
   {
     name: 'Online harassment',
-    value: 2160,
+    value: 11,
     color: '#f59e0b',
   },
   {
     name: 'Identity theft',
-    value: 1626,
+    value: 9,
     color: '#6b7280',
+  },
+  {
+    name: 'Other cybercrimes',
+    value: 22,
+    color: '#9ca3af',
   },
 ];
 

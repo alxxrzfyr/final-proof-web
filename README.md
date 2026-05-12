@@ -153,7 +153,7 @@ run();
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │           GitHub Actions Cron — Triggers Every 12 Hours          │
-│                    (or manually via workflow_dispatch)            │
+│                    (or manually via workflow_dispatch)           │
 └───────────────────────────────┬──────────────────────────────────┘
                                 │
                                 ▼
@@ -187,7 +187,7 @@ run();
                                 │
                                 ▼
          ┌──────────────────────────────────────────┐
-         │         Vercel Deployment via API         │
+         │         Vercel Deployment via API        │
          │                                          │
          │  Uses VERCEL_TOKEN secret stored in      │
          │  GitHub Actions to authenticate and      │
@@ -232,8 +232,7 @@ run();
 ```
 PROOF-WEBSITE/
 ├── .github/
-│   └── workflows/
-│       ├── deploy.yml           # Builds Vite bundle and deploys to Vercel via API token
+│   └── workflows/               # Builds Vite bundle and deploys to Vercel via API token
 │       └── fetch-alerts.yml     # Cron: pulls latest scam news every 12 hours
 ├── guidelines/                  # Project guidelines and internal documentation
 ├── rss feed/                    # Static data storage (treated as Vite public dir)

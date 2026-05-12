@@ -198,7 +198,7 @@ run();
          └──────────────────────────────────────────┘
                                 │
                                 ▼
-              ✅ Live at https://proof-web.vercel.app
+              ✅ Live at https://proofph.vercel.app
 ```
 
 > **Why Vercel?** Vercel provides instant global CDN distribution, automatic HTTPS, zero-config deployment, and significantly faster cold-start times compared to GitHub Pages. The `VERCEL_TOKEN` secret stored in GitHub Actions is the only credential needed to authenticate and trigger deployments programmatically on every push.

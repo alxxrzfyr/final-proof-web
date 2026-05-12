@@ -1186,16 +1186,17 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
       </div>
     ))}
   </div>
-</div>          </div>
+</div>          
+      </div>
       </section>
 
 {/* How to detect? */}
-      <section id="how-to-detect" className="border-t border-[#e5ded4] bg-white scroll-mt-28">
+<section id="how-to-detect" className="border-t border-[#e5ded4] bg-white scroll-mt-28">
         <div className="mx-auto max-w-[1400px] px-5 py-12 sm:px-8 sm:py-16 md:px-12 lg:px-16">
 
           <h2
             className="tracking-tight text-[#0a2fad] uppercase"
-            style={{ fontWeight: 900, fontSize: 'clamp(1.5rem, 3vw, 2.5rem)' }}
+            style={{ fontWeight: 900, fontSize: 'clamp(1.75rem, 3.5vw, 3rem)' }}
           >
             {lang === 'fil'
               ? 'Paano Matukoy ang Scam?'
@@ -1203,13 +1204,12 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
                 ? 'Unsaon Pagkita sa Scam?'
                 : 'How to Detect a Scam?'}
           </h2>
-          <div className="mt-4 mb-10 h-1.5 w-16 rounded-full bg-[#0a2fad]" />
 
           {/* Timeline */}
-          <div className="relative mx-auto max-w-4xl">
+          <div className="relative mx-auto mt-10 max-w-4xl">
             <div className="absolute left-1/2 top-0 h-full w-0.5 -translate-x-1/2 bg-[#e5ded4] hidden md:block" />
 
-            <div className="flex flex-col gap-6 md:gap-5">
+            <div className="flex flex-col gap-6 md:gap-8">
               {[
                 {
                   number: '01',
@@ -1268,44 +1268,58 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
                 return (
                   <div key={i} className="relative flex items-center">
 
-                    {/* Mobile layout */}
+                    {/* ── Mobile layout ── */}
                     <div className="flex items-start gap-4 md:hidden w-full">
                       <div
-                        className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#0a2fad] text-white shadow-md"
-                        style={{ fontWeight: 900, fontSize: '0.75rem' }}
+                        className="flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-[#0a2fad] text-white shadow-md"
+                        style={{ fontWeight: 900, fontSize: '0.85rem' }}
                       >
                         {tip.number}
                       </div>
-                      <div className="flex-1 rounded-2xl border border-[#e5ded4] bg-[#f8f7f5] p-4 shadow-sm">
-                        <p className="text-sm text-[#1a1816] sm:text-base" style={{ fontWeight: 800 }}>
+                      <div className="flex-1 min-w-0 rounded-2xl border border-[#e5ded4] bg-[#f8f7f5] p-5 shadow-sm">
+                        <p
+                          className="w-full text-center text-base leading-snug text-[#1a1816] sm:text-lg"
+                          style={{ fontWeight: 800 }}
+                        >
                           {tip.title}
                         </p>
-                        <ul className="mt-2 flex flex-col gap-1.5">
+                        <ul className="mt-3 flex flex-col gap-2">
                           {tip.subs.map((sub, j) => (
-                            <li key={j} className="flex items-start gap-2 text-xs text-[#3d3530] sm:text-sm" style={{ fontWeight: 500 }}>
-                              <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-[#0a2fad]" />
-                              {sub}
+                            <li
+                              key={j}
+                              className="flex items-start gap-2"
+                              style={{ fontWeight: 500 }}
+                            >
+                              <span className="mt-[6px] h-2 w-2 shrink-0 rounded-full bg-[#0a2fad]" />
+                              <span className="min-w-0 break-words text-sm leading-relaxed text-[#3d3530] sm:text-base" style={{ textAlign: 'justify' }}>{sub}</span>
                             </li>
                           ))}
                         </ul>
                       </div>
                     </div>
 
-                    {/* Desktop layout */}
+                    {/* ── Desktop layout ── */}
                     <div className="hidden md:flex w-full items-center">
 
                       {/* Left side */}
                       <div className="w-[44%] flex justify-end pr-6">
                         {isLeft ? (
-                          <div className="group w-full rounded-2xl border border-[#e5ded4] bg-[#f8f7f5] p-5 text-right shadow-sm transition-all duration-300 hover:border-[#0a2fad]/30 hover:shadow-lg hover:-translate-y-1">
-                            <p className="text-centertext-sm text-[#1a1816] lg:text-base" style={{ fontWeight: 800 }}>
+                          <div className="group w-full min-w-0 rounded-2xl border border-[#e5ded4] bg-[#f8f7f5] p-6 shadow-sm transition-all duration-300 hover:border-[#0a2fad]/30 hover:shadow-xl hover:-translate-y-1">
+                            <p
+                              className="w-full text-center text-base leading-snug text-[#1a1816] lg:text-lg"
+                              style={{ fontWeight: 800 }}
+                            >
                               {tip.title}
                             </p>
-                            <ul className="mt-2 flex flex-col gap-1.5">
+                            <ul className="mt-3 flex flex-col gap-2">
                               {tip.subs.map((sub, j) => (
-                                <li key={j} className="flex items-start justify-end gap-2 text-xs text-[#3d3530] lg:text-sm" style={{ fontWeight: 500 }}>
-                                  {sub}
-                                  <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-[#0a2fad]" />
+                                <li
+                                  key={j}
+                                  className="flex min-w-0 items-start justify-end gap-2 text-sm leading-relaxed text-[#3d3530] lg:text-base"
+                                  style={{ fontWeight: 500 }}
+                                >
+                                  <span className="min-w-0 break-words" style={{ textAlign: 'justify' }}>{sub}</span>
+                                  <span className="mt-[6px] h-2 w-2 shrink-0 rounded-full bg-[#0a2fad]" />
                                 </li>
                               ))}
                             </ul>
@@ -1318,8 +1332,8 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
                       {/* Center circle */}
                       <div className="w-[12%] flex justify-center">
                         <div
-                          className="relative z-10 flex h-12 w-12 shrink-0 items-center justify-center rounded-full bg-[#0a2fad] text-white shadow-lg ring-4 ring-white"
-                          style={{ fontWeight: 900, fontSize: '0.8rem' }}
+                          className="relative z-10 flex h-14 w-14 shrink-0 items-center justify-center rounded-full bg-[#0a2fad] text-white shadow-lg ring-4 ring-white"
+                          style={{ fontWeight: 900, fontSize: '0.9rem' }}
                         >
                           {tip.number}
                         </div>
@@ -1328,15 +1342,22 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
                       {/* Right side */}
                       <div className="w-[44%] flex justify-start pl-6">
                         {!isLeft ? (
-                          <div className="group w-full rounded-2xl border border-[#e5ded4] bg-[#f8f7f5] p-5 text-left shadow-sm transition-all duration-300 hover:border-[#0a2fad]/30 hover:shadow-lg hover:-translate-y-1">
-                            <p className="text-center text-sm text-[#1a1816] lg:text-base" style={{ fontWeight: 800 }}>
+                          <div className="group w-full min-w-0 rounded-2xl border border-[#e5ded4] bg-[#f8f7f5] p-6 shadow-sm transition-all duration-300 hover:border-[#0a2fad]/30 hover:shadow-xl hover:-translate-y-1">
+                            <p
+                              className="w-full text-center text-base leading-snug text-[#1a1816] lg:text-lg"
+                              style={{ fontWeight: 800 }}
+                            >
                               {tip.title}
                             </p>
-                            <ul className="mt-2 flex flex-col gap-1.5">
+                            <ul className="mt-3 flex flex-col gap-2">
                               {tip.subs.map((sub, j) => (
-                                <li key={j} className="flex items-start gap-2 text-xs text-[#3d3530] lg:text-sm" style={{ fontWeight: 500 }}>
-                                  <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-[#0a2fad]" />
-                                  {sub}
+                                <li
+                                  key={j}
+                                  className="flex min-w-0 items-start gap-2 text-sm leading-relaxed text-[#3d3530] lg:text-base"
+                                  style={{ fontWeight: 500 }}
+                                >
+                                  <span className="mt-[6px] h-2 w-2 shrink-0 rounded-full bg-[#0a2fad]" />
+                                  <span className="min-w-0 break-words" style={{ textAlign: 'justify' }}>{sub}</span>
                                 </li>
                               ))}
                             </ul>
@@ -1354,7 +1375,7 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
           </div>
         </div>
       </section>
-
+      
       {/* Scam Categories */}
       <section id="common-types" className="border-t border-[#e5ded4] bg-[#f8f7f5] scroll-mt-28">
         <div className="mx-auto max-w-[1400px] px-5 py-12 sm:px-8 sm:py-16 md:px-12 lg:px-16">

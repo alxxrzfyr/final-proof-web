@@ -317,7 +317,7 @@ export const scamTypes: ScamType[] = [
           body: 'CONGRATULATIONS PO! Ikaw ang aming napili bilang isa sa 100 LUCKY WINNERS ng GCash Anniversary Promo! 🎊\n\nPremyo: ₱8,000 GCash Credits\n\nI-claim sa link na ito: <span class="underline text-blue-600">gcash-anniversary-ph/claim</span>\n\nValid hanggang 11:59 PM ngayong gabi lamang!',
           annotations: [
             'GCash does not announce winners through Viber or WhatsApp groups',
-            'Fake domain: gcash-anniversary-promo.ph (real domain is gcash.com)',
+            'Fake domain: gcash-anniversary-ph/claim (real domain is gcash.com)',
             'Extreme deadline: "tonight only"',
           ],
           callout:
@@ -523,11 +523,11 @@ export const quizScenarios: QuizScenario[] = [
     medium: 'Email',
     isScam: true,
     sender: 'GCash Rewards Program',
-    senderDetail: 'gcashrewards@gcash-winners.ph',
+    senderDetail: 'gcashrewards@gcash-winners.com',
     subject: "\ud83c\udf89 Congratulations! You've been selected as a GCash Lucky Winner!",
     body: 'Dear GCash User,\n\nYou have been randomly selected as one of 10 LUCKY WINNERS in our monthly rewards draw!\n\nYour prize: \u20b110,000 GCash Credit\n\nTo claim your prize, reply to this email with your:\n\u2022 Full Name\n\u2022 GCash Mobile Number\n\u2022 GCash MPIN\n\u2022 Birthday\n\nOffer expires in 48 hours.',
     redFlags: [
-      "Sender domain is 'gcash-winners.ph' not gcash.com",
+      "Sender domain is 'gcash-winners.com' not gcash.com",
       'Asks for MPIN GCash will NEVER ask for this',
       'Collects personal info via email',
       '48-hour expiry creates false urgency',
@@ -656,7 +656,7 @@ export const quizScenarios: QuizScenario[] = [
     medium: 'Social Media',
     isScam: false,
     sender: 'Facebook',
-    senderDetail: 'support.facebook.com',
+    senderDetail: 'security@facebookmail.com',
     subject: 'We noticed a new login to your Facebook account',
     body: "Hi Maria Santos,\n\nWe noticed a new login to your Facebook account from a new device.\n\nDevice: iPhone 14\nLocation: Quezon City, Philippines\nTime: April 3, 2026 3:41 PM\n\nIf this was you, no action is needed.\n\nIf this wasn't you, secure your account at facebook.com/hacked",
     redFlags: [],
@@ -870,19 +870,19 @@ export const quizScenarios: QuizScenario[] = [
     medium: 'Email',
     isScam: true,
     sender: 'BDO Unibank',
-    senderDetail: 'security@bd0.com.ph',
+    senderDetail: 'security@bd0.com',           
     subject: 'Security Notice: Unusual login detected on your BDO account',
-    body: 'Dear Valued Customer,\n\nWe detected a login attempt from an unrecognized device:\n\nDevice: Windows PC\nLocation: Cebu City, Philippines\nTime: April 3, 2026 11:47 PM\n\nIf this was not you, please secure your account immediately by verifying your identity through our official portal.',
+    body: '...',
     cta: 'SECURE MY ACCOUNT',
     footer: 'BDO Unibank 24/7 Customer Security Team',
     redFlags: [
-      "The sender domain uses a zero ('0') instead of the letter 'O' (bd0.com.ph)",
+      "The sender domain uses a zero ('0') instead of the letter 'O' (bd0.com)",
       'CTA goes to a cloned BDO login page',
       'Creates urgency by claiming an unrecognized login',
     ],
     clue: "Look extremely closely at the sender's email address. Does it spell 'bdo' correctly?",
     explanation:
-      "This uses a typosquatting attack. The sender replaced the letter 'O' with the number '0' (bd0.com.ph). Real BDO emails always use the exact domain bdo.com.ph.",
+      "This uses a typosquatting attack. The sender replaced the letter 'O' with the number '0' (bd0.com). Real BDO emails always use the exact domain bdo.com.ph — and scammers cannot register .com.ph domains due to dotPH's strict local verification requirements.", // ← updated
   },
 ];
 

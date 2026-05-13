@@ -5,8 +5,8 @@ import {
   Pie,
   Cell,
   ResponsiveContainer,
-  LineChart,
-  Line,
+  AreaChart,
+  Area,
   XAxis,
   YAxis,
   CartesianGrid,
@@ -731,6 +731,7 @@ export function HeroSection({ lang, onNavigate }: Props) {
 
             {/* Line Chart */}
             <div className="overflow-hidden rounded-2xl border border-[#e5ded4] bg-white shadow-sm">
+              {/* Card header */}
               <div className="border-b border-[#e5ded4] px-6 py-5">
                 <div className="flex items-center gap-3">
                   <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-red-600">
@@ -754,14 +755,58 @@ export function HeroSection({ lang, onNavigate }: Props) {
                 </div>
               </div>
 
+              {/* Always-visible stats strip — no tap required */}
+              <div className="grid grid-cols-3 divide-x divide-[#e5ded4] border-b border-[#e5ded4] bg-[#fdf9f6]">
+                {[
+                  {
+                    label: lang === 'fil' ? 'Pinakabago' : lang === 'ceb' ? 'Bag-o' : 'Latest',
+                    value: lineData[lineData.length - 1]?.cases?.toLocaleString(),
+                    sub: String(lineData[lineData.length - 1]?.year),
+                    color: '#141211',
+                  },
+                  {
+                    label: lang === 'fil' ? 'Pinakamataas' : lang === 'ceb' ? 'Pinakataas' : 'Peak',
+                    value: Math.max(...lineData.map((d: { cases: number }) => d.cases))?.toLocaleString(),
+                    sub: String(lineData.reduce((a: { cases: number; year: number }, b: { cases: number; year: number }) => (a.cases > b.cases ? a : b))?.year),
+                    color: '#141211',
+                  },
+                  {
+                    label: lang === 'fil' ? 'Kabuuan' : lang === 'ceb' ? 'Total' : 'Total',
+                    value: lineData.reduce((s: number, d: { cases: number }) => s + d.cases, 0)?.toLocaleString(),
+                    sub: lang === 'fil' ? 'lahat' : lang === 'ceb' ? 'tanan' : 'all years',
+                    color: '#141211',
+                  },
+                ].map((stat, i) => (
+                  <div key={i} className="flex flex-col items-center justify-center px-2 py-3 text-center sm:px-4">
+                    <p className="text-[9px] uppercase tracking-widest text-[#7a6f68] sm:text-[10px]" style={{ fontWeight: 800 }}>
+                      {stat.label}
+                    </p>
+                    <p className="mt-0.5 text-base leading-none sm:text-lg" style={{ fontWeight: 900, color: stat.color }}>
+                      {stat.value}
+                    </p>
+                    <p className="mt-0.5 text-[9px] text-[#7a6f68] sm:text-[10px]" style={{ fontWeight: 700 }}>
+                      {stat.sub}
+                    </p>
+                  </div>
+                ))}
+              </div>
+
+              {/* Chart */}
               <div className="p-5 sm:p-6">
                 <div className="w-full" style={{ height: 300 }}>
                   <ResponsiveContainer width="100%" height="100%">
-                    <LineChart data={lineData} margin={{ top: 5, right: 15, left: -5, bottom: 5 }}>
+                    <AreaChart data={lineData} margin={{ top: 30, right: 20, left: -10, bottom: 5 }}>
+                      <defs>
+                        <linearGradient id="casesGradient" x1="0" y1="0" x2="0" y2="1">
+                          <stop offset="5%" stopColor="#dc2626" stopOpacity={0.18} />
+                          <stop offset="95%" stopColor="#dc2626" stopOpacity={0.02} />
+                        </linearGradient>
+                      </defs>
                       <CartesianGrid strokeDasharray="3 3" stroke="#e5ded4" />
                       <XAxis dataKey="year" tick={{ fill: '#3d3530', fontWeight: 700, fontSize: 13 }} />
                       <YAxis
-                        tick={{ fill: '#3d3530', fontWeight: 600, fontSize: 11 }}
+
+                        tick={{ fill: '#3d3530', fontWeight: 600, fontSize: 14, dx: -15}}
                         tickFormatter={(v) => `${(v / 1000).toFixed(0)}k`}
                       />
                       <Tooltip
@@ -774,16 +819,33 @@ export function HeroSection({ lang, onNavigate }: Props) {
                         }}
                         formatter={(value: number) => [`${value.toLocaleString()} cases`, '']}
                       />
-                      <Line
+                      <Area
                         type="monotone"
                         dataKey="cases"
                         stroke="#dc2626"
                         strokeWidth={3}
-                        dot={{ fill: '#dc2626', r: 5, strokeWidth: 0 }}
+                        fill="url(#casesGradient)"
+                        dot={{ fill: '#dc2626', r: 5, strokeWidth: 2, stroke: '#fff' }}
                         activeDot={{ r: 7, strokeWidth: 0 }}
                         name="Cybercrime Cases"
+                        label={({ x, y, value }: { x: number; y: number; value: number }) => (
+                          <g>
+                            <rect x={x - 19} y={y - 26} width={38} height={17} rx={4} fill="#dc2626" opacity={0.92} />
+                            <text
+                              x={x}
+                              y={y - 17}
+                              fill="white"
+                              fontSize={9.5}
+                              fontWeight={800}
+                              textAnchor="middle"
+                              dominantBaseline="central"
+                            >
+                              {value >= 1000 ? `${(value / 1000).toFixed(1)}k` : value}
+                            </text>
+                          </g>
+                        )}
                       />
-                    </LineChart>
+                    </AreaChart>
                   </ResponsiveContainer>
                 </div>
               </div>

@@ -94,12 +94,30 @@ export function EmailMockup({ from, brand, subject, body, cta, isSuspicious }: E
   return (
     <div className="flex w-full flex-1 flex-col overflow-hidden rounded-xl border border-[#c9d1d8] bg-white shadow-lg">
       {/* Gmail-style toolbar */}
-      <div className="flex items-center gap-3 border-b border-gray-200 bg-[#f6f8fc] px-3 py-2.5">
-        <span className="material-symbols-outlined text-xl text-gray-700">arrow_back</span>
-        <span className="material-symbols-outlined text-xl text-gray-700">archive</span>
-        <span className="material-symbols-outlined text-xl text-gray-700">delete</span>
-        <span className="material-symbols-outlined text-xl text-red-600">report</span>
-        <span className="ml-auto text-xs text-gray-700" style={{ fontWeight: 600 }}>1 of 4,287</span>
+      <div className="flex items-center border-b border-gray-200 bg-[#f6f8fc] px-1 py-1.5">
+        <button className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-gray-200">
+          <span className="material-symbols-outlined text-[22px] text-gray-600">arrow_back</span>
+        </button>
+        <button className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-gray-200">
+          <span className="material-symbols-outlined text-[22px] text-gray-600">archive</span>
+        </button>
+        <button className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-gray-200">
+          <span className="material-symbols-outlined text-[22px] text-gray-600">report</span>
+        </button>
+        <button className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-gray-200">
+          <span className="material-symbols-outlined text-[22px] text-gray-600">delete</span>
+        </button>
+        <div className="mx-0.5 h-5 w-px bg-gray-300" />
+        <button className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-gray-200">
+          <span className="material-symbols-outlined text-[22px] text-gray-600">mark_email_unread</span>
+        </button>
+        <button className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-gray-200">
+          <span className="material-symbols-outlined text-[22px] text-gray-600">drive_file_move</span>
+        </button>
+        <button className="flex h-9 w-9 items-center justify-center rounded-full hover:bg-gray-200">
+          <span className="material-symbols-outlined text-[22px] text-gray-600">more_vert</span>
+        </button>
+        <span className="ml-auto pr-2 text-xs text-gray-500" style={{ fontWeight: 500 }}>1 of 4,287</span>
       </div>
 
       {/* Subject */}
@@ -125,8 +143,9 @@ export function EmailMockup({ from, brand, subject, body, cta, isSuspicious }: E
           <div className="flex items-center gap-2">
             <p className="text-base text-[#1a1816]" style={{ fontWeight: 700 }}>{senderName}</p>
           </div>
-          <p className="truncate font-mono text-sm text-red-700 underline decoration-wavy decoration-1" style={{ fontWeight: 600 }}>
-            &lt;{from}&gt;
+          <p className="truncate text-sm" style={{ fontWeight: 600 }}>
+            <span className="text-[#4b5563]">from: </span>
+            <span className="text-[#1a1816]">&lt;{from}&gt;</span>
           </p>
           <p className="text-sm text-[#4b5563]" style={{ fontWeight: 600 }}>to me - 10:42 AM (2 minutes ago)</p>
         </div>
@@ -163,10 +182,12 @@ export function EmailMockup({ from, brand, subject, body, cta, isSuspicious }: E
 
       {/* Footer actions */}
       <div className="flex gap-2 border-t border-gray-200 bg-gray-50 px-4 py-3">
-        <button className="rounded-full border border-gray-400 bg-white px-4 py-2 text-sm text-gray-800" style={{ fontWeight: 600 }}>
+        <button className="flex items-center gap-1.5 rounded-full border border-gray-300 bg-white px-4 py-2 text-sm text-gray-700 hover:bg-gray-50" style={{ fontWeight: 500 }}>
+          <span className="material-symbols-outlined text-[18px] text-gray-600">reply</span>
           Reply
         </button>
-        <button className="rounded-full border border-gray-400 bg-white px-4 py-2 text-sm text-gray-800" style={{ fontWeight: 600 }}>
+        <button className="flex items-center gap-1.5 rounded-full border border-gray-300 bg-white px-4 py-2 text-sm text-gray-700 hover:bg-gray-50" style={{ fontWeight: 500 }}>
+          <span className="material-symbols-outlined text-[18px] text-gray-600">forward</span>
           Forward
         </button>
       </div>

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-12T09:27:39.908Z",
+  "fetchedAt": "2026-05-13T03:30:11.137Z",
   "alerts": [
     {
       "id": "alert-local-1778578058686-oljyz",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1778643009628-qudjhl",
+      "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUpEZnZQS2ZtWGFqa1I1Z0hoR0I0YUdHZXZsZFR5c2ZUM3ZZN3JJSkJIZmxwdGs0anNxMHE1Y3RlbDZONkRZd2o4S3RlZmNOWmkxREQ0OVVBekJuMURQbHRUQjVPaklXY0RrMU9admZrRHh0M2NXamFuZmlUWWhQYW52ZEM0cm14V3pXcA?oc=5",
+      "source": "WIRED",
+      "sourceLabel": "WIRED",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 12, 2026",
+      "rawDate": "2026-05-12T21:52:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1778578058339-pwqbd",
       "title": "Can you move your pension to dodge inheritance tax? Fraudsters say so",
       "url": "https://www.theguardian.com/money/2026/may/10/pension-scams-inheritance-tax-loopholes-iht-rules-savings",
@@ -321,20 +335,6 @@
       "date": "April 22, 2026",
       "rawDate": "2026-04-22T10:01:34.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1778325383888-6wv74c",
-      "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96amZLemxJZ2hIbkYzOGlpamZJRXlKZzZpMlh6RnVDYUFiOTZQODlNZzlSNTNNNm5EUzdJTnZyYlFwY19vRENybkI3dFQ3VGREWktKZVlHRjcybkQ5M1FiRjVDTndkX0pTWkVnWFNGbE0zc1Q2UFE?oc=5",
-      "source": "WIRED",
-      "sourceLabel": "WIRED",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "April 22, 2026",
-      "rawDate": "2026-04-22T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
       "scope": "international"
     }
   ]

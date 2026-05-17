@@ -105,6 +105,13 @@ export function HeroSection({ lang, onNavigate }: Props) {
   const [currentBg, setCurrentBg] = useState(0);
   const [activeSub, setActiveSub] = useState<string>('hero');
 
+  const [isMobile, setIsMobile] = useState(() => window.innerWidth < 640);
+  useEffect(() => {
+    const onResize = () => setIsMobile(window.innerWidth < 640);
+    window.addEventListener('resize', onResize);
+    return () => window.removeEventListener('resize', onResize);
+  }, []);
+
   useEffect(() => {
     const sectionIds = ['what-is-proof', 'online-scams', 'vulnerable-sector', 'why-this-matters'];
 
@@ -691,24 +698,30 @@ export function HeroSection({ lang, onNavigate }: Props) {
                 </div>
               </div>
 
-              <div className="p-5 sm:p-6">
-                <div className="w-full" style={{ height: 340 }}>
+              <div className="p-3 sm:p-6">
+                <div className="w-full" style={{ height: isMobile ? 220 : 340 }}>
                   <ResponsiveContainer width="100%" height="100%">
-                    <PieChart margin={{ top: 20, right: 50, bottom: 20, left: 50 }}> 
+                    <PieChart
+                      margin={
+                        isMobile
+                          ? { top: 8, right: 8, bottom: 8, left: 8 }
+                          : { top: 20, right: 50, bottom: 20, left: 50 }
+                      }
+                    >
                       <Pie
                         data={pieData}
                         dataKey="value"
                         nameKey="name"
                         cx="50%"
                         cy="50%"
-                        outerRadius={90}
+                        outerRadius={isMobile ? 78 : 90}
                         innerRadius={0}
                         paddingAngle={2}
                         labelLine={false}
-                        label={renderCustomLabel}
-                        startAngle={200}   // 👈 add this
-                        endAngle={-160}    // 👈 add this
-                      >    
+                        label={isMobile ? false : renderCustomLabel}
+                        startAngle={200}
+                        endAngle={-160}
+                      >
                         {pieData.map((entry, idx) => (
                           <Cell key={`pie-cell-${idx}`} fill={entry.color} stroke="#fff" strokeWidth={2} />
                         ))}
@@ -726,6 +739,27 @@ export function HeroSection({ lang, onNavigate }: Props) {
                     </PieChart>
                   </ResponsiveContainer>
                 </div>
+
+                {/* Mobile-only legend — replaces overflowing SVG labels */}
+                {isMobile && (
+                  <div className="mt-4 grid grid-cols-2 gap-x-3 gap-y-2 px-1">
+                    {pieData.map((entry) => (
+                      <div key={entry.name} className="flex items-start gap-1.5">
+                        <span
+                          className="mt-0.5 h-3 w-3 shrink-0 rounded-full"
+                          style={{ backgroundColor: entry.color }}
+                        />
+                        <span
+                          className="min-w-0 text-[11px] leading-snug text-[#1a1816]"
+                          style={{ fontWeight: 700 }}
+                        >
+                          {entry.name}{' '}
+                          <span style={{ color: '#534d47', fontWeight: 600 }}>{entry.value}%</span>
+                        </span>
+                      </div>
+                    ))}
+                  </div>
+                )}
               </div>
             </div>
 

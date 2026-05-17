@@ -676,18 +676,21 @@ function ScamExampleCard({ tab, index }: { tab: any; index: number }) {
   return (
     <div className="flex flex-col overflow-hidden rounded-2xl border border-[#cfc7bd] bg-white shadow-[0_10px_24px_rgba(26,24,22,0.08)]">
       {/* Card Header */}
-      <div className="flex flex-wrap items-center gap-2 bg-[#1a1816] px-4 py-3 sm:gap-3 sm:px-5 sm:py-4">
+      <div className="flex flex-wrap items-center gap-1.5 bg-[#1a1816] px-3 py-2.5 sm:gap-3 sm:px-5 sm:py-4">
         <span
-          className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-white/20 text-xs text-white"
+          className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-white/20 text-[10px] text-white sm:h-7 sm:w-7 sm:text-xs"
           style={{ fontWeight: 800 }}
         >
           {index + 1}
         </span>
-        <span className="min-w-0 flex-1 break-words text-sm leading-snug text-white sm:text-base" style={{ fontWeight: 700 }}>
+        <span
+          className="min-w-0 flex-1 break-words text-xs leading-snug text-white sm:text-sm"
+          style={{ fontWeight: 700 }}
+        >
           {tab.label}
         </span>
         <span
-          className="shrink-0 rounded-full bg-white/15 px-2 py-0.5 text-[9px] tracking-widest text-white uppercase sm:px-3 sm:py-1 sm:text-[10px]"
+          className="shrink-0 rounded-full bg-white/15 px-1.5 py-0.5 text-[8px] tracking-widest text-white uppercase sm:px-3 sm:py-1 sm:text-[10px]"
           style={{ fontWeight: 700 }}
         >
           EXAMPLE

@@ -1,6 +1,62 @@
 {
-  "fetchedAt": "2026-05-13T14:35:48.211Z",
+  "fetchedAt": "2026-05-18T03:43:19.714Z",
   "alerts": [
+    {
+      "id": "alert-local-1779075798310-bi7vt7",
+      "title": "Mayor Vico warns public over crypto scam",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Yd2JNODJ5LVAtcXZvSThRZF9NWkpHOWNCX3RBTDZaMjVjU1pudEdCSm5uNTV0QU5ldlUwVHh5MUROSm5HUE5yNGhpdC1OUmpNZ0Q4U3VHNUlwZldrMnJqbXJRaGZOdGxvUmJNSGhTbVFXOFRPc3Brcg?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 17, 2026",
+      "rawDate": "2026-05-17T10:01:23.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1779075798310-n0vb99",
+      "title": "Online Selling Scam Legal Remedies in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMlVMdF8wcl9fU3FJSmt4WVVlMHMtRjVZVHVDMzdHVHE0cG5tTUpETXhvdEZQbjBlcmQ1ZnZwcUthMGVWb050ZjBJQlhlV25BUTVYTmRmaWg1TDMzaXhwXzNrOWp4TFFrN0wzaFlpb0J0RFJjbkdWUWU0NEFpbkQ2dEMzalFleHJmLTBhVDdYZHRNaEdP?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 15, 2026",
+      "rawDate": "2026-05-15T15:43:44.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1779075798314-npvn8k",
+      "title": "Social Media Impersonation and Scam Messages Under Philippine Cybercrime Law",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRGk1OXc5N05pUjlxNWNNODAzUDRuWjZVeVFZU0JRRExpbGxLZFNPQTdlS25CUjVfdTNQMGJRenRyLWJLTTVjNW96X295UGNEa0tCM1JMdzhxY0o2ZkxwQ2dLV1U5NDJKUi1zel9xOTZ1WTY3QmFoZFI1cm8zTjRHeEhIX1F6N19FNGFPZDhBQmd1ck9SN0dlVFFWaERFOEtvZTE3dF9tVy0wSzA1d1BOWWdxYw?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 15, 2026",
+      "rawDate": "2026-05-15T14:20:03.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1779075798314-a2eqdq",
+      "title": "Facebook Account Recovery After Scam Impersonation in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNXpyNlkwUDRKQkxQdWxJVi1QNUFxTUdTcVlYSVQ4Q29peFFMU2p0UmpPaWJKbzVMTFY0VHQ4cEptek5sSWM4WGhiYjk5T0M0S1ZSaThnbU9ITEtOT1FEdWtYS1gtTHQwb2xicC12djdiY21YSm5RYjdZSHBRb1Y3S2hMbkVlTFZ0NzZxcWxzUlJaV0VRUHl3NmJfUHIxM0xYcGxYNzZuSFdjUQ?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 14, 2026",
+      "rawDate": "2026-05-14T09:56:15.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1778682948209-2zoxug",
       "title": "First AI-developed ‘zero-day’ exploit discovered as AI threats become top concern",
@@ -16,6 +72,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1779075798311-deeh4",
+      "title": "NBI arrests 15 in Mandaluyong crypto scam operation",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczhVU3o1T1JXUTBfNldLNzZSQ3NaVGpOVzV0VFVVMmR2MEctYmF6b3hCS0ZnN3IzNVdxYk00a0gxNjNFeWVpdlR3TzJ1bkhUX0JQMEZxcWRqZndMSV9tUU9YbUpoQUNYU25Ub1NyQ216bXlfRkdNUVZRUUlWVFNLNEIzOHBTcE41dE0wcA?oc=5",
+      "source": "Newsbytes.PH",
+      "sourceLabel": "Newsbytes.PH",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 13, 2026",
+      "rawDate": "2026-05-13T09:15:09.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1778682946896-oykan2",
       "title": "New Crypto Scam Alert: Fake “Unauthorized Access” Wallet Notifications Targeting Users",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ONk1FSUZZV2NkcjdRN1EyZGs3aWJ0Y2daQ1VRS1hINy1RaHliX2YyN24yb0hucUlRRWdBOWJSUUlDV202S1NwdmdCYnh1MzZoc0R6S0tFUHFYLUVNQkVPOQ?oc=5",
@@ -27,6 +97,20 @@
       "date": "May 13, 2026",
       "rawDate": "2026-05-13T01:23:59.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/ara.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1779075798314-wzx1wi",
+      "title": "Legal Remedies for Scam Victims in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjlLbmNmQmdxSVBzWTcxNnlHOXV0QWdLT0h1YktieVpEU0tnTnN4OTBKM3ltT21hNjhsaVBxY3hqMGtmUE02MFgtOW9rRTdKNlJxM2RfYjF4VkluZWlqM0VldjFWQTVLVjZsR2NyYWZOakhEUWsyR2FUNjVfdnhBQktQWGpVc0l0bVMtdGY5MThyaTA?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 11, 2026",
+      "rawDate": "2026-05-11T13:45:38.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {
@@ -86,88 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1778578058690-gds11",
-      "title": "How to Report Cybercrime and Online Scams in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb0piRzRhYTFSSW9oZmY0bFBWb0w4VDZPUzhkUVgzSjZxa2hnRlR1TUowMUl0TnlzUUE1eFRBRHZfLW9pbm9KWktUUXdBcUswdVYyc1VPSGVrNTc1YmVsaklFb2N3bXFHVm1ocl9JX1VGWEs1QnFoWnJiQk5FV2F6Q2VCSjFMazd1MU9ZUUJJUF9zOVNsNnRYckxGY0J0V1pL?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "id": "alert-international-1779075798218-7l6hch",
+      "title": "From phishing to porn star impersonators: how scamming athletes became a billion-dollar industry",
+      "url": "https://www.theguardian.com/sport/2026/may/15/sports-athletes-scams-cybercrimes",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "May 9, 2026",
-      "rawDate": "2026-05-09T11:45:47.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1778325383054-3fgto9",
-      "title": "ransomware phishing threats Philippines 2026",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZeFdONmloYTFpU2t6cWx1WWpOektNQ2pZWThHMVVCRnVnMFYzZk9WZUJGcGFrNTZpYjBIdExWWlRUdjlGZEdYMDRTaTNzeFVTRUhzd1lfNlZxanBPMjR0U0NuX1Y5S0hLR3Z2Rjg4ZnJWemtIclJzNlQzbzU5UQ?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 9, 2026",
-      "rawDate": "2026-05-08T20:45:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1778325383060-ryqbmc",
-      "title": "How to Trace a Scamming Group in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmRpV3EzYlRzaHNLX1Ewd3pTY0RpdFFSVXItaE9saUc1OGhZWjk4ZkJjeDdyMTlORWJJYkhzUkVFRzRJLThNelRZajhxY2NkbW5oU1VSQU80czkwNjlHeW5CVnoxaUlEUWRKcURlcmRCc0lZUUYzSXh6QnBTaFBWSXJKaUh4N2V3NFpKMGF3?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 9, 2026",
-      "rawDate": "2026-05-08T16:07:14.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1778325383055-jjy0pc",
-      "title": "Online Selling Scam on Facebook Legal Remedies in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa1FWclk1M1d2OUYzS1dBd1lUU2llcHphdERrQ0h2cGpnRGc0OFBSV3M0OVh3MFl1d3BzQVRseGRLc0ExREdCdHZQVXRkdVBKNXV4anI1bnJhWnhjNThHNGx4OUItZExYbWNObFNfQ21IVDZ3ZGs5R0tXQkN0RndaX05xdk1WaE1OTzBuZkpqcExtb0dLN19STVhjMjI2TzFtVFYxTg?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 9, 2026",
-      "rawDate": "2026-05-08T16:06:35.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1778325383058-5a165d",
-      "title": "How to Verify if an Email Is a Scam or Legally Fraudulent in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0V4cTVFUGk5R3EwYThrOW9vSm8xenhGQVhNeEg5UzducW94MGZEa0dpQlJKOEJtM2Zsb2VBM1JfMmtZUk9fWGxzcUNiZ09ZZmZhM195Z1pHQVJvVDJwblJrNjNyNFNvbXFUNUp0LXRJX2xicHRSb1FWM0tsRG9JY2lJNlZpTnpIRHlHdUZ5Y0ZvRE1jd01SZng0U0t0ZHoweDRwZHRELWVtNUZWdm9JTkE0Yw?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 8, 2026",
-      "rawDate": "2026-05-08T01:34:47.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1778682947169-0lft6a",
-      "title": "QR_CODE_SCAM | Tracking | GMA News Online",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zN2kwVVptX1JSTlRIbmZKZFBPOXFzLTVzSnloOEZwbUdaSDBadkdEaVZrUGNoOHF0NzBFMXFqQVBCRTJ4aUZMd3N6QmdQUTRVVDNKclI4OTREbVhEc2hSVWFvU3Y?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 7, 2026",
-      "rawDate": "2026-05-07T19:23:54.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
+      "date": "May 15, 2026",
+      "rawDate": "2026-05-15T09:00:35.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1778682946469-j8yai9",
@@ -226,7 +240,7 @@
       "scope": "international"
     },
     {
-      "id": "alert-international-1778325383888-go3ins",
+      "id": "alert-international-1779075798781-6n3a4h",
       "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0xFcmVYLTF0WHh2eTJsVlp0SnplSDd5RTZma05tUHdGNFpMOFZRZTIxc1pEOXpMSm9taWR5VnZ2OUh4QjZOZUVJRkVkWEpCaUM1MzNWTEpObXBwYVpvdWpwQlYxLTFnT2kxcEtCVzVJZVFBVTZUQ1g0S2xreXhwVmRR?oc=5",
       "source": "WIRED",
@@ -235,7 +249,7 @@
       "category": "cybercrime",
       "severity": "medium",
       "date": "May 8, 2026",
-      "rawDate": "2026-05-08T05:02:00.000Z",
+      "rawDate": "2026-05-08T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
       "scope": "international"
     },
@@ -321,20 +335,6 @@
       "date": "April 23, 2026",
       "rawDate": "2026-04-23T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1777971617658-nfjiyr",
-      "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/22/british-woman-died-in-ghana-trying-to-recoup-money-from-scammers-inquest-told",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "April 23, 2026",
-      "rawDate": "2026-04-22T16:13:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

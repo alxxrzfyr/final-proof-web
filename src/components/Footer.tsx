@@ -190,7 +190,7 @@ export function Footer({ lang, onNavigate, onOpenTerms }: Props) {
               >
                 References
               </h4>
-              <div className="flex h-24 w-24 items-center justify-center rounded-lg bg-white p-1.5">
+              <div className="flex h-24 w-24 items-center justify-center rounded-[8px] bg-white p-1.5">
                 <QRCodeSVG
                   value="https://proof-app.ph"
                   size={84}

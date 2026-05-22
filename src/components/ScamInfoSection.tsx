@@ -935,6 +935,7 @@ export function ScamInfoSection({ lang, onNavigate }: Props & { onNavigate?: (s:
   const [alerts, setAlerts] = useState<any[]>([]);
   const [alertScope, setAlertScope] = useState<'local' | 'international'>('local');
   const [activeSub, setActiveSub] = useState<string>('what-is-scam');
+  const [isScrolled, setIsScrolled] = useState(false);
 
   useEffect(() => {
     fetch('alerts.json')
@@ -969,6 +970,7 @@ export function ScamInfoSection({ lang, onNavigate }: Props & { onNavigate?: (s:
 
 // Replace the entire handleScroll function body inside the useEffect
 const handleScroll = () => {
+  setIsScrolled(window.scrollY > 120);
   const sectionIds = ['what-is-scam', 'how-to-detect', 'common-types', 'additional-info'];
 
       const alertsEl = document.getElementById('alerts-resources');
@@ -998,75 +1000,76 @@ const handleScroll = () => {
   return (
     <section className="bg-white">
 
-      {/* Sticky Breadcrumb Bar */}
-      <div className="hidden sm:block sticky top-[50px] z-40 bg-[#f4f1ea] border-b border-[#e5ded4] shadow-sm px-3 py-2 sm:px-6 md:px-10 lg:px-16 xl:px-24 sm:top-[70px] xl:top-[74px]">
-        <Breadcrumb>
-          <BreadcrumbList>
-            <BreadcrumbItem>
-              <BreadcrumbLink
-                className="cursor-pointer"
-                onClick={() => onNavigate && onNavigate('home')}
-                style={{ fontWeight: 600 }}
-              >
-                Home
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator />
-            <BreadcrumbItem>
-              <BreadcrumbPage style={{ fontWeight: 700 }}>Scam Info</BreadcrumbPage>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator />
-            <BreadcrumbItem>
-              <BreadcrumbLink
-                href="#what-is-scam"
-                className={activeSub === 'what-is-scam' ? 'text-[#0a2fad] font-bold' : ''}
-              >
-                What is Scam?
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator />
-            <BreadcrumbItem>
-              <BreadcrumbLink
-                href="#how-to-detect"
-                className={activeSub === 'how-to-detect' ? 'text-[#0a2fad] font-bold hidden sm:block' : 'hidden sm:block'}
-              >
-                How to Detect
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator className="hidden sm:block" />
-            <BreadcrumbItem>
-              <BreadcrumbLink
-                href="#common-types"
-                className={activeSub === 'common-types' ? 'text-[#0a2fad] font-bold hidden md:block' : 'hidden md:block'}
-              >
-                Common Types
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator className="hidden md:block" />
-            <BreadcrumbItem>
-              <BreadcrumbLink
-                href="#additional-info"
-                className={activeSub === 'additional-info' ? 'text-[#0a2fad] font-bold hidden lg:block' : 'hidden lg:block'}
-              >
-                Additional Info
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator className="hidden lg:block" />
-            <BreadcrumbItem>
-              <BreadcrumbLink
-                href="#alerts-resources"
-                className={activeSub === 'alerts-resources' ? 'text-[#0a2fad] font-bold hidden xl:block' : 'hidden xl:block'}
-              >
-                Live Alerts & Resources
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-          </BreadcrumbList>
-        </Breadcrumb>
+      {/* ── Floating Island Sub-navigation ── */}
+      <div className={`sticky top-[72px] sm:top-[88px] z-50 flex justify-center w-full px-4 pointer-events-none -mb-16 mt-4 transition-all duration-500 ease-out ${isScrolled ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-8'}`}>
+        <div className={`hidden sm:flex items-center gap-1 p-1 bg-white/85 backdrop-blur-xl border border-black/10 rounded-full shadow-2xl shadow-black/10 transition-all duration-300 ${isScrolled ? 'pointer-events-auto' : 'pointer-events-none'}`}>
+          <div className="flex items-center gap-1.5 pl-4 pr-2 text-[#555] font-bold uppercase tracking-widest text-[10px]">
+            <span className="material-symbols-outlined text-[15px]">explore</span>
+            <span className="hidden md:inline">{lang === 'fil' ? 'Sa Pahinang Ito' : lang === 'ceb' ? 'Niining Panid' : 'On This Page'}</span>
+          </div>
+          <div className="w-[1px] h-4 bg-black/10 mx-1" />
+
+          <a
+            href="#what-is-scam"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all ${
+              activeSub === 'what-is-scam'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            What is Scam?
+          </a>
+
+          <a
+            href="#how-to-detect"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all ${
+              activeSub === 'how-to-detect'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            How to Detect
+          </a>
+
+          <a
+            href="#common-types"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all ${
+              activeSub === 'common-types'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            Common Types
+          </a>
+
+          <a
+            href="#additional-info"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all hidden lg:flex ${
+              activeSub === 'additional-info'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            Additional Info
+          </a>
+
+          <a
+            href="#alerts-resources"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all hidden xl:flex ${
+              activeSub === 'alerts-resources'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            Live Alerts & Resources
+          </a>
+        </div>
       </div>
 
       {/* Page Header */}
       <div id="intro" className="border-b border-[#e5ded4] bg-[#f8f7f5] scroll-mt-28">
-        <div className="mx-auto max-w-[1400px] px-5 py-12 sm:px-8 sm:py-14 md:px-12 md:py-18 lg:px-16">
+
+        <div className="mx-auto max-w-[1400px] px-5 pb-12 pt-16 sm:px-8 sm:pb-14 md:px-12 md:pb-18 lg:px-16">
           <div className="mb-4 flex flex-wrap items-center gap-3">
           </div>
           <h1

@@ -141,6 +141,14 @@ export function AboutSection({ lang }: Props) {
   const [activeSub,  setActiveSub]  = useState<string>('about-intro');
   const [slideIndex, setSlideIndex] = useState(0);
   const [copied, setCopied] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => setIsScrolled(window.scrollY > 120);
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    handleScroll();
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   const handleShare = useCallback(() => {
     navigator.clipboard.writeText('https://proofph.vercel.app').then(() => {
@@ -199,38 +207,54 @@ export function AboutSection({ lang }: Props) {
   return (
     <section className="bg-white">
 
-      {/* ── Sticky Breadcrumb ── */}
-      <div className="hidden sm:block sticky top-[50px] z-40 bg-[#f4f1ea] border-b border-[#e5ded4] shadow-sm px-3 py-2 sm:px-6 md:px-10 lg:px-16 xl:px-24 sm:top-[70px] xl:top-[74px]">
-        <Breadcrumb>
-          <BreadcrumbList>
-            <BreadcrumbItem>
-              <BreadcrumbPage style={{ fontWeight: 700 }}>About Us</BreadcrumbPage>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator />
-            <BreadcrumbItem>
-              <BreadcrumbLink href="#about-intro" className={activeSub === 'about-intro' ? 'text-[#0a2fad] font-bold' : ''}>
-                Intro
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator />
-            <BreadcrumbItem>
-              <BreadcrumbLink href="#research" className={activeSub === 'research' ? 'text-[#0a2fad] font-bold hidden sm:block' : 'hidden sm:block'}>
-                Our Research
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-            <BreadcrumbSeparator className="hidden sm:block" />
-            <BreadcrumbItem>
-              <BreadcrumbLink href="#our-team" className={activeSub === 'our-team' ? 'text-[#0a2fad] font-bold hidden md:block' : 'hidden md:block'}>
-                The Team
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-          </BreadcrumbList>
-        </Breadcrumb>
+      {/* ── Floating Island Sub-navigation ── */}
+      <div className={`sticky top-[72px] sm:top-[88px] z-50 flex justify-center w-full px-4 pointer-events-none -mb-16 mt-4 transition-all duration-500 ease-out ${isScrolled ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-8'}`}>
+        <div className={`hidden sm:flex items-center gap-1 p-1 bg-white/85 backdrop-blur-xl border border-black/10 rounded-full shadow-2xl shadow-black/10 transition-all duration-300 ${isScrolled ? 'pointer-events-auto' : 'pointer-events-none'}`}>
+          <div className="flex items-center gap-1.5 pl-4 pr-2 text-[#555] font-bold uppercase tracking-widest text-[10px]">
+            <span className="material-symbols-outlined text-[15px]">explore</span>
+            <span className="hidden md:inline">{lang === 'fil' ? 'Sa Pahinang Ito' : lang === 'ceb' ? 'Niining Panid' : 'On This Page'}</span>
+          </div>
+          <div className="w-[1px] h-4 bg-black/10 mx-1" />
+          
+          <a
+            href="#about-intro"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all ${
+              activeSub === 'about-intro'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            Intro
+          </a>
+
+          <a
+            href="#research"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all ${
+              activeSub === 'research'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            Our Research
+          </a>
+
+          <a
+            href="#our-team"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all ${
+              activeSub === 'our-team'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            The Team
+          </a>
+        </div>
       </div>
 
       {/* ── Intro Header ── */}
       <section id="about-intro" className="border-b border-[#e5ded4] bg-[#f8f7f5] scroll-mt-28">
-        <div className="mx-auto max-w-[1400px] px-5 py-14 text-center sm:px-8 sm:py-16 md:px-12 md:py-20 lg:px-16">
+
+        <div className="mx-auto max-w-[1400px] px-5 pb-14 pt-16 text-center sm:px-8 sm:pb-16 md:px-12 md:pb-20 lg:px-16">
           <span className="mb-5 inline-block rounded-full bg-[#0a2fad] px-5 py-2 text-xs tracking-wider text-white uppercase sm:mb-6" style={{ fontWeight: 800 }}>
             {t('about.badge')}
           </span>
@@ -449,8 +473,7 @@ export function AboutSection({ lang }: Props) {
 
       {/* ── CTA Banner ── */}
       <div className="bg-[#1a1816] px-5 py-12 sm:px-8 sm:py-16 md:px-12 md:py-20 lg:px-16">
-        <div className="relative mx-auto max-w-[1200px] overflow-hidden rounded-3xl border border-white/10 bg-gradient-to-r from-white/5 to-transparent p-8 sm:p-10 lg:p-14">
-          <div className="pointer-events-none absolute top-0 right-0 h-full w-64 bg-yellow-400/5 blur-3xl" />
+        <div className="relative mx-auto max-w-[1200px] overflow-hidden rounded-3xl border border-white/10 p-8 sm:p-10 lg:p-14">
           <div className="relative z-10 flex flex-col items-center justify-between gap-8 sm:gap-10 lg:flex-row">
             <div className="flex-1 text-center lg:text-left">
               <div className="mb-3 flex flex-col items-center justify-center gap-3 sm:flex-row lg:justify-start">

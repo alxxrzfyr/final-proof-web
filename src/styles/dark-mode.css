@@ -1,0 +1,492 @@
+/* Dark mode uses semantic tokens so page surfaces darken without hard inversion. */
+
+html.a11y-dark-mode {
+  /* ── Backgrounds (Meta VR guidelines: darkest is #1a1a1a) ── */
+  --a11y-bg: #1a1a1a;
+  --a11y-section: #1d1e1f;
+  --a11y-section-alt: #202123;
+  --a11y-surface: #232527;
+  --a11y-surface-alt: #292a2d;
+  --a11y-surface-cool: #1d252e;
+  --a11y-surface-warm: #2a2318;
+  --a11y-success-surface: #1c2921;
+  --a11y-danger-surface: #2b1d1f;
+
+  /* ── Borders — clearer definition for VR volumes ── */
+  --a11y-border: #4d535b;
+  --a11y-border-soft: #383c42;
+
+  /* ── Text (Meta VR guidelines: brightest is #dadada) ── */
+  --a11y-text: #cccccc;      /* main body copy */
+  --a11y-muted: #a6abb0;     /* secondary/meta text */
+  --a11y-title: #dadada;     /* headings & labels (max bright limit) */
+
+  /* ── Brand / accent (Vibrant but safe hues to restore energy) ── */
+  --a11y-brand: #79a6f6;     /* energetic blue links & accents */
+  --a11y-brand-soft: #283e6b;
+
+  /* ── Semantic colours — increased saturation for energy & contrast ── */
+  --a11y-gold: #e6b840;      /* punchy gold */
+  --a11y-gold-text: #1a1a1a;
+  --a11y-success: #4fa66c;   /* energetic green */
+  --a11y-danger: #d95a62;    /* energetic red */
+  --a11y-info: #4ea8e6;      /* energetic info blue */
+
+  color-scheme: dark;
+}
+
+html.a11y-dark-mode,
+html.a11y-dark-mode body,
+html.a11y-dark-mode #root > div,
+html.a11y-dark-mode main {
+  background-color: var(--a11y-bg) !important;
+  color: var(--a11y-text);
+}
+
+html.a11y-dark-mode main > div {
+  background-color: var(--a11y-bg) !important;
+}
+
+html.a11y-dark-mode main [class*='bg-white'],
+html.a11y-dark-mode main [class*='bg-[#f4f1ea]'],
+html.a11y-dark-mode main [class*='bg-[#f8f7f5]'],
+html.a11y-dark-mode main [class*='bg-[#f5f2eb]'],
+html.a11y-dark-mode main [class*='bg-[#fdf9f6]'],
+html.a11y-dark-mode main [class*='bg-[#e5ded4]'],
+html.a11y-dark-mode main [class*='bg-[#d9e0e7]'],
+html.a11y-dark-mode main [class*='bg-[#f6f8fc]'],
+html.a11y-dark-mode main [class*='bg-[#f7f8fa]'],
+html.a11y-dark-mode main [class*='bg-[#f8f9fb]'],
+html.a11y-dark-mode main [class*='bg-[#e7edf2]'],
+html.a11y-dark-mode main [class*='bg-[#eef2f5]'],
+html.a11y-dark-mode main [class*='bg-[#f0f2f5]'],
+html.a11y-dark-mode main [class*='bg-[#f0efed]'],
+html.a11y-dark-mode main [class*='bg-[#f1f3f4]'],
+html.a11y-dark-mode main [class*='bg-[#dbeafe]'],
+html.a11y-dark-mode main [class*='bg-gray-50'],
+html.a11y-dark-mode main [class*='bg-gray-100'],
+html.a11y-dark-mode main [class*='bg-gray-200'],
+html.a11y-dark-mode main [class*='bg-gray-300'],
+html.a11y-dark-mode main [class*='bg-slate-50'],
+html.a11y-dark-mode main [class*='bg-slate-100'] {
+  background-color: var(--a11y-surface) !important;
+  color: var(--a11y-text);
+}
+
+html.a11y-dark-mode main [class*='bg-white/'] {
+  background-color: rgb(58 57 54 / 0.62) !important;
+}
+
+html.a11y-dark-mode main [class*='bg-[#fff6f3]'],
+html.a11y-dark-mode main [class*='bg-amber-50'],
+html.a11y-dark-mode main [class*='bg-orange-50'],
+html.a11y-dark-mode main [class*='bg-orange-100'],
+html.a11y-dark-mode main [class*='bg-yellow-50'] {
+  background-color: var(--a11y-surface-warm) !important;
+}
+
+html.a11y-dark-mode main [class*='bg-[#f4fbf5]'],
+html.a11y-dark-mode main [class*='bg-[#f2fbf4]'],
+html.a11y-dark-mode main [class*='bg-green-100'],
+html.a11y-dark-mode main [class*='bg-green-50'] {
+  background-color: var(--a11y-success-surface) !important;
+}
+
+html.a11y-dark-mode main [class*='bg-[#fff8f8]'],
+html.a11y-dark-mode main [class*='bg-red-100'],
+html.a11y-dark-mode main [class*='bg-red-50'] {
+  background-color: var(--a11y-danger-surface) !important;
+}
+
+html.a11y-dark-mode main [class*='bg-black'],
+html.a11y-dark-mode main [class*='bg-[#000]'],
+html.a11y-dark-mode main [class*='bg-[#0d0d0d]'],
+html.a11y-dark-mode main [class*='bg-[#111]'] {
+  background-color: var(--a11y-bg) !important;
+}
+
+html.a11y-dark-mode main :is(section, div[id])[class*='bg-white'],
+html.a11y-dark-mode main :is(section, div[id])[class*='bg-[#f4f1ea]'],
+html.a11y-dark-mode main :is(section, div[id])[class*='bg-[#f8f7f5]'],
+html.a11y-dark-mode main :is(section, div[id])[class*='bg-[#f5f2eb]'],
+html.a11y-dark-mode main :is(section, div[id])[class*='bg-[#fdf9f6]'] {
+  background-color: var(--a11y-section) !important;
+  color: var(--a11y-text);
+}
+
+html.a11y-dark-mode main :is(section, div[id]):nth-of-type(even)[class*='bg-[#f8f7f5]'],
+html.a11y-dark-mode main :is(section, div[id]):nth-of-type(even)[class*='bg-white'] {
+  background-color: var(--a11y-section-alt) !important;
+}
+
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-white'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-white/'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#f4f1ea]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#f8f7f5]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#f5f2eb]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#fdf9f6]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-gray-50'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-gray-100'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-slate-50'] {
+  background-color: var(--a11y-surface) !important;
+  border-color: var(--a11y-border) !important;
+  color: var(--a11y-text);
+  box-shadow: 0 18px 44px rgb(0 0 0 / 0.22) !important;
+}
+
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#f0ede8]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#f5f2eb]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#fff6f3]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-amber-50'] {
+  background-color: var(--a11y-surface-warm) !important;
+  border-color: #5a4a32 !important;
+  color: var(--a11y-text);
+}
+
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#eef2f5]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#f0f2f5]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#f1f3f4]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#f8f9fb]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#dbeafe]'] {
+  background-color: var(--a11y-surface-cool) !important;
+  border-color: #3f4b54 !important;
+  color: var(--a11y-text);
+}
+
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-green-50'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#f4fbf5]'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#f2fbf4]'] {
+  background-color: var(--a11y-success-surface) !important;
+  border-color: #3f684c !important;
+  color: var(--a11y-text);
+}
+
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-red-50'],
+html.a11y-dark-mode main :is(div, article, aside, button, li)[class*='rounded'][class*='bg-[#fff8f8]'] {
+  background-color: var(--a11y-danger-surface) !important;
+  border-color: #744044 !important;
+  color: var(--a11y-text);
+}
+
+html.a11y-dark-mode main [class*='border-[#e5ded4]'],
+html.a11y-dark-mode main [class*='border-[#d6cfc6]'],
+html.a11y-dark-mode main [class*='border-[#d4cdc4]'],
+html.a11y-dark-mode main [class*='border-[#e0d9cf]'],
+html.a11y-dark-mode main [class*='border-[#f0ece6]'],
+html.a11y-dark-mode main [class*='border-[#eee7df]'],
+html.a11y-dark-mode main [class*='border-[#d5dde5]'],
+html.a11y-dark-mode main [class*='border-[#c9d1d8]'],
+html.a11y-dark-mode main [class*='border-[#cccccc]'],
+html.a11y-dark-mode main [class*='border-gray-200'],
+html.a11y-dark-mode main [class*='border-gray-300'] {
+  border-color: var(--a11y-border) !important;
+}
+
+html.a11y-dark-mode main [class*='text-[#0a2fad]'] {
+  color: var(--a11y-brand) !important;
+}
+
+html.a11y-dark-mode main [class*='text-[#0084ff]'],
+html.a11y-dark-mode main [class*='text-[#1877F2]'],
+html.a11y-dark-mode main [class*='text-blue-'] {
+  color: var(--a11y-brand) !important;
+}
+
+html.a11y-dark-mode main [class*='text-[#111]'],
+html.a11y-dark-mode main [class*='text-[#111827]'],
+html.a11y-dark-mode main [class*='text-[#181A18]'],
+html.a11y-dark-mode main [class*='text-[#1a1816]']:not(:where([class*='bg-green-500'] *, [class*='bg-red-600'] *, [class*='bg-[#0a2fad]'] *, [class*='bg-blue'] *, [class*='bg-yellow'] *, [class*='bg-[#facc15]'] *)),
+html.a11y-dark-mode main [class*='text-[#241f1b]'] {
+  color: var(--a11y-title) !important;
+}
+
+html.a11y-dark-mode main [class*='text-[#25303b]'],
+html.a11y-dark-mode main [class*='text-[#2d2926]'],
+html.a11y-dark-mode main [class*='text-[#342f2a]'],
+html.a11y-dark-mode main [class*='text-[#3a3530]'],
+html.a11y-dark-mode main [class*='text-[#3d3530]'],
+html.a11y-dark-mode main [class*='text-[#46515c]'],
+html.a11y-dark-mode main [class*='text-[#4b5563]'],
+html.a11y-dark-mode main [class*='text-[#5c544d]'],
+html.a11y-dark-mode main [class*='text-[#56616d]'],
+html.a11y-dark-mode main [class*='text-[#5f6b76]'],
+html.a11y-dark-mode main [class*='text-[#6b7280]'],
+html.a11y-dark-mode main [class*='text-[#6b7685]'],
+html.a11y-dark-mode main [class*='text-[#7a6f68]'],
+html.a11y-dark-mode main [class*='text-[#8a8480]'],
+html.a11y-dark-mode main [class*='text-[#8a94a0]'],
+html.a11y-dark-mode main [class*='text-[#888]'],
+html.a11y-dark-mode main [class*='text-[#9ca3af]'],
+html.a11y-dark-mode main [class*='text-[#ccc]'],
+html.a11y-dark-mode main [class*='text-gray-'],
+html.a11y-dark-mode main [class*='text-slate-'] {
+  color: var(--a11y-muted) !important;
+}
+
+html.a11y-dark-mode main [class*='text-[#e5ded4]'],
+html.a11y-dark-mode main [class*='text-[#f4f1ea]'],
+html.a11y-dark-mode main [class*='text-white'] {
+  color: #dadada !important;
+}
+
+html.a11y-dark-mode main [class*='text-green-'] {
+  color: #88c999 !important;
+}
+
+html.a11y-dark-mode main [class*='text-red-'] {
+  color: #d1757a !important;
+}
+
+html.a11y-dark-mode main [class*='text-[#fe2c55]'] {
+  color: #d1757a !important;
+}
+
+html.a11y-dark-mode main [class*='text-amber-'],
+html.a11y-dark-mode main [class*='text-orange-'],
+html.a11y-dark-mode main [class*='text-yellow-'] {
+  color: #d6b85c !important;
+}
+
+html.a11y-dark-mode main :is(section, div[id]) > div > p,
+html.a11y-dark-mode main :is(section, div[id]) > div > [class*='mb-'] > p,
+html.a11y-dark-mode main :is(section, div[id]) > div > div > p,
+html.a11y-dark-mode main :is(section, div[id]) > div > div > div > p,
+html.a11y-dark-mode main :is(section, div[id]) strong {
+  color: var(--a11y-text) !important;
+}
+
+html.a11y-dark-mode main [class*='bg-[#0a2fad]'] {
+  background-color: var(--a11y-brand-soft) !important;
+}
+
+html.a11y-dark-mode main [class*='bg-yellow-400'],
+html.a11y-dark-mode main [class*='bg-yellow-500'],
+html.a11y-dark-mode main [class*='bg-[#facc15]'] {
+  background-color: var(--a11y-gold) !important;
+  color: var(--a11y-gold-text) !important;
+}
+
+html.a11y-dark-mode main :is([class*='bg-yellow-400'], [class*='bg-yellow-500'], [class*='bg-[#facc15]'])
+  :is([class*='text-[#1a1816]'], [class*='text-[#3d3530]']) {
+  color: var(--a11y-gold-text) !important;
+}
+
+html.a11y-dark-mode main [class*='bg-green-500'],
+html.a11y-dark-mode main [class*='bg-green-600'] {
+  background-color: var(--a11y-success) !important;
+  color: #1a1a1a !important;
+}
+
+html.a11y-dark-mode main [class*='bg-red-500'],
+html.a11y-dark-mode main [class*='bg-red-600'],
+html.a11y-dark-mode main [class*='bg-red-700'] {
+  background-color: var(--a11y-danger) !important;
+  color: #1a1a1a !important;
+}
+
+html.a11y-dark-mode main [class*='bg-blue-50'],
+html.a11y-dark-mode main [class*='bg-blue-500'],
+html.a11y-dark-mode main [class*='bg-blue-600'],
+html.a11y-dark-mode main [class*='bg-blue-800'],
+html.a11y-dark-mode main [class*='bg-[#0084ff]'],
+html.a11y-dark-mode main [class*='bg-[#1877F2]'] {
+  background-color: var(--a11y-info) !important;
+  color: #1a1a1a !important;
+}
+
+html.a11y-dark-mode main [class*='bg-[#fe2c55]'] {
+  background-color: var(--a11y-danger) !important;
+  color: #1a1a1a !important;
+}
+
+html.a11y-dark-mode main [style*='background-color: rgb(220, 38, 38)'],
+html.a11y-dark-mode main [style*='background-color: #dc2626'] {
+  background-color: var(--a11y-danger) !important;
+}
+
+html.a11y-dark-mode main [style*='background-color: rgb(245, 158, 11)'],
+html.a11y-dark-mode main [style*='background-color: #f59e0b'] {
+  background-color: var(--a11y-gold) !important;
+}
+
+html.a11y-dark-mode main [style*='color: rgb(83, 77, 71)'],
+html.a11y-dark-mode main [style*='color: #534d47'] {
+  color: var(--a11y-muted) !important;
+}
+
+html.a11y-dark-mode main svg :is([fill='#dc2626'], [fill='#DC2626']) {
+  fill: var(--a11y-danger) !important;
+}
+
+html.a11y-dark-mode main svg :is([stroke='#dc2626'], [stroke='#DC2626']) {
+  stroke: var(--a11y-danger) !important;
+}
+
+html.a11y-dark-mode main svg :is([stop-color='#dc2626'], [stop-color='#DC2626']) {
+  stop-color: var(--a11y-danger) !important;
+}
+
+html.a11y-dark-mode main svg :is([fill='#f59e0b'], [fill='#F59E0B']) {
+  fill: var(--a11y-gold) !important;
+}
+
+html.a11y-dark-mode main svg :is([fill='#0a2fad'], [fill='#0A2FAD']) {
+  fill: var(--a11y-brand) !important;
+}
+
+html.a11y-dark-mode main svg :is([fill='#6b7280'], [fill='#9ca3af'], [fill='#6B7280'], [fill='#9CA3AF']) {
+  fill: var(--a11y-muted) !important;
+}
+
+html.a11y-dark-mode main svg :is([stroke='#fff'], [stroke='#FFF'], [stroke='white']) {
+  stroke: var(--a11y-bg) !important;
+}
+
+html.a11y-dark-mode main svg :is([fill='white'], [fill='#fff'], [fill='#FFF']) {
+  fill: #dadada !important;
+}
+
+html.a11y-dark-mode main [class*='bg-[#fdf9f6]'] :is(p, span, div) {
+  color: var(--a11y-text) !important;
+}
+
+html.a11y-dark-mode main [class*='bg-[#fdf9f6]'] [class*='text-[#7a6f68]'] {
+  color: var(--a11y-muted) !important;
+}
+
+html.a11y-dark-mode [data-slot='dialog-content'] {
+  background-color: var(--a11y-surface) !important;
+  border-color: var(--a11y-border) !important;
+  color: var(--a11y-text);
+}
+
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='bg-white'],
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='bg-gray-50'],
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='bg-gray-100'] {
+  background-color: var(--a11y-surface) !important;
+  color: var(--a11y-text);
+}
+
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='bg-green-50'],
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='bg-green-100'] {
+  background-color: var(--a11y-success-surface) !important;
+}
+
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='bg-red-50'],
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='bg-red-100'] {
+  background-color: var(--a11y-danger-surface) !important;
+}
+
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='bg-blue-50'],
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='bg-yellow-50'] {
+  background-color: var(--a11y-surface-cool) !important;
+}
+
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='text-[#1a1816]'],
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='text-[#181A18]'] {
+  color: var(--a11y-title) !important;
+}
+
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='text-[#5c544d]'],
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='text-[#8a8480]'],
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='text-gray-'] {
+  color: var(--a11y-muted) !important;
+}
+
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='text-[#0a2fad]'],
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='text-blue-'] {
+  color: var(--a11y-brand) !important;
+}
+
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='text-green-'] {
+  color: #a8d6b4 !important;
+}
+
+html.a11y-dark-mode [data-slot='dialog-content'] [class*='text-red-'] {
+  color: #e0aaad !important;
+}
+
+html.a11y-dark-mode main .recharts-default-tooltip {
+  background-color: var(--a11y-surface) !important;
+  border-color: var(--a11y-border) !important;
+  color: var(--a11y-text) !important;
+}
+
+/* Keep the accessibility drawer usable while the rest of the page is dimmed. */
+html.a11y-dark-mode .a11y-panel {
+  background-color: rgb(45 49 54 / 0.98) !important;
+  border: 2px solid #dadada !important;
+  color: var(--a11y-text);
+  box-shadow: -4px 0 24px rgba(0, 0, 0, 0.5) !important;
+}
+
+html.a11y-dark-mode button[aria-label="Open accessibility settings"] {
+  border: 2px solid #dadada !important;
+  background-color: var(--a11y-surface) !important;
+  color: #dadada !important;
+  box-shadow: -4px 0 15px rgba(0, 0, 0, 0.4) !important;
+}
+
+html.a11y-dark-mode button[aria-label="Open accessibility settings"] span {
+  color: #dadada !important;
+}
+
+html.a11y-dark-mode .a11y-panel-header {
+  background-color: rgb(39 41 44 / 0.88) !important;
+  border-bottom: 2px solid #dadada !important;
+}
+
+html.a11y-dark-mode .a11y-panel :is(h3, p, span):not(button *),
+html.a11y-dark-mode .a11y-row span {
+  color: var(--a11y-text) !important;
+}
+
+html.a11y-dark-mode .a11y-row:hover {
+  background-color: #303236 !important;
+}
+
+html.a11y-dark-mode .a11y-row:active {
+  background-color: #36383b !important;
+}
+
+/*
+ * Dark-mode transition is handled entirely in JavaScript (AccessibilityWidget.tsx)
+ * via a single GPU-composited opacity overlay.  No per-element CSS transitions are
+ * applied — doing so forces style recalc on every node simultaneously and drops
+ * frames on low-end devices.
+ */
+
+/* ── Additional fixes for text not covered by class selectors ─────────────── */
+
+/* SVG text fills used in pie chart custom labels (renderCustomLabel) */
+html.a11y-dark-mode main svg :is([fill='#1a1816'], [fill='#1A1816']) {
+  fill: var(--a11y-title) !important;
+}
+
+html.a11y-dark-mode main svg :is([fill='#534d47'], [fill='#534D47']) {
+  fill: var(--a11y-muted) !important;
+}
+
+/* Recharts axis tick SVG fill (XAxis/YAxis tick={{ fill: '#3d3530' }}) */
+html.a11y-dark-mode main svg :is([fill='#3d3530'], [fill='#3D3530']) {
+  fill: var(--a11y-text) !important;
+}
+
+/* Inline style color: #141211 — HeroSection stat value numbers */
+html.a11y-dark-mode main [style*='color: #141211'],
+html.a11y-dark-mode main [style*='color:#141211'],
+html.a11y-dark-mode main [style*='color: rgb(20, 18, 17)'] {
+  color: var(--a11y-title) !important;
+}
+
+/* Inline style color: #534d47 — used in some sections as sub-text */
+html.a11y-dark-mode main [style*='color: #534d47'],
+html.a11y-dark-mode main [style*='color:#534d47'] {
+  color: var(--a11y-muted) !important;
+}
+
+/* text-[#2d2926] used in <p> body paragraphs throughout sections */
+html.a11y-dark-mode main p[class*='text-[#2d2926]'],
+html.a11y-dark-mode main span[class*='text-[#2d2926]'] {
+  color: var(--a11y-text) !important;
+}

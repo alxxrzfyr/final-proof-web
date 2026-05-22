@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import { translations, type Lang } from './data';
 
 interface Props {
@@ -9,6 +9,7 @@ interface Props {
 export function AccessibilityWidget({ lang, setLang }: Props) {
   const [open, setOpen] = useState(false);
   const [settings, setSettings] = useState({
+    darkMode: false,
     largeText: false,
     readableFont: false,
     highContrast: false,
@@ -22,33 +23,103 @@ export function AccessibilityWidget({ lang, setLang }: Props) {
     tritanopia: false,
   });
 
+  // Tracks the in-flight overlay so we can abort it if the user
+  // toggles dark mode again before the previous animation finishes.
+  const overlayRef = useRef<HTMLDivElement | null>(null);
+
   const t = (key: string) => translations[lang]?.[key] || translations.en[key] || key;
+
+  /**
+   * Smooth dark-mode crossfade using a single GPU-composited overlay.
+   *
+   * Strategy:
+   *   1. Stamp a full-screen div whose background matches the *current* theme.
+   *   2. Flip the dark-mode class on <html> instantly (zero per-element recalc).
+   *   3. Fade the overlay from opacity:1 → 0 so the new theme is revealed.
+   *   4. Remove the overlay once the transition ends.
+   *
+   * Only ONE element animates (opacity on a composited layer) → silky even on
+   * budget Android devices with a single GPU core.
+   */
+  const applyDarkModeOverlay = (next: boolean) => {
+    // Abort any in-flight overlay immediately so rapid toggles stay crisp.
+    if (overlayRef.current) {
+      overlayRef.current.remove();
+      overlayRef.current = null;
+    }
+
+    const overlay = document.createElement('div');
+    // Warm parchment in light mode; near-black in dark mode.
+    overlay.style.cssText = [
+      'position:fixed',
+      'inset:0',
+      'z-index:99998',
+      'pointer-events:none',
+      `background:${next ? '#f4f1ea' : '#1a1a1a'}`,
+      'opacity:1',
+      'will-change:opacity',
+    ].join(';');
+
+    document.body.appendChild(overlay);
+    overlayRef.current = overlay;
+
+    // Flush styles so the browser paints the overlay before we start the fade.
+    overlay.getBoundingClientRect();
+
+    // Flip the theme class — happens instantly, hidden under the overlay.
+    document.documentElement.classList.toggle('a11y-dark-mode', next);
+
+    // Start the compositor-only opacity fade.
+    overlay.style.transition = 'opacity 380ms cubic-bezier(0.4, 0, 0.2, 1)';
+    overlay.style.opacity = '0';
+
+    const cleanup = () => {
+      overlay.remove();
+      if (overlayRef.current === overlay) overlayRef.current = null;
+    };
+    overlay.addEventListener('transitionend', cleanup, { once: true });
+    // Belt-and-suspenders: clean up even if transitionend never fires.
+    setTimeout(cleanup, 480);
+  };
 
   const toggle = (key: keyof typeof settings) => {
     const next = !settings[key];
     setSettings((s) => ({ ...s, [key]: next }));
-    const classMap: Record<string, string> = {
-      largeText: 'a11y-large-text',
-      readableFont: 'a11y-readable-font',
-      highContrast: 'a11y-high-contrast',
-      grayscale: 'a11y-grayscale',
-      highlightLinks: 'a11y-highlight-links',
-      stopAnimations: 'a11y-reduce-motion',
-      dyslexicFont: 'a11y-dyslexic-font',
-      bigCursor: 'a11y-big-cursor',
-      protanopia: 'a11y-protanopia',
-      deuteranopia: 'a11y-deuteranopia',
-      tritanopia: 'a11y-tritanopia',
+
+    const classMap: Record<keyof typeof settings, string[]> = {
+      darkMode: ['a11y-dark-mode'],
+      largeText: ['a11y-large-text'],
+      readableFont: ['a11y-readable-font'],
+      highContrast: ['a11y-high-contrast'],
+      grayscale: ['a11y-grayscale'],
+      highlightLinks: ['a11y-highlight-links'],
+      stopAnimations: ['a11y-reduce-motion'],
+      dyslexicFont: ['a11y-dyslexic-font'],
+      bigCursor: ['a11y-big-cursor'],
+      protanopia: ['a11y-protanopia'],
+      deuteranopia: ['a11y-deuteranopia'],
+      tritanopia: ['a11y-tritanopia'],
     };
+
+    if (key === 'darkMode') {
+      // Dark mode uses the overlay — don't let the classMap block below touch the class.
+      applyDarkModeOverlay(next);
+      return;
+    }
+
     if (['protanopia', 'deuteranopia', 'tritanopia'].includes(key) && next) {
       (['protanopia', 'deuteranopia', 'tritanopia'] as const).forEach((k) => {
         if (k !== key && settings[k]) {
           setSettings((s) => ({ ...s, [k]: false }));
-          document.documentElement.classList.remove(classMap[k]);
+          classMap[k].forEach((className) => {
+            document.documentElement.classList.remove(className);
+          });
         }
       });
     }
-    document.documentElement.classList.toggle(classMap[key], next);
+    classMap[key].forEach((className) => {
+      document.documentElement.classList.toggle(className, next);
+    });
   };
 
   const resetAll = () => {
@@ -59,14 +130,20 @@ export function AccessibilityWidget({ lang, setLang }: Props) {
   };
 
   const toggleItems = [
-    { key: 'largeText' as const, label: t('a11y.large_text'), icon: 'text_increase' },
-    { key: 'readableFont' as const, label: t('a11y.readable_font'), icon: 'font_download' },
-    { key: 'highContrast' as const, label: t('a11y.high_contrast'), icon: 'contrast' },
-    { key: 'grayscale' as const, label: t('a11y.grayscale'), icon: 'filter_b_and_w' },
-    { key: 'highlightLinks' as const, label: t('a11y.highlight_links'), icon: 'link' },
-    { key: 'stopAnimations' as const, label: t('a11y.stop_animations'), icon: 'motion_photos_off' },
-    { key: 'dyslexicFont' as const, label: t('a11y.dyslexic_font'), icon: 'spellcheck' },
-    { key: 'bigCursor' as const, label: t('a11y.big_cursor'), icon: 'mouse' },
+    // Dark mode is the first item in the list.
+    {
+      key: 'darkMode' as const,
+      label: t('a11y.dark_mode'),
+      icon: settings.darkMode ? 'light_mode' : 'dark_mode', // icon swaps on toggle
+    },
+    { key: 'largeText' as const,       label: t('a11y.large_text'),       icon: 'text_increase'      },
+    { key: 'readableFont' as const,    label: t('a11y.readable_font'),    icon: 'font_download'      },
+    { key: 'highContrast' as const,    label: t('a11y.high_contrast'),    icon: 'contrast'           },
+    { key: 'grayscale' as const,       label: t('a11y.grayscale'),        icon: 'filter_b_and_w'     },
+    { key: 'highlightLinks' as const,  label: t('a11y.highlight_links'),  icon: 'link'               },
+    { key: 'stopAnimations' as const,  label: t('a11y.stop_animations'),  icon: 'motion_photos_off'  },
+    { key: 'dyslexicFont' as const,    label: t('a11y.dyslexic_font'),    icon: 'spellcheck'         },
+    { key: 'bigCursor' as const,       label: t('a11y.big_cursor'),       icon: 'mouse'              },
   ];
 
   const colorBlindItems = [
@@ -124,20 +201,21 @@ export function AccessibilityWidget({ lang, setLang }: Props) {
 
       {/* Slide-in Container */}
       <div
-        className="fixed top-1/2 right-0 z-[61] flex -translate-y-1/2 items-center transition-transform duration-300 ease-out"
-        style={{ transform: open ? 'translateX(0)' : 'translateX(calc(100% - 28px))' }}
+        className={`fixed top-1/2 right-0 z-[61] flex -translate-y-1/2 items-center transition-transform duration-300 ease-out ${
+          open ? 'translate-x-0' : 'translate-x-[calc(100%-45px)] sm:translate-x-[calc(100%-44px)]'
+        }`}
       >
         <button
           onClick={() => setOpen(!open)}
-          className="flex h-14 w-14 shrink-0 cursor-pointer items-center justify-center rounded-l-2xl border-y-4 border-l-4 border-transparent bg-[#1a1816] text-white shadow-lg transition-colors duration-200 hover:bg-[#0a2fad] sm:h-16 sm:w-16"
+          className="flex h-14 w-14 shrink-0 cursor-pointer items-center justify-center rounded-l-2xl border-y-2 border-l-2 border-black bg-[#1a1816]/95 backdrop-blur-md text-white shadow-[0_0_15px_rgba(255,255,255,0.15)] transition-all duration-300 hover:bg-[#0a2fad] hover:border-black sm:h-16 sm:w-16 hover:scale-105"
           aria-label="Open accessibility settings"
         >
           <span className="material-symbols-outlined text-2xl sm:text-3xl">accessibility_new</span>
         </button>
 
-        <div className="max-h-[85vh] w-[280px] shrink-0 overflow-y-auto rounded-l-[1.5rem] border-y-4 border-l-4 border-[#1a1816] bg-white shadow-2xl sm:w-[340px]">
-          {/* Header pinned relative to panel */}
-          <div className="sticky top-0 z-10 flex items-center justify-between border-b border-[#e5ded4] bg-white px-5 py-4 shadow-sm sm:px-6">
+        <div className="a11y-panel max-h-[85vh] w-[280px] shrink-0 overflow-y-auto rounded-l-3xl border-2 border-black bg-white/95 backdrop-blur-2xl shadow-[0_32px_64px_-16px_rgba(0,0,0,0.2)] sm:w-[340px]">
+
+          <div className="a11y-panel-header sticky top-0 z-10 flex items-center justify-between border-b-2 border-black bg-white/60 backdrop-blur-xl px-5 py-4 shadow-sm sm:px-6">
             <h3
               className="text-[#1a1816]"
               style={{
@@ -166,7 +244,7 @@ export function AccessibilityWidget({ lang, setLang }: Props) {
               {toggleItems.map((item) => (
                 <div
                   key={item.key}
-                  className="flex min-h-[52px] cursor-pointer items-center justify-between rounded-lg p-3 transition-colors hover:bg-[#f4f1ea] active:bg-[#e5ded4] sm:min-h-[56px] sm:p-4"
+                  className="a11y-row flex min-h-[52px] cursor-pointer items-center justify-between rounded-lg p-3 transition-colors hover:bg-[#f4f1ea] active:bg-[#e5ded4] sm:min-h-[56px] sm:p-4"
                   onClick={() => toggle(item.key)}
                   role="switch"
                   aria-checked={settings[item.key]}
@@ -212,7 +290,7 @@ export function AccessibilityWidget({ lang, setLang }: Props) {
                 {colorBlindItems.map((item) => (
                   <div
                     key={item.key}
-                    className="flex min-h-[48px] cursor-pointer items-center justify-between rounded-lg p-3 transition-colors hover:bg-[#f4f1ea] active:bg-[#e5ded4] sm:min-h-[52px] sm:p-4"
+                    className="a11y-row flex min-h-[48px] cursor-pointer items-center justify-between rounded-lg p-3 transition-colors hover:bg-[#f4f1ea] active:bg-[#e5ded4] sm:min-h-[52px] sm:p-4"
                     onClick={() => toggle(item.key)}
                     role="switch"
                     aria-checked={settings[item.key]}

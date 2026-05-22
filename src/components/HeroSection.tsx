@@ -104,6 +104,7 @@ export function HeroSection({ lang, onNavigate }: Props) {
 
   const [currentBg, setCurrentBg] = useState(0);
   const [activeSub, setActiveSub] = useState<string>('hero');
+  const [isScrolled, setIsScrolled] = useState(false);
 
   const [isMobile, setIsMobile] = useState(() => window.innerWidth < 640);
   useEffect(() => {
@@ -116,6 +117,8 @@ export function HeroSection({ lang, onNavigate }: Props) {
     const sectionIds = ['what-is-proof', 'online-scams', 'vulnerable-sector', 'why-this-matters'];
 
     const handleScroll = () => {
+      setIsScrolled(window.scrollY > 120);
+
       if (window.scrollY < 80) {
         setActiveSub('hero');
         return;
@@ -202,89 +205,60 @@ export function HeroSection({ lang, onNavigate }: Props) {
 
   return (
     <section className="relative">
-      {/* Sticky Sub-navigation Breadcrumbs */}
-      <div className="hidden sticky top-[50px] z-40 border-b border-[#e5ded4] bg-[#f4f1ea] px-3 py-2 shadow-sm sm:block sm:px-6 sm:top-[70px] md:px-10 lg:px-16 xl:px-24 xl:top-[74px]">
-        <Breadcrumb>
-          <BreadcrumbList>
-            <BreadcrumbItem>
-              <BreadcrumbPage style={{ fontWeight: activeSub === 'hero' ? 700 : 500 }}>
-                {lang === 'fil' ? 'Tahanan' : lang === 'ceb' ? 'Panimalay' : 'Home'}
-              </BreadcrumbPage>
-            </BreadcrumbItem>
+      
+      {/* ── Floating Island Sub-navigation ── */}
+      <div className={`sticky top-[72px] sm:top-[88px] z-50 flex justify-center w-full px-4 pointer-events-none -mb-16 mt-4 transition-all duration-500 ease-out ${isScrolled ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-8'}`}>
+        <div className={`hidden sm:flex items-center gap-1 p-1 bg-white/85 backdrop-blur-xl border border-black/10 rounded-full shadow-2xl shadow-black/10 transition-all duration-300 ${isScrolled ? 'pointer-events-auto' : 'pointer-events-none'}`}>
+          <div className="flex items-center gap-1.5 pl-4 pr-2 text-[#555] font-bold uppercase tracking-widest text-[10px]">
+            <span className="material-symbols-outlined text-[15px]">explore</span>
+            <span className="hidden md:inline">{lang === 'fil' ? 'Sa Pahinang Ito' : lang === 'ceb' ? 'Niining Panid' : 'On This Page'}</span>
+          </div>
+          <div className="w-[1px] h-4 bg-black/10 mx-1" />
+          
+          <a
+            href="#what-is-proof"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all ${
+              activeSub === 'what-is-proof' || activeSub === 'hero'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            {lang === 'fil' ? 'Ano ang P.R.O.O.F?' : lang === 'ceb' ? 'Unsa ang P.R.O.O.F?' : 'What is P.R.O.O.F?'}
+          </a>
 
-            <BreadcrumbSeparator />
+          <a
+            href="#online-scams"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all ${
+              activeSub === 'online-scams'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            {lang === 'fil' ? 'Mga Online na Scam' : lang === 'ceb' ? 'Mga Online nga Scam' : 'Online Scams'}
+          </a>
 
-            <BreadcrumbItem>
-              <BreadcrumbLink
-                href="#what-is-proof"
-                className={activeSub === 'what-is-proof' ? 'font-bold text-[#0a2fad]' : ''}
-              >
-                {lang === 'fil'
-                  ? 'Ano ang P.R.O.O.F?'
-                  : lang === 'ceb'
-                    ? 'Unsa ang P.R.O.O.F?'
-                    : 'What is P.R.O.O.F?'}
-              </BreadcrumbLink>
-            </BreadcrumbItem>
+          <a
+            href="#vulnerable-sector"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all ${
+              activeSub === 'vulnerable-sector'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            {lang === 'fil' ? 'Kayo ba ay Mahina?' : lang === 'ceb' ? 'Mahina Ka Ba?' : 'Are You Vulnerable?'}
+          </a>
 
-            <BreadcrumbSeparator />
-
-            <BreadcrumbItem>
-              <BreadcrumbLink
-                href="#online-scams"
-                className={
-                  activeSub === 'online-scams'
-                    ? 'hidden font-bold text-[#0a2fad] sm:block'
-                    : 'hidden sm:block'
-                }
-              >
-                {lang === 'fil'
-                  ? 'Mga Online na Scam'
-                  : lang === 'ceb'
-                    ? 'Mga Online nga Scam'
-                    : 'Online Scams'}
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-
-            <BreadcrumbSeparator className="hidden sm:block" />
-
-            <BreadcrumbItem>
-              <BreadcrumbLink
-                href="#vulnerable-sector"
-                className={
-                  activeSub === 'vulnerable-sector'
-                    ? 'hidden font-bold text-[#0a2fad] md:block'
-                    : 'hidden md:block'
-                }
-              >
-                {lang === 'fil'
-                  ? 'Kayo ba ay Mahina?'
-                  : lang === 'ceb'
-                    ? 'Mahina Ka Ba?'
-                    : 'Are You Vulnerable?'}
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-
-            <BreadcrumbSeparator className="hidden md:block" />
-
-            <BreadcrumbItem>
-              <BreadcrumbLink
-                href="#why-this-matters"
-                className={
-                  activeSub === 'why-this-matters'
-                    ? 'hidden font-bold text-[#0a2fad] lg:block'
-                    : 'hidden lg:block'
-                }
-              >
-                {lang === 'fil'
-                  ? 'Bakit Mahalaga Ito?'
-                  : lang === 'ceb'
-                    ? 'Nganong Importante Kini?'
-                    : 'Why This Matters?'}
-              </BreadcrumbLink>
-            </BreadcrumbItem>
-          </BreadcrumbList>
-        </Breadcrumb>
+          <a
+            href="#why-this-matters"
+            className={`px-4 py-1.5 rounded-full text-xs font-bold transition-all hidden lg:flex ${
+              activeSub === 'why-this-matters'
+                ? 'bg-[#0a2fad] text-white shadow-md'
+                : 'text-[#555] hover:bg-black/5 hover:text-[#1a1816]'
+            }`}
+          >
+            {lang === 'fil' ? 'Bakit Mahalaga Ito?' : lang === 'ceb' ? 'Nganong Importante Kini?' : 'Why This Matters?'}
+          </a>
+        </div>
       </div>
 
       {/* Hero with changing background images */}
@@ -305,6 +279,7 @@ export function HeroSection({ lang, onNavigate }: Props) {
         <div className="absolute inset-0 bg-[#1a1816]/80" />
 
         <div className="relative z-10 mx-auto w-full max-w-[1600px] px-5 pb-14 pt-24 sm:px-8 sm:pb-16 sm:pt-28 md:px-12 lg:px-16 xl:px-24">
+          
           <div className="flex max-w-5xl flex-col gap-5 sm:gap-8">
             <h1
               className="break-words text-4xl leading-[1.2] tracking-tight uppercase sm:text-5xl md:text-6xl lg:text-[5rem] xl:text-[6rem]"

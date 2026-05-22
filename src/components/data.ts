@@ -933,6 +933,7 @@ export const translations: Record<Lang, Record<string, string>> = {
     'footer.quick_links': 'Quick Links',
     'footer.copyright': '\u00a9 2026 P.R.O.O.F Scam Awareness Campaign. All rights reserved.',
     'a11y.title': 'Accessibility',
+    'a11y.dark_mode': 'Dark Mode',
     'a11y.large_text': 'Large Text',
     'a11y.readable_font': 'Readable Font',
     'a11y.high_contrast': 'High Contrast',
@@ -983,6 +984,7 @@ export const translations: Record<Lang, Record<string, string>> = {
     'footer.copyright':
       '\u00a9 2026 P.R.O.O.F Kampanya ng Kamalayan sa Scam. Lahat ng karapatan ay nakalaan.',
     'a11y.title': 'Accessibility',
+    'a11y.dark_mode': 'Madilim na Mode',
     'a11y.large_text': 'Malaking Teksto',
     'a11y.readable_font': 'Madaling Basahing Font',
     'a11y.high_contrast': 'Mataas na Kontraste',
@@ -1032,6 +1034,7 @@ export const translations: Record<Lang, Record<string, string>> = {
     'footer.copyright':
       '\u00a9 2026 P.R.O.O.F Kampanya sa Kahibalo sa Scam. Tanan nga katungod gitagana.',
     'a11y.title': 'Accessibility',
+    'a11y.dark_mode': 'Dark Mode',
     'a11y.large_text': 'Dako nga Teksto',
     'a11y.readable_font': 'Sayon Basahon nga Font',
     'a11y.high_contrast': 'Taas nga Kontraste',

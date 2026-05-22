@@ -20,6 +20,21 @@
   --color-modest-white: #e2e8f0;
   --color-brownish-black: #1e293b;
   --color-pure-white: #ffffff;
+
+  /* Apple-inspired sleek G2 squircle-like default proportions */
+  --radius-sm: 0.6rem;
+  --radius-md: 0.85rem;
+  --radius-lg: 1.25rem;
+  --radius-xl: 1.75rem;
+  --radius-2xl: 2.25rem;
+  --radius-3xl: 3rem;
+
+  /* Sleek Apple-style drop shadows */
+  --shadow-sm: 0 2px 8px -2px rgb(0 0 0 / 0.05), 0 1px 4px -1px rgb(0 0 0 / 0.03);
+  --shadow-md: 0 4px 16px -4px rgb(0 0 0 / 0.05), 0 2px 8px -2px rgb(0 0 0 / 0.04);
+  --shadow-lg: 0 8px 32px -8px rgb(0 0 0 / 0.08), 0 4px 16px -4px rgb(0 0 0 / 0.04);
+  --shadow-xl: 0 16px 48px -12px rgb(0 0 0 / 0.12), 0 8px 24px -8px rgb(0 0 0 / 0.04);
+  --shadow-2xl: 0 24px 64px -12px rgb(0 0 0 / 0.16), 0 12px 32px -8px rgb(0 0 0 / 0.06);
 }
 
 html {
@@ -104,7 +119,11 @@ body {
   animation: pulse-ring 1.5s ease-out infinite;
 }
 
-/* Accessibility */
+
+/* ==========================================================================
+   ♿ STANDARD ACCESSIBILITY ASSISTANCE FEATURES
+   ========================================================================== */
+
 html.a11y-large-text {
   font-size: 110% !important;
 }
@@ -128,7 +147,6 @@ html.a11y-readable-font *:not(.material-symbols-outlined) {
   word-spacing: 0.2em !important;
   line-height: 1.8 !important;
 }
-
 
 html.a11y-highlight-links a {
   text-decoration: underline !important;

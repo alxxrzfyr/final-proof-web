@@ -1686,9 +1686,6 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
 
             {/* Report a Threat , spans 2 cols */}
             <div className="relative flex flex-col overflow-hidden rounded-2xl bg-[#1a1816] p-5 text-white sm:p-8 lg:col-span-2">
-              <div className="absolute top-0 right-0 h-40 w-40 translate-x-1/2 -translate-y-1/2 rounded-full bg-red-600/10" />
-              <div className="absolute bottom-0 left-0 h-32 w-32 -translate-x-1/2 translate-y-1/2 rounded-full bg-red-600/10" />
-
               <div className="relative z-10 flex flex-1 flex-col">
                 <div className="mb-5 flex items-center gap-3">
                   <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-red-600">

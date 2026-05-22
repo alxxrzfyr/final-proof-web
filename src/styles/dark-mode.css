@@ -490,3 +490,56 @@ html.a11y-dark-mode main p[class*='text-[#2d2926]'],
 html.a11y-dark-mode main span[class*='text-[#2d2926]'] {
   color: var(--a11y-text) !important;
 }
+
+/* Softer elevated surface */
+html.a11y-dark-mode {
+  --a11y-card-elevated: #2a2c2f;
+  --a11y-card-border-strong: #51565f;
+}
+
+/* Cards */
+html.a11y-dark-mode #alerts-resources .rounded-2xl,
+html.a11y-dark-mode #alerts-resources .rounded-3xl {
+  background: var(--a11y-card-elevated) !important;
+  border-color: var(--a11y-card-border-strong) !important;
+  box-shadow: 0 10px 24px rgb(0 0 0 / 0.22) !important;
+}
+
+/* Remove alternating backgrounds */
+html.a11y-dark-mode #alerts-resources .bg-white:nth-child(even),
+html.a11y-dark-mode #alerts-resources .bg-[#f8f7f5]:nth-child(even) {
+  background: var(--a11y-card-elevated) !important;
+}
+
+/* Typography */
+html.a11y-dark-mode #alerts-resources h2,
+html.a11y-dark-mode #alerts-resources h3,
+html.a11y-dark-mode #alerts-resources h4 {
+  color: #e7e9ec !important;
+}
+
+html.a11y-dark-mode #alerts-resources p,
+html.a11y-dark-mode #alerts-resources span,
+html.a11y-dark-mode #alerts-resources li {
+  color: #c6cbd2 !important;
+}
+
+/* Softer buttons */
+html.a11y-dark-mode #alerts-resources a,
+html.a11y-dark-mode #alerts-resources button {
+  border-color: #5a6069 !important;
+}
+
+html.a11y-dark-mode #alerts-resources a:hover,
+html.a11y-dark-mode #alerts-resources button:hover {
+  background: #34373c !important;
+  border-color: #6c7480 !important;
+}
+
+/* Tone down emergency colors */
+html.a11y-dark-mode #alerts-resources [class*='bg-red'],
+html.a11y-dark-mode #alerts-resources [class*='bg-blue'],
+html.a11y-dark-mode #alerts-resources [class*='bg-green'] {
+  filter: brightness(1.02);
+}
+

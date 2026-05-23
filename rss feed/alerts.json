@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-22T14:40:34.175Z",
+  "fetchedAt": "2026-05-23T02:59:00.362Z",
   "alerts": [
     {
       "id": "alert-local-1779460833453-vje7qj",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1779505085186-g0575",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 22, 2026",
+      "rawDate": "2026-05-22T16:34:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1779460833253-tnu91c",
       "title": "Delano becomes latest Minnesota school district hit by ransomware attack",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWpLTUY3MF9YS0EtTzh3amFnUWRBS1MwSWN1RTdrbGEwZDR1czVrV3hFQnQxeDRjMXBRTG5JOExfTDNNdjdUTHFhRWRMYVg5cGZHc2NUeVdoWmctZU9RdFZFX0tMRXlTUGVXbjlCVUFqU18tb1lvUFBjRFBCaVFOQnJB?oc=5",
@@ -321,20 +335,6 @@
       "date": "May 3, 2026",
       "rawDate": "2026-05-03T06:00:46.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1777971618177-xcidw",
-      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
-      "url": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "April 30, 2026",
-      "rawDate": "2026-04-30T14:04:26.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

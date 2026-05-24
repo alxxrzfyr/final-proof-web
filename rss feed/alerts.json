@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-05-23T13:26:14.084Z",
+  "fetchedAt": "2026-05-24T03:39:01.289Z",
   "alerts": [
+    {
+      "id": "alert-local-1779593940856-za6g9",
+      "title": "‘Online scam risk in Philippines above global average’",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM2lDV2pIOExvcTY0MnNEdHJfaXd6ZVNiS3FVTndkYURlOEpxeW1VWnFqOXhNOWNLcmwwQ3htcENWaC1ERDNLbW5pQ2dCMUV1ZnZxcjJjbXhoZTh5ekdoZDdBY0RfX0VWdTdxQ3FIVUdWNmt5VENPd0dLUndQcE9CREc0RWlvRzVvaWZiSGlLWm5HeEMzNE5BU3J3R1MzSm53czNfZNIBqwFBVV95cUxNVV91Ym1DeEN2cm4wdG52TFNGbjdYWDRIOHNIbEVHTUo2LTREeF9kZHlwS3lfQjFqVnptcDBJenlfT3VzekdKMWtaSnNwVUppX0VoMDlnUm5rT1F1S2h5cTNzRWVDd2dIS01JWGV5RDRxUzMwM1VyUTB4cUY2ald3ZDM3eVZjVHR4WTlPZkx3M0EyQ3ZoWHEtMzB0QXQ2SmtqNkZVMHdSekhoQ2M?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 23, 2026",
+      "rawDate": "2026-05-23T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1779593939986-fu8ad",
+      "title": "How to Report E-Wallet Scam and Online Fraud Philippines",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDhRYk1UTmhqaGlqVFpKMGgzNFRoeUdsQm9LZlNtdVkzUDJGU2gwYjF6U0xXSlNzQ2JqS0JMN2oyVHJFMkl6dnRwQjVXSHBSeGtCeVlWOWMzdGw1eG5mVng4QS1wMjM3cE9QTjE2Qk5XcG5RMVZweUMwNWhxR2hleXJ3dmU0MU53R2ZqLVpteGZZTk9FZDd3RA?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 23, 2026",
+      "rawDate": "2026-05-23T13:18:55.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1779542772685-giswfq",
       "title": "How to Report Cybercrime and Update Identity Theft Records in the Philippines",
@@ -138,34 +166,6 @@
       "severity": "medium",
       "date": "May 21, 2026",
       "rawDate": "2026-05-21T07:43:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779460832720-sqwtxd",
-      "title": "Dark Web Data Breaches: What Every Business Needs to Know",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWkVDaWx2N3dicGd4OWdKc00tczkxWlhXNXZQZElyb2twVEZHdWdYM244UDRzcnluSy1FbFdTbVdsd0FkMzF4NEhxcmxhWXEtNW9QV1kzV2JhQ0VBYVZqRjV4Y1RIOUZEYUZSWmdzSlk1Ri1fR19QUnhQc2hOc0dJRDlycUNaNUxDT1d1OWtsM082UQ?oc=5",
-      "source": "Virtual Coworker Philippines",
-      "sourceLabel": "Virtual Coworker Philippines",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 21, 2026",
-      "rawDate": "2026-05-21T06:06:44.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/virtualcoworker.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779542772686-jd39ha",
-      "title": "Cybercrime Complaint Processing Delays in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnNXdEN4Q0dqVkhCMjBHeDM2THJHYUd5RU9IUXpxQ2pkR3lWTWd0TmR3UUxrcTJFM1ZYU194Qy05NkZDY1dSam5kQThUM1F3VjdkVUhSa1FQaE93M0hjU2R5UkFGMjBxNHF0cVZCTGtXOHZzZE1jV3pQOFhHUzRUVE52bXd5dlJrYjhIMGQyRDQ2dE5jQzJETXR3?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 21, 2026",
-      "rawDate": "2026-05-21T02:54:11.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },

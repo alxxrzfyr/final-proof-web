@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-05-24T13:27:27.748Z",
+  "fetchedAt": "2026-05-25T03:53:42.949Z",
   "alerts": [
+    {
+      "id": "alert-local-1779681222559-08ry0k",
+      "title": "City Council seeks stronger measures vs online scams",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1FnR2RNQjJlSW1rNHRMNTdseV9pMEtycDNsN1BNYjFzaVkwTG5KOXdVNEllVTE1VjBtejhUYkFBMFIyMzJ4LWZWbEswdWdTNzhXVU5oV3hVVF9lSGFGQUhiMDVsd3p4eGdfQXROekVOemF2dGxnWTd1Z21CQ3lOUmY5eVFpUS1TenFaOU5DOE1TMnBsOFVZeGVPRTE5TVZwMjd1a2pUZlMxdkJR0gHDAUFVX3lxTE9CVEp2Z1c2dTNyMWkwTlpfQ2plLVF3LW1HZi1STnJFNmNuV1d5SGxxQ3NRUERCQ3lPVEY0eDBIenpxbXBBT0hFNGxXUm9ZbnBPTlBXbldKaXJOWEsyRkk2RGxiaUFfWVpzWjIxdENCSlVXSFZiMUtoWGxRTDVXSTRmcFRJcjlYR09ic2hURkVjdWhlTm5xQzRNLXJabTJkN2lHSFlVV0I2Z3AwZ3p0MkxIMUI4cVhDQlhzYnFUbnNKT0VtTQ?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 24, 2026",
+      "rawDate": "2026-05-24T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1779593940856-za6g9",
       "title": "‘Online scam risk in Philippines above global average’",
@@ -152,20 +166,6 @@
       "severity": "medium",
       "date": "May 21, 2026",
       "rawDate": "2026-05-21T07:44:35.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779460832723-dfiwrb",
-      "title": "How to Report a Loan App Scam in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbjV0ZTdrY0NNVXhVZjNKN3FYRUFYanVPbnFjVU1xeGRPN2xiaHl0X0hsNlI0YVI3cGtBSFFQN2VkVFdLX2RPVXhTQzVVWXBZLTN6V3JRWVRrRGJRMFcwbXAwOGQyLTVUWkFUWXV3U3hJTDdNTXUyVjNGU2NwSTlUdUJvQ2lzRVFfdXczNURmWVE?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 21, 2026",
-      "rawDate": "2026-05-21T07:43:24.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },

@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-05-25T14:54:54.258Z",
+  "fetchedAt": "2026-05-26T15:30:54.670Z",
   "alerts": [
+    {
+      "id": "alert-local-1779809453290-sn0a6",
+      "title": "Cybercrime Complaint in the Philippines Step by Step",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa3p3UUlpalFZQzlXX0ExUURjVFBCRS1meDYwSHlscGJYSzN1OWE3OFhySGJuWGFwSFU4UGFTRjJkUEx0OUY5RmJhYmt5ODJfVVlLeHNseDFCZzRKeWlYVURfbjRIaHIxejZHV0VUS0l4QnlfY2dyMVhReldrZ29pUk13WWUwRGRpVGhLeDl3S01JMm8?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 26, 2026",
+      "rawDate": "2026-05-26T05:53:07.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1779809453290-54royd",
+      "title": "Identity Theft in Online Transactions in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSG84SnljZzllb3gxTlM2WDVnSjFVMXFpckNJSGFJMHFIdXl1YTVQckphOXdwd1lvRmJkdFRZOWdIaTBJbXA0X21FTXhqVUI5OUVwaDd0c0VTNTdSdkgxakpKTEZRYVdjelQzcTVFNGg3bzhMd2Z3WEd3V1BVbkJxNEF4dV96TXlXRjZ2Y05SdnAxbkdrMUk1Sw?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 26, 2026",
+      "rawDate": "2026-05-26T05:09:29.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1779720892858-9ctoxd",
       "title": "Recovering Funds Sent to a Scammer’s Bank Account in the Philippines",
@@ -139,34 +167,6 @@
       "date": "May 22, 2026",
       "rawDate": "2026-05-22T18:18:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779460833453-vje7qj",
-      "title": "SEC shuts ‘Riscoin’ over alleged crypto scam",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcEhnaF9CSEdMYzlWRURtbXNhN25oMzA3U29PUkMxeVFjTzZFM1ZWaExrbWVLYnNUaTg0TUlKYnptc1dzYkt5TzROYTVoWFhXR1ZzbFpmVWlCNnhOR3ZHcmdNS2pRbVJlTTQ2MUVTeVlHZm9UVlZaUmdVVmVZUzNjN3JjSTNEZ9IBiwFBVV95cUxNbVZTdTRRMkNQYWVBWmd2akNQQ250R0g0Q2JTUXZaanliX0pIWmp1ZUN0RC1adWZ5N3NUX1Y1SEdRSGNGbDEyYlVXdjBVSmdBUGtMRjFLLTNTV2VjWjloMXpnaEZZQ1ZNaHNiWHhua3dELVpFOVdwdzhLWlNOb0k3bUZMbkVOTHRRRkpr?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 22, 2026",
-      "rawDate": "2026-05-22T10:25:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779460832723-3b5v",
-      "title": "Cybercrime Report Requirements and Account Status Issues in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUxwVk5OODNrOS1SbmZoUjRqVl9weWtJN08ydEpGVHk3NHB2Z3ZNUkR5cHUtaTBxRGJNcXh1TDFaa0tFQkF3NzJaTFpIbk8zYldSRy00MFp4TTBXMjFFMWpGaXdiZ1lXYWNnVENXdHpyTmlFTDlDS1NJdkNuSUJXa2NPTkROVjA5bGFRRE1zbjZfbWtjRHBpWmd0SmRvMlJBR1ZTMXJzRkpkQng3eDlfbzBB?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 22, 2026",
-      "rawDate": "2026-05-22T09:45:51.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

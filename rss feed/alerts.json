@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-05-27T03:53:44.388Z",
+  "fetchedAt": "2026-05-27T15:43:14.638Z",
   "alerts": [
+    {
+      "id": "alert-local-1779896593146-auccj7",
+      "title": "Converge bans over 72,000 illicit domains; Smart blocks nearly 1B scam texts",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeEZlellKUWhDdDNjZmFPYXVqYjRzYVRYMTA5dldtUTdEeWw4ZXhjUWRhdWhFN0N4cF9NeEVSTldIVXVwM0lUcjVoY0NoRV9yX1NJQ2N0QjBhWnh5cG5tZE1jcjV6RVh2WTducHVQUmJ4cEJzMWFOM0hGSDdPUFowclowZWRVX1FCaHYtbVRPbVR6STEtMkxjZzA3OWkwQ2UxdW1xd1VTUWRxNUk?oc=5",
+      "source": "Newsbytes.PH",
+      "sourceLabel": "Newsbytes.PH",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 27, 2026",
+      "rawDate": "2026-05-27T06:16:49.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1779854022993-21w25h",
       "title": "Phishing with PNB Credit Card",
@@ -27,6 +41,20 @@
       "date": "May 26, 2026",
       "rawDate": "2026-05-26T20:50:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1779896593145-n4zon",
+      "title": "Booking scam sa resorts naghitak",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQand2TDRfeElJeVZjaS1GTWJvT0RERFF0aE9tRkhWcDRwZEJvc3lqMlBteWZKYU1oUGx4cDNzaG9FM3B6ZVBRZWM1OFQtOWpibnNxRHFvVGItSlhlcWhBeS1fX3BtUFlZOWFNNFhvZGVueEs5YWlzUG1xOTNaWWl5aDJn0gGPAUFVX3lxTFByQWloM3FLZ0FMVHdXWXZFeG1oNG9zR3gtT3lCWEQ5SjFUTjByNEFGdEpqVlhYMnJLOVVWMjlpdnNXblV2SmVOeUVuWGFaNG5fN3VoNTlQLWR3cURXNkxvSVRxVG1vQkZpcExQbklNNVlTZE9VUjBiYjBUQWdSMW9wQWI3aE45d2NqcnM5YzBz?oc=5",
+      "source": "SunStar Publishing Inc.",
+      "sourceLabel": "SunStar Publishing Inc.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 26, 2026",
+      "rawDate": "2026-05-26T13:01:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
       "scope": "local"
     },
     {
@@ -139,34 +167,6 @@
       "date": "May 23, 2026",
       "rawDate": "2026-05-23T16:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779593939986-fu8ad",
-      "title": "How to Report E-Wallet Scam and Online Fraud Philippines",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTDhRYk1UTmhqaGlqVFpKMGgzNFRoeUdsQm9LZlNtdVkzUDJGU2gwYjF6U0xXSlNzQ2JqS0JMN2oyVHJFMkl6dnRwQjVXSHBSeGtCeVlWOWMzdGw1eG5mVng4QS1wMjM3cE9QTjE2Qk5XcG5RMVZweUMwNWhxR2hleXJ3dmU0MU53R2ZqLVpteGZZTk9FZDd3RA?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 23, 2026",
-      "rawDate": "2026-05-23T13:18:55.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779542772685-giswfq",
-      "title": "How to Report Cybercrime and Update Identity Theft Records in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODJab1ZpcU40ZXRlWjd1SkwzVFFWTTJJU2xiSHU3X2dfSDdBNEt1aVZlQmcyaFAzYmQ2WHZIaTRmNFZZV1lNMU1xcmY4Y1kzeEllTWlLS3czT2NvVEhsdlJkZHgyZ1EtZ1laZ1NSVEtoaEs0a2NpQlMtNUZOSldEWkhoOWpDR3JicUVFeFBUY2YzWWlxR0JIR0Z4WUQwLVF5MmszM1hFRkZpcnFwRTM3aFFUdHM?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 23, 2026",
-      "rawDate": "2026-05-23T08:08:37.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

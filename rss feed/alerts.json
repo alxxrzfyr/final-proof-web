@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-05-26T15:30:54.670Z",
+  "fetchedAt": "2026-05-27T03:53:44.388Z",
   "alerts": [
+    {
+      "id": "alert-local-1779854022993-21w25h",
+      "title": "Phishing with PNB Credit Card",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15WmVRcjh0Q0N2amoxVVZXUmhmcHdaelhSVnVuSUc4OGNLWkFlSWlqRHZCUy1OWnlPVHVYeVVrTDRNdEd0VldSclZtOWg2c0Q1MnpRcEo2MnFWdFFfYW1KWUVac1VudU1VVjFaaG5jS243d1FS?oc=5",
+      "source": "www.foi.gov.ph",
+      "sourceLabel": "www.foi.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 27, 2026",
+      "rawDate": "2026-05-27T01:01:07.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1779854023664-x5mx9f",
+      "title": "Cops catch 63 investment scam suspects",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUXF1dk1lcmlnVHR3bDNtZVExdGQ3aExPZTcxcjdtQncyd2N3aVk3dU51ZTlRZG84QnJlejc5U20xQUtCdlpHMy1SYklrSzlKY05DTXBmaWxrUkVENmdCc3BtRXc2ZmJMUlB4RksycXk3VnJyWmNkUFRZVWRqeHgzWklB0gGHAUFVX3lxTFAyemlYQTRVNlpMTVFGakdEeVYwc1FDTng0V1NELURuUTYtLUNkYUQtRmhyYUtxTHpqZlN6elVQcU9VVmdTbU1ORGdWd3pnNmJhSEdWc2Z6c0Q2bllFcDFxamlGMXNLd3JRX2xWZkFSUks2ZTRHSDdSYkhpemVpNWI0Mzh1QXN5MA?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 26, 2026",
+      "rawDate": "2026-05-26T20:50:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1779809453290-sn0a6",
       "title": "Cybercrime Complaint in the Philippines Step by Step",
@@ -139,34 +167,6 @@
       "date": "May 23, 2026",
       "rawDate": "2026-05-23T08:08:37.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779542772684-w0071",
-      "title": "How to Report Cybercrime and Online Scams with Delayed PNP Processing",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWHI5dkxWRTRxaUtRenpIY2VnTGt3azJlak12c05jZ0YzbHRLdTd3S1Z5SThsQzBvUkwtSHJ0TWJGTm1SOGFrVm9DdlhKUGxzMmQtQkJZYmxsakJwZnRlckV3czZKeU9jNFFuNmxjRzlubmlGOUY0WExJeHFBeFcwNjFvdlc3THBpalVZQkR3QjM4UWZkVXlQZWVNVUNQeE84RDcwUDRFMmcwZw?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 23, 2026",
-      "rawDate": "2026-05-23T07:04:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779542773434-0y7tun",
-      "title": "Bank capital buffer rules tightened",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFUUtieHNsQzBhWjZUSDBNTlZGYnBSQ24tWmZnUGJ1eHJOQkNwTkxpZ2J3bnA5LVZtT0l4Y2J6b0I4NEl2VXk1cW1WSC05UG1EM0RHOXFaaUd2SlZGdEQzakFucEJ4ZXNRYjlMVXI5bV8wREdBcDV2R3ZnNGPSAYIBQVVfeXFMTzJnaE1xRDZEMHp6YlByekhNNEV5QnQ1SUpxdVJ3WU0yQ0R5bFprX2FOUnV2TVhMeEdDaWZieXhTR1hkNWp2SnhuUFBCR1RZYjRpLTItX05oYm9jZ3ZiM1V3c0JKanFTTUVGNV9KTkhRaVNGblozYzk0OHNQLVZUUnNRUQ?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 22, 2026",
-      "rawDate": "2026-05-22T18:18:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
       "scope": "local"
     },
     {

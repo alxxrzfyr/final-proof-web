@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-05-29T03:39:33.827Z",
+  "fetchedAt": "2026-05-29T15:34:07.614Z",
   "alerts": [
+    {
+      "id": "alert-local-1780068846253-0u5nwb",
+      "title": "Identity Theft Report to PNP Cybercrime Group",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObXZYXzNybnpZdnAyWjdiT3BLNE4yYjdBN04zdzByLTY5S05nSEpFVnFtbkR0Skd0d0laZzhQaV9MYkhxSEt5TGZvSHpVMUU2MmtYcjNsUmZoVEFNS1lnV21Dd0x2Q0k4ZFduWE1wQWx4akVtQnJmT1F6OFJmcGo0ZjNjUEJlVHBvbkE?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 29, 2026",
+      "rawDate": "2026-05-29T13:31:02.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780068846251-bt7v58",
+      "title": "SEC flags loan, bank impersonation scams on Telegram, Viber",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWhMMEhYSDlPLV91dXFiaTAwS0IxX2N4N0IxSjdXbE0zanoxaG5lNGdyM0ljb2RrSnVjd2YyRDJLczk4WjJzY3VzSVFJc1Q5R0s4NXdKeGo0aTBTVVBYNE0yU3NweDB4OVpOeV82cVdURllSbEdjeGZqZDVNRFQ3VkdZZVcwa1libzUxQUdSTQ?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 29, 2026",
+      "rawDate": "2026-05-29T10:28:05.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780068846898-7ye8l",
+      "title": "SEC warns public against surge in online loan scams",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDJPYzNBYjV4X0hlRGdpcVJid3QwWURuci1vdEM1RTRTMHFjZE5hRUhOQTFzbXNReWVkNWRBbHc1RWRzSEYzdmhfaG1TYUs0eWVYWHRUdEk0SXVzQnFJTWpUQ3BEa0hDZGlCWk1tUGtyQ2RzYlZGdXlGUFRlTXZFT1BUUDVaRWJCWmVqa0ppTElWUdIBlwFBVV95cUxPNXJnOXBIWUtuYmI2d2hOTlR5WE0wY1R2RE1HSi0xMVpVeThZY1h0MnF1YWVpcWdNYW1hVjBfaVg5SFlhSER2SUMzX0hNcHVPTlBMVEVZcGhQV2dTOTkxT0xMM1NRZkpOeEJxcTVqT0g5by00SVlsZ1hNSmYyZ0VoODdmQkcxWmdnTDkxRDE5a0gtcjBIYkFB?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 29, 2026",
+      "rawDate": "2026-05-29T08:13:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1779983839266-s01dya",
       "title": "Online booking scams: Summer travelers urged to stay alert",
@@ -125,48 +167,6 @@
       "date": "May 26, 2026",
       "rawDate": "2026-05-26T20:50:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779896593145-n4zon",
-      "title": "Booking scam sa resorts naghitak",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQand2TDRfeElJeVZjaS1GTWJvT0RERFF0aE9tRkhWcDRwZEJvc3lqMlBteWZKYU1oUGx4cDNzaG9FM3B6ZVBRZWM1OFQtOWpibnNxRHFvVGItSlhlcWhBeS1fX3BtUFlZOWFNNFhvZGVueEs5YWlzUG1xOTNaWWl5aDJn0gGPAUFVX3lxTFByQWloM3FLZ0FMVHdXWXZFeG1oNG9zR3gtT3lCWEQ5SjFUTjByNEFGdEpqVlhYMnJLOVVWMjlpdnNXblV2SmVOeUVuWGFaNG5fN3VoNTlQLWR3cURXNkxvSVRxVG1vQkZpcExQbklNNVlTZE9VUjBiYjBUQWdSMW9wQWI3aE45d2NqcnM5YzBz?oc=5",
-      "source": "SunStar Publishing Inc.",
-      "sourceLabel": "SunStar Publishing Inc.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 26, 2026",
-      "rawDate": "2026-05-26T13:01:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779809453290-sn0a6",
-      "title": "Cybercrime Complaint in the Philippines Step by Step",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa3p3UUlpalFZQzlXX0ExUURjVFBCRS1meDYwSHlscGJYSzN1OWE3OFhySGJuWGFwSFU4UGFTRjJkUEx0OUY5RmJhYmt5ODJfVVlLeHNseDFCZzRKeWlYVURfbjRIaHIxejZHV0VUS0l4QnlfY2dyMVhReldrZ29pUk13WWUwRGRpVGhLeDl3S01JMm8?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 26, 2026",
-      "rawDate": "2026-05-26T05:53:07.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779809453290-54royd",
-      "title": "Identity Theft in Online Transactions in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSG84SnljZzllb3gxTlM2WDVnSjFVMXFpckNJSGFJMHFIdXl1YTVQckphOXdwd1lvRmJkdFRZOWdIaTBJbXA0X21FTXhqVUI5OUVwaDd0c0VTNTdSdkgxakpKTEZRYVdjelQzcTVFNGg3bzhMd2Z3WEd3V1BVbkJxNEF4dV96TXlXRjZ2Y05SdnAxbkdrMUk1Sw?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 26, 2026",
-      "rawDate": "2026-05-26T05:09:29.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

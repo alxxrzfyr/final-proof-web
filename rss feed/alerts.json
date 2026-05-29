@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-28T15:57:19.900Z",
+  "fetchedAt": "2026-05-29T03:39:33.827Z",
   "alerts": [
     {
       "id": "alert-local-1779983839266-s01dya",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1780025973056-p9uc3e",
+      "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTQ2bVJfeTJreVFBb0F4bXQ5M0dEd2lPWmlQdjJpbnZ6a2VybUowTUw3V2phTkw4ZmVKQXVhTEVUd1R3YklGbF9mQy1lVkhobGdGdWhoSElfaVFwOXFpRXRDWk4wbXB0QVVKdjNTNWZPeXVWNTN2emJvcEg4OHZvUTFHc1pCby1YdHlv?oc=5",
+      "source": "WIRED",
+      "sourceLabel": "WIRED",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 28, 2026",
+      "rawDate": "2026-05-28T10:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1779629246423-hckx0j",
       "title": "£600 for cheese? The Brazilian beach scams that cost visitors dear",
       "url": "https://www.theguardian.com/money/2026/may/24/brazilian-beach-scam-debit-card-con-kebab",
@@ -321,20 +335,6 @@
       "date": "May 8, 2026",
       "rawDate": "2026-05-08T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1778325383081-4fgn9i",
-      "title": "Canvas Breach Disrupts Schools &#038; Colleges Nationwide",
-      "url": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 8, 2026",
-      "rawDate": "2026-05-08T02:58:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

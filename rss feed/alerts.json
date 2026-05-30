@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-05-30T03:28:30.382Z",
+  "fetchedAt": "2026-05-30T13:39:32.077Z",
   "alerts": [
+    {
+      "id": "alert-local-1780148370815-1hn0uw",
+      "title": "How to File a Cyber Fraud and Online Scamming Complaint in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQamI0Rmp1amRMaXhBX0xxbmt2WjBfa3ZiVEhWbG1XVG02ektSSWhwbWZYWXViLUdSS2JFdDdITHN5Y1pES1lXZTMwWGt1aEV4ajYxNF94SDNRZEplcFFCaUpvMnp5V0lxNUFvRUdjNHYyMXl6dWoybktQZkMzOGVxMDUtTFhkNzhhU0ZGLWpjeTU3eUhrekN6Qmg2X3FZV1hscHp5X2F5M3JTbHd5aUlDWg?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 30, 2026",
+      "rawDate": "2026-05-30T03:19:45.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780111709114-6f23ft",
       "title": "WHICH OF THE FOLLOWING SCENARIOS BEST EXEMPLIFIES A PHISHING ATTACK",
@@ -153,20 +167,6 @@
       "date": "May 27, 2026",
       "rawDate": "2026-05-27T06:16:49.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779854022993-21w25h",
-      "title": "Phishing with PNB Credit Card",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15WmVRcjh0Q0N2amoxVVZXUmhmcHdaelhSVnVuSUc4OGNLWkFlSWlqRHZCUy1OWnlPVHVYeVVrTDRNdEd0VldSclZtOWg2c0Q1MnpRcEo2MnFWdFFfYW1KWUVac1VudU1VVjFaaG5jS243d1FS?oc=5",
-      "source": "www.foi.gov.ph",
-      "sourceLabel": "www.foi.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 27, 2026",
-      "rawDate": "2026-05-27T01:01:07.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
       "scope": "local"
     },
     {

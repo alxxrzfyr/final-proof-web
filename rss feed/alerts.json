@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-05-29T15:34:07.614Z",
+  "fetchedAt": "2026-05-30T03:28:30.382Z",
   "alerts": [
+    {
+      "id": "alert-local-1780111709114-6f23ft",
+      "title": "WHICH OF THE FOLLOWING SCENARIOS BEST EXEMPLIFIES A PHISHING ATTACK",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQemxSRy1TT0Z5U1Y3UEk2ZExncFJ6YjBCcURVY0dDU3d3ZjZTVUNWcVc1SFFFUmZNUUpHbEg5SHRkeDRSdER4WERPZ0swakpiMWdWS1d5WkpwWXJYZmhBay1rLUZ2dVR0bkdNbk83VXZJRjFpcVZ0T044RmwtQWVZRzgyQWRmNjJGRjBMWDZkazNQMnR1cl9Qb2ZNeTZpWnFOV2xUclZ5MG16RWRTSGVOZGxpTTR1QWpWbWVfQkExTkxJdVF1Zlo3dU9PdkxHdjQ?oc=5",
+      "source": "jbncr-xavier.jfc.com.ph",
+      "sourceLabel": "jbncr-xavier.jfc.com.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 29, 2026",
+      "rawDate": "2026-05-29T18:54:27.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/jbncr-xavier.jfc.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780068846253-0u5nwb",
       "title": "Identity Theft Report to PNP Cybercrime Group",
@@ -41,6 +55,20 @@
       "date": "May 29, 2026",
       "rawDate": "2026-05-29T08:13:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780111709574-z6cuag",
+      "title": "Fake ChatGPT, Claude, and Gemini apps fuel surge in global malware attacks—Kaspersky",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM21Da3hwUllDUzRSYVFPaWFkSWNXWTl2X19nS1k4OFhpWkgzTGQ1RzRVbHRTODlPbWN3dV9UcXpfVkk4M0ljUEF6WkZ0NWhvYjUxS24zNEtRQWdTblZHaGFfZEFfTEs1QThoUHJ0WU5JbGN1enA2TkE2dU9mNkgxWXo2aVdMbEhKQW1waXZabVN0bU1iWDluWWFIQ3FhVWQwX2xoQkdmbXNlV2c?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 28, 2026",
+      "rawDate": "2026-05-28T18:53:01.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -100,20 +128,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1779983839025-tter1",
-      "title": "Fake ChatGPT, Claude, and Gemini apps fuel surge in global malware attacks—Kaspersky",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM21Da3hwUllDUzRSYVFPaWFkSWNXWTl2X19nS1k4OFhpWkgzTGQ1RzRVbHRTODlPbWN3dV9UcXpfVkk4M0ljUEF6WkZ0NWhvYjUxS24zNEtRQWdTblZHaGFfZEFfTEs1QThoUHJ0WU5JbGN1enA2TkE2dU9mNkgxWXo2aVdMbEhKQW1waXZabVN0bU1iWDluWWFIQ3FhVWQwX2xoQkdmbXNlV2c?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 28, 2026",
-      "rawDate": "2026-05-28T07:36:16.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-local-1779983838541-a3ltci",
       "title": "How to Report Online Fraud in the Philippines",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMHFYRmN2bTNOcDZMM2hURWNPQ1FGUy0wcl9rWUwzNHRRS2tsUDdHV1RzdlptNUIzOHhsVFFpSjZRNUJXSHlWaGJKUE5OMWJhN0NiZnRVQmRLa2FQamN4bmxrOHZYSWRzaFIyMWhtLWlrQ2oxalNYM0F5ZEVFbXZlMGIyamZGaF9xLUE?oc=5",
@@ -153,20 +167,6 @@
       "date": "May 27, 2026",
       "rawDate": "2026-05-27T01:01:07.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779854023664-x5mx9f",
-      "title": "Cops catch 63 investment scam suspects",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUXF1dk1lcmlnVHR3bDNtZVExdGQ3aExPZTcxcjdtQncyd2N3aVk3dU51ZTlRZG84QnJlejc5U20xQUtCdlpHMy1SYklrSzlKY05DTXBmaWxrUkVENmdCc3BtRXc2ZmJMUlB4RksycXk3VnJyWmNkUFRZVWRqeHgzWklB0gGHAUFVX3lxTFAyemlYQTRVNlpMTVFGakdEeVYwc1FDTng0V1NELURuUTYtLUNkYUQtRmhyYUtxTHpqZlN6elVQcU9VVmdTbU1ORGdWd3pnNmJhSEdWc2Z6c0Q2bllFcDFxamlGMXNLd3JRX2xWZkFSUks2ZTRHSDdSYkhpemVpNWI0Mzh1QXN5MA?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 26, 2026",
-      "rawDate": "2026-05-26T20:50:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
       "scope": "local"
     },
     {

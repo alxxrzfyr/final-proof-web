@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-31T03:55:07.341Z",
+  "fetchedAt": "2026-05-31T13:46:02.614Z",
   "alerts": [
     {
       "id": "alert-local-1780199705950-vjk5dg",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1780235161122-dcpaph",
+      "title": "‘Your devices could be at risk’: how McAfee antivirus scams trade on fear",
+      "url": "https://www.theguardian.com/money/2026/may/31/virus-software-scam-trade-fear-urgent-renewal",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 31, 2026",
+      "rawDate": "2026-05-31T09:30:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1780025973056-p9uc3e",
       "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTQ2bVJfeTJreVFBb0F4bXQ5M0dEd2lPWmlQdjJpbnZ6a2VybUowTUw3V2phTkw4ZmVKQXVhTEVUd1R3YklGbF9mQy1lVkhobGdGdWhoSElfaVFwOXFpRXRDWk4wbXB0QVVKdjNTNWZPeXVWNTN2emJvcEg4OHZvUTFHc1pCby1YdHlv?oc=5",
@@ -321,20 +335,6 @@
       "date": "May 9, 2026",
       "rawDate": "2026-05-09T20:55:15.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1779460833252-ug60iq",
-      "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX0xFcmVYLTF0WHh2eTJsVlp0SnplSDd5RTZma05tUHdGNFpMOFZRZTIxc1pEOXpMSm9taWR5VnZ2OUh4QjZOZUVJRkVkWEpCaUM1MzNWTEpObXBwYVpvdWpwQlYxLTFnT2kxcEtCVzVJZVFBVTZUQ1g0S2xreXhwVmRR?oc=5",
-      "source": "WIRED",
-      "sourceLabel": "WIRED",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 8, 2026",
-      "rawDate": "2026-05-08T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
       "scope": "international"
     }
   ]

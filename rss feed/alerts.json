@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-05-30T13:39:32.077Z",
+  "fetchedAt": "2026-05-31T03:55:07.341Z",
   "alerts": [
+    {
+      "id": "alert-local-1780199705950-vjk5dg",
+      "title": "Gaming App Scam Complaint in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkpNTzRLT3FHOHU4amxOTGdfenJUZXk2R3lzZUU0VDlncmV6S3FBN2htbFpFM3RfMFg1LVcwNVNmeTZSNzlYQl8zYXRiS1NtNXlCZDAyVFVpUFhqTGl6WXlxZXc5SktKY2ljMjd2WmNhaHJXSmxGcHNEbmItMGlpMm5JMXoweF9B?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 30, 2026",
+      "rawDate": "2026-05-30T13:59:49.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780199705948-bn2x4",
+      "title": "Bank Transfer Scam Report Requirements Philippines",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNVZ2M2wtY1RiUzVzSzVJNlB6Z3BCbWs3endKYjlLXzRiT19vaFRCdjZWakRvejZxeW9wU0VmSW1yZjhRTVRuZnY0cUFOd0g5NWhzSDJtcnA1T1AwM1V2emp6bXdtXzRJcUVpSGJ1amZFc1hBQUlKWjBueVlXNHJDQnFSeFJleTZBYUxNMnNaY0k?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 30, 2026",
+      "rawDate": "2026-05-30T13:36:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780148370815-1hn0uw",
       "title": "How to File a Cyber Fraud and Online Scamming Complaint in the Philippines",
@@ -13,6 +41,20 @@
       "date": "May 30, 2026",
       "rawDate": "2026-05-30T03:19:45.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780199705948-fhyy25",
+      "title": "Online Scams in the Philippines: Legal Remedies for Victims (2026 Guide)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3RseW5LU1hKNm51c1FrM1FKN1B6VlJEZjFTMlliNzM2c0JSZHRXZzktV2ltck1sNkxrWHkzSmR0TDI1Uy0tQkY1NEU4MGJIcHJLbjRVUnN6ZmNNWE5vdzcxeUpfejY1TTlua1hhZmV4LWR0X2hPNFVJN3poM3dYR1FRVVpNWEo1ZWhSOHBHMmI1SWxSY2paaU5NQzg?oc=5",
+      "source": "Legal Tree",
+      "sourceLabel": "Legal Tree",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 30, 2026",
+      "rawDate": "2026-05-30T02:23:06.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/legaltree.ph.ico",
       "scope": "local"
     },
     {
@@ -125,48 +167,6 @@
       "date": "May 28, 2026",
       "rawDate": "2026-05-28T09:04:32.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779983838540-jdvz2",
-      "title": "Unauthorized Bank Transaction and Bank Fraud Philippines",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1ZWSWJTb3BtSDlIdTl4V005WnpOVFA5eklINW1MbTNVc2RXTVZOZEZoTGxHZ1NEdF9CUGF0WUxwaDYyWXROQklsTkxTTjdIcWFFNVNKV2JydkFiUjRhYm1TamlWd0JOTmRFSjdWekNSc19wWkx4cDdTaUludEVJaDdkRnVta01qZ25GeUZzaUhocnBlZjU4Nw?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 28, 2026",
-      "rawDate": "2026-05-28T09:01:18.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779983838541-a3ltci",
-      "title": "How to Report Online Fraud in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMHFYRmN2bTNOcDZMM2hURWNPQ1FGUy0wcl9rWUwzNHRRS2tsUDdHV1RzdlptNUIzOHhsVFFpSjZRNUJXSHlWaGJKUE5OMWJhN0NiZnRVQmRLa2FQamN4bmxrOHZYSWRzaFIyMWhtLWlrQ2oxalNYM0F5ZEVFbXZlMGIyamZGaF9xLUE?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 28, 2026",
-      "rawDate": "2026-05-28T07:34:45.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779896593146-auccj7",
-      "title": "Converge bans over 72,000 illicit domains; Smart blocks nearly 1B scam texts",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeEZlellKUWhDdDNjZmFPYXVqYjRzYVRYMTA5dldtUTdEeWw4ZXhjUWRhdWhFN0N4cF9NeEVSTldIVXVwM0lUcjVoY0NoRV9yX1NJQ2N0QjBhWnh5cG5tZE1jcjV6RVh2WTducHVQUmJ4cEJzMWFOM0hGSDdPUFowclowZWRVX1FCaHYtbVRPbVR6STEtMkxjZzA3OWkwQ2UxdW1xd1VTUWRxNUk?oc=5",
-      "source": "Newsbytes.PH",
-      "sourceLabel": "Newsbytes.PH",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 27, 2026",
-      "rawDate": "2026-05-27T06:16:49.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
       "scope": "local"
     },
     {

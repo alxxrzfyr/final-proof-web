@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-05-31T13:46:02.614Z",
+  "fetchedAt": "2026-06-01T04:08:01.289Z",
   "alerts": [
+    {
+      "id": "alert-local-1780286879845-55qu8b",
+      "title": "How to Report Fake Bank SMS Phishing in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTBscmxvRjNNZnN0QTlTa1VmclV4MWljSVJ1cGVaZVZIMm9Sa2NoVjBvdGVhLUhxNnFQemp0UENORTVMQVhJNmV4bnZrOUd0eWJrSEFsTmhYdkZxWTk5SjFHRWl3UUp6cHJRZXdtSXVvUlQtYnhsWUc2ZWJGYVV4RURMLUVoV094TE9qQ3ZGelFPcHFNOGdr?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 31, 2026",
+      "rawDate": "2026-05-31T13:46:12.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780199705950-vjk5dg",
       "title": "Gaming App Scam Complaint in the Philippines",
@@ -152,20 +166,6 @@
       "severity": "medium",
       "date": "May 28, 2026",
       "rawDate": "2026-05-28T09:50:18.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779983838539-c3b4dj",
-      "title": "Government Assistance Phishing Message Philippines",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLWhGbVhwS1pnM3ZZcVp0MV9HQS0wU2FJWjJRbjZlYTRybFA5aUdNR3lLOVQxWm1nWnNKN2hxS1JZNmE4NlBNa3d5LW9YaVJmWEpielBJam8yRU5Pb3ZQa0V6Q01IcTN3LVRZcGVVZVRmdUUtY29SYjJzSzVnZWx2dVZEZFJHTUhNeU9MejhGR1E?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 28, 2026",
-      "rawDate": "2026-05-28T09:04:32.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },

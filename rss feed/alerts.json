@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-01T04:08:01.289Z",
+  "fetchedAt": "2026-06-01T17:40:25.212Z",
   "alerts": [
+    {
+      "id": "alert-local-1780335623837-cez7j",
+      "title": "TikTok Task Scam Recovery in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEF6bWx1MkpkclVId2ZJS000b2oxM2loU3NDZU40V0c4N0hwN2ZRb1BUY3VTZ01jNXhKV1VIY2FQMV9TSlJnRE9CM3VPaXVjQ2pIYk51Wjc2UHBxNng2Qk44LTJ5d01Qam5vUHJHTjloQU9taHdmZmZKMWlqUzdyeklRU1hEMFZL?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 1, 2026",
+      "rawDate": "2026-06-01T12:44:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780286879845-55qu8b",
       "title": "How to Report Fake Bank SMS Phishing in the Philippines",
@@ -153,20 +167,6 @@
       "date": "May 28, 2026",
       "rawDate": "2026-05-28T10:37:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779983838541-n3d5r",
-      "title": "Fake Lawyer Email Payment Demand Scam Philippines",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdkZDVW1Ib3NDSkc2Qm42eXJ0cmpCcWw4dlJpTkV2c3E2T2x4dmdnWkt3b29DcmFucGFMSWpDUUNKVm9XNmM4Z3dBUTlrRXNwN18tOUhGRTFaeVZuNFRpOTAzLWVISmRLR25nV1NnODJ3Q2R3MzRUQmdPSmRHbWh6dFptRjlJcW14N1l3M0pCVQ?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 28, 2026",
-      "rawDate": "2026-05-28T09:50:18.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

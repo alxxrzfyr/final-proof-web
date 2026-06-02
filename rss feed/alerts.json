@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-01T17:40:25.212Z",
+  "fetchedAt": "2026-06-02T04:01:53.177Z",
   "alerts": [
     {
       "id": "alert-local-1780335623837-cez7j",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1780372910456-7djqh",
+      "title": "Hackers Used Meta&#8217;s AI Support Bot to Seize Instagram Accounts",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 1, 2026",
+      "rawDate": "2026-06-01T17:32:50.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1780235161122-dcpaph",
       "title": "‘Your devices could be at risk’: how McAfee antivirus scams trade on fear",
       "url": "https://www.theguardian.com/money/2026/may/31/virus-software-scam-trade-fear-urgent-renewal",
@@ -321,20 +335,6 @@
       "date": "May 11, 2026",
       "rawDate": "2026-05-11T09:17:41.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1778578058918-wufw1k",
-      "title": "Pennsylvania attorney general warns of new email invitation phishing scam",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0RaUWJTMl9HOUdJWFl4VG11NlpNX0dRakJEbFRWaEZNUWhZS2JTd09Ub0loU0otekt1aTlpYTJkQWg5M1pvMGtMeXlLU0RGTzB3dDFKY2UtdUktQTR0c21XbThweGljT0JVdVpEcmQwa2JWWDZycGlMU2xhcmdubWdkVjRDZVByNFZMQVJjajRoZTlfMFZV?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 9, 2026",
-      "rawDate": "2026-05-09T20:55:15.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-06-02T04:01:53.177Z",
+  "fetchedAt": "2026-06-02T16:26:23.167Z",
   "alerts": [
+    {
+      "id": "alert-local-1780417578835-fhtjl6",
+      "title": "How to File a Bank Fraud Complaint in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjBTRFlSOWZIaEpHdEdEZm8zNkdXU09rMTlBaWcyS1plX0JGdHpTREdTOFhxUXR0djFhNTgxMW1Zckg4azB3ZmdHT0pFMVRaSGJJdE1KN3JEQ3hWcVlkVWZLVFFPakZLbU5IRVNMb2gzN2JVM0Q5dDNCeGRFenloU051d3J2T2VlWC1GMi1xSlVTXzVj?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 2, 2026",
+      "rawDate": "2026-06-02T13:24:58.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780417578836-tf09eq",
+      "title": "Facebook Account Hacking and Cybercrime Remedies in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEc5OFpfaVhHNTcxcTFDd2pkVDVDTlJpeFR6dk1fd25fNFNvYnF1UUZVT25SSHZSbHQwaWhLaXNQYjhDenR2cUY1Y1Y1WFhjcW5faE52Ujd4dFZYMms4MVVESmhLdUltbF9TSEtmMHU0RDBrdjBWV2xqZzY1cDBzbVFRWnZLYkhIRHhOOFJDUG15Sy0tRG1mdVhDUjRxbkdKdkdZbVhSQQ?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 2, 2026",
+      "rawDate": "2026-06-02T13:24:36.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780417581502-8j7rfd",
+      "title": "Man nabbed for allegedly trafficking victim to Cambodia scam hub",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnhwR0VnY0FnWElPUGg3eHA4WHhNVkFfVjlpdzlRUEQ1dlRIUGczRUJTc3NOZnU0dklUTEliQmxhMUVrTE1OemRYdjhIQlpWbmJRUWtTekV5UW1vbzd4U3BxYTNFeG8xYm1Cd0hpcFlORVNVR28wSlVkdDNNczZkYXJ2VEZ1TFJ4SWpzMlRheFRncnJyZzJRMExibjZKY2tNWmQzYjdGTkLSAa4BQVVfeXFMT2NzM3BGdzFxamdBZXFieTZGTFBlUDJMR1RZVUpJVVY5TWFMbmpPYjJuZ1hsQXlqNmVkQVFuNnJtNG16Uk55cWNQcF9GVGEzNEhLNGFUanlSTzlMemlpNzJDZUFnR1Q2Rzl1b3IxWEtJbEdQN2NiZnhKMmgwM2VlakpiMEdHWFNZV0RfMlROeGJqV0NxYXNVSWJ2alczSF96VG5KakZMTjZGdlNqYWlB?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 2, 2026",
+      "rawDate": "2026-06-02T07:16:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780335623837-cez7j",
       "title": "TikTok Task Scam Recovery in the Philippines",
@@ -128,48 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1780068846898-7ye8l",
-      "title": "SEC warns public against surge in online loan scams",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDJPYzNBYjV4X0hlRGdpcVJid3QwWURuci1vdEM1RTRTMHFjZE5hRUhOQTFzbXNReWVkNWRBbHc1RWRzSEYzdmhfaG1TYUs0eWVYWHRUdEk0SXVzQnFJTWpUQ3BEa0hDZGlCWk1tUGtyQ2RzYlZGdXlGUFRlTXZFT1BUUDVaRWJCWmVqa0ppTElWUdIBlwFBVV95cUxPNXJnOXBIWUtuYmI2d2hOTlR5WE0wY1R2RE1HSi0xMVpVeThZY1h0MnF1YWVpcWdNYW1hVjBfaVg5SFlhSER2SUMzX0hNcHVPTlBMVEVZcGhQV2dTOTkxT0xMM1NRZkpOeEJxcTVqT0g5by00SVlsZ1hNSmYyZ0VoODdmQkcxWmdnTDkxRDE5a0gtcjBIYkFB?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 29, 2026",
-      "rawDate": "2026-05-29T08:13:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780111709574-z6cuag",
-      "title": "Fake ChatGPT, Claude, and Gemini apps fuel surge in global malware attacks—Kaspersky",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM21Da3hwUllDUzRSYVFPaWFkSWNXWTl2X19nS1k4OFhpWkgzTGQ1RzRVbHRTODlPbWN3dV9UcXpfVkk4M0ljUEF6WkZ0NWhvYjUxS24zNEtRQWdTblZHaGFfZEFfTEs1QThoUHJ0WU5JbGN1enA2TkE2dU9mNkgxWXo2aVdMbEhKQW1waXZabVN0bU1iWDluWWFIQ3FhVWQwX2xoQkdmbXNlV2c?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 28, 2026",
-      "rawDate": "2026-05-28T18:53:01.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1779983839266-s01dya",
-      "title": "Online booking scams: Summer travelers urged to stay alert",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXFSVDlfRzlIWHdVLTRtMGNwTmxWUUN4cGgzM1RBVGlwa2h2T1V3VThtaFN5TWxzR2hveXRxd1BPUmJ0cE5NV2ZUOFZTZ3ZDbnVXSGRpMzU3UE13WGszZE5LSldsYWg1UjhDUnE0YUpyQm05U0pQLVRXTGJfMHJFajlleG5FY0tWdldzWE1lbjFPdm5QeXAyV2IwbG4wLTJB0gGmAUFVX3lxTE9KUjRwY1owOEVMbFJCMkxWbUZPdHBQc3dQUEhZdW1wMVNNWUtLSF9kVlY1N0laQXl6NkJkUWNPblpRNWYzbjFxTEM5M3dYMENGVUZ2eEdCOC0wVFRyRTY1cGRzaU9IYkluSXBfVGpWZ1lxdWpwV1BUamVBMHBvV2NmbUZqeW5sSDlLYjJlVW5oT3B1OWNGX2hwYnVPSF9EckJhdEJHRWc?oc=5",
-      "source": "Cebu Daily News",
-      "sourceLabel": "Cebu Daily News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 28, 2026",
-      "rawDate": "2026-05-28T10:37:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-1780372910456-7djqh",
       "title": "Hackers Used Meta&#8217;s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -195,6 +195,20 @@
       "date": "May 31, 2026",
       "rawDate": "2026-05-31T09:30:42.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1780417579554-ezhbvo",
+      "title": "Hackers are trying to steal Signal users’ backups in new wave of widespread attacks",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2g1MXdWS3hudjd5OWdKOTRvdUhZQ3dlZkdJXy1xaEFCRUhGdkh6b2ZkeVBQd201VzIzV0kzdU14UE5zX2E3Skw2SllESk1wZVRVZTVqWHZEVFRaVXZuUFNNLWEwYzQteVo1LUhheHpuNTFaeHpsTmV2bmR5SW9GaG9Cc096aU4zQTVBT2lidHJxRUNCeFRHWlUwOFlteFJPQnQ2aUNqeFJNMmlqMlVpVkt0YTNTQQ?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 28, 2026",
+      "rawDate": "2026-05-28T19:07:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
       "scope": "international"
     },
     {
@@ -321,20 +335,6 @@
       "date": "May 12, 2026",
       "rawDate": "2026-05-12T21:52:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1778578058339-pwqbd",
-      "title": "Can you move your pension to dodge inheritance tax? Fraudsters say so",
-      "url": "https://www.theguardian.com/money/2026/may/10/pension-scams-inheritance-tax-loopholes-iht-rules-savings",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 11, 2026",
-      "rawDate": "2026-05-11T09:17:41.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-06-02T16:26:23.167Z",
+  "fetchedAt": "2026-06-03T16:50:22.246Z",
   "alerts": [
+    {
+      "id": "alert-local-1780505420750-8xplz",
+      "title": "Two foreigners, 11 Pinoys get 3 years for crypto scam",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGNlMTB5RHV5My1jTlBJSDh2TFBtbjNwT3cxakRkNnRobGpwTGFjWDFJTlQxbERVNS1DRGFPRXVMeENPZ19TN2JOM0Y4a0RmbXMxYU8tVHpWSXQ5dGhlQmdVQjBBTnc2SlpKLXB5LWJTU1RCWHoxV19yTjVvR0hSMm1YMDlGWlhS?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 3, 2026",
+      "rawDate": "2026-06-03T08:26:09.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780505420751-mnuylk",
+      "title": "Online scams are evolving—here’s what to watch out for",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWng2N2l2UkVVVmN2WE9oVmFXel9GeHA4RGZKRGllMUYtYkVvMXRIT1o0eEJSMDl6V3VndVF1MkNCVUFNTWFfWDZ3dk9wMkxnQzRKRmJzWnB1WkZHeGhnNlV5LXJKUmREdEVtYXdlMDZkNEZsUlNpbVZyenJIOFpxNg?oc=5",
+      "source": "speed.ph",
+      "sourceLabel": "speed.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 3, 2026",
+      "rawDate": "2026-06-03T07:03:22.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.speed.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780505420754-6laa8d",
+      "title": "How to Report Online Scams and Cyber Crime to PNP ACG or NBI Philippines",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1FfU1FkTzd6VjBLclpGdElqOWxjNVY0aFlDNFRQMXFuemlnbkNmSUJQQ2NEWThVSFJ6RHFBT05aR01GOU5Ta25nV0Vhb1E1UWJoNUFISzd4T1VnRy1sS3FPd0NYQWM2clJfM0lLbUYteTJnMkJSNVdMdXZqMDJlbmx6Z04wSDhmMENWLXRUOGNWTFIyTTA0TWR6VEFacWR6aXJMTFZVVmVnNlpoOHlnSg?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 3, 2026",
+      "rawDate": "2026-06-03T04:57:39.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780417578835-fhtjl6",
       "title": "How to File a Bank Fraud Complaint in the Philippines",
@@ -125,48 +167,6 @@
       "date": "May 30, 2026",
       "rawDate": "2026-05-30T02:23:06.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/legaltree.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780111709114-6f23ft",
-      "title": "WHICH OF THE FOLLOWING SCENARIOS BEST EXEMPLIFIES A PHISHING ATTACK",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQemxSRy1TT0Z5U1Y3UEk2ZExncFJ6YjBCcURVY0dDU3d3ZjZTVUNWcVc1SFFFUmZNUUpHbEg5SHRkeDRSdER4WERPZ0swakpiMWdWS1d5WkpwWXJYZmhBay1rLUZ2dVR0bkdNbk83VXZJRjFpcVZ0T044RmwtQWVZRzgyQWRmNjJGRjBMWDZkazNQMnR1cl9Qb2ZNeTZpWnFOV2xUclZ5MG16RWRTSGVOZGxpTTR1QWpWbWVfQkExTkxJdVF1Zlo3dU9PdkxHdjQ?oc=5",
-      "source": "jbncr-xavier.jfc.com.ph",
-      "sourceLabel": "jbncr-xavier.jfc.com.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 29, 2026",
-      "rawDate": "2026-05-29T18:54:27.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/jbncr-xavier.jfc.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780068846253-0u5nwb",
-      "title": "Identity Theft Report to PNP Cybercrime Group",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObXZYXzNybnpZdnAyWjdiT3BLNE4yYjdBN04zdzByLTY5S05nSEpFVnFtbkR0Skd0d0laZzhQaV9MYkhxSEt5TGZvSHpVMUU2MmtYcjNsUmZoVEFNS1lnV21Dd0x2Q0k4ZFduWE1wQWx4akVtQnJmT1F6OFJmcGo0ZjNjUEJlVHBvbkE?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 29, 2026",
-      "rawDate": "2026-05-29T13:31:02.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780068846251-bt7v58",
-      "title": "SEC flags loan, bank impersonation scams on Telegram, Viber",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWhMMEhYSDlPLV91dXFiaTAwS0IxX2N4N0IxSjdXbE0zanoxaG5lNGdyM0ljb2RrSnVjd2YyRDJLczk4WjJzY3VzSVFJc1Q5R0s4NXdKeGo0aTBTVVBYNE0yU3NweDB4OVpOeV82cVdURllSbEdjeGZqZDVNRFQ3VkdZZVcwa1libzUxQUdSTQ?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 29, 2026",
-      "rawDate": "2026-05-29T10:28:05.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
       "scope": "local"
     },
     {

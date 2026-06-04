@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-04T04:04:15.676Z",
+  "fetchedAt": "2026-06-04T15:16:35.019Z",
   "alerts": [
+    {
+      "id": "alert-local-1780586194810-b0x4ga",
+      "title": "Two foreigners, 11 Pinoys convicted in Mandaluyong crypto scam",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0p2SFF5a0M3TGR4MEI0M1hVR0JtbXVaY1pvTzk2bVVGenctMUNTQkxxb1hxTElBdmlDTmVqVXd3VnR0NE1CdG92OGhwRVZRSS02eWVJN3hmRjkzdHljTWEyYXZvQndaZjZZRVJGaS12eHBOWmxBcDZBMjJpUE1Fa1NfVUZycE8tSW9ITW9NRFZpeHZwRUQzelI4QktyZw?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 4, 2026",
+      "rawDate": "2026-06-04T04:27:52.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tempo.mb.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780545854459-s2jryd",
       "title": "Legal Remedies for Online Scam Victims in the Philippines",
@@ -152,20 +166,6 @@
       "severity": "medium",
       "date": "May 30, 2026",
       "rawDate": "2026-05-30T13:36:42.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780148370815-1hn0uw",
-      "title": "How to File a Cyber Fraud and Online Scamming Complaint in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQamI0Rmp1amRMaXhBX0xxbmt2WjBfa3ZiVEhWbG1XVG02ektSSWhwbWZYWXViLUdSS2JFdDdITHN5Y1pES1lXZTMwWGt1aEV4ajYxNF94SDNRZEplcFFCaUpvMnp5V0lxNUFvRUdjNHYyMXl6dWoybktQZkMzOGVxMDUtTFhkNzhhU0ZGLWpjeTU3eUhrekN6Qmg2X3FZV1hscHp5X2F5M3JTbHd5aUlDWg?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 30, 2026",
-      "rawDate": "2026-05-30T03:19:45.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },

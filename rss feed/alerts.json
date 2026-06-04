@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-03T16:50:22.246Z",
+  "fetchedAt": "2026-06-04T04:04:15.676Z",
   "alerts": [
+    {
+      "id": "alert-local-1780545854459-s2jryd",
+      "title": "Legal Remedies for Online Scam Victims in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tVE9iTFNSUGdyMDRwNjN6OTRtUEFMbVhzek9DWnktWVo1ZndzV1ZCOGFHNmlESmVhcG9uSklPN1pHWUNuVGhwZDd6cWlkenY4MkN2eHlqblVkTnVFSVl0eXJIcHlLUV9Bb3NrOWpobkdnMEJkS2c?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 4, 2026",
+      "rawDate": "2026-06-04T01:37:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780505420750-8xplz",
       "title": "Two foreigners, 11 Pinoys get 3 years for crypto scam",
@@ -153,20 +167,6 @@
       "date": "May 30, 2026",
       "rawDate": "2026-05-30T03:19:45.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780199705948-fhyy25",
-      "title": "Online Scams in the Philippines: Legal Remedies for Victims (2026 Guide)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ3RseW5LU1hKNm51c1FrM1FKN1B6VlJEZjFTMlliNzM2c0JSZHRXZzktV2ltck1sNkxrWHkzSmR0TDI1Uy0tQkY1NEU4MGJIcHJLbjRVUnN6ZmNNWE5vdzcxeUpfejY1TTlua1hhZmV4LWR0X2hPNFVJN3poM3dYR1FRVVpNWEo1ZWhSOHBHMmI1SWxSY2paaU5NQzg?oc=5",
-      "source": "Legal Tree",
-      "sourceLabel": "Legal Tree",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 30, 2026",
-      "rawDate": "2026-05-30T02:23:06.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/legaltree.ph.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-05T03:50:44.248Z",
+  "fetchedAt": "2026-06-05T14:52:30.714Z",
   "alerts": [
+    {
+      "id": "alert-local-1780671149274-6v7rlfb",
+      "title": "Tag: crypto scam",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Mbk1fYkoxeFVCcVd1d1FEVHRuODZEb2ZEaktuSlEybERpZWJBUkNEenRhZHBKdmlrR0s0dWV3eGE5OEtkMHBvUF8wRkJTa3lqM2c?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 4, 2026",
+      "rawDate": "2026-06-04T18:38:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tempo.mb.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780631442887-njyrlg",
       "title": "Online Scam With Scammer ID Legal Remedies Philippines",
@@ -152,20 +166,6 @@
       "severity": "medium",
       "date": "June 1, 2026",
       "rawDate": "2026-06-01T12:44:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780286879845-55qu8b",
-      "title": "How to Report Fake Bank SMS Phishing in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcTBscmxvRjNNZnN0QTlTa1VmclV4MWljSVJ1cGVaZVZIMm9Sa2NoVjBvdGVhLUhxNnFQemp0UENORTVMQVhJNmV4bnZrOUd0eWJrSEFsTmhYdkZxWTk5SjFHRWl3UUp6cHJRZXdtSXVvUlQtYnhsWUc2ZWJGYVV4RURMLUVoV094TE9qQ3ZGelFPcHFNOGdr?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 31, 2026",
-      "rawDate": "2026-05-31T13:46:12.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },

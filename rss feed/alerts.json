@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-06-04T15:16:35.019Z",
+  "fetchedAt": "2026-06-05T03:50:44.248Z",
   "alerts": [
+    {
+      "id": "alert-local-1780631442887-njyrlg",
+      "title": "Online Scam With Scammer ID Legal Remedies Philippines",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXlRUk5IZnNJWWFHTFN0bmx2a2E5b3BuNTNpN004WWJDdzNZbGg2bm5JdmdmVUpPeEExTW1YMkhXbF82OGZXSTB0SHhLNDY3alM2TmM5LUFjM2JwUGFVRHFHNWN4SkszZHVQMjU1amQ2dmNuVVc3aFZaUklENnJjUXpqanNrRmZ0NUxqSEEzNVluN2hYNUE?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 4, 2026",
+      "rawDate": "2026-06-04T05:34:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780631442886-23xu6g",
+      "title": "How to Trace and Report Online Scammers in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmM2bjQzNnNacDVCNW5SVUpZY2FIc2hZQVFXOW1DVF9RWkV5ZTUteU4taURjbXZfcWlzRDRKMGlhbVBYRDFDSXIzWTF3Q1RyTWc3QzRyWVlPME1yVDVtR2pIRVhWSEJYTTFOQl9MRlZ5MXhuWEJXOWVxdTlvbjAtMzRicE5oM0tTNjV5TWJwQUtQQmdrMDFkV1RqTQ?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 4, 2026",
+      "rawDate": "2026-06-04T05:19:34.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780586194810-b0x4ga",
       "title": "Two foreigners, 11 Pinoys convicted in Mandaluyong crypto scam",
@@ -142,34 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1780199705950-vjk5dg",
-      "title": "Gaming App Scam Complaint in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbkpNTzRLT3FHOHU4amxOTGdfenJUZXk2R3lzZUU0VDlncmV6S3FBN2htbFpFM3RfMFg1LVcwNVNmeTZSNzlYQl8zYXRiS1NtNXlCZDAyVFVpUFhqTGl6WXlxZXc5SktKY2ljMjd2WmNhaHJXSmxGcHNEbmItMGlpMm5JMXoweF9B?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 30, 2026",
-      "rawDate": "2026-05-30T13:59:49.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780199705948-bn2x4",
-      "title": "Bank Transfer Scam Report Requirements Philippines",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNVZ2M2wtY1RiUzVzSzVJNlB6Z3BCbWs3endKYjlLXzRiT19vaFRCdjZWakRvejZxeW9wU0VmSW1yZjhRTVRuZnY0cUFOd0g5NWhzSDJtcnA1T1AwM1V2emp6bXdtXzRJcUVpSGJ1amZFc1hBQUlKWjBueVlXNHJDQnFSeFJleTZBYUxNMnNaY0k?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 30, 2026",
-      "rawDate": "2026-05-30T13:36:42.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-1780372910456-7djqh",
       "title": "Hackers Used Meta&#8217;s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -254,6 +254,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-1780631443638-48h8s2",
+      "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEMwWi1PTGI4OUV0QWVKbWYzOW5JNFhIMUVuSkJIYzhfV1lGNUF1VFJCbE0za1BUcHJUb2NXOGYzRGpPb3RKZzdxTlc3UnBHVENLVHRfVlNlb2tkTnRVMmlVN3pVdm9vWmxDdUMxVF9WYjlFTDhxWGV5a0xWLWdNVzhBSGZRaUdvZUFhRnlLUEVBUkdCOVpET1dESzhYMkdRclkzaDFuVXhkNUgz?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "May 21, 2026",
+      "rawDate": "2026-05-21T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1779983839012-dvytwf",
       "title": "Delano becomes latest Minnesota school district hit by ransomware attack",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWpLTUY3MF9YS0EtTzh3amFnUWRBS1MwSWN1RTdrbGEwZDR1czVrV3hFQnQxeDRjMXBRTG5JOExfTDNNdjdUTHFhRWRMYVg5cGZHc2NUeVdoWmctZU9RdFZFX0tMRXlTUGVXbjlCVUFqU18tb1lvUFBjRFBCaVFOQnJB?oc=5",
@@ -321,20 +335,6 @@
       "date": "May 13, 2026",
       "rawDate": "2026-05-13T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1778643009628-qudjhl",
-      "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUpEZnZQS2ZtWGFqa1I1Z0hoR0I0YUdHZXZsZFR5c2ZUM3ZZN3JJSkJIZmxwdGs0anNxMHE1Y3RlbDZONkRZd2o4S3RlZmNOWmkxREQ0OVVBekJuMURQbHRUQjVPaklXY0RrMU9admZrRHh0M2NXamFuZmlUWWhQYW52ZEM0cm14V3pXcA?oc=5",
-      "source": "WIRED",
-      "sourceLabel": "WIRED",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 12, 2026",
-      "rawDate": "2026-05-12T21:52:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
       "scope": "international"
     }
   ]

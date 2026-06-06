@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-05T14:52:30.714Z",
+  "fetchedAt": "2026-06-06T03:32:57.926Z",
   "alerts": [
     {
       "id": "alert-local-1780671149274-6v7rlfb",
@@ -170,6 +170,34 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1780716777620-31tif",
+      "title": "Crypto Scam Triggers Elderly Woman’s Suit Over Tax Deductions",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajBNMlQ4ZGdVSGFRMXBqTjh5dUFFWFJvQlV1VXpwc2RTWG56SGRVOHVJajNrNnNoNzhiRmhZQnhVS01vSUZraDdlbXdfdFVrSGNfd21wZzI1WTNRR1RpMm9PbTFJTGtGYWdRb1BBU3RlTHpSVXlPR2drN2F5TEUtZDgwMGIwaVc0eGxFMzlHczlqTDY0UlJDVXlXcld6Tl9hNUwxRVl3b3ZSNU0?oc=5",
+      "source": "news.bloombergtax.com",
+      "sourceLabel": "news.bloombergtax.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 5, 2026",
+      "rawDate": "2026-06-05T16:51:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1780716777619-hrgqqi",
+      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRWVQYktTNWZaa09hUXVBT0U0NFJzX2NzSDVuODBxa2JtUi1mN2dNakNFcDl2UUFOdXFwTXJ1R2xXLXpnMl9DMFE5Mk93bW5fUF9FZFVQVC1KM1p3ODQyQzhYSnpfM1RIZzFKNmxpbXNkOHRMbnpZUFAwQUhUQkpIcDhXYVdCeWNFUVZCNTFueEx6ZFEzUGJaSmtydTdKSi03c0FYQUZJTVA5dWlzTzk1SlNqeWNnbm1DVTk4eFl0ZENPNElxbVE?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 5, 2026",
+      "rawDate": "2026-06-05T16:07:46.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1780372910456-7djqh",
       "title": "Hackers Used Meta&#8217;s AI Support Bot to Seize Instagram Accounts",
       "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
@@ -307,34 +335,6 @@
       "date": "May 13, 2026",
       "rawDate": "2026-05-13T13:34:06.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1779460833253-7cc6m",
-      "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNS1cwbVYwdEZCWmE4LU5zTXlCX2gyMzN3Y0JTVmZjbkE1WHNXMVFSV3M5SmZYMVhrdWFuU0FDSWRGSi15YjNwUFM1WmpzOXFZalZab3IxNHozeFpkaDJNekFQZkJvWVY0WjhZeGYtX1BSVWthckRCQ3IyaFJsSVNlbU03aklocGFzdG9GOThCWEdST3BfMlJ2enNwNWpvNUJLb0ZJOHRmeEZTRzdXWWFyTHF2azBELTFpZmFNR1VwWkFycVRJQWVIY1Z4elM0UTNDbDVUNw?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 13, 2026",
-      "rawDate": "2026-05-13T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1779460833253-7r9hc",
-      "title": "Crypto Scam Victim Sues IRS to Deduct $800,000 in Losses",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWotZGZlVVV2a0dCYVpkLV9KbWFaLUh1YmlISG04c0ZBQ2tiXzBDTE1IMU5wZXhHeGNJZEQ5Z1ZSNkc2RGFxRzZaWm41T0J3MHNibEY0akVLcUJLWGtIQ2ZBSVdoWkw2NmJNU2MxQkZQZWVEZkN4enVZQWtyVUU3REM5bGMzLS1IdUpJeHZoVXZzUlgwQWJ1d0NVaG91R2ZwN0J5Mw?oc=5",
-      "source": "news.bloombergtax.com",
-      "sourceLabel": "news.bloombergtax.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 13, 2026",
-      "rawDate": "2026-05-13T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
       "scope": "international"
     }
   ]

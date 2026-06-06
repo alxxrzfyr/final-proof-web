@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-06T03:32:57.926Z",
+  "fetchedAt": "2026-06-06T13:44:24.740Z",
   "alerts": [
+    {
+      "id": "alert-local-1780753464254-mvadk",
+      "title": "New scam attempts affect Filipinos nearly every 2 days",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV242Y0VieTROcVdYcTRtc05RVHhNNXdCajRqeEZIMVBJZ21rbTFoWGlwMl9HN2RJODMwb2NGeFUyTFlWeE55aTN0enR1RDg2ZFRiN21mdEtJUG1SOUdCZ2xnclNuTzhGWXRRZVg0NS1HY25Cbm9mUXU3dmtfSlpHOXd0WjNxbldmb2ltMzhUbXpSaklyVVBvT2xPZFVoOXVsdHd6YU12MkJYMWZ2aW40WUEwdklsTkXSAb4BQVVfeXFMT1d5a1o0YndWUV9wMEVsdDFrWVQtbHVUaWdFTG9scHFXZzFKc3NnTjliSTdMdlhNbzVZRVNnSlpZZ0pBOHA4eXo1a2VOQW1fNktmLWVyVkxBZlRBcFU4bFNPRnBpSG11Q3VDQjNMdDdEVjk4NmpmNHI5cFlfQS11eGpNcGZtWU9nSURuQ01Iak8wMVpGZmJPdWJ0SUR6eEZ5SzliT2EzZ2pBT2ZFU29qSjVIcUE1bXhIajZFT1lqUQ?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 6, 2026",
+      "rawDate": "2026-06-06T07:23:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780671149274-6v7rlfb",
       "title": "Tag: crypto scam",
@@ -153,20 +167,6 @@
       "date": "June 2, 2026",
       "rawDate": "2026-06-02T07:16:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780335623837-cez7j",
-      "title": "TikTok Task Scam Recovery in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEF6bWx1MkpkclVId2ZJS000b2oxM2loU3NDZU40V0c4N0hwN2ZRb1BUY3VTZ01jNXhKV1VIY2FQMV9TSlJnRE9CM3VPaXVjQ2pIYk51Wjc2UHBxNng2Qk44LTJ5d01Qam5vUHJHTjloQU9taHdmZmZKMWlqUzdyeklRU1hEMFZL?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 1, 2026",
-      "rawDate": "2026-06-01T12:44:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

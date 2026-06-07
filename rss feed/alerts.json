@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-07T03:59:30.990Z",
+  "fetchedAt": "2026-06-07T13:53:33.736Z",
   "alerts": [
+    {
+      "id": "alert-local-1780840412480-v0fl94",
+      "title": "Phishing SMS Reporting in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZnVQWjI5SEFtLUQ1MHY3OFFqVEV6bDlOeVNldXJWdmc0bVliWkthdS13Q0F2Y2pSLUdYaUtKRmZRb1gwZkg1VmhacXUtQ1BQTndIZmpqbFdraWN2dEs0R3VmRzN3bFVDaE92R0pzQ2tsRHRsN3NlS0ZHVGpRVDhSVkxOVXU?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 7, 2026",
+      "rawDate": "2026-06-07T03:19:31.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780753464254-mvadk",
       "title": "New scam attempts affect Filipinos nearly every 2 days",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1780505420754-6laa8d",
-      "title": "How to Report Online Scams and Cyber Crime to PNP ACG or NBI Philippines",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1FfU1FkTzd6VjBLclpGdElqOWxjNVY0aFlDNFRQMXFuemlnbkNmSUJQQ2NEWThVSFJ6RHFBT05aR01GOU5Ta25nV0Vhb1E1UWJoNUFISzd4T1VnRy1sS3FPd0NYQWM2clJfM0lLbUYteTJnMkJSNVdMdXZqMDJlbmx6Z04wSDhmMENWLXRUOGNWTFIyTTA0TWR6VEFacWR6aXJMTFZVVmVnNlpoOHlnSg?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "id": "alert-international-1780840412260-6k7dnd",
+      "title": "‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites",
+      "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 3, 2026",
-      "rawDate": "2026-06-03T04:57:39.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
+      "date": "June 7, 2026",
+      "rawDate": "2026-06-07T06:00:26.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1780716777620-31tif",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "May 15, 2026",
       "rawDate": "2026-05-15T09:00:35.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1778682946469-j8yai9",
-      "title": "Meta profited from illegal scam ads, California county lawsuit alleges",
-      "url": "https://www.theguardian.com/technology/2026/may/13/meta-scam-ads-california-lawsuit",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 13, 2026",
-      "rawDate": "2026-05-13T13:34:06.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

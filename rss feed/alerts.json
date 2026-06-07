@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-06T13:44:24.740Z",
+  "fetchedAt": "2026-06-07T03:59:30.990Z",
   "alerts": [
     {
       "id": "alert-local-1780753464254-mvadk",
@@ -13,6 +13,48 @@
       "date": "June 6, 2026",
       "rawDate": "2026-06-06T07:23:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780804769660-60k9h",
+      "title": "Phishing SMS: How to Report Text Scams in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3ZYaWVyTktXVzMxNmJpdUNFVFUwaHJ6MzZzcVNTLUZfbFVOMHYxamlFQ2Q0SnFhVjJBbHVlZXoxTjl6eXVMenYtVnAybkU3dkpna0xTdFFKcU45cXpFejU2clR3THlUV3RwWWZ2bDI0cFRwSmUwY3pVTkZfZGNzdUp4VWNjb1N5bzl2bXljbTlBYVNmWU5jbQ?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 6, 2026",
+      "rawDate": "2026-06-06T03:20:22.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780804769663-wmtlrs",
+      "title": "Cellphone Number Scam Reporting and Cybercrime Remedies in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVA2OEpKNHJtNXVReUROc1ktYkF4a0YxOTM3dnotTkxraThUUzBycWJKQ3N2dXRENjhER3RYQ1VhZmNMQnhuNW9La2lyaTZzSWxTM3pCNm1mNnJLU2RaZkl4MWh3VEsxUDByaE4taG81VzAxaUUwNkllYW5WcGtFTjhhT0YyUVI4aHloYmdGeUE2cFc5YmpKQlB5REVwUkZiXzljcUFHQ09wOWE2RGhvVw?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 6, 2026",
+      "rawDate": "2026-06-06T02:54:13.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780804769664-1onsg",
+      "title": "Identity Theft Reporting in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZUZIXzNyWHA2RWlvMnRoeWhTMmhUWWFZc1VXYTRJWndoTkl6MjJtQm9NeFJyTGpZMlpNV2NCUWJxeGJYSk80OVdiUWpYdzk0VXowSGVrWk91Qjk2cE5Cd21CQkFGQmVkMEphY1pVU0JpRWV4bTNTSFZ4SDd3UnktZW14TVNlZWRveFE?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 6, 2026",
+      "rawDate": "2026-06-06T02:02:57.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {
@@ -125,48 +167,6 @@
       "date": "June 3, 2026",
       "rawDate": "2026-06-03T04:57:39.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780417578835-fhtjl6",
-      "title": "How to File a Bank Fraud Complaint in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjBTRFlSOWZIaEpHdEdEZm8zNkdXU09rMTlBaWcyS1plX0JGdHpTREdTOFhxUXR0djFhNTgxMW1Zckg4azB3ZmdHT0pFMVRaSGJJdE1KN3JEQ3hWcVlkVWZLVFFPakZLbU5IRVNMb2gzN2JVM0Q5dDNCeGRFenloU051d3J2T2VlWC1GMi1xSlVTXzVj?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 2, 2026",
-      "rawDate": "2026-06-02T13:24:58.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780417578836-tf09eq",
-      "title": "Facebook Account Hacking and Cybercrime Remedies in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaEc5OFpfaVhHNTcxcTFDd2pkVDVDTlJpeFR6dk1fd25fNFNvYnF1UUZVT25SSHZSbHQwaWhLaXNQYjhDenR2cUY1Y1Y1WFhjcW5faE52Ujd4dFZYMms4MVVESmhLdUltbF9TSEtmMHU0RDBrdjBWV2xqZzY1cDBzbVFRWnZLYkhIRHhOOFJDUG15Sy0tRG1mdVhDUjRxbkdKdkdZbVhSQQ?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 2, 2026",
-      "rawDate": "2026-06-02T13:24:36.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780417581502-8j7rfd",
-      "title": "Man nabbed for allegedly trafficking victim to Cambodia scam hub",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYnhwR0VnY0FnWElPUGg3eHA4WHhNVkFfVjlpdzlRUEQ1dlRIUGczRUJTc3NOZnU0dklUTEliQmxhMUVrTE1OemRYdjhIQlpWbmJRUWtTekV5UW1vbzd4U3BxYTNFeG8xYm1Cd0hpcFlORVNVR28wSlVkdDNNczZkYXJ2VEZ1TFJ4SWpzMlRheFRncnJyZzJRMExibjZKY2tNWmQzYjdGTkLSAa4BQVVfeXFMT2NzM3BGdzFxamdBZXFieTZGTFBlUDJMR1RZVUpJVVY5TWFMbmpPYjJuZ1hsQXlqNmVkQVFuNnJtNG16Uk55cWNQcF9GVGEzNEhLNGFUanlSTzlMemlpNzJDZUFnR1Q2Rzl1b3IxWEtJbEdQN2NiZnhKMmgwM2VlakpiMEdHWFNZV0RfMlROeGJqV0NxYXNVSWJ2alczSF96VG5KakZMTjZGdlNqYWlB?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 2, 2026",
-      "rawDate": "2026-06-02T07:16:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
       "scope": "local"
     },
     {

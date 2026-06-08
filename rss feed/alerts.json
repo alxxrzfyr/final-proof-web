@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-07T13:53:33.736Z",
+  "fetchedAt": "2026-06-08T15:53:51.873Z",
   "alerts": [
+    {
+      "id": "alert-local-1780934030870-fwionn",
+      "title": "GCash to launch in-app OTPs to curb scams",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHRoYlV0UGZzSHNpZXJkMXR2ZlpNVGdLekptb1pUNTM4NW43cE5kaXFSQ3RGOUtPWVE3ZE9ST1hCRGRZTlQ2eEVGSHR5QS1XZGRCMHpQelY5VHZBSGpXTERrMV8xN0dwb3BQbWJ1MnVUcHVoanJYOW9xZWpjU3hRUzc5V20wa1lacFotY0kyZDA4VjV3WTdQLQ?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 8, 2026",
+      "rawDate": "2026-06-08T13:37:02.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780840412480-v0fl94",
       "title": "Phishing SMS Reporting in the Philippines",
@@ -156,18 +170,32 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1780505420751-mnuylk",
-      "title": "Online scams are evolving—here’s what to watch out for",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWng2N2l2UkVVVmN2WE9oVmFXel9GeHA4RGZKRGllMUYtYkVvMXRIT1o0eEJSMDl6V3VndVF1MkNCVUFNTWFfWDZ3dk9wMkxnQzRKRmJzWnB1WkZHeGhnNlV5LXJKUmREdEVtYXdlMDZkNEZsUlNpbVZyenJIOFpxNg?oc=5",
-      "source": "speed.ph",
-      "sourceLabel": "speed.ph",
+      "id": "alert-international-1780934031107-59io2c",
+      "title": "Ransomware attack shuts down Evanston Township High School campus",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ0stV1IwZW55Q0RrRUVxcVJ4dmhGdVRNeTV6ZWkyOU1zZS1OcGh0d2haYTBJalBydmZiaDNudWwwSWV2QVlfamFhMm9oSEN2a1F2ZThDSzF5VExmVmxkTFJIYlBoVUZqOURkWWg2NVNhTFgtdmRJWU5neUJjNkJnVm0xbjRGd2FjS19SYUZsM2J1d3ZScjFiWi1QSmhEd0k?oc=5",
+      "source": "CBS News",
+      "sourceLabel": "CBS News",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 3, 2026",
-      "rawDate": "2026-06-03T07:03:22.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.speed.ph.ico",
-      "scope": "local"
+      "date": "June 8, 2026",
+      "rawDate": "2026-06-08T11:48:40.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1780934031108-uoe5x5",
+      "title": "Meta to take legal action against Israeli spyware firm NSO, foils phishing attacks",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlo3bW5iaGsxMlBic090Q25vcEVTYmdiWmJyQlBKc3B6YThib0FlT0F2b0Fza2pkR3lTMzVBY1RwMjc2RGJsd0JaNHAzTkZLZkppUkRTVzc3R1hMOVJhMmhVdXpJVDJ6cDJlM0FKZ3p6ZEFvNGRUMnZWTFE4WEZyX3ZBWXpJV0hxRzdvdXhKZElQZ3ZGY3VuYnZLYXdUeGpXOEpyNGlnQ05xdVVESHd0YmJBcFFjZw?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 8, 2026",
+      "rawDate": "2026-06-08T10:43:25.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1780840412260-6k7dnd",
@@ -307,34 +335,6 @@
       "date": "May 21, 2026",
       "rawDate": "2026-05-21T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1779983839012-dvytwf",
-      "title": "Delano becomes latest Minnesota school district hit by ransomware attack",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWpLTUY3MF9YS0EtTzh3amFnUWRBS1MwSWN1RTdrbGEwZDR1czVrV3hFQnQxeDRjMXBRTG5JOExfTDNNdjdUTHFhRWRMYVg5cGZHc2NUeVdoWmctZU9RdFZFX0tMRXlTUGVXbjlCVUFqU18tb1lvUFBjRFBCaVFOQnJB?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 20, 2026",
-      "rawDate": "2026-05-20T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1779460832591-bby2k8",
-      "title": "From phishing to porn star impersonators: how scamming athletes became a billion-dollar industry",
-      "url": "https://www.theguardian.com/sport/2026/may/15/sports-athletes-scams-cybercrimes",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 15, 2026",
-      "rawDate": "2026-05-15T09:00:35.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-06-09T03:33:45.421Z",
+  "fetchedAt": "2026-06-09T14:52:28.498Z",
   "alerts": [
     {
-      "id": "alert-local-1780976024443-kawvfo",
+      "id": "alert-local-1781016746658-rfwcls",
       "title": "Unemployment rate dips but underemployment surges in April",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUVZLZ3pjWk1XV0h0UHMxODhyTkFjenkwNnQ4ZmtNWmpzcy1TR2xpRHFhUFpDR2RFMThEdlNkQUs0MmRVRWdEX3pXN2d5ZExTR0dxSFFoSFpWc2tqeVdZYkU3bXBnNW1PVXotZGZQSkpzOXVIX2xFSHR3UldJN2xiU212U3Fra2V4V2Y1QmNub0NnRlJNZWQ5eFJfZW5zdGd1MTN5SGpBbWU4enp0QWJGT2RzZ2t5b2d3?oc=5",
       "source": "ABS-CBN",
@@ -11,7 +11,21 @@
       "category": "cybercrime",
       "severity": "medium",
       "date": "June 9, 2026",
-      "rawDate": "2026-06-09T02:37:30.000Z",
+      "rawDate": "2026-06-09T13:33:22.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781016746658-mj8zx",
+      "title": "GCash to launch in-app OTPs to curb scams",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHRoYlV0UGZzSHNpZXJkMXR2ZlpNVGdLekptb1pUNTM4NW43cE5kaXFSQ3RGOUtPWVE3ZE9ST1hCRGRZTlQ2eEVGSHR5QS1XZGRCMHpQelY5VHZBSGpXTERrMV8xN0dwb3BQbWJ1MnVUcHVoanJYOW9xZWpjU3hRUzc5V20wa1lacFotY0kyZDA4VjV3WTdQLQ?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 8, 2026",
+      "rawDate": "2026-06-08T22:29:53.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
@@ -27,20 +41,6 @@
       "date": "June 8, 2026",
       "rawDate": "2026-06-08T16:38:05.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/malaya.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780934030870-fwionn",
-      "title": "GCash to launch in-app OTPs to curb scams",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHRoYlV0UGZzSHNpZXJkMXR2ZlpNVGdLekptb1pUNTM4NW43cE5kaXFSQ3RGOUtPWVE3ZE9ST1hCRGRZTlQ2eEVGSHR5QS1XZGRCMHpQelY5VHZBSGpXTERrMV8xN0dwb3BQbWJ1MnVUcHVoanJYOW9xZWpjU3hRUzc5V20wa1lacFotY0kyZDA4VjV3WTdQLQ?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 8, 2026",
-      "rawDate": "2026-06-08T13:37:02.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {

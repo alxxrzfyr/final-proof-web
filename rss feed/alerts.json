@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-06-08T15:53:51.873Z",
+  "fetchedAt": "2026-06-09T03:33:45.421Z",
   "alerts": [
+    {
+      "id": "alert-local-1780976024443-kawvfo",
+      "title": "Unemployment rate dips but underemployment surges in April",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUVZLZ3pjWk1XV0h0UHMxODhyTkFjenkwNnQ4ZmtNWmpzcy1TR2xpRHFhUFpDR2RFMThEdlNkQUs0MmRVRWdEX3pXN2d5ZExTR0dxSFFoSFpWc2tqeVdZYkU3bXBnNW1PVXotZGZQSkpzOXVIX2xFSHR3UldJN2xiU212U3Fra2V4V2Y1QmNub0NnRlJNZWQ5eFJfZW5zdGd1MTN5SGpBbWU4enp0QWJGT2RzZ2t5b2d3?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 9, 2026",
+      "rawDate": "2026-06-09T02:37:30.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1780976023892-elcjh",
+      "title": "GCash announces shift to in-app OTPs to boost cybersecurity, anti-phishing shields",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmpyS2RaTXp5M0VrTkxuUE8waHRKcHVUSzRMWllnZUlrNlFET2VBekVJNVhYNy0za0tJb3ppRktybVREZ2FmclBjd01qbEFiTjFrQVlYeVh3ZmZ1NlZuRGlpUk9TSTREcEJrY2RkOTduTUZKNHpKcFZ6WE53SGlRdWRNeEN3UVpFSU1KT2lvc3JlM1A4cEU0cWRFZS1XWnp5eDJNRXFfdkd0OVRSc2hFckFoZ0lqMEszbVRRenNyYXY?oc=5",
+      "source": "Malaya Business Insight",
+      "sourceLabel": "Malaya Business Insight",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 8, 2026",
+      "rawDate": "2026-06-08T16:38:05.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/malaya.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1780934030870-fwionn",
       "title": "GCash to launch in-app OTPs to curb scams",
@@ -139,34 +167,6 @@
       "date": "June 4, 2026",
       "rawDate": "2026-06-04T04:27:52.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/tempo.mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780545854459-s2jryd",
-      "title": "Legal Remedies for Online Scam Victims in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tVE9iTFNSUGdyMDRwNjN6OTRtUEFMbVhzek9DWnktWVo1ZndzV1ZCOGFHNmlESmVhcG9uSklPN1pHWUNuVGhwZDd6cWlkenY4MkN2eHlqblVkTnVFSVl0eXJIcHlLUV9Bb3NrOWpobkdnMEJkS2c?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 4, 2026",
-      "rawDate": "2026-06-04T01:37:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780505420750-8xplz",
-      "title": "Two foreigners, 11 Pinoys get 3 years for crypto scam",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOGNlMTB5RHV5My1jTlBJSDh2TFBtbjNwT3cxakRkNnRobGpwTGFjWDFJTlQxbERVNS1DRGFPRXVMeENPZ19TN2JOM0Y4a0RmbXMxYU8tVHpWSXQ5dGhlQmdVQjBBTnc2SlpKLXB5LWJTU1RCWHoxV19yTjVvR0hSMm1YMDlGWlhS?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 3, 2026",
-      "rawDate": "2026-06-03T08:26:09.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
       "scope": "local"
     },
     {

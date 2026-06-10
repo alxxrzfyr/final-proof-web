@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-06-09T14:52:28.498Z",
+  "fetchedAt": "2026-06-10T15:36:16.112Z",
   "alerts": [
+    {
+      "id": "alert-local-1781105774340-dlekgr",
+      "title": "Online Selling Scam Legal Remedies in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPREVudzhteWIydXFsM0thMVRucm93bndTalpFRjZJQ2lKdW83Z2Rxa3pobzVSZDlUVEQ5TERrTmU1OVB0QTRfd1B4NE10TU1xTFBDRFh4OWZOeVRZelExQjhneE9hckU1eFN5Y2p5V1luRXMtQU9vZjRhN0dnQTVFQTZMWTlPRkhvVE9QZWlvQzM0Rlc0Uktr?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 10, 2026",
+      "rawDate": "2026-06-10T08:47:57.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781105775236-4qqhvs",
+      "title": "GCash to launch in-app OTPs starting June 22 to combat scams",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3JvSnEwTzBQX1RFa0s5Q0IzU0VUUmZzTlEzZE9CWGNzSlVvcEJyS215Q2JfVnNmc1gta040MTRURHcyMzN0ajZqUUVXZzktNnZEQTZfR19mM25ENFhPajFhNU1HS3RKOTdodXd5N1pxakNtZ29BZ0dqMEdLUG9Db3NYNDBjN0ZfMGZJLVozTmY1RThNcDM4VWtkc1dTdVM00gGmAUFVX3lxTE56RGg0NHU4ajVSSktTSmhtS2FIWm0zNUtoUDRybUpCTkZ4ZGJWbEl4WVlja0k1SzVzMGd3MTJVbG9pZkR3YnhyY29MbFliUmNuNVBCdFRTVnVBUVAzQ2JyMkRCc2tMV3lKR2VOSWZpLTRsazlXWFBCTnZHSzh0eFhwNE8zVU5DOXZFQTlIdnUyUXFGbmJucC16RGQtcml4WkFUNTloVEE?oc=5",
+      "source": "Inquirer Technology",
+      "sourceLabel": "Inquirer Technology",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 10, 2026",
+      "rawDate": "2026-06-10T08:01:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/technology.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781105774341-x6fnsr",
+      "title": "Verify before you click, says LANDBANK amid surge in phishing scams",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYW05aHlYd2Y0bU5zV3EwNHpXSTRpdmw3RDBZX0ZGbE9FWjFoVmpaUnZSaW9BaXEtREVrUlQ1NTY0cXN4d3JlU0VUSS1xOG4zTFd4WUF5LUFmaDRrbUlDOFZCQ01QTmF4M2RGbmM1Umx6TV8tT2NJUGhTVEJuU1VrMUUxb1ZCdVliQ2x4OV9CbXowOFVXSVE?oc=5",
+      "source": "Philippine Information Agency",
+      "sourceLabel": "Philippine Information Agency",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 10, 2026",
+      "rawDate": "2026-06-10T03:35:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/pia.gov.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781016746658-rfwcls",
       "title": "Unemployment rate dips but underemployment surges in April",
@@ -13,6 +55,20 @@
       "date": "June 9, 2026",
       "rawDate": "2026-06-09T13:33:22.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781105774343-n9dqo",
+      "title": "GCash rolls out in-app OTPs via push notifications to combat phishing scams, fraud this June 2026",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSWVBLUdNeURPQ0tEaG1CdlNOakgxZk5vZXM5Zmg0R2NYdEtxdFA4T3F4RjdWRWE4VTVYcjduc0JMRjVuQmQxVmRCc200b05NVy1uQXA4VEpPMTZYaTRESG90MFdhb0d1YThsLXRtakJ4Vy13QmJTUUtPb0JNeWdZMWpsYkhqT1dOeEZMNnE2VWNYZWFKWnkwZ1ZaMWVGU0lXQXZTNWE3MzNjT19uQS1RQnJNUmRqLWY3S1ZKNGF6aGV1eS1xMGRpNWlJdUp3eE5KUEJmaWNPdTVFQQ?oc=5",
+      "source": "Philippines Graphic",
+      "sourceLabel": "Philippines Graphic",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 9, 2026",
+      "rawDate": "2026-06-09T07:17:54.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/philippinesgraphic.com.ph.ico",
       "scope": "local"
     },
     {
@@ -114,60 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1780671149274-6v7rlfb",
-      "title": "Tag: crypto scam",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Mbk1fYkoxeFVCcVd1d1FEVHRuODZEb2ZEaktuSlEybERpZWJBUkNEenRhZHBKdmlrR0s0dWV3eGE5OEtkMHBvUF8wRkJTa3lqM2c?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
+      "id": "alert-international-1781105774234-568e",
+      "title": "Who Runs the Ransomware Group &#8216;The Gentlemen?&#8217;",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 4, 2026",
-      "rawDate": "2026-06-04T18:38:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tempo.mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780631442887-njyrlg",
-      "title": "Online Scam With Scammer ID Legal Remedies Philippines",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXlRUk5IZnNJWWFHTFN0bmx2a2E5b3BuNTNpN004WWJDdzNZbGg2bm5JdmdmVUpPeEExTW1YMkhXbF82OGZXSTB0SHhLNDY3alM2TmM5LUFjM2JwUGFVRHFHNWN4SkszZHVQMjU1amQ2dmNuVVc3aFZaUklENnJjUXpqanNrRmZ0NUxqSEEzNVluN2hYNUE?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 4, 2026",
-      "rawDate": "2026-06-04T05:34:08.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780631442886-23xu6g",
-      "title": "How to Trace and Report Online Scammers in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSmM2bjQzNnNacDVCNW5SVUpZY2FIc2hZQVFXOW1DVF9RWkV5ZTUteU4taURjbXZfcWlzRDRKMGlhbVBYRDFDSXIzWTF3Q1RyTWc3QzRyWVlPME1yVDVtR2pIRVhWSEJYTTFOQl9MRlZ5MXhuWEJXOWVxdTlvbjAtMzRicE5oM0tTNjV5TWJwQUtQQmdrMDFkV1RqTQ?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 4, 2026",
-      "rawDate": "2026-06-04T05:19:34.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780586194810-b0x4ga",
-      "title": "Two foreigners, 11 Pinoys convicted in Mandaluyong crypto scam",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0p2SFF5a0M3TGR4MEI0M1hVR0JtbXVaY1pvTzk2bVVGenctMUNTQkxxb1hxTElBdmlDTmVqVXd3VnR0NE1CdG92OGhwRVZRSS02eWVJN3hmRjkzdHljTWEyYXZvQndaZjZZRVJGaS12eHBOWmxBcDZBMjJpUE1Fa1NfVUZycE8tSW9ITW9NRFZpeHZwRUQzelI4QktyZw?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 4, 2026",
-      "rawDate": "2026-06-04T04:27:52.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tempo.mb.com.ph.ico",
-      "scope": "local"
+      "date": "June 10, 2026",
+      "rawDate": "2026-06-10T14:03:44.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1780934031107-59io2c",
@@ -321,20 +335,6 @@
       "date": "May 22, 2026",
       "rawDate": "2026-05-22T16:34:24.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1780631443638-48h8s2",
-      "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEMwWi1PTGI4OUV0QWVKbWYzOW5JNFhIMUVuSkJIYzhfV1lGNUF1VFJCbE0za1BUcHJUb2NXOGYzRGpPb3RKZzdxTlc3UnBHVENLVHRfVlNlb2tkTnRVMmlVN3pVdm9vWmxDdUMxVF9WYjlFTDhxWGV5a0xWLWdNVzhBSGZRaUdvZUFhRnlLUEVBUkdCOVpET1dESzhYMkdRclkzaDFuVXhkNUgz?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 21, 2026",
-      "rawDate": "2026-05-21T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
       "scope": "international"
     }
   ]

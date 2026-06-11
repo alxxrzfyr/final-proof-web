@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-10T15:36:16.112Z",
+  "fetchedAt": "2026-06-11T04:01:22.552Z",
   "alerts": [
     {
       "id": "alert-local-1781105774340-dlekgr",
@@ -184,6 +184,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-1781150481049-i494d",
+      "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGctUF9kVnBTNngzZEY5ZGhuajV1ZlFTZnM0dnF6X0s1Zk1RY2gtdlIzMVI3MDg3WEl6S1o3RHM4VEJvVEZ5SGg0OW1tOHFSNU4wd1dOVkRCejMzSjZnTXlfT3NmejZEclZHbzhvT3FpQ0wxTU5sRmsyUlZ5aVFvd3EtdlRJY2stZFY2NGk1X2ZuVkowRVVES3BCclZERGNxdWNJQ0J4TmxfdVZ4ZDd5d0JzbG9ISXpSTU40NEhacDZZM1hkSnc?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 9, 2026",
+      "rawDate": "2026-06-09T17:40:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1780934031107-59io2c",
       "title": "Ransomware attack shuts down Evanston Township High School campus",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ0stV1IwZW55Q0RrRUVxcVJ4dmhGdVRNeTV6ZWkyOU1zZS1OcGh0d2haYTBJalBydmZiaDNudWwwSWV2QVlfamFhMm9oSEN2a1F2ZThDSzF5VExmVmxkTFJIYlBoVUZqOURkWWg2NVNhTFgtdmRJWU5neUJjNkJnVm0xbjRGd2FjS19SYUZsM2J1d3ZScjFiWi1QSmhEd0k?oc=5",
@@ -321,20 +335,6 @@
       "date": "May 24, 2026",
       "rawDate": "2026-05-24T06:00:50.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1779505085186-g0575",
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 22, 2026",
-      "rawDate": "2026-05-22T16:34:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

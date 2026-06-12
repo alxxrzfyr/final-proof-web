@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-12T04:01:46.386Z",
+  "fetchedAt": "2026-06-12T15:16:02.373Z",
   "alerts": [
     {
       "id": "alert-local-1781236905753-wp8d3s",
@@ -240,6 +240,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-1781277360559-tkkskm",
+      "title": "Cloned sites: the shopping scams that lead ChatGPT to fake stores",
+      "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 7, 2026",
+      "rawDate": "2026-06-07T06:00:26.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1780716777620-31tif",
       "title": "Crypto Scam Triggers Elderly Woman’s Suit Over Tax Deductions",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajBNMlQ4ZGdVSGFRMXBqTjh5dUFFWFJvQlV1VXpwc2RTWG56SGRVOHVJajNrNnNoNzhiRmhZQnhVS01vSUZraDdlbXdfdFVrSGNfd21wZzI1WTNRR1RpMm9PbTFJTGtGYWdRb1BBU3RlTHpSVXlPR2drN2F5TEUtZDgwMGIwaVc0eGxFMzlHczlqTDY0UlJDVXlXcld6Tl9hNUwxRVl3b3ZSNU0?oc=5",
@@ -321,20 +335,6 @@
       "date": "May 28, 2026",
       "rawDate": "2026-05-28T10:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1779629246423-hckx0j",
-      "title": "£600 for cheese? The Brazilian beach scams that cost visitors dear",
-      "url": "https://www.theguardian.com/money/2026/may/24/brazilian-beach-scam-debit-card-con-kebab",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 24, 2026",
-      "rawDate": "2026-05-24T06:00:50.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

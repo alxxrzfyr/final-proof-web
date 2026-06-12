@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-11T04:01:22.552Z",
+  "fetchedAt": "2026-06-12T04:01:46.386Z",
   "alerts": [
+    {
+      "id": "alert-local-1781236905753-wp8d3s",
+      "title": "DITO complies with OTP phaseout",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPNHhuei1xUEtucWI0QTJrMHdBWDJrQWhSN0oxdU9tT2lSUDZrejhmcDI1dEsyTUV5VFlQclV3c21Jbzdxa1hNVUdLUG9fbmx6ZUNFbTVjamVXR3lfYnh6ZXNnejhDUzk1MGhmX1VSTGlOUVg0UnVr0gF8QVVfeXFMTW4wdEQzeWM1OXlmMGVjMmFFMFlPV1drRGI1SnlRdmdLRlRpY29lWnNwcnVYVTNhYWkwcm9fUk5FVl92STQwMVNrNWZOYm1mblkwOEIwZmNrYzdxQjRWYUdPQXd0bVNnWVI0UEVpU25TWk1pNERTbmFQUkpTeg?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 11, 2026",
+      "rawDate": "2026-06-11T18:10:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781105774340-dlekgr",
       "title": "Online Selling Scam Legal Remedies in the Philippines",
@@ -152,20 +166,6 @@
       "severity": "medium",
       "date": "June 6, 2026",
       "rawDate": "2026-06-06T02:54:13.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780804769664-1onsg",
-      "title": "Identity Theft Reporting in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZUZIXzNyWHA2RWlvMnRoeWhTMmhUWWFZc1VXYTRJWndoTkl6MjJtQm9NeFJyTGpZMlpNV2NCUWJxeGJYSk80OVdiUWpYdzk0VXowSGVrWk91Qjk2cE5Cd21CQkFGQmVkMEphY1pVU0JpRWV4bTNTSFZ4SDd3UnktZW14TVNlZWRveFE?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 6, 2026",
-      "rawDate": "2026-06-06T02:02:57.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },

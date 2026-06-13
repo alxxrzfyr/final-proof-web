@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-06-13T03:48:58.743Z",
+  "fetchedAt": "2026-06-13T14:00:58.245Z",
   "alerts": [
+    {
+      "id": "alert-local-1781359256819-42dyh",
+      "title": "How to File Criminal Case for Love Scam Estafa in the Philippines When Victim is Abroad",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDZTQVJmUk5HZXo2T2JYTF8zalZhNDVEVVo4eWE3eDJGSDNWLWYwaUVYbS1LLV9xLUNkVXlWdGRkRFVfaVY0NzRjSVpqU3pSN1dWMFNvS293X01kWGJROVVPMXl6d185cWFwakRYLTVzTFV1U1NMT2otN0RJLVlJVUlaZG1adzJkVjlwRnJfbDFaYzQtZXZ5VjdhMlN1TXR4V1I5MlNvMVhKSFZTMjYzY0luYXE2NXJKcS1zU0I1bURGdw?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 13, 2026",
+      "rawDate": "2026-06-13T08:54:30.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781359256822-7z3zbo",
+      "title": "Online Game Scam Legal Remedies in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNejI2YUw2OTNzblk4QVVuTmIzLWxTYVNkeUFnZVlSQmpWaWRwUFI2Vzh1QVYxY3FQVFhiUGxVMFJfeTFsSnVwRlpEU0RTS3lGMEl0TWFydjZ2dUVXVWJ5cjZwWnQyOFJGeGM4SFVrdmliZjJKd2lTS1pqd3AwZjlTc3ZHNWE4cVloMlExbTlLNEY?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 13, 2026",
+      "rawDate": "2026-06-13T04:58:46.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781236905753-wp8d3s",
       "title": "DITO complies with OTP phaseout",
@@ -139,34 +167,6 @@
       "date": "June 6, 2026",
       "rawDate": "2026-06-06T07:23:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780804769660-60k9h",
-      "title": "Phishing SMS: How to Report Text Scams in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3ZYaWVyTktXVzMxNmJpdUNFVFUwaHJ6MzZzcVNTLUZfbFVOMHYxamlFQ2Q0SnFhVjJBbHVlZXoxTjl6eXVMenYtVnAybkU3dkpna0xTdFFKcU45cXpFejU2clR3THlUV3RwWWZ2bDI0cFRwSmUwY3pVTkZfZGNzdUp4VWNjb1N5bzl2bXljbTlBYVNmWU5jbQ?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 6, 2026",
-      "rawDate": "2026-06-06T03:20:22.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780804769663-wmtlrs",
-      "title": "Cellphone Number Scam Reporting and Cybercrime Remedies in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVA2OEpKNHJtNXVReUROc1ktYkF4a0YxOTM3dnotTkxraThUUzBycWJKQ3N2dXRENjhER3RYQ1VhZmNMQnhuNW9La2lyaTZzSWxTM3pCNm1mNnJLU2RaZkl4MWh3VEsxUDByaE4taG81VzAxaUUwNkllYW5WcGtFTjhhT0YyUVI4aHloYmdGeUE2cFc5YmpKQlB5REVwUkZiXzljcUFHQ09wOWE2RGhvVw?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 6, 2026",
-      "rawDate": "2026-06-06T02:54:13.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-12T15:16:02.373Z",
+  "fetchedAt": "2026-06-13T03:48:58.743Z",
   "alerts": [
     {
       "id": "alert-local-1781236905753-wp8d3s",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1781322537947-bq37z7",
+      "title": "Google targets AI-powered phishing in New York lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnNLcU01ckZQLUpnNTllaWNtbnA5NWJHMy1IOU9oaXlHaU03N0lLR3JFd01hVUk3RXFMTmgzSkJPcTNWMkltNXRZNnl6ZmYtVzdqaTk1SFE0R0VReGo3RmdMMWtrM3BjMEVLZGZrT25ULTlpcVRVMFhjbnNuaS1hZXlfRXR0VjU2cmJFSkJqM3RSbnd6QmJNS2tqUUlOVmJlR2dseTJkNA?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 12, 2026",
+      "rawDate": "2026-06-12T14:58:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1781105774234-568e",
       "title": "Who Runs the Ransomware Group &#8216;The Gentlemen?&#8217;",
       "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
@@ -321,20 +335,6 @@
       "date": "May 28, 2026",
       "rawDate": "2026-05-28T19:07:24.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1780025973056-p9uc3e",
-      "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORTQ2bVJfeTJreVFBb0F4bXQ5M0dEd2lPWmlQdjJpbnZ6a2VybUowTUw3V2phTkw4ZmVKQXVhTEVUd1R3YklGbF9mQy1lVkhobGdGdWhoSElfaVFwOXFpRXRDWk4wbXB0QVVKdjNTNWZPeXVWNTN2emJvcEg4OHZvUTFHc1pCby1YdHlv?oc=5",
-      "source": "WIRED",
-      "sourceLabel": "WIRED",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 28, 2026",
-      "rawDate": "2026-05-28T10:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
       "scope": "international"
     }
   ]

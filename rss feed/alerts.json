@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-13T14:00:58.245Z",
+  "fetchedAt": "2026-06-14T14:03:39.844Z",
   "alerts": [
+    {
+      "id": "alert-local-1781445818346-03ya6",
+      "title": "Online Task Scam Legal Remedies in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmc1Ty1xNzFwTkw0aUZhemF3UjFmdTZyejRvVHRZMnhxWEpPT0NRUFFVVlhxa3JJVlVDTlB3TjZ5VlpjcWllYVctOE5OVGRrWHJSVmo2ODJoRmpRM1lhZEZ1aWo4SGhPVG1Bbm9yWnk4LWZqalBCNlEzTTc4ZEVwSEpkdzRLdjMzU2xhOWNjQVc?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 14, 2026",
+      "rawDate": "2026-06-14T11:45:44.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781359256819-42dyh",
       "title": "How to File Criminal Case for Love Scam Estafa in the Philippines When Victim is Abroad",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1780753464254-mvadk",
-      "title": "New scam attempts affect Filipinos nearly every 2 days",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV242Y0VieTROcVdYcTRtc05RVHhNNXdCajRqeEZIMVBJZ21rbTFoWGlwMl9HN2RJODMwb2NGeFUyTFlWeE55aTN0enR1RDg2ZFRiN21mdEtJUG1SOUdCZ2xnclNuTzhGWXRRZVg0NS1HY25Cbm9mUXU3dmtfSlpHOXd0WjNxbldmb2ltMzhUbXpSaklyVVBvT2xPZFVoOXVsdHd6YU12MkJYMWZ2aW40WUEwdklsTkXSAb4BQVVfeXFMT1d5a1o0YndWUV9wMEVsdDFrWVQtbHVUaWdFTG9scHFXZzFKc3NnTjliSTdMdlhNbzVZRVNnSlpZZ0pBOHA4eXo1a2VOQW1fNktmLWVyVkxBZlRBcFU4bFNPRnBpSG11Q3VDQjNMdDdEVjk4NmpmNHI5cFlfQS11eGpNcGZtWU9nSURuQ01Iak8wMVpGZmJPdWJ0SUR6eEZ5SzliT2EzZ2pBT2ZFU29qSjVIcUE1bXhIajZFT1lqUQ?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
+      "id": "alert-international-1781445818221-8uuzz4",
+      "title": "‘I should know better’: tech expert lost £70,000 in one simple phone call",
+      "url": "https://www.theguardian.com/money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 6, 2026",
-      "rawDate": "2026-06-06T07:23:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
+      "date": "June 14, 2026",
+      "rawDate": "2026-06-14T06:00:36.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1781322537947-bq37z7",
@@ -321,20 +335,6 @@
       "date": "May 31, 2026",
       "rawDate": "2026-05-31T09:30:42.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1780417579554-ezhbvo",
-      "title": "Hackers are trying to steal Signal users’ backups in new wave of widespread attacks",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2g1MXdWS3hudjd5OWdKOTRvdUhZQ3dlZkdJXy1xaEFCRUhGdkh6b2ZkeVBQd201VzIzV0kzdU14UE5zX2E3Skw2SllESk1wZVRVZTVqWHZEVFRaVXZuUFNNLWEwYzQteVo1LUhheHpuNTFaeHpsTmV2bmR5SW9GaG9Cc096aU4zQTVBT2lidHJxRUNCeFRHWlUwOFlteFJPQnQ2aUNqeFJNMmlqMlVpVkt0YTNTQQ?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 28, 2026",
-      "rawDate": "2026-05-28T19:07:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
       "scope": "international"
     }
   ]

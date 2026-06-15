@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-14T14:03:39.844Z",
+  "fetchedAt": "2026-06-15T04:20:16.174Z",
   "alerts": [
+    {
+      "id": "alert-local-1781497214759-423fd",
+      "title": "What Legal Remedies Exist for Victims of Phishing Scams That Led to Unauthorized Bank Transfers in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRlBXZjROQUVyTTZYMXdueXVKaWVsRDNGSWhkQVZIcE9KUk9SWG9YLXNheks5RTlfQXgzSTY5QUd6RHlEQ0t6WHFlYXp5cGloY015N0RNSWNOVDhOaTNEN2oybzBSNDFZcVkwS2xzZXJvNmtSeTM4ZDUtMU9OREZFU0tBNl9GWVB5ejFGQVpmQzM4QW5JeDA0cmdBZGlLTUxpVXBMYnlEWHhscGR2ZnlIdGpMb210a1NMS3cxV0JFOUJZVE1hSEhQdnR0VzRrVGRibUs3SEEtX0xad19VemtCNkdWSVhtQQ?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 14, 2026",
+      "rawDate": "2026-06-14T21:32:16.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781445818346-03ya6",
       "title": "Online Task Scam Legal Remedies in the Philippines",
@@ -153,20 +167,6 @@
       "date": "June 8, 2026",
       "rawDate": "2026-06-08T16:38:05.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/malaya.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780840412480-v0fl94",
-      "title": "Phishing SMS Reporting in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZnVQWjI5SEFtLUQ1MHY3OFFqVEV6bDlOeVNldXJWdmc0bVliWkthdS13Q0F2Y2pSLUdYaUtKRmZRb1gwZkg1VmhacXUtQ1BQTndIZmpqbFdraWN2dEs0R3VmRzN3bFVDaE92R0pzQ2tsRHRsN3NlS0ZHVGpRVDhSVkxOVXU?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 7, 2026",
-      "rawDate": "2026-06-07T03:19:31.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

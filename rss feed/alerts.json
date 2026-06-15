@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-06-15T04:20:16.174Z",
+  "fetchedAt": "2026-06-15T17:15:04.816Z",
   "alerts": [
+    {
+      "id": "alert-local-1781543703354-1o1i9f",
+      "title": "What Legal Remedies Exist for Unauthorized Bank Transfers Due to Phishing in the Philippines?",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeU1sQXJURm1FSTBIaFc3bUZvWUJobjFMV28wNmE0bUY4MmdGY2psOEZqSFN6S1FiYVhHWE5ScEx3SUw2MDFIbkdibTRZNVRLNjdwN0VidWpGUFRBN3NOemRRNlNIMTlNbXdYN0RHWUdtNHRuVFVaY0h1WjJ1R0FVWE9odmV6T2VFX0xQQ2VKS3ZMS0FZN1VQaHg3RFhUXzV3WERtREs5NzZhb1MteUhtUmlQZHMtanM3ZzlqSGY0OEdKU2NHWEJiMQ?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 15, 2026",
+      "rawDate": "2026-06-15T14:51:13.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781543703354-nrbzzd",
+      "title": "Legal Remedies for Unauthorized Bank Transfers Due to Phishing Attacks in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXUtX0JuUktUZkVUdW5TdnZheVdBei0tRVlmLWxXTndkZ2xPSTV0ak9jekQtYnkyMFpZTV9kdkdHRU9oZlhMeXdubU1GOThpTjhHMnZvTVNRNGhfdU1hQ1pGUnNrb0I4SFhOM1hwWldvVC1sLUl0b01aaFlWRkh4aDRwcVZabjFXMElxNGdrUjdqbTlKNUMtTVRkaDQ3TW95SlJzMS14X1BUNUoxQVQ4T3RKcUtIZS0yRGRmMzAxR3g0VFF1?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 15, 2026",
+      "rawDate": "2026-06-15T12:43:16.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781543703846-u3ml8k",
+      "title": "Hacker of govt websites indentified - cybersecurity officials",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDhGbmZMdWhiNkZOai1TZ3V3X0poZWJtV0EzMGs0SWYtTk4taU12THRyV2IxVW03SFdTR1RNQURaRk1OQkcyYXVzUUVyVWFQQ2xzc2JxU3A0T0lFLWthc1Q5clZ2NGVVV0NRYUdiY1hqMi0wWGo3d3FVMXBQVEozd1d6Y1dsVlNMT1JfZHcxQ3VwZXhuUzdRY1k3RUVwQlVYZk85Y0JXNFFPSmxoVS1SanBrQnM?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 15, 2026",
+      "rawDate": "2026-06-15T09:05:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781497214759-423fd",
       "title": "What Legal Remedies Exist for Victims of Phishing Scams That Led to Unauthorized Bank Transfers in the Philippines",
@@ -128,46 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1781105774343-n9dqo",
-      "title": "GCash rolls out in-app OTPs via push notifications to combat phishing scams, fraud this June 2026",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSWVBLUdNeURPQ0tEaG1CdlNOakgxZk5vZXM5Zmg0R2NYdEtxdFA4T3F4RjdWRWE4VTVYcjduc0JMRjVuQmQxVmRCc200b05NVy1uQXA4VEpPMTZYaTRESG90MFdhb0d1YThsLXRtakJ4Vy13QmJTUUtPb0JNeWdZMWpsYkhqT1dOeEZMNnE2VWNYZWFKWnkwZ1ZaMWVGU0lXQXZTNWE3MzNjT19uQS1RQnJNUmRqLWY3S1ZKNGF6aGV1eS1xMGRpNWlJdUp3eE5KUEJmaWNPdTVFQQ?oc=5",
-      "source": "Philippines Graphic",
-      "sourceLabel": "Philippines Graphic",
+      "id": "alert-international-1781543703057-qgeoz",
+      "title": "Investment fraud in UK soared to more than £220m lost last year, trade body says",
+      "url": "https://www.theguardian.com/money/2026/jun/15/investment-fraud-uk-more-than-220m-lost-last-year-scams-ai",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 9, 2026",
-      "rawDate": "2026-06-09T07:17:54.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/philippinesgraphic.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781016746658-mj8zx",
-      "title": "GCash to launch in-app OTPs to curb scams",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdHRoYlV0UGZzSHNpZXJkMXR2ZlpNVGdLekptb1pUNTM4NW43cE5kaXFSQ3RGOUtPWVE3ZE9ST1hCRGRZTlQ2eEVGSHR5QS1XZGRCMHpQelY5VHZBSGpXTERrMV8xN0dwb3BQbWJ1MnVUcHVoanJYOW9xZWpjU3hRUzc5V20wa1lacFotY0kyZDA4VjV3WTdQLQ?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 8, 2026",
-      "rawDate": "2026-06-08T22:29:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1780976023892-elcjh",
-      "title": "GCash announces shift to in-app OTPs to boost cybersecurity, anti-phishing shields",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmpyS2RaTXp5M0VrTkxuUE8waHRKcHVUSzRMWllnZUlrNlFET2VBekVJNVhYNy0za0tJb3ppRktybVREZ2FmclBjd01qbEFiTjFrQVlYeVh3ZmZ1NlZuRGlpUk9TSTREcEJrY2RkOTduTUZKNHpKcFZ6WE53SGlRdWRNeEN3UVpFSU1KT2lvc3JlM1A4cEU0cWRFZS1XWnp5eDJNRXFfdkd0OVRSc2hFckFoZ0lqMEszbVRRenNyYXY?oc=5",
-      "source": "Malaya Business Insight",
-      "sourceLabel": "Malaya Business Insight",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 8, 2026",
-      "rawDate": "2026-06-08T16:38:05.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/malaya.com.ph.ico",
-      "scope": "local"
+      "date": "June 15, 2026",
+      "rawDate": "2026-06-15T08:00:06.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1781445818221-8uuzz4",
@@ -321,20 +335,6 @@
       "date": "June 1, 2026",
       "rawDate": "2026-06-01T17:32:50.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1780235161122-dcpaph",
-      "title": "‘Your devices could be at risk’: how McAfee antivirus scams trade on fear",
-      "url": "https://www.theguardian.com/money/2026/may/31/virus-software-scam-trade-fear-urgent-renewal",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "May 31, 2026",
-      "rawDate": "2026-05-31T09:30:42.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

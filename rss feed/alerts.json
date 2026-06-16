@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-16T04:11:44.136Z",
+  "fetchedAt": "2026-06-16T16:53:13.591Z",
   "alerts": [
+    {
+      "id": "alert-local-1781628792286-bdof3",
+      "title": "Public warned vs. ‘Father's Day Ayuda' scam",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CM2FyMFd3c1YwS1dpY3BSOUNqNFNfMGU0OFhqeGFhXzQ3ZGZqNjdkY0lqbm9GeV85SjVUZ1o0RDhRTENKQTNLNkpPWXlfWWx0?oc=5",
+      "source": "Philippine News Agency",
+      "sourceLabel": "Philippine News Agency",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 16, 2026",
+      "rawDate": "2026-06-16T09:32:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781583103240-f167osl",
       "title": "Hacker of govt websites identified - cybersecurity officials",
@@ -114,6 +128,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1781628792286-s2ysva",
+      "title": "Report of GCash Scam Incident - June 13, 2026 DICT-905039448294",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjlxVEx6ZTVGTFFpUTJicnBwYWFHcGhIV2s2czlYTEh5czRmNVA5aDA3MkgwLVVpaVBFVnRGOXpRb3dLTGRQV2tBM1FsNWJzLWZNNU9HdGlPSXBTaFkxNjk5X0hQVEU0WXM4dnhlMndsZFI3amNwM3pmVDMzbkZsaEVsaUtrNWVvLWRQQWlld3dnNjJDRERoamZlWXppZ0E?oc=5",
+      "source": "www.foi.gov.ph",
+      "sourceLabel": "www.foi.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 13, 2026",
+      "rawDate": "2026-06-13T06:33:55.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1781359256822-7z3zbo",
       "title": "Online Game Scam Legal Remedies in the Philippines",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNejI2YUw2OTNzblk4QVVuTmIzLWxTYVNkeUFnZVlSQmpWaWRwUFI2Vzh1QVYxY3FQVFhiUGxVMFJfeTFsSnVwRlpEU0RTS3lGMEl0TWFydjZ2dUVXVWJ5cjZwWnQyOFJGeGM4SFVrdmliZjJKd2lTS1pqd3AwZjlTc3ZHNWE4cVloMlExbTlLNEY?oc=5",
@@ -139,34 +167,6 @@
       "date": "June 11, 2026",
       "rawDate": "2026-06-11T18:10:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781105774340-dlekgr",
-      "title": "Online Selling Scam Legal Remedies in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPREVudzhteWIydXFsM0thMVRucm93bndTalpFRjZJQ2lKdW83Z2Rxa3pobzVSZDlUVEQ5TERrTmU1OVB0QTRfd1B4NE10TU1xTFBDRFh4OWZOeVRZelExQjhneE9hckU1eFN5Y2p5V1luRXMtQU9vZjRhN0dnQTVFQTZMWTlPRkhvVE9QZWlvQzM0Rlc0Uktr?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 10, 2026",
-      "rawDate": "2026-06-10T08:47:57.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781105775236-4qqhvs",
-      "title": "GCash to launch in-app OTPs starting June 22 to combat scams",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3JvSnEwTzBQX1RFa0s5Q0IzU0VUUmZzTlEzZE9CWGNzSlVvcEJyS215Q2JfVnNmc1gta040MTRURHcyMzN0ajZqUUVXZzktNnZEQTZfR19mM25ENFhPajFhNU1HS3RKOTdodXd5N1pxakNtZ29BZ0dqMEdLUG9Db3NYNDBjN0ZfMGZJLVozTmY1RThNcDM4VWtkc1dTdVM00gGmAUFVX3lxTE56RGg0NHU4ajVSSktTSmhtS2FIWm0zNUtoUDRybUpCTkZ4ZGJWbEl4WVlja0k1SzVzMGd3MTJVbG9pZkR3YnhyY29MbFliUmNuNVBCdFRTVnVBUVAzQ2JyMkRCc2tMV3lKR2VOSWZpLTRsazlXWFBCTnZHSzh0eFhwNE8zVU5DOXZFQTlIdnUyUXFGbmJucC16RGQtcml4WkFUNTloVEE?oc=5",
-      "source": "Inquirer Technology",
-      "sourceLabel": "Inquirer Technology",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 10, 2026",
-      "rawDate": "2026-06-10T08:01:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/technology.inquirer.net.ico",
       "scope": "local"
     },
     {

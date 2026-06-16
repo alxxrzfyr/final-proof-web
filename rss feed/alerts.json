@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-06-15T17:15:04.816Z",
+  "fetchedAt": "2026-06-16T04:11:44.136Z",
   "alerts": [
+    {
+      "id": "alert-local-1781583103240-f167osl",
+      "title": "Hacker of govt websites identified - cybersecurity officials",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDhGbmZMdWhiNkZOai1TZ3V3X0poZWJtV0EzMGs0SWYtTk4taU12THRyV2IxVW03SFdTR1RNQURaRk1OQkcyYXVzUUVyVWFQQ2xzc2JxU3A0T0lFLWthc1Q5clZ2NGVVV0NRYUdiY1hqMi0wWGo3d3FVMXBQVEozd1d6Y1dsVlNMT1JfZHcxQ3VwZXhuUzdRY1k3RUVwQlVYZk85Y0JXNFFPSmxoVS1SanBrQnM?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 16, 2026",
+      "rawDate": "2026-06-16T01:28:12.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781583102770-y64ulm",
+      "title": "What Legal Remedies Are Available for Losses from Phishing Scams and Unauthorized Bank Transfers in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcFdDcW03S19Qdmt4b09LcXVQQVl4U3JlVThUUWJRd2Z5by1oUDJTSHJSekdkNTNJMkVnM0tGTmhkTzVGV2tleUJEendDQmhoVTd6UXJHYnJhU3BkUU1lZjVUYnNFUU1WTlZEdXdpTjZERndoTEhONXZJUjFBZUJNTExTbzdUZjFaRGdrLVEtSHRxM1dBVnR6MWdCS3hpRVBnUFlScEdfc3lPdm9Tb0tqbGt0aUhCX2tQUE5sbEhZdzl1cjdlVzZra0hNcUEwZzRyMk5KbnFBdTdMcUdTdTQ1QVZ4ZUllOE1jZmc?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 16, 2026",
+      "rawDate": "2026-06-16T00:58:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781543703354-1o1i9f",
       "title": "What Legal Remedies Exist for Unauthorized Bank Transfers Due to Phishing in the Philippines?",
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1781105774341-x6fnsr",
-      "title": "Verify before you click, says LANDBANK amid surge in phishing scams",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYW05aHlYd2Y0bU5zV3EwNHpXSTRpdmw3RDBZX0ZGbE9FWjFoVmpaUnZSaW9BaXEtREVrUlQ1NTY0cXN4d3JlU0VUSS1xOG4zTFd4WUF5LUFmaDRrbUlDOFZCQ01QTmF4M2RGbmM1Umx6TV8tT2NJUGhTVEJuU1VrMUUxb1ZCdVliQ2x4OV9CbXowOFVXSVE?oc=5",
-      "source": "Philippine Information Agency",
-      "sourceLabel": "Philippine Information Agency",
+      "id": "alert-international-1781583102314-sr8ajo",
+      "title": "Sri Lanka sees ‘alarming’ rise in cybercrime as scam networks relocate from south-east Asia",
+      "url": "https://www.theguardian.com/world/2026/jun/16/sri-lanka-alarming-rise-cybercrime-scam-networks-south-east-asia-cambodia-myanmar-china",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 10, 2026",
-      "rawDate": "2026-06-10T03:35:56.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/pia.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781016746658-rfwcls",
-      "title": "Unemployment rate dips but underemployment surges in April",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUVZLZ3pjWk1XV0h0UHMxODhyTkFjenkwNnQ4ZmtNWmpzcy1TR2xpRHFhUFpDR2RFMThEdlNkQUs0MmRVRWdEX3pXN2d5ZExTR0dxSFFoSFpWc2tqeVdZYkU3bXBnNW1PVXotZGZQSkpzOXVIX2xFSHR3UldJN2xiU212U3Fra2V4V2Y1QmNub0NnRlJNZWQ5eFJfZW5zdGd1MTN5SGpBbWU4enp0QWJGT2RzZ2t5b2d3?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 9, 2026",
-      "rawDate": "2026-06-09T13:33:22.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
+      "date": "June 16, 2026",
+      "rawDate": "2026-06-16T00:27:46.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1781543703057-qgeoz",
@@ -321,20 +335,6 @@
       "date": "June 5, 2026",
       "rawDate": "2026-06-05T16:07:46.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1780372910456-7djqh",
-      "title": "Hackers Used Meta&#8217;s AI Support Bot to Seize Instagram Accounts",
-      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 1, 2026",
-      "rawDate": "2026-06-01T17:32:50.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

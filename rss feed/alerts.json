@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-17T04:10:54.842Z",
+  "fetchedAt": "2026-06-17T15:31:58.382Z",
   "alerts": [
+    {
+      "id": "alert-local-1781710316823-ift0p",
+      "title": "GCash rolls out in-app OTPs via push notifications to combat phishing scams, fraud this June 2026",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXFDbzBQRTVyUTB2MHhfMVlCN3FfMDdZeFRvQUpONWpVZmxEQ2hka2lXY0x5Z0t3eTg5bFZ5MGstdjJkbVZ6LUlYaS1ManJGVXNiTnZuR2hwWDI0SzZDeUpPNF8wejhiVUtLZWZ3MXpCLVY1ZWI5enZOVExZUkxDb1JCMGZJZDMwMUNYLVdpTTgzOWMzX3Q3a21hYmw1Si1fblFRdnk0eWhCQmxDRjJ0QUVTTUZCbFdkMWtwYzdQLTFuQXc?oc=5",
+      "source": "mynt.com.ph",
+      "sourceLabel": "mynt.com.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 17, 2026",
+      "rawDate": "2026-06-17T07:55:38.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mynt.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781669453599-i962of",
       "title": "Legal Remedies for Phishing Scams and Unauthorized Bank Transfers in the Philippines",
@@ -153,20 +167,6 @@
       "date": "June 13, 2026",
       "rawDate": "2026-06-13T06:33:55.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781359256822-7z3zbo",
-      "title": "Online Game Scam Legal Remedies in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNejI2YUw2OTNzblk4QVVuTmIzLWxTYVNkeUFnZVlSQmpWaWRwUFI2Vzh1QVYxY3FQVFhiUGxVMFJfeTFsSnVwRlpEU0RTS3lGMEl0TWFydjZ2dUVXVWJ5cjZwWnQyOFJGeGM4SFVrdmliZjJKd2lTS1pqd3AwZjlTc3ZHNWE4cVloMlExbTlLNEY?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 13, 2026",
-      "rawDate": "2026-06-13T04:58:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

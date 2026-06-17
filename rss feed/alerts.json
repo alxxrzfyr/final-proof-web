@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-16T16:53:13.591Z",
+  "fetchedAt": "2026-06-17T04:10:54.842Z",
   "alerts": [
+    {
+      "id": "alert-local-1781669453599-i962of",
+      "title": "Legal Remedies for Phishing Scams and Unauthorized Bank Transfers in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcjlEQjZJUUlsOG51ekgwR0dGV2M4VmhDdHpkTWllRmpqam1sTHdMbXRTN0puWEduTXRfWkpEOUZySFVmVzJGRVJmMWpWSGl3ajZIS29uaU5HekNZdjUtWUlzYjBuS2tNaTRqcVJjaWVjM25OQ0JZVktnRnlRZHk4engwNkNIUjFEanl6dUM3SWY0dS1KZWJidmFyeHlUOWY0WmRzX3NEbWU1clY5MDdrYy1vTUZGR0RjZmVZSk5R?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 17, 2026",
+      "rawDate": "2026-06-17T03:23:57.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781628792286-bdof3",
       "title": "Public warned vs. ‘Father's Day Ayuda' scam",
@@ -153,20 +167,6 @@
       "date": "June 13, 2026",
       "rawDate": "2026-06-13T04:58:46.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781236905753-wp8d3s",
-      "title": "DITO complies with OTP phaseout",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPNHhuei1xUEtucWI0QTJrMHdBWDJrQWhSN0oxdU9tT2lSUDZrejhmcDI1dEsyTUV5VFlQclV3c21Jbzdxa1hNVUdLUG9fbmx6ZUNFbTVjamVXR3lfYnh6ZXNnejhDUzk1MGhmX1VSTGlOUVg0UnVr0gF8QVVfeXFMTW4wdEQzeWM1OXlmMGVjMmFFMFlPV1drRGI1SnlRdmdLRlRpY29lWnNwcnVYVTNhYWkwcm9fUk5FVl92STQwMVNrNWZOYm1mblkwOEIwZmNrYzdxQjRWYUdPQXd0bVNnWVI0UEVpU25TWk1pNERTbmFQUkpTeg?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 11, 2026",
-      "rawDate": "2026-06-11T18:10:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-17T15:31:58.382Z",
+  "fetchedAt": "2026-06-18T04:01:33.017Z",
   "alerts": [
+    {
+      "id": "alert-local-1781755291786-ayeiy9",
+      "title": "Taskforce Firewall: The love scam | Ep. 19 Teaser",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcTYtUVdJYzRMZUJsR0twNUpjaURITHlEVmZKZjk2UWZWRG53dHM2LWRJcXc4U1ZUWUt1d1FoV3hGdDJLLVM4WU8zbmk4R0lNbmNiXzB6d0k5QWR0MFpMdTFQdjBvSVZzQmlNSEk2NjhYQklqdE5KN05uMUdNcnByQmNpUFNVUU5ybnQ3eGVSdEcwLWplclRWVDEwU0hQRWZBd1k4NEI2OXLSAa8BQVVfeXFMUGtaQkJXR0hwUGtQdHBoNV9CLVkwbnlFeVBWSmtrOXpvekRmaVczVmtHcXp0NG51WXBHa2NTWm5XV183OFk5T2dIcTNGNEREV05vZElQcTBuQ0ZlVnZVNG9WOEhMeVY5bTVZVEtiOC1kdzVpX3RaNjY0b3NoU3U5RWFweG1FaC0tc1dmX0I5VEVkVE5RcmZTQXFzRm1SeEwydVpFSm1JUEVJaVdBOXNGZw?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 18, 2026",
+      "rawDate": "2026-06-18T03:01:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781710316823-ift0p",
       "title": "GCash rolls out in-app OTPs via push notifications to combat phishing scams, fraud this June 2026",
@@ -30,16 +44,30 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1781628792286-bdof3",
+      "id": "alert-local-1781755291542-33xiqr",
+      "title": "GCash Phishing",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XVmk3d09MWjhsbURGTmozdnpmOFl5UXg4WHp4WjVlSHA1VmZoUEt4SDc2OHYyMzlxTDZyRll2U19nRGhZVHlueHNMYzU1MmhWNjJpYlJB?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 16, 2026",
+      "rawDate": "2026-06-16T18:45:44.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781755291542-eeriu",
       "title": "Public warned vs. ‘Father's Day Ayuda' scam",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CM2FyMFd3c1YwS1dpY3BSOUNqNFNfMGU0OFhqeGFhXzQ3ZGZqNjdkY0lqbm9GeV85SjVUZ1o0RDhRTENKQTNLNkpPWXlfWWx0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KRkVoWVBQNWk4d2N6bmc0X0hiOFJ0by1KODc0NGZ5UnFrYVEtQXRvNFpDUVRVS3V4NTAyVHNVNnJKRWlJRXBKODNCbmU0ZzFFWFkyV3p2MG1lRURRcGc?oc=5",
       "source": "Philippine News Agency",
       "sourceLabel": "Philippine News Agency",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
       "date": "June 16, 2026",
-      "rawDate": "2026-06-16T09:32:24.000Z",
+      "rawDate": "2026-06-16T11:09:26.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
       "scope": "local"
     },
@@ -139,34 +167,6 @@
       "date": "June 14, 2026",
       "rawDate": "2026-06-14T11:45:44.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781359256819-42dyh",
-      "title": "How to File Criminal Case for Love Scam Estafa in the Philippines When Victim is Abroad",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdDZTQVJmUk5HZXo2T2JYTF8zalZhNDVEVVo4eWE3eDJGSDNWLWYwaUVYbS1LLV9xLUNkVXlWdGRkRFVfaVY0NzRjSVpqU3pSN1dWMFNvS293X01kWGJROVVPMXl6d185cWFwakRYLTVzTFV1U1NMT2otN0RJLVlJVUlaZG1adzJkVjlwRnJfbDFaYzQtZXZ5VjdhMlN1TXR4V1I5MlNvMVhKSFZTMjYzY0luYXE2NXJKcS1zU0I1bURGdw?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 13, 2026",
-      "rawDate": "2026-06-13T08:54:30.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781628792286-s2ysva",
-      "title": "Report of GCash Scam Incident - June 13, 2026 DICT-905039448294",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbjlxVEx6ZTVGTFFpUTJicnBwYWFHcGhIV2s2czlYTEh5czRmNVA5aDA3MkgwLVVpaVBFVnRGOXpRb3dLTGRQV2tBM1FsNWJzLWZNNU9HdGlPSXBTaFkxNjk5X0hQVEU0WXM4dnhlMndsZFI3amNwM3pmVDMzbkZsaEVsaUtrNWVvLWRQQWlld3dnNjJDRERoamZlWXppZ0E?oc=5",
-      "source": "www.foi.gov.ph",
-      "sourceLabel": "www.foi.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 13, 2026",
-      "rawDate": "2026-06-13T06:33:55.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
       "scope": "local"
     },
     {

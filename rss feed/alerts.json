@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-18T04:01:33.017Z",
+  "fetchedAt": "2026-06-18T15:25:23.310Z",
   "alerts": [
     {
       "id": "alert-local-1781755291786-ayeiy9",
@@ -27,6 +27,20 @@
       "date": "June 17, 2026",
       "rawDate": "2026-06-17T07:55:38.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mynt.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781796322002-zkofef",
+      "title": "play lottery online free for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLakRlZWsxNmxOOHotWmJHbTVGU3VON3FTUUxoWm5td1hQUm1uUzZfTHdNQXRsUlFTLUFsRkpDbjVTQzNMeExxUGFlNHozZ0ZOOWJlOGlNdUotcVRpV0VkaA?oc=5",
+      "source": "sis.ctu.edu.ph",
+      "sourceLabel": "sis.ctu.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 17, 2026",
+      "rawDate": "2026-06-17T06:53:45.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/sis.ctu.edu.ph.ico",
       "scope": "local"
     },
     {
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1781445818346-03ya6",
-      "title": "Online Task Scam Legal Remedies in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMmc1Ty1xNzFwTkw0aUZhemF3UjFmdTZyejRvVHRZMnhxWEpPT0NRUFFVVlhxa3JJVlVDTlB3TjZ5VlpjcWllYVctOE5OVGRrWHJSVmo2ODJoRmpRM1lhZEZ1aWo4SGhPVG1Bbm9yWnk4LWZqalBCNlEzTTc4ZEVwSEpkdzRLdjMzU2xhOWNjQVc?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
+      "id": "alert-international-1781796322486-hsvfda",
+      "title": "Researchers find malware that may have aimed to slow down Iran's nuclear program",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0J1V3JNdkFQSDZKZTVjUUU3WTBFalNWUlc1SkllZnl4dmV0cVFqaWtBR2JaRnpHeDMxYTF5MjJVb2ZyU095b2JiMThXQlhISGNvM1VNNUVyN1VjZ1NDbEYwRHB0VzktOFh1bEkwSV90SjkzM3Y3Nm9nMUJpajRkMHo0V0dBV0g3eHA4bC1aQW1RQTZFRDVReGZ5NXJCQnJYN19OZ1ZWT3NXazNyLTlLMzl1Nm83OHoybURIYWtvSkxEUQ?oc=5",
+      "source": "NPR",
+      "sourceLabel": "NPR",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 14, 2026",
-      "rawDate": "2026-06-14T11:45:44.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
+      "date": "June 18, 2026",
+      "rawDate": "2026-06-18T08:45:59.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.npr.org.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1781583102314-sr8ajo",
@@ -321,20 +335,6 @@
       "date": "June 5, 2026",
       "rawDate": "2026-06-05T16:51:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1780716777619-hrgqqi",
-      "title": "Google and FBI warn of ransomware group that sends fake IT workers to hack victims in person",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRWVQYktTNWZaa09hUXVBT0U0NFJzX2NzSDVuODBxa2JtUi1mN2dNakNFcDl2UUFOdXFwTXJ1R2xXLXpnMl9DMFE5Mk93bW5fUF9FZFVQVC1KM1p3ODQyQzhYSnpfM1RIZzFKNmxpbXNkOHRMbnpZUFAwQUhUQkpIcDhXYVdCeWNFUVZCNTFueEx6ZFEzUGJaSmtydTdKSi03c0FYQUZJTVA5dWlzTzk1SlNqeWNnbm1DVTk4eFl0ZENPNElxbVE?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 5, 2026",
-      "rawDate": "2026-06-05T16:07:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
       "scope": "international"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-18T15:25:23.310Z",
+  "fetchedAt": "2026-06-19T04:21:09.321Z",
   "alerts": [
     {
       "id": "alert-local-1781755291786-ayeiy9",
@@ -13,6 +13,20 @@
       "date": "June 18, 2026",
       "rawDate": "2026-06-18T03:01:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781842868131-6wg5u",
+      "title": "earn money online lottery for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ieDI0QmoxSktYM0ZoZU5hYjYwNFEyUXFrNDE5aWlrUVk0MnVQaVNvcG1qTnpkWUlIVmNvNnBZd2V2c0V6WTVJTjZ0YmtJelN6RjU5QnhzM0dyWHl2d0VQazBpbw?oc=5",
+      "source": "Cebu Technological University",
+      "sourceLabel": "Cebu Technological University",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 18, 2026",
+      "rawDate": "2026-06-18T02:00:30.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/portal.ctu.edu.ph.ico",
       "scope": "local"
     },
     {
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1781497214759-423fd",
-      "title": "What Legal Remedies Exist for Victims of Phishing Scams That Led to Unauthorized Bank Transfers in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRlBXZjROQUVyTTZYMXdueXVKaWVsRDNGSWhkQVZIcE9KUk9SWG9YLXNheks5RTlfQXgzSTY5QUd6RHlEQ0t6WHFlYXp5cGloY015N0RNSWNOVDhOaTNEN2oybzBSNDFZcVkwS2xzZXJvNmtSeTM4ZDUtMU9OREZFU0tBNl9GWVB5ejFGQVpmQzM4QW5JeDA0cmdBZGlLTUxpVXBMYnlEWHhscGR2ZnlIdGpMb210a1NMS3cxV0JFOUJZVE1hSEhQdnR0VzRrVGRibUs3SEEtX0xad19VemtCNkdWSVhtQQ?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
+      "id": "alert-international-1781842868188-n9i4l",
+      "title": "&#8216;Popa&#8217; Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 14, 2026",
-      "rawDate": "2026-06-14T21:32:16.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
+      "date": "June 18, 2026",
+      "rawDate": "2026-06-18T17:37:58.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1781796322486-hsvfda",
@@ -321,20 +335,6 @@
       "date": "June 7, 2026",
       "rawDate": "2026-06-07T06:00:26.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1780716777620-31tif",
-      "title": "Crypto Scam Triggers Elderly Woman’s Suit Over Tax Deductions",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajBNMlQ4ZGdVSGFRMXBqTjh5dUFFWFJvQlV1VXpwc2RTWG56SGRVOHVJajNrNnNoNzhiRmhZQnhVS01vSUZraDdlbXdfdFVrSGNfd21wZzI1WTNRR1RpMm9PbTFJTGtGYWdRb1BBU3RlTHpSVXlPR2drN2F5TEUtZDgwMGIwaVc0eGxFMzlHczlqTDY0UlJDVXlXcld6Tl9hNUwxRVl3b3ZSNU0?oc=5",
-      "source": "news.bloombergtax.com",
-      "sourceLabel": "news.bloombergtax.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 5, 2026",
-      "rawDate": "2026-06-05T16:51:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
       "scope": "international"
     }
   ]

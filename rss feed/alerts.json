@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-06-19T04:21:09.321Z",
+  "fetchedAt": "2026-06-19T15:18:41.785Z",
   "alerts": [
+    {
+      "id": "alert-local-1781882320831-b19uwj",
+      "title": "Taskforce Firewall: Kaibigan ni Galo, biktima ng love scam! (Episode 19 - Part 2/3) | GMA Entertainment",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlBydDRreDNDQl9tY3Nvc011S3FVUFkybDBSLVotNG16LTZwSG1YZ2t1Uk54WS05RjNvWTBQT1BnaVpoZjNncUxOMWo1a2dOekN3OE1jdzRSN3llUkVOeWJidWc3a2xoSzdheEQ5UExWakd6M19FS3pFc1BFZ05MV1NNYTA1eDVBM0NXMXZUUzlIWEhlM3dmV2pwcjU5NFhaOVphN0JoWjBjUEI3REdqMmM1UTYwb250aTAzUFBJUTN3QUlaZ0IwSnZ3UdIB0AFBVV95cUxOMm5GQVhlVDRrVWx2T2FxeHJJX0FLT3VpWWs3RTJzYm1hcDh6UDhoRVhiSU9xVFFCbVdrWTBodkxmM3ZzSnltckM4Yko1cEcyakpKUUUxVDBUa01qTm5qMUZaR1UyaE9KZ09DMDdrM2tabjJlZmdKYmRlOFJkUkNIUG1aM2hoLS1URTNpRXpVV3FHVm5RRzlIYmZTWGJKcW9YUHRpeUp2dm9pV28xX3FCcDlPdlU3c1l6b2RWbnRuLUNNdEh2bjVOR3h5R21kR05i?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 19, 2026",
+      "rawDate": "2026-06-19T05:15:27.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781882320831-uepudf",
+      "title": "Taskforce Firewall: Team Firewall is tasked with a love scam case (Episode 19 - Part 1/3) | GMA Entertainment",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1B2RU9Ndjd5NnRnOGFmLThfX1V5dWRPdEdsUGdMaTAwMmdWM0JKWmZXbk8tbVZvWGkzQXhBak84TzBrZGZDN2JBS1lHbFlLY1dCMHpjU21FU2I2V3dtWWNyRDllbXRlRkxNRVZrTnphZ3picUxqTWdXY1FZZjhKMk13Z1dCZ0l0cHBTMmxDM203Vm9iTnhGbVNMTU92aWlkRHUyUXJ5UmVfZU81Q1FTMGhZdk5kSGQ1ZW54ZVFveWhjTk5yS1JUb2JZU1BuWVAzQU56cNIB2wFBVV95cUxPd3lNLW1mTk93ejQxQ2tncWR1V0M2QTQwM3BBdnZUSXZaSjlOUWpRQWJ1ZWdCRHhvZ0tKTTlYOTlvbXFuOW1aWGQ1aGI1Q0tEVHFpbnRkMHZlbmd1Qm9Odl9CVzJYaXJ0MW5IV25fWUZoR0tPcnFXSndoekdxREg3Q0dPaUlkR28wcng1elBvWDRQSEFxRkR1WmVRSTE1SXNrU2pZdnBzTnRkSHdzVTFIWW0tV1BjMmF5TEpRVHctSzdfWmpoN1hkTGRUVnJQMC1xSFRSdjlvUkFQRUU?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 19, 2026",
+      "rawDate": "2026-06-19T05:15:19.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1781882320628-7s5mi6",
+      "title": "lucky lemmings slot machine for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRaW1FOUp6Zmp2ekVycGx6blpfbUJQQnF5RzRLSnhrM2dfdHVjaVBscHBEc0t2RkZlNGZLYUZKOU1VTmlfWGNqdmJHUk5Ha1NJMDVKallNMEJfNmFs?oc=5",
+      "source": "sis.ctu.edu.ph",
+      "sourceLabel": "sis.ctu.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 18, 2026",
+      "rawDate": "2026-06-18T07:52:17.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/sis.ctu.edu.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781755291786-ayeiy9",
       "title": "Taskforce Firewall: The love scam | Ep. 19 Teaser",
@@ -125,48 +167,6 @@
       "date": "June 16, 2026",
       "rawDate": "2026-06-16T00:58:24.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781543703354-1o1i9f",
-      "title": "What Legal Remedies Exist for Unauthorized Bank Transfers Due to Phishing in the Philippines?",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeU1sQXJURm1FSTBIaFc3bUZvWUJobjFMV28wNmE0bUY4MmdGY2psOEZqSFN6S1FiYVhHWE5ScEx3SUw2MDFIbkdibTRZNVRLNjdwN0VidWpGUFRBN3NOemRRNlNIMTlNbXdYN0RHWUdtNHRuVFVaY0h1WjJ1R0FVWE9odmV6T2VFX0xQQ2VKS3ZMS0FZN1VQaHg3RFhUXzV3WERtREs5NzZhb1MteUhtUmlQZHMtanM3ZzlqSGY0OEdKU2NHWEJiMQ?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 15, 2026",
-      "rawDate": "2026-06-15T14:51:13.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781543703354-nrbzzd",
-      "title": "Legal Remedies for Unauthorized Bank Transfers Due to Phishing Attacks in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXUtX0JuUktUZkVUdW5TdnZheVdBei0tRVlmLWxXTndkZ2xPSTV0ak9jekQtYnkyMFpZTV9kdkdHRU9oZlhMeXdubU1GOThpTjhHMnZvTVNRNGhfdU1hQ1pGUnNrb0I4SFhOM1hwWldvVC1sLUl0b01aaFlWRkh4aDRwcVZabjFXMElxNGdrUjdqbTlKNUMtTVRkaDQ3TW95SlJzMS14X1BUNUoxQVQ4T3RKcUtIZS0yRGRmMzAxR3g0VFF1?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 15, 2026",
-      "rawDate": "2026-06-15T12:43:16.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781543703846-u3ml8k",
-      "title": "Hacker of govt websites indentified - cybersecurity officials",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDhGbmZMdWhiNkZOai1TZ3V3X0poZWJtV0EzMGs0SWYtTk4taU12THRyV2IxVW03SFdTR1RNQURaRk1OQkcyYXVzUUVyVWFQQ2xzc2JxU3A0T0lFLWthc1Q5clZ2NGVVV0NRYUdiY1hqMi0wWGo3d3FVMXBQVEozd1d6Y1dsVlNMT1JfZHcxQ3VwZXhuUzdRY1k3RUVwQlVYZk85Y0JXNFFPSmxoVS1SanBrQnM?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 15, 2026",
-      "rawDate": "2026-06-15T09:05:08.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {

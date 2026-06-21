@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-19T15:18:41.785Z",
+  "fetchedAt": "2026-06-21T14:11:59.783Z",
   "alerts": [
     {
       "id": "alert-local-1781882320831-b19uwj",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1782051118537-h7wofb",
+      "title": "‘Build Vice City’: the GTA 6 scam that’s hitting gamers worldwide",
+      "url": "https://www.theguardian.com/money/2026/jun/21/gta-6-grand-theft-auto-vi-beta-test-pre-release-scams-fake",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 21, 2026",
+      "rawDate": "2026-06-21T06:00:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1781842868188-n9i4l",
       "title": "&#8216;Popa&#8217; Botnet Linked to Publicly-Traded Israeli Firm",
       "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
@@ -312,20 +326,6 @@
     {
       "id": "alert-international-1780840412260-6k7dnd",
       "title": "‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites",
-      "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 7, 2026",
-      "rawDate": "2026-06-07T06:00:26.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1781277360559-tkkskm",
-      "title": "Cloned sites: the shopping scams that lead ChatGPT to fake stores",
       "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
       "source": "The Guardian (Scams)",
       "sourceLabel": "The Guardian (Scams)",

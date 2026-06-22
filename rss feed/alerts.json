@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-21T14:11:59.783Z",
+  "fetchedAt": "2026-06-22T04:17:49.262Z",
   "alerts": [
+    {
+      "id": "alert-local-1782101868286-i2tm3",
+      "title": "Taskforce Firewall: Love scam operation | Ep. 21 Teaser",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaUVqd1ZuLVBnVzJrejhTSlU3YjF5ZlFFRDd2MDFXSmF4bGhXenFVT0lwSm45UHFheXM5ZWw0NjdqTUNHbm1uNllJcGZuUWI3ZnVVYWUzQnhQaWdxMWdlZHNjMjMzSXVUcWlGSmpFUGtVekpxREZNUmQ5Y0hKZ083R3lLeGNUVHJEeTFVTWdKN1RJNzZZb0QxT2tsTjY1SktzYmo5ZWVRd25hd0k0NGhxdQ?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 22, 2026",
+      "rawDate": "2026-06-22T03:41:41.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1781882320831-b19uwj",
       "title": "Taskforce Firewall: Kaibigan ni Galo, biktima ng love scam! (Episode 19 - Part 2/3) | GMA Entertainment",
@@ -153,20 +167,6 @@
       "date": "June 16, 2026",
       "rawDate": "2026-06-16T01:28:12.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781583102770-y64ulm",
-      "title": "What Legal Remedies Are Available for Losses from Phishing Scams and Unauthorized Bank Transfers in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcFdDcW03S19Qdmt4b09LcXVQQVl4U3JlVThUUWJRd2Z5by1oUDJTSHJSekdkNTNJMkVnM0tGTmhkTzVGV2tleUJEendDQmhoVTd6UXJHYnJhU3BkUU1lZjVUYnNFUU1WTlZEdXdpTjZERndoTEhONXZJUjFBZUJNTExTbzdUZjFaRGdrLVEtSHRxM1dBVnR6MWdCS3hpRVBnUFlScEdfc3lPdm9Tb0tqbGt0aUhCX2tQUE5sbEhZdzl1cjdlVzZra0hNcUEwZzRyMk5KbnFBdTdMcUdTdTQ1QVZ4ZUllOE1jZmc?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 16, 2026",
-      "rawDate": "2026-06-16T00:58:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

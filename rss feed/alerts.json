@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-22T04:17:49.262Z",
+  "fetchedAt": "2026-06-22T16:58:53.625Z",
   "alerts": [
+    {
+      "id": "alert-local-1782147532081-3huot",
+      "title": "GCash rolls out in-app OTPs via push notifications",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2NWVOa3QxUGs2Uy1XbU42MlY5Q2VnanBxWnpBbkxvSmtKcldsQXEtR3JQRUEyd0QxaUtCWkh1T3ZYMFdncDg2YTRMY2lZSnhPdXprMi1DalVpQmtqdEHSAWNBVV95cUxNM1BrMHFWT2ZKQk1tZFFIVjQ4dW5WNGhMNi14anczMUpJLXBscTZROHJxaHR2ZnhldVRHdDFiYjRPd2MzX3NQbVVXRFl0akxxN05RZmtZbXJLNEVYN09hVFBkUDg?oc=5",
+      "source": "Unbox PH",
+      "sourceLabel": "Unbox PH",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 22, 2026",
+      "rawDate": "2026-06-22T06:45:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/unbox.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1782101868286-i2tm3",
       "title": "Taskforce Firewall: Love scam operation | Ep. 21 Teaser",
@@ -156,18 +170,32 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1781583103240-f167osl",
-      "title": "Hacker of govt websites identified - cybersecurity officials",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSDhGbmZMdWhiNkZOai1TZ3V3X0poZWJtV0EzMGs0SWYtTk4taU12THRyV2IxVW03SFdTR1RNQURaRk1OQkcyYXVzUUVyVWFQQ2xzc2JxU3A0T0lFLWthc1Q5clZ2NGVVV0NRYUdiY1hqMi0wWGo3d3FVMXBQVEozd1d6Y1dsVlNMT1JfZHcxQ3VwZXhuUzdRY1k3RUVwQlVYZk85Y0JXNFFPSmxoVS1SanBrQnM?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
+      "id": "alert-international-1782147532032-fdr7r",
+      "title": "Job scams are growing and getting tougher to spot: ‘That’s the reality of this hell job market’",
+      "url": "https://www.theguardian.com/money/2026/jun/22/job-scams-employment-ai",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 16, 2026",
-      "rawDate": "2026-06-16T01:28:12.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
+      "date": "June 22, 2026",
+      "rawDate": "2026-06-22T11:00:23.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1782147532033-9xkgw",
+      "title": "Paris taxi scam cost £493 but Monzo won’t help me",
+      "url": "https://www.theguardian.com/money/2026/jun/22/paris-taxi-scam-monzo-bank-money-chargeback",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 22, 2026",
+      "rawDate": "2026-06-22T07:00:02.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1782051118537-h7wofb",
@@ -307,34 +335,6 @@
       "date": "June 8, 2026",
       "rawDate": "2026-06-08T11:48:40.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1780934031108-uoe5x5",
-      "title": "Meta to take legal action against Israeli spyware firm NSO, foils phishing attacks",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlo3bW5iaGsxMlBic090Q25vcEVTYmdiWmJyQlBKc3B6YThib0FlT0F2b0Fza2pkR3lTMzVBY1RwMjc2RGJsd0JaNHAzTkZLZkppUkRTVzc3R1hMOVJhMmhVdXpJVDJ6cDJlM0FKZ3p6ZEFvNGRUMnZWTFE4WEZyX3ZBWXpJV0hxRzdvdXhKZElQZ3ZGY3VuYnZLYXdUeGpXOEpyNGlnQ05xdVVESHd0YmJBcFFjZw?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 8, 2026",
-      "rawDate": "2026-06-08T10:43:25.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1780840412260-6k7dnd",
-      "title": "‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites",
-      "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 7, 2026",
-      "rawDate": "2026-06-07T06:00:26.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

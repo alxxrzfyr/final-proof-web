@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-06-22T16:58:53.625Z",
+  "fetchedAt": "2026-06-23T14:49:49.085Z",
   "alerts": [
+    {
+      "id": "alert-local-1782226187811-b0hugm",
+      "title": "AI fuels cyber arms race as hackers adopt automated attacks, says Kaspersky",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa2I5QnFrZTV1eXFtMDFtNl9fZFVscVpqZThMakV0eWtYSWpObGlsa1B2V0RDN0NIdkZVQU1vdE5ta2RXT0d3RkZtR1JQMDRDNS11d3g4dFJLN2hPNlVPdlpCRDdBZ1dnb1lVNHhseTRGanFlSkJzNXN2VWd4cy1wT1JudnlNRDRsUU1uZFNCSmttd2NFM1VrazVVdXNkN0JKVUozYVVVM0x2cnc?oc=5",
+      "source": "Newsbytes.PH",
+      "sourceLabel": "Newsbytes.PH",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 23, 2026",
+      "rawDate": "2026-06-23T08:08:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1782226188463-9lp2fze",
+      "title": "BI arrests 5 foreigners in Parañaque love scam raid",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnJ3aVVmLUY5eFBRZzVlSWtNdnB5UlU3c25EUUJjNEktSzNsMU5lVVZfQUxTUnZ3WUJySDdxX1BqYndMYXAyNjJmVzd4bUhEbE5fZHFRei05cVFmSU5PME9HLUd1cTk1ZzUxTExoYUM1VnBneWI1LU9kYXVuei1odjVHbDhVYldfWjd5MnVraEx4ZnpfbDRV0gGcAUFVX3lxTE1tZkVqdTZ0VkthS0JndGNyZi1xUURYWk5OU2pnQlpsNXdlcmZJbzVDLXVxdmpPVkxpVW9XNnFubnFHQ1NhQ0NEdjJac0t6WFZTcWNNbWN4cGowWWY3azJ4aG8zS19TeWFUS3AyUGxSbmpFV3hES3B0THIyQkJpc0VwVmIzbDZSZlkwSkFqZG9ma0lSZlNrSnNGZDBRcA?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 23, 2026",
+      "rawDate": "2026-06-23T07:09:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1782147532081-3huot",
       "title": "GCash rolls out in-app OTPs via push notifications",
@@ -142,35 +170,7 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1781755291542-33xiqr",
-      "title": "GCash Phishing",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XVmk3d09MWjhsbURGTmozdnpmOFl5UXg4WHp4WjVlSHA1VmZoUEt4SDc2OHYyMzlxTDZyRll2U19nRGhZVHlueHNMYzU1MmhWNjJpYlJB?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 16, 2026",
-      "rawDate": "2026-06-16T18:45:44.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781755291542-eeriu",
-      "title": "Public warned vs. ‘Father's Day Ayuda' scam",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KRkVoWVBQNWk4d2N6bmc0X0hiOFJ0by1KODc0NGZ5UnFrYVEtQXRvNFpDUVRVS3V4NTAyVHNVNnJKRWlJRXBKODNCbmU0ZzFFWFkyV3p2MG1lRURRcGc?oc=5",
-      "source": "Philippine News Agency",
-      "sourceLabel": "Philippine News Agency",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 16, 2026",
-      "rawDate": "2026-06-16T11:09:26.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-international-1782147532032-fdr7r",
+      "id": "alert-international-1782226187763-pz89et",
       "title": "Job scams are growing and getting tougher to spot: ‘That’s the reality of this hell job market’",
       "url": "https://www.theguardian.com/money/2026/jun/22/job-scams-employment-ai",
       "source": "The Guardian (Scams)",
@@ -179,7 +179,7 @@
       "category": "cybercrime",
       "severity": "medium",
       "date": "June 22, 2026",
-      "rawDate": "2026-06-22T11:00:23.000Z",
+      "rawDate": "2026-06-22T17:36:28.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     },

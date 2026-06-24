@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-06-24T03:37:14.880Z",
+  "fetchedAt": "2026-06-24T14:31:09.218Z",
   "alerts": [
+    {
+      "id": "alert-local-1782311468256-o044u6",
+      "title": "Five foreigners arrested in suspected scam hub in Parañaque",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnVMSE9EWm5zY2RnRVhoZm1Cb2Q3M1hyNHVfMzUxREd1LVNQd3E2alV1VlBpNVZtWk83Vm5XZ2diRU83Q0VCeWlUdE03U1JyMXNkdnNOQ0hGX2t5S1F4UEZtRm85Q3VEYXhXa3plam5ocnFwcUFkS0FlNGYxb1B0S0hSWGFNTDN0dS1BMFRmaGxSQ0RrWnJKRmw0T3FkbGJ3QmtMYmhra2RqQmFWcl9Z?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 24, 2026",
+      "rawDate": "2026-06-24T11:28:13.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1782311468256-9ujeo3m",
+      "title": "Fil-Am healthcare leaders say fraud allegations should not define Filipino nurses",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZENIWk1KcDRqZXNWZVh5enlJVDRhSzlJX3VxdHAtSnEzam5YSEJUckFWSUx1YmV1bm9wTXlMTlA2RE9ZREdEQ1ZwejNkNVQ0NXZuckhVR2Q0UXd1X0dERUxlRVBFM3R6QXZyYW93aS1iMFEyRC0tN2o3RGFaVWw0ZTg5eWZFbjZIaWlFa1hwOXl6emNqV2hBbkIzWUstNzNYa2h3anltTWhlc3BKNllSdEVjQWZDdWs5UWZEUXVuMk90VWR3QVViWW1JOHM?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 24, 2026",
+      "rawDate": "2026-06-24T10:33:18.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1782311468023-qyvxkv",
+      "title": "Taskforce Firewall: Team Firewall, ni-raid ang love scam syndicate! (Episode 22 - Part 2/3) | GMA Entertainment",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVVPckMtMG5Baklod0FudXM1bHl1dEtyekJzWkRVQVdHM3Nwcm5jR2FvV3V5QkV1TEIwZ0RIQmJucEZlMlJlWTFGeTJ0QV9ZbDhvYlVWUS1IR2pVZ0FxZjFoUE5TaXpYX3E5ZmVldmstei1sVnhMNHQ4TkJrREhsOVFEYnMtOGJlS1FReUhfMHBFc1ZzTnJ3TTdrRExFR2NWLWtWOEVMS0tuTUhNZ2stNEg4VXNWUk5QSnE4TWFYU21CMmZVWVZES01oUFBxRGNza1FWd01n0gHbAUFVX3lxTE1tRUlRcFZYU3R0a2NWMXA5U242bGNKWVkxLUZxcDJxUUJpSkxYLWwycFhIaEduQW5tbFgwWk45YXFlS1VNSS1iaUtfOWZnOEwwR2pDeDE1OVM5YmRsd19ZUDlzV3F6dXVzZm1wRmwxQTdWUkJQUE0yR2I2VUhYVVBCTExwRzZJLUdaQ0pRTUZDZjctUVBBaTc3X1ZUNllmWnNmMkJ1dnRWbGRpZUVVblFxWGNEZkQ4Vnp6cTR2bHEzZEJTOTdqTXZRcUF0akI0WDR0V2NhTFBFQk1kRQ?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 24, 2026",
+      "rawDate": "2026-06-24T07:00:44.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1782226187811-b0hugm",
       "title": "AI fuels cyber arms race as hackers adopt automated attacks, says Kaspersky",
@@ -125,48 +167,6 @@
       "date": "June 18, 2026",
       "rawDate": "2026-06-18T02:00:30.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/portal.ctu.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781710316823-ift0p",
-      "title": "GCash rolls out in-app OTPs via push notifications to combat phishing scams, fraud this June 2026",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUXFDbzBQRTVyUTB2MHhfMVlCN3FfMDdZeFRvQUpONWpVZmxEQ2hka2lXY0x5Z0t3eTg5bFZ5MGstdjJkbVZ6LUlYaS1ManJGVXNiTnZuR2hwWDI0SzZDeUpPNF8wejhiVUtLZWZ3MXpCLVY1ZWI5enZOVExZUkxDb1JCMGZJZDMwMUNYLVdpTTgzOWMzX3Q3a21hYmw1Si1fblFRdnk0eWhCQmxDRjJ0QUVTTUZCbFdkMWtwYzdQLTFuQXc?oc=5",
-      "source": "mynt.com.ph",
-      "sourceLabel": "mynt.com.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 17, 2026",
-      "rawDate": "2026-06-17T07:55:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mynt.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781796322002-zkofef",
-      "title": "play lottery online free for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLakRlZWsxNmxOOHotWmJHbTVGU3VON3FTUUxoWm5td1hQUm1uUzZfTHdNQXRsUlFTLUFsRkpDbjVTQzNMeExxUGFlNHozZ0ZOOWJlOGlNdUotcVRpV0VkaA?oc=5",
-      "source": "sis.ctu.edu.ph",
-      "sourceLabel": "sis.ctu.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 17, 2026",
-      "rawDate": "2026-06-17T06:53:45.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/sis.ctu.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781669453599-i962of",
-      "title": "Legal Remedies for Phishing Scams and Unauthorized Bank Transfers in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcjlEQjZJUUlsOG51ekgwR0dGV2M4VmhDdHpkTWllRmpqam1sTHdMbXRTN0puWEduTXRfWkpEOUZySFVmVzJGRVJmMWpWSGl3ajZIS29uaU5HekNZdjUtWUlzYjBuS2tNaTRqcVJjaWVjM25OQ0JZVktnRnlRZHk4engwNkNIUjFEanl6dUM3SWY0dS1KZWJidmFyeHlUOWY0WmRzX3NEbWU1clY5MDdrYy1vTUZGR0RjZmVZSk5R?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 17, 2026",
-      "rawDate": "2026-06-17T03:23:57.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

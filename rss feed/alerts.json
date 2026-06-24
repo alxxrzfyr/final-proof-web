@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-23T14:49:49.085Z",
+  "fetchedAt": "2026-06-24T03:37:14.880Z",
   "alerts": [
     {
       "id": "alert-local-1782226187811-b0hugm",
@@ -170,6 +170,34 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1782272233942-2mikah",
+      "title": "India's Bajaj Auto says ransomware attack hits systems",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHdmUjhwZXQ4eXc4VzdEaU13U0hkSEJKaU1uWDJqSWo4c3Y2VmRWOXpMaV9scHczQWFPS2QwSGVzVkZDUV9LemdZcF9BSENmWHcyemNOZDBtckNSelpldnJlY0RzMm92LU1wQ3FHVG42U2h5ZGJTRV8zSm1jVHN1c2oxYS16LUZHcnRqUXBXZFFtRVNwUnQ4b2RITkkzaHdselA4?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 23, 2026",
+      "rawDate": "2026-06-23T20:38:20.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1782272233325-lbezh5",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 23, 2026",
+      "rawDate": "2026-06-23T16:12:49.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1782226187763-pz89et",
       "title": "Job scams are growing and getting tougher to spot: ‘That’s the reality of this hell job market’",
       "url": "https://www.theguardian.com/money/2026/jun/22/job-scams-employment-ai",
@@ -307,34 +335,6 @@
       "date": "June 10, 2026",
       "rawDate": "2026-06-10T14:03:44.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1781150481049-i494d",
-      "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGctUF9kVnBTNngzZEY5ZGhuajV1ZlFTZnM0dnF6X0s1Zk1RY2gtdlIzMVI3MDg3WEl6S1o3RHM4VEJvVEZ5SGg0OW1tOHFSNU4wd1dOVkRCejMzSjZnTXlfT3NmejZEclZHbzhvT3FpQ0wxTU5sRmsyUlZ5aVFvd3EtdlRJY2stZFY2NGk1X2ZuVkowRVVES3BCclZERGNxdWNJQ0J4TmxfdVZ4ZDd5d0JzbG9ISXpSTU40NEhacDZZM1hkSnc?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 9, 2026",
-      "rawDate": "2026-06-09T17:40:08.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1780934031107-59io2c",
-      "title": "Ransomware attack shuts down Evanston Township High School campus",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ0stV1IwZW55Q0RrRUVxcVJ4dmhGdVRNeTV6ZWkyOU1zZS1OcGh0d2haYTBJalBydmZiaDNudWwwSWV2QVlfamFhMm9oSEN2a1F2ZThDSzF5VExmVmxkTFJIYlBoVUZqOURkWWg2NVNhTFgtdmRJWU5neUJjNkJnVm0xbjRGd2FjS19SYUZsM2J1d3ZScjFiWi1QSmhEd0k?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 8, 2026",
-      "rawDate": "2026-06-08T11:48:40.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

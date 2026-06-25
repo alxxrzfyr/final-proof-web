@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-06-25T03:36:12.265Z",
+  "fetchedAt": "2026-06-25T14:33:49.646Z",
   "alerts": [
+    {
+      "id": "alert-local-1782398028336-1zu05n",
+      "title": "Taskforce Firewall: The love scam syndicate gets busted! (Weekly Recap HD) | GMA Entertainment",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjdoV3I2WUhxZnJ0eGlCaUM3MTV1NmVObTNzenMxSTd1RUxld3Fwa0kyVTZ4aVBzdndkb0VOUVBHNmg5RGlLZ0dLNHozRzZjdTBJVEZVZUFRUzJ5RlRmWXNCSmo2d3BuTEFJV2tvanhFb09XeGRVOWNHU29Nc2duZFlvZ2ttQmU4anY0UlNLemdzczdQcFpVNkxkNC11eFRkVjd1OFRIbF96UzRFWUFKNmpFbWQ1YUZPSHFxY01reXhubTDSAcoBQVVfeXFMUE9GeTIzVGhiVG1qM0hLUjMxQ0wtbXR6Tmp1b2FmT1B4eEZidEJKS0VDUmE3ZkpMN29pT1dEd0QxV2F6S1NKemdhTmNzN2dvVmRMX1g5SkNiN2oyenM4dG5FdHN3aW91ZXlXVEwxbjNBZUFhSWNOWjBPQ09IdlYtWnFBNTJWMlJrVjF2NGJVOWR1Z25hNmFVbWhCQUVnaFd0aFU3ZkliMnZoZzVSVE13MXhlUi1xMmZRb3dYdEVBcTJSOExpdGhnTDFfUQ?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 25, 2026",
+      "rawDate": "2026-06-25T08:10:33.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1782398028336-u4isnl",
+      "title": "EXPLAINER: Why are OTPs being replaced?",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHdVb2tLdEZXN0VXUWZxWGFfcE5LaEFoTUI4NWVxRDI2WC1OcWszOUhVdEdkVmo5NHlZdUxmdDdBVTk1X3hkRVhPY3Z5cEdBTmpyZjZzQkY1MEV0Tnd5NkVIWEpveFlBVXBWTzVySWZDOWxKd3dld3hDNFBybGx2RmR0cjQ1RGdKR0dqQXBLdElsZ9IBkgFBVV95cUxQSHdVb2tLdEZXN0VXUWZxWGFfcE5LaEFoTUI4NWVxRDI2WC1OcWszOUhVdEdkVmo5NHlZdUxmdDdBVTk1X3hkRVhPY3Z5cEdBTmpyZjZzQkY1MEV0Tnd5NkVIWEpveFlBVXBWTzVySWZDOWxKd3dld3hDNFBybGx2RmR0cjQ1RGdKR0dqQXBLdElsZw?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 25, 2026",
+      "rawDate": "2026-06-25T05:41:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1782358571317-0r5wic",
       "title": "Philippines' parcel delivery boom becomes new fertile ground for digital fraud",
@@ -138,34 +166,6 @@
       "severity": "medium",
       "date": "June 19, 2026",
       "rawDate": "2026-06-19T05:15:19.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781882320628-7s5mi6",
-      "title": "lucky lemmings slot machine for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRaW1FOUp6Zmp2ekVycGx6blpfbUJQQnF5RzRLSnhrM2dfdHVjaVBscHBEc0t2RkZlNGZLYUZKOU1VTmlfWGNqdmJHUk5Ha1NJMDVKallNMEJfNmFs?oc=5",
-      "source": "sis.ctu.edu.ph",
-      "sourceLabel": "sis.ctu.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 18, 2026",
-      "rawDate": "2026-06-18T07:52:17.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/sis.ctu.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781755291786-ayeiy9",
-      "title": "Taskforce Firewall: The love scam | Ep. 19 Teaser",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcTYtUVdJYzRMZUJsR0twNUpjaURITHlEVmZKZjk2UWZWRG53dHM2LWRJcXc4U1ZUWUt1d1FoV3hGdDJLLVM4WU8zbmk4R0lNbmNiXzB6d0k5QWR0MFpMdTFQdjBvSVZzQmlNSEk2NjhYQklqdE5KN05uMUdNcnByQmNpUFNVUU5ybnQ3eGVSdEcwLWplclRWVDEwU0hQRWZBd1k4NEI2OXLSAa8BQVVfeXFMUGtaQkJXR0hwUGtQdHBoNV9CLVkwbnlFeVBWSmtrOXpvekRmaVczVmtHcXp0NG51WXBHa2NTWm5XV183OFk5T2dIcTNGNEREV05vZElQcTBuQ0ZlVnZVNG9WOEhMeVY5bTVZVEtiOC1kdzVpX3RaNjY0b3NoU3U5RWFweG1FaC0tc1dmX0I5VEVkVE5RcmZTQXFzRm1SeEwydVpFSm1JUEVJaVdBOXNGZw?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 18, 2026",
-      "rawDate": "2026-06-18T03:01:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
       "scope": "local"
     },

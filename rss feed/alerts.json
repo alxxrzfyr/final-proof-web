@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-25T14:33:49.646Z",
+  "fetchedAt": "2026-06-26T03:43:25.335Z",
   "alerts": [
+    {
+      "id": "alert-local-1782445403990-ig6du",
+      "title": "Beyond OTPs: BSP strengthens fight against cyber fraud",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYU5fT1Zya003R2U2T0t2b3BQY0U1Vkw0OUdDS0trTWtTM21oVUJHRE9VUEQ1NkV2d1gxQ3FhelkxcS1tUFJnQmJuVlAyOG5XVE54N2ZwbXNLcVY1dk5XWHRvR08tVUtnOHZsc1k3YWJZNVlDOU9hNFQ2MHgwaEduUHlGOHFzT25hbFE?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 25, 2026",
+      "rawDate": "2026-06-25T16:02:12.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1782398028336-1zu05n",
       "title": "Taskforce Firewall: The love scam syndicate gets busted! (Weekly Recap HD) | GMA Entertainment",
@@ -27,6 +41,20 @@
       "date": "June 25, 2026",
       "rawDate": "2026-06-25T05:41:53.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1782445404558-d17fy",
+      "title": "Gov't workers get wage boost with 4th tranche of salary hike",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWMzNnEzSFpwcWx3ODVmd2VTQ2NfTmFGYTFYZ1dld1hxTEJQRU1CcHZPVmgtUFlrUk12X2ZucEFWOFZaZG9RdFJ6MEVjV2dlaENjcU1fcTlpNUVGbW5wWjd5UmkyYkk1ZlphdlRRX1N3N2hGUG41c1RpeWFEX2xXbUxSUVNLWHFCQ3ZTaTVn?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 25, 2026",
+      "rawDate": "2026-06-25T05:20:25.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -138,34 +166,6 @@
       "severity": "medium",
       "date": "June 22, 2026",
       "rawDate": "2026-06-22T03:41:41.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781882320831-b19uwj",
-      "title": "Taskforce Firewall: Kaibigan ni Galo, biktima ng love scam! (Episode 19 - Part 2/3) | GMA Entertainment",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlBydDRreDNDQl9tY3Nvc011S3FVUFkybDBSLVotNG16LTZwSG1YZ2t1Uk54WS05RjNvWTBQT1BnaVpoZjNncUxOMWo1a2dOekN3OE1jdzRSN3llUkVOeWJidWc3a2xoSzdheEQ5UExWakd6M19FS3pFc1BFZ05MV1NNYTA1eDVBM0NXMXZUUzlIWEhlM3dmV2pwcjU5NFhaOVphN0JoWjBjUEI3REdqMmM1UTYwb250aTAzUFBJUTN3QUlaZ0IwSnZ3UdIB0AFBVV95cUxOMm5GQVhlVDRrVWx2T2FxeHJJX0FLT3VpWWs3RTJzYm1hcDh6UDhoRVhiSU9xVFFCbVdrWTBodkxmM3ZzSnltckM4Yko1cEcyakpKUUUxVDBUa01qTm5qMUZaR1UyaE9KZ09DMDdrM2tabjJlZmdKYmRlOFJkUkNIUG1aM2hoLS1URTNpRXpVV3FHVm5RRzlIYmZTWGJKcW9YUHRpeUp2dm9pV28xX3FCcDlPdlU3c1l6b2RWbnRuLUNNdEh2bjVOR3h5R21kR05i?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 19, 2026",
-      "rawDate": "2026-06-19T05:15:27.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1781882320831-uepudf",
-      "title": "Taskforce Firewall: Team Firewall is tasked with a love scam case (Episode 19 - Part 1/3) | GMA Entertainment",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1B2RU9Ndjd5NnRnOGFmLThfX1V5dWRPdEdsUGdMaTAwMmdWM0JKWmZXbk8tbVZvWGkzQXhBak84TzBrZGZDN2JBS1lHbFlLY1dCMHpjU21FU2I2V3dtWWNyRDllbXRlRkxNRVZrTnphZ3picUxqTWdXY1FZZjhKMk13Z1dCZ0l0cHBTMmxDM203Vm9iTnhGbVNMTU92aWlkRHUyUXJ5UmVfZU81Q1FTMGhZdk5kSGQ1ZW54ZVFveWhjTk5yS1JUb2JZU1BuWVAzQU56cNIB2wFBVV95cUxPd3lNLW1mTk93ejQxQ2tncWR1V0M2QTQwM3BBdnZUSXZaSjlOUWpRQWJ1ZWdCRHhvZ0tKTTlYOTlvbXFuOW1aWGQ1aGI1Q0tEVHFpbnRkMHZlbmd1Qm9Odl9CVzJYaXJ0MW5IV25fWUZoR0tPcnFXSndoekdxREg3Q0dPaUlkR28wcng1elBvWDRQSEFxRkR1WmVRSTE1SXNrU2pZdnBzTnRkSHdzVTFIWW0tV1BjMmF5TEpRVHctSzdfWmpoN1hkTGRUVnJQMC1xSFRSdjlvUkFQRUU?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 19, 2026",
-      "rawDate": "2026-06-19T05:15:19.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
       "scope": "local"
     },

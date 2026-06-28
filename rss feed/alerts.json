@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-27T03:29:54.547Z",
+  "fetchedAt": "2026-06-28T13:46:59.238Z",
   "alerts": [
     {
       "id": "alert-local-1782530993255-wei3v",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1782654417922-fy5uyv",
+      "title": "Lost your crypto access code? Be wary, there‘s a scam for that too",
+      "url": "https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 28, 2026",
+      "rawDate": "2026-06-28T06:00:01.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1782272233942-2mikah",
       "title": "India's Bajaj Auto says ransomware attack hits systems",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHdmUjhwZXQ4eXc4VzdEaU13U0hkSEJKaU1uWDJqSWo4c3Y2VmRWOXpMaV9scHczQWFPS2QwSGVzVkZDUV9LemdZcF9BSENmWHcyemNOZDBtckNSelpldnJlY0RzMm92LU1wQ3FHVG42U2h5ZGJTRV8zSm1jVHN1c2oxYS16LUZHcnRqUXBXZFFtRVNwUnQ4b2RITkkzaHdselA4?oc=5",
@@ -321,20 +335,6 @@
       "date": "June 12, 2026",
       "rawDate": "2026-06-12T14:58:51.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1781105774234-568e",
-      "title": "Who Runs the Ransomware Group &#8216;The Gentlemen?&#8217;",
-      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 10, 2026",
-      "rawDate": "2026-06-10T14:03:44.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

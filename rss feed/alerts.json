@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-28T13:46:59.238Z",
+  "fetchedAt": "2026-06-29T15:47:55.856Z",
   "alerts": [
+    {
+      "id": "alert-local-1782748074790-5kbcol",
+      "title": "LIST: Digital security tips vs cybercrime this long weekend",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWR0TC00XzNzMVVFSGVybDRfa1ZJSGFJblpzRUNENGNubHBBaTAydXh5UmZkSzQtTFUwdnVIRkVjWWtvcHNRWS1TRlRJUEFnX1o0U2RUb1hHNTJGRlM3U3VBWi1wd2FZQ0Q0LU1pTjlBRk0yWFNURnNaUU9RRHZuemx3bWJxY0wzNS1vSjdnRFVzRkQ2bGlJcG5GTlJqOThjRkE?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 27, 2026",
+      "rawDate": "2026-06-27T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1782530993255-wei3v",
       "title": "legit online slots that pay real money for Android - Search on Google Play",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1782226188463-9lp2fze",
-      "title": "BI arrests 5 foreigners in Parañaque love scam raid",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnJ3aVVmLUY5eFBRZzVlSWtNdnB5UlU3c25EUUJjNEktSzNsMU5lVVZfQUxTUnZ3WUJySDdxX1BqYndMYXAyNjJmVzd4bUhEbE5fZHFRei05cVFmSU5PME9HLUd1cTk1ZzUxTExoYUM1VnBneWI1LU9kYXVuei1odjVHbDhVYldfWjd5MnVraEx4ZnpfbDRV0gGcAUFVX3lxTE1tZkVqdTZ0VkthS0JndGNyZi1xUURYWk5OU2pnQlpsNXdlcmZJbzVDLXVxdmpPVkxpVW9XNnFubnFHQ1NhQ0NEdjJac0t6WFZTcWNNbWN4cGowWWY3azJ4aG8zS19TeWFUS3AyUGxSbmpFV3hES3B0THIyQkJpc0VwVmIzbDZSZlkwSkFqZG9ma0lSZlNrSnNGZDBRcA?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
+      "id": "alert-international-1782748074089-tgd50a",
+      "title": "Holidaymakers warned over social media scams for fake accommodation",
+      "url": "https://www.theguardian.com/money/2026/jun/29/holidaymakers-warned-over-social-media-scams-for-fake-accommodation",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 23, 2026",
-      "rawDate": "2026-06-23T07:09:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
-      "scope": "local"
+      "date": "June 29, 2026",
+      "rawDate": "2026-06-29T07:00:32.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1782654417922-fy5uyv",
@@ -321,20 +335,6 @@
       "date": "June 14, 2026",
       "rawDate": "2026-06-14T06:00:36.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1781322537947-bq37z7",
-      "title": "Google targets AI-powered phishing in New York lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdnNLcU01ckZQLUpnNTllaWNtbnA5NWJHMy1IOU9oaXlHaU03N0lLR3JFd01hVUk3RXFMTmgzSkJPcTNWMkltNXRZNnl6ZmYtVzdqaTk1SFE0R0VReGo3RmdMMWtrM3BjMEVLZGZrT25ULTlpcVRVMFhjbnNuaS1hZXlfRXR0VjU2cmJFSkJqM3RSbnd6QmJNS2tqUUlOVmJlR2dseTJkNA?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 12, 2026",
-      "rawDate": "2026-06-12T14:58:51.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     }
   ]

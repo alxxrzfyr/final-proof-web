@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-06-30T03:40:46.602Z",
+  "fetchedAt": "2026-06-30T14:20:02.741Z",
   "alerts": [
+    {
+      "id": "alert-local-1782829202313-k5wmk2",
+      "title": "Trends, Cyble address escalating cyber risks at joint cybersecurity briefing",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV2FSN2NmZ2VLRkJIUm95NjF2RmFVcy1uVlhrQVBZQ2tueE1kcjNfT2FNOXpkN1U5Y1QtRDZPUHFGdXBKWHhfRHVuQXVxRExsUE9GQnJvZDZDS3J4Y2lFd0p3eWhnZ0hFRUNoT2dkcEJMWDJ2WFAtS2hoRjZBTXdZOTR2OTFrYWhnbkxrZFBwSERJeUh2WWl2elJhLUFjRDg0Wlp0YnBGeVRsVlBJNGhfTkwybUtKZ05sSGpSZ0dHR0NOYW42eVlxYmhMNTBSVWVhT2NITEd30gHcAUFVX3lxTE9DUUY5bVFQUUk5UE9oTlpMVzN1VW1jUUdidWp5bUtmV1U4OXpwMFZhcFpSNlI0cVlCZ0QtSFR1OTVoeU9NRHhVbHZlTDB2OHA1cy1ra2h6RV9MYnltSnNrMHNIaUNLZHVsd1VBdmZsS21ZZC1ZNjdMUXNvTXNaZk1CUGhPZWQtZm04N1ZLYXgwUnIyanlidlZMVWV4NkJlUVhXX2JIRlAwMVAzSWNhZFZqUlVqOG91NnNJZlgxZlJIaDM5V0p2ZHh0UjRwY2dPT21hb2UybElXVjJXX0E?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 30, 2026",
+      "rawDate": "2026-06-30T07:40:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1782790845333-ih36us",
       "title": "Salmon app’s industry-leading security features are designed to stop fraud before it happens",
@@ -27,6 +41,20 @@
       "date": "June 29, 2026",
       "rawDate": "2026-06-29T16:09:07.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1782829201418-uf5ice",
+      "title": "lottery with highest odds of winning for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42amlPWVZqZ0diczU0UF95a0twZnpSREkxNm5RbGc2eDhENVpXM2NXSEdZa015aW9mb0xJVVVMMEQ3VENDejNkZU1ITEs4WEhnSWdGSFJzaEpGRnhKSktQNlRVeHlYdlR4U3BJQmIxMFRXSTZoZkNwY3VpUE5pRzA?oc=5",
+      "source": "sims.riverside.edu.ph",
+      "sourceLabel": "sims.riverside.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 29, 2026",
+      "rawDate": "2026-06-29T00:45:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/sims.riverside.edu.ph.ico",
       "scope": "local"
     },
     {
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1782358571317-mcq6hs",
-      "title": "Fil-Am healthcare leaders say fraud allegations should not define Filipino nurses",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZENIWk1KcDRqZXNWZVh5enlJVDRhSzlJX3VxdHAtSnEzam5YSEJUckFWSUx1YmV1bm9wTXlMTlA2RE9ZREdEQ1ZwejNkNVQ0NXZuckhVR2Q0UXd1X0dERUxlRVBFM3R6QXZyYW93aS1iMFEyRC0tN2o3RGFaVWw0ZTg5eWZFbjZIaWlFa1hwOXl6emNqV2hBbkIzWUstNzNYa2h3anltTWhlc3BKNllSdEVjQWZDdWs5UWZEUXVuMk90VWR3QVViWW1JOHM?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
+      "id": "alert-international-1782829201216-kaov1",
+      "title": "‘Am I losing this battle? Yes’: Martin Lewis on the online scams that steal his identity – and others’ life savings",
+      "url": "https://www.theguardian.com/money/2026/jun/30/martin-lewis-finance-expert-interview-online-scams-stolen-identity-life-savings",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 24, 2026",
-      "rawDate": "2026-06-24T23:53:34.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1782358571317-xpkun6",
-      "title": "Five foreigners arrested in suspected scam hub in Parañaque",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnVMSE9EWm5zY2RnRVhoZm1Cb2Q3M1hyNHVfMzUxREd1LVNQd3E2alV1VlBpNVZtWk83Vm5XZ2diRU83Q0VCeWlUdE03U1JyMXNkdnNOQ0hGX2t5S1F4UEZtRm85Q3VEYXhXa3plam5ocnFwcUFkS0FlNGYxb1B0S0hSWGFNTDN0dS1BMFRmaGxSQ0RrWnJKRmw0T3FkbGJ3QmtMYmhra2RqQmFWcl9Z?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 24, 2026",
-      "rawDate": "2026-06-24T23:13:15.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
+      "date": "June 30, 2026",
+      "rawDate": "2026-06-30T04:00:38.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1782748074089-tgd50a",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "June 15, 2026",
       "rawDate": "2026-06-15T08:00:06.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1781445818221-8uuzz4",
-      "title": "‘I should know better’: tech expert lost £70,000 in one simple phone call",
-      "url": "https://www.theguardian.com/money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 14, 2026",
-      "rawDate": "2026-06-14T06:00:36.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

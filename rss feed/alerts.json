@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-30T14:20:02.741Z",
+  "fetchedAt": "2026-07-01T14:36:25.933Z",
   "alerts": [
     {
       "id": "alert-local-1782829202313-k5wmk2",
@@ -27,6 +27,20 @@
       "date": "June 30, 2026",
       "rawDate": "2026-06-30T03:20:07.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1782916584561-e7r1th",
+      "title": "‘Smishing’ Scam Victims Seeking Answers, Accountability",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNTV4Nm1za2xmellxS1hhTGMxRDlBS0lWUWRUOFl5R0I4VTVnTGR4VlV6WVlXZ3BEeDJhQXRseURrTk52eEE1OUNxY1NuRWJVVFpNWFpTRXE4aHVBYUdKNkU1RVNVM3VTcTk3TEFuYTNaaHdjbVBfSWh2UzFrQ3BJam5tYzdMemc5VHlraA?oc=5",
+      "source": "OneNews.PH",
+      "sourceLabel": "OneNews.PH",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 29, 2026",
+      "rawDate": "2026-06-29T20:56:25.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.onenews.ph.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "June 25, 2026",
       "rawDate": "2026-06-25T01:27:48.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1782530993255-3y53di",
-      "title": "How to Recover Money from a Task Scam in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPampyYzh4azlTa1cxVzVYY2FaTkpzYTFnazdRU09RZDY2SzJvN0xocXFFeEFPRjAtZ192dE45UjZFYXVJdkg0aTZVOW1HT3R6SGlMUWhoU3R0Yi1xSXJuSnI1M0dhcXMwRFlVdjJvV2dIbzFtOWRwd2ZaQ00tYjUyazNKcDRzUHI0czdKZllVOEZrdHVHbnJvWg?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 25, 2026",
-      "rawDate": "2026-06-25T01:07:36.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-01T14:36:25.933Z",
+  "fetchedAt": "2026-07-02T03:37:41.270Z",
   "alerts": [
+    {
+      "id": "alert-local-1782963460921-o6w8ml",
+      "title": "Kyline Alcantara recalls ‘expensive’ lesson from online scam",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejZicVFvLUxRYWpLVWtxTWQ1MXRkRHI0SGlvR2JqU1VnVmlZU05mOGducF9MRF9PUXpUMlkzT0NwcHRDZDNqWnlpMjNuSVRzMFZ2NXl5S2IxRHdOTlhHYkdVWHRQMzRpOFhES3dXY3hJLWQ0US12TFo2TjNRcDh2OGdwSFpMVm1qWFB1bXRMZ1N0SXNuZjdqcXlpelFOd2E0ajhkbkxnMzd0T3NaMjlQUdIBtwFBVV95cUxNNTVCTTVhRkcyS1pfeUtOakkwR3oxUm9sd2hyYTI3Z3Yzek1PalZXN21RY1M2eF9kbGJaWUxLOWlBTTBlMXh2dThya0ZqR1dfWE1Bb3BfbnZ3enJQVDVNaGN5b211R2xWZkVXc3VfaXljb0V2NzI2ZkpYalVJR3JzbVRBRDFnQnJfRjd3NGFTdWk2X3lxeXQtb1ZxRjUzOWlwemw1YW54MTZqRUlGd1JqTTg5VFROYjg?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 1, 2026",
+      "rawDate": "2026-07-01T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1782829202313-k5wmk2",
       "title": "Trends, Cyble address escalating cyber risks at joint cybersecurity briefing",
@@ -152,20 +166,6 @@
       "severity": "medium",
       "date": "June 25, 2026",
       "rawDate": "2026-06-25T05:20:25.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1782358571317-0r5wic",
-      "title": "Philippines' parcel delivery boom becomes new fertile ground for digital fraud",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcE1JdjNiZW9uMV9tWTVvOGpEMXBUZTFnZVNEVkw3a2ptbGhUWjBLMjlDNWFESmpfTnJfNG5idFhndVk3dkdwVHE3d0xfRDc3WVhVeTlrMlVWY0xBVUE5T2dGMFdQVGU2LXZNSDJjMHRTSjIwdXFkR093cW55ODQ3dTdUYjhfWGhoUU80Z1FMblB0RjhCQW5qMGhZeVRlRXU5VVdpblNiYUl6OFdDNVJvNU1FWlpvWEN5MDVwRkRDTmRnM3kxQ2F2VVlB?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 25, 2026",
-      "rawDate": "2026-06-25T01:27:48.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },

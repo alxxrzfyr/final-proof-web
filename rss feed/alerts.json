@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-02T03:37:41.270Z",
+  "fetchedAt": "2026-07-03T03:17:59.269Z",
   "alerts": [
+    {
+      "id": "alert-local-1783048677845-be0878",
+      "title": "odds on lottery games for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aYU5WR2xEeTBJRlFNRTVvdFdWY0x6OFpGQzVPRExnN0dZWnFDaHNBanpqNnliaXhBRElDczZRVlI0ZlJnZjFMWEhJaUNPMzBlQ2VVSUk1TFBIaE9xYjJnY3Nzcw?oc=5",
+      "source": "sims.riverside.edu.ph",
+      "sourceLabel": "sims.riverside.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 2, 2026",
+      "rawDate": "2026-07-02T05:45:58.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/sims.riverside.edu.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1782963460921-o6w8ml",
       "title": "Kyline Alcantara recalls ‘expensive’ lesson from online scam",
@@ -13,6 +27,20 @@
       "date": "July 1, 2026",
       "rawDate": "2026-07-01T16:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783048677844-cj48rr",
+      "title": "Bank Liability for Phishing Scams in the Philippines: Consumer Rights Explained",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFZiTG9oeUhydG1IZ2lrMkQ3cWV2WWJLR0Z4cnhfdnZzcTZGNUNZS01LX2pjS21VcldQanNYeDlpUXRNanlObmVjR2w2d25xT21tc2N6VEcybjdoWEF4TmppNkZHdDRGOVkwdlBBQU52c2xIckZEQ2JTZXV5ZFZPZElNSE9BYTd2V3hDZVNFZkJ1ekYyYy1HeTg0dWpIUEFZaEg5YU9WVGptcDBOR0paVTdIMGw0QQ?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "June 30, 2026",
+      "rawDate": "2026-06-30T13:34:17.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1782398028336-u4isnl",
-      "title": "EXPLAINER: Why are OTPs being replaced?",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSHdVb2tLdEZXN0VXUWZxWGFfcE5LaEFoTUI4NWVxRDI2WC1OcWszOUhVdEdkVmo5NHlZdUxmdDdBVTk1X3hkRVhPY3Z5cEdBTmpyZjZzQkY1MEV0Tnd5NkVIWEpveFlBVXBWTzVySWZDOWxKd3dld3hDNFBybGx2RmR0cjQ1RGdKR0dqQXBLdElsZ9IBkgFBVV95cUxQSHdVb2tLdEZXN0VXUWZxWGFfcE5LaEFoTUI4NWVxRDI2WC1OcWszOUhVdEdkVmo5NHlZdUxmdDdBVTk1X3hkRVhPY3Z5cEdBTmpyZjZzQkY1MEV0Tnd5NkVIWEpveFlBVXBWTzVySWZDOWxKd3dld3hDNFBybGx2RmR0cjQ1RGdKR0dqQXBLdElsZw?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
+      "id": "alert-international-1783048678428-u2gkvc",
+      "title": "Google disrupts NetNut proxy network used in malware operations",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXVETV9LX2tTaWpfLVBTcURPVXlnTi1vLUxYcnhqclRvQ3RJalpMdXBFSTROblplMXNGOU5VTDduMWNDeTk2cDMwcWNnYVA3TUVnTzRaU2ItazU4R0JYXzRabEx0LWJfNU9ndHhUSjVHU2dLYjRjLUJoc2JUeUJrVHY2MkZkRXpLQzBvX2NIbFJIUllaTHdyY21OLUxfclZ5b1J4aFViT0F6a2FnUW45Y2J1MHdfNzY4RmRB?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 25, 2026",
-      "rawDate": "2026-06-25T05:41:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1782445404558-d17fy",
-      "title": "Gov't workers get wage boost with 4th tranche of salary hike",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMWMzNnEzSFpwcWx3ODVmd2VTQ2NfTmFGYTFYZ1dld1hxTEJQRU1CcHZPVmgtUFlrUk12X2ZucEFWOFZaZG9RdFJ6MEVjV2dlaENjcU1fcTlpNUVGbW5wWjd5UmkyYkk1ZlphdlRRX1N3N2hGUG41c1RpeWFEX2xXbUxSUVNLWHFCQ3ZTaTVn?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 25, 2026",
-      "rawDate": "2026-06-25T05:20:25.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
+      "date": "July 2, 2026",
+      "rawDate": "2026-07-02T21:43:31.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1782829201216-kaov1",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "June 16, 2026",
       "rawDate": "2026-06-16T00:27:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1781543703057-qgeoz",
-      "title": "Investment fraud in UK soared to more than £220m lost last year, trade body says",
-      "url": "https://www.theguardian.com/money/2026/jun/15/investment-fraud-uk-more-than-220m-lost-last-year-scams-ai",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 15, 2026",
-      "rawDate": "2026-06-15T08:00:06.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

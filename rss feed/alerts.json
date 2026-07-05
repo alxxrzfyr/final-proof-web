@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-05T03:26:41.700Z",
+  "fetchedAt": "2026-07-05T13:39:52.072Z",
   "alerts": [
     {
       "id": "alert-local-1783222001287-93vtq",
@@ -13,6 +13,20 @@
       "date": "July 4, 2026",
       "rawDate": "2026-07-04T16:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783258790510-uhxyy",
+      "title": "odds on lottery games for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaWxRMzM0cklGRVhhdFJ4QmhRc0JHRjV4bEpCYXNPb1VNX3luRHRmd2xXSy1BbUdFSVN4QS05VWlFZGxrZl9NZkx4Ul9NeFR2NWl2b2tJYjIwNzJpZnc?oc=5",
+      "source": "mis.umin.edu.ph",
+      "sourceLabel": "mis.umin.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 4, 2026",
+      "rawDate": "2026-07-04T09:21:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
       "scope": "local"
     },
     {
@@ -30,17 +44,17 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1783048677845-be0878",
-      "title": "odds on lottery games for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aYU5WR2xEeTBJRlFNRTVvdFdWY0x6OFpGQzVPRExnN0dZWnFDaHNBanpqNnliaXhBRElDczZRVlI0ZlJnZjFMWEhJaUNPMzBlQ2VVSUk1TFBIaE9xYjJnY3Nzcw?oc=5",
-      "source": "sims.riverside.edu.ph",
-      "sourceLabel": "sims.riverside.edu.ph",
+      "id": "alert-local-1783258791645-z13efc",
+      "title": "Cebu school tightens security after shooting threat",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWNiM3dEalRsZnlTcjJXdjBNX0VRVzJmenRJb2V5YmNTZG9xLTljZW0zY0tKbWpzem03VmtSckFDQ1FPVU0zNkFiLU9zZGlaZGZxeDA2NUN5RlQyeWdFMDdPU2RNQXN5QkFlUEUyWFl4ZTRXam1jdXRQRnJHcEtiS0ltV2Z0QU55WkRwTFlDRDd4YjYwV2p5Um1vR1VzQS0zblA2U9IBqwFBVV95cUxOaE1BU05fVkx2UkJjN1pjZ0JUWTRjS0dsWHh3SGZRX0RTYWRkMFRGVUJQeURrS1NSZi1maVNCT2ZDbTNEOEJVUS1TZmtWcUxnUnJ2SENKX1BuVV8zXzF3NnFtNkpGNE80cTdyUkVEVi1iUWhUVXZsSTBuSHg4czNLU1F3S3JSdlgxbXVLZnV0d0x3WU5XYy1QODA4YWtxLUlIMkVxRWlUNEZuYlE?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
       "date": "July 2, 2026",
-      "rawDate": "2026-07-02T05:45:58.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/sims.riverside.edu.ph.ico",
+      "rawDate": "2026-07-02T23:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {
@@ -55,6 +69,48 @@
       "date": "July 1, 2026",
       "rawDate": "2026-07-01T16:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783258791645-grel6t",
+      "title": "Explain INC rally attendance, 34 PUV operators told",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWVpTnlOb1NsVDBMVkJIdzRTVndSZlRoblMxN0dCSk1xQXBVSVRzX1lwbFJjdU5DSEpENGpNb19Eb1o1Z3U0ZGhOSzVZWXV4dUR0aXZWdmhVOEJITDVnMVVGcjN4aFVuZ09JaUQwaVRMUmd6cV9tbnVmZmRFU0ZSTHZKblhJZEo3UWZrc3l1aEU3XzNkSnhKUWFKVGZZbXE1aFZJ0gGqAUFVX3lxTFAzSXR2NGIyclQxdE10cjVuajg2N0NWbWZwYjlWWUg4VlVZWElhMHhoZ19ScFNjYXVmUV9UQWFKbHNRTmUxZVlyT3p1ZjlGTDRvZ19lUkZXSFdxNlNySUFtaWpENUx0cTBsWmhsRWctTkUyd1FNVmNIbEcwVGJjMVpzMGszaUY1aFM4N25wYWItWjY2ZDA3eGNsMXhEckhsNjBBRXVEemY2emFB?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 1, 2026",
+      "rawDate": "2026-07-01T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783258791645-sba7kp",
+      "title": "Tax break guidelines for farm storage facilities out",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2R4OFBBY3llNmtDamlyUWM2SExycU9ORnBtTFloYlNlUlNDX0VFLWJ4QzlyeVdOOVRjc2p1RmhYYWF0dHFlTFRyOWpPWnl4WlJtc2QzUnFTbjZKYjFEa3B3UDZfeHM5dlhXLWdMZlc5ejJVM2lQMUhDLV8taktHdVJTaUYyZi10b3dQaE55X0l5R3hjN2FDR2tka1JDYTRr0gGnAUFVX3lxTE11aHlyUGNTeVRDMGdISmRPR01uY3U1dTg3Rl90RTU5bHprWXRNVUNoTGxfTGRBQ000VVlESzMxWmJIcno3T1M0dy1NUmxEWWZ4eV85aTE5ckZTRDh1bG1zWlMyeVJOZ0dsa0Jlemp6QXkyYy12SVh2OEF2QThFNFJkZXFCSVYtYlNaR29aYS1UWl9RS05fY29rVk01aF9wT1VGVkVGemFB?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 1, 2026",
+      "rawDate": "2026-07-01T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783258790508-zroayf",
+      "title": "Don’t get caught in the net: Spot and avoid phishing scams",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1I2a1V2d1lDdVU4MGUxcF9NSGRPRWtQLWJTVUh2MjU1eFhOZV9jVElqRmJXeERURmVfR0EwQmpjeGpaNC1jNk52SnBFd0xsUGg3RDk3d2Y5b251QkVGaUZCOFg2QVZqY25FOTg4TVR5NUtHOWVkcll3d1dHYVBCeUw2ck5Vd9IBlgFBVV95cUxNcmV1Ujg1Zl9RSmEzMHRCdWF0cEQySUQ3ZXRwdWVwNE82NVdRbFg4MFJzTGRwWlNkaUhERXBIN2xjb1BWUThHSndsbHVCbEJBU245OGdxWWRmWmNPU0tjTDJxRnNTU1BlQ3FueXRqaGNNdmw0UHdrdG1VNTNza2hBM0NaNW9mVERNem9pTTJScGYzdDZma3c?oc=5",
+      "source": "earnest.ph",
+      "sourceLabel": "earnest.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 1, 2026",
+      "rawDate": "2026-07-01T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/earnest.metrobank.com.ph.ico",
       "scope": "local"
     },
     {
@@ -114,60 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1782916584561-e7r1th",
-      "title": "‘Smishing’ Scam Victims Seeking Answers, Accountability",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNTV4Nm1za2xmellxS1hhTGMxRDlBS0lWUWRUOFl5R0I4VTVnTGR4VlV6WVlXZ3BEeDJhQXRseURrTk52eEE1OUNxY1NuRWJVVFpNWFpTRXE4aHVBYUdKNkU1RVNVM3VTcTk3TEFuYTNaaHdjbVBfSWh2UzFrQ3BJam5tYzdMemc5VHlraA?oc=5",
-      "source": "OneNews.PH",
-      "sourceLabel": "OneNews.PH",
+      "id": "alert-international-1783258790281-u0vht8",
+      "title": "Not cool: the air conditioning scams offering fake deals in the heatwave",
+      "url": "https://www.theguardian.com/money/2026/jul/05/air-conditioning-scams-fake-deals-heatwave-aldi",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 29, 2026",
-      "rawDate": "2026-06-29T20:56:25.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.onenews.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1782790845333-fkvx8",
-      "title": "Can a Credit Card Phishing Transaction Be Reversed in the Philippines?",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWlPMnV3SXhhNlBacWRKbnJPVFVJN1d0eDVEWlJQNFBaYVJvX1ZtNXhPam9fblhhSlpUQWpTcGxoRElTMDBRMlRCM1RvdEFISHRYTExFTXhYMVg2SnNwU2ZnenlWbFNTTVJNMllyZUd2TGtVeUxzbjllUXdWVHhGTUpvTW1SLTYwSW5MT1FDNGJXSmJuM2tZWjliNk55MXpERGJ2Mzl2eDlDUQ?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 29, 2026",
-      "rawDate": "2026-06-29T16:09:07.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1782829201418-uf5ice",
-      "title": "lottery with highest odds of winning for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42amlPWVZqZ0diczU0UF95a0twZnpSREkxNm5RbGc2eDhENVpXM2NXSEdZa015aW9mb0xJVVVMMEQ3VENDejNkZU1ITEs4WEhnSWdGSFJzaEpGRnhKSktQNlRVeHlYdlR4U3BJQmIxMFRXSTZoZkNwY3VpUE5pRzA?oc=5",
-      "source": "sims.riverside.edu.ph",
-      "sourceLabel": "sims.riverside.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 29, 2026",
-      "rawDate": "2026-06-29T00:45:08.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/sims.riverside.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1782748074790-5kbcol",
-      "title": "LIST: Digital security tips vs cybercrime this long weekend",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWR0TC00XzNzMVVFSGVybDRfa1ZJSGFJblpzRUNENGNubHBBaTAydXh5UmZkSzQtTFUwdnVIRkVjWWtvcHNRWS1TRlRJUEFnX1o0U2RUb1hHNTJGRlM3U3VBWi1wd2FZQ0Q0LU1pTjlBRk0yWFNURnNaUU9RRHZuemx3bWJxY0wzNS1vSjdnRFVzRkQ2bGlJcG5GTlJqOThjRkE?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 27, 2026",
-      "rawDate": "2026-06-27T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
+      "date": "July 5, 2026",
+      "rawDate": "2026-07-05T06:00:19.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1783048678428-u2gkvc",
@@ -321,20 +335,6 @@
       "date": "June 18, 2026",
       "rawDate": "2026-06-18T08:45:59.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.npr.org.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1781583102314-sr8ajo",
-      "title": "Sri Lanka sees ‘alarming’ rise in cybercrime as scam networks relocate from south-east Asia",
-      "url": "https://www.theguardian.com/world/2026/jun/16/sri-lanka-alarming-rise-cybercrime-scam-networks-south-east-asia-cambodia-myanmar-china",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 16, 2026",
-      "rawDate": "2026-06-16T00:27:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

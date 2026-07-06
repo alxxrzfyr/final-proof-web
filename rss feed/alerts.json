@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-05T13:39:52.072Z",
+  "fetchedAt": "2026-07-06T03:34:41.533Z",
   "alerts": [
     {
       "id": "alert-local-1783222001287-93vtq",
@@ -114,6 +114,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1783308881089-p5j2i",
+      "title": "Manila-based consultancy shut over Poland job scam",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNczhoZkhJazN3SGpONGtDRXk4bG1nYy0zNlVESXUxazlpeDc3QnphZXVIR1M0ZE9mMnVxNkxReXp1R1RJVUdZczZTems4QXhka29laWFFTFRHcU1VMnN0aURBWUwybUN5TU9LRkVPb3F2X1U3LTNUU0Y2eGE1cExqa1d6cUozOW42OEh3Y0RrTnh4X1J6ZDBheWpraVNSaXY3Vm1V0gGqAUFVX3lxTE9Fbnk0ZER3anZvXzRSWFNvUWdVNU5xeWRYdUZFOWk2M2ppcHp4b3dPUWthTW9fcmNQTFZSeFd2U2tBTmszUXlwSFQxaUJOVUNsVW0yTnZJN2xLTHdiSjlFcVphSUc0eEFfRVdobkZtdU5zcnB1UGFWRFloZ1VvX2JJbWpwLTdvM0VZc1lZN19OLXZuelZfcEVGTzFOdFd2eGk1ZThSbm52MnJB?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 1, 2026",
+      "rawDate": "2026-07-01T03:18:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1783222000358-ywhig",
       "title": "How to Report Smishing and Text Scams in the Philippines",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWtNOUpUSjF2Rm1rLTEzQ3pQU2tvUGREM092bnp4WlY3dG9Henpsb3BjOGRUdjUwOGI1QmE4QktBZXdIeWluTzkwa0hSbHQ1NFJfMWNLX1JKeVJJZFVjTjB1dnViTTVjZmc5SnhHdHBHUU1vdFE5QzhhLVlJTzJaSGN3Vnc5a0lGeGlhSUJFWlJ6dGtMejl2ZXRWbw?oc=5",
@@ -153,20 +167,6 @@
       "date": "June 30, 2026",
       "rawDate": "2026-06-30T07:40:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1782790845333-ih36us",
-      "title": "Salmon app’s industry-leading security features are designed to stop fraud before it happens",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaXVDRWJfZDhpVXNXeXlIWERaUnJXeGJVUkZiVWpBTXNMMnVheW5jeDdsbEhERkhxOG01WjJUWFctTGd0WXNSNnFheU1nMWN2NWh3THRmcGdQU3FNQXNNdkp2MHpHMXJsTVFMS2VSSjhXUFBMX05yZngxUDhRckJ4Qm05ZGZ0ckpVNE53a19JNmVVQnlKN3BXcW9PRDEwNjR2MEtJOXFpMlVMMDk2QmJEeVgwbDJlRFBlTmV0aG9FSTJYM1U?oc=5",
-      "source": "tribune.net.ph",
-      "sourceLabel": "tribune.net.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 30, 2026",
-      "rawDate": "2026-06-30T03:20:07.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {

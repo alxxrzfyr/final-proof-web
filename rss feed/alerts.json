@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-06T03:34:41.533Z",
+  "fetchedAt": "2026-07-07T14:34:23.776Z",
   "alerts": [
+    {
+      "id": "alert-local-1783434862530-7dm1s",
+      "title": "How to Report an Online Task Scam in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdG1heVNvRndkZDd0YUhDRGE4WmxESGRDV3ozWmIxcFp3d0E4V0ZaUTNVUi1BdWh6WjJ2R29sdG1BcVBXVF9naDByeDFLY0NIdFRPVTliS2RuTnlFSWU4dG4xM2VSaWlXLVhibGw3QTJKWkhQX3U3NHJYbk91SFU3bExLQmtPZVVhSHZJMG1MYTlfTWc?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 7, 2026",
+      "rawDate": "2026-07-07T04:49:23.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1783222001287-93vtq",
       "title": "Comelec warns public over phishing scam",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1782829202313-k5wmk2",
-      "title": "Trends, Cyble address escalating cyber risks at joint cybersecurity briefing",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV2FSN2NmZ2VLRkJIUm95NjF2RmFVcy1uVlhrQVBZQ2tueE1kcjNfT2FNOXpkN1U5Y1QtRDZPUHFGdXBKWHhfRHVuQXVxRExsUE9GQnJvZDZDS3J4Y2lFd0p3eWhnZ0hFRUNoT2dkcEJMWDJ2WFAtS2hoRjZBTXdZOTR2OTFrYWhnbkxrZFBwSERJeUh2WWl2elJhLUFjRDg0Wlp0YnBGeVRsVlBJNGhfTkwybUtKZ05sSGpSZ0dHR0NOYW42eVlxYmhMNTBSVWVhT2NITEd30gHcAUFVX3lxTE9DUUY5bVFQUUk5UE9oTlpMVzN1VW1jUUdidWp5bUtmV1U4OXpwMFZhcFpSNlI0cVlCZ0QtSFR1OTVoeU9NRHhVbHZlTDB2OHA1cy1ra2h6RV9MYnltSnNrMHNIaUNLZHVsd1VBdmZsS21ZZC1ZNjdMUXNvTXNaZk1CUGhPZWQtZm04N1ZLYXgwUnIyanlidlZMVWV4NkJlUVhXX2JIRlAwMVAzSWNhZFZqUlVqOG91NnNJZlgxZlJIaDM5V0p2ZHh0UjRwY2dPT21hb2UybElXVjJXX0E?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
+      "id": "alert-international-1783434863026-ctin78",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkoyRWhJY1VJcVNVTkM3TkhJc2tPc0g0b284ZjZTemtZR0hrOTZhdjJBQjdZOFZQR0RhaXZKWlB1YldJTmZuanNoUDRyQk5DSGE5N0Z5Wlc3MmVQUm1CWmtXYWcwQVVyZmY4OFRuanB3blRCakhUQlUycWdfSl9lZ210UkRCVmhSNHFGRkgxWDlrRnZK?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "June 30, 2026",
-      "rawDate": "2026-06-30T07:40:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
+      "date": "July 6, 2026",
+      "rawDate": "2026-07-06T23:56:14.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1783258790281-u0vht8",
@@ -321,20 +335,6 @@
       "date": "June 18, 2026",
       "rawDate": "2026-06-18T17:37:58.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1781796322486-hsvfda",
-      "title": "Researchers find malware that may have aimed to slow down Iran's nuclear program",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb0J1V3JNdkFQSDZKZTVjUUU3WTBFalNWUlc1SkllZnl4dmV0cVFqaWtBR2JaRnpHeDMxYTF5MjJVb2ZyU095b2JiMThXQlhISGNvM1VNNUVyN1VjZ1NDbEYwRHB0VzktOFh1bEkwSV90SjkzM3Y3Nm9nMUJpajRkMHo0V0dBV0g3eHA4bC1aQW1RQTZFRDVReGZ5NXJCQnJYN19OZ1ZWT3NXazNyLTlLMzl1Nm83OHoybURIYWtvSkxEUQ?oc=5",
-      "source": "NPR",
-      "sourceLabel": "NPR",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 18, 2026",
-      "rawDate": "2026-06-18T08:45:59.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.npr.org.ico",
       "scope": "international"
     }
   ]

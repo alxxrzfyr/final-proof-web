@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-07-07T14:34:23.776Z",
+  "fetchedAt": "2026-07-08T02:42:37.402Z",
   "alerts": [
+    {
+      "id": "alert-local-1783478556302-kq0o0q",
+      "title": "Pangasinan man loses P230K in bank account due to voice phishing scam",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb1JydTFfbEw4cFEtcWNCU0d5dnYzNGVoNExsYzZNcmhWRzlqd1gwOTIydmNlYXl2eHZUSm13X09weFpLeU9MdGhycWRQMkpuLWFnc3J0Z1Y5U2dkZGh1eHVmNTFnY1dwZFlGTS0xcGtyZlgzekhJVUNGUEw5Z2pwZ0FLa05NdlhtSV9qZXNGcXlqS1RpOVlYME1mQW1IU3RhUG1IazVkTkVJaFhCR1FBS0l6eTNZYTTSAbwBQVVfeXFMUE5INDhsTGwydE83TmZ3ZV83V1czbnZKd0JWSmEwOVRkSEowdVJRRmxFUUZfb3QxeWxJeEJnbTVNZS0zOWJCblFjd010Rk9BQUtsQ1h6NkFNTEhNb2RvajVueXpWYW15ZXZrMG5WbjlhWHVLbFZDTFo5RFQxWktCTnotMWxFQ3VpTlhUR2FCUXpfTWZaU0hvQjk2amZoQm5fWUdEQzZZT3p4Y2paZGd0aUJ6c1pYRmZxRlJ4UjE?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 7, 2026",
+      "rawDate": "2026-07-07T17:55:06.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783478555997-qzche6",
+      "title": "How to Report Phishing Links from Online Lending Apps in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONC1YYy1odjhCa0U0UjVsaVVhTVp5Qkd4dGFuSXBCeE5LYkpzVlc3bXlmRF9uMUx3bTE0Tnk2X1Y5WFJyaEl3OTJza3lmd1oxNzNVOWd2MlA0eVN0R29iWnkyMnlFQ3RkRm13RGdhTU45UW5qRWRMT3FxWTYxVFJlV1FBdmlJX0dRNUNNVDB4dkxldWZzSXdNVmpEZGRPdnJJV0hubTRCWF9ibUt6ZkdXaA?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 7, 2026",
+      "rawDate": "2026-07-07T16:14:31.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1783434862530-7dm1s",
       "title": "How to Report an Online Task Scam in the Philippines",
@@ -13,6 +41,20 @@
       "date": "July 7, 2026",
       "rawDate": "2026-07-07T04:49:23.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783478555999-eoutil",
+      "title": "odds of winning 6 number lottery for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Zb2drbW1zQy0zREdwQXRnUkszRXpEdUFveEQ2Q09vRUZvVmdrREJPb3hGQ3h4Wmg5MUFYMTJBbTVuLTFvcmN3cHlhUlhuWXNVaGpCX0ZsR1lMR1FYelc4TWcxVmNQcHdoQmR5b1htcw?oc=5",
+      "source": "Philippine Retirement Authority (PRA)",
+      "sourceLabel": "Philippine Retirement Authority (PRA)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 6, 2026",
+      "rawDate": "2026-07-06T18:30:20.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/m.pra.gov.ph.ico",
       "scope": "local"
     },
     {
@@ -72,6 +114,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1783478556302-joux6t",
+      "title": "Family Feud: Team Add to Kurt vs Team Access Gorgeous",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUh1ZEFHaGlzZGpYUEk1aGNqTXlHRUdFZHBxODVEY0doejVLaFhRNV8tZmxZMVhhTW9HeFZrVDc0aHRGWnNEaENLUFp2UGhDaFZTRm15Qml6MHczQ0RXUXBqTXljWjVydjlUQ3NRZVhLWWMwTGdoYkgtUExyR1hYdVFXbnFzbTlTUjVzUllzcnRoNkxJQ1RjUWRuMHpBaXpHV21Qa3VvSXhoZjZfajJVQ2JxVdIBuAFBVV95cUxNalVrUWVMclI3b000TFpXQk5IcG9uRXNRU1BnNjdEQjdOZWF6X29Cc0xoSW1JazYydzh1aGtKb0drZWNFTXMyRThCTE5JdFpjNGNKbU9SZjBWSVVPUEFyRmZEbDFxalBqWm8xRzFPV21aemxNTl82cjJySEF0MDlneXF0ZzhwOElaOHpfUkh4WGt5QWhEN0swN3lvRVA4cmZMNGVjSmtqTjZOaWlneVlmNF9tZ05oVG40?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 2, 2026",
+      "rawDate": "2026-07-02T02:42:34.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1782963460921-o6w8ml",
       "title": "Kyline Alcantara recalls ‘expensive’ lesson from online scam",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejZicVFvLUxRYWpLVWtxTWQ1MXRkRHI0SGlvR2JqU1VnVmlZU05mOGducF9MRF9PUXpUMlkzT0NwcHRDZDNqWnlpMjNuSVRzMFZ2NXl5S2IxRHdOTlhHYkdVWHRQMzRpOFhES3dXY3hJLWQ0US12TFo2TjNRcDh2OGdwSFpMVm1qWFB1bXRMZ1N0SXNuZjdqcXlpelFOd2E0ajhkbkxnMzd0T3NaMjlQUdIBtwFBVV95cUxNNTVCTTVhRkcyS1pfeUtOakkwR3oxUm9sd2hyYTI3Z3Yzek1PalZXN21RY1M2eF9kbGJaWUxLOWlBTTBlMXh2dThya0ZqR1dfWE1Bb3BfbnZ3enJQVDVNaGN5b211R2xWZkVXc3VfaXljb0V2NzI2ZkpYalVJR3JzbVRBRDFnQnJfRjd3NGFTdWk2X3lxeXQtb1ZxRjUzOWlwemw1YW54MTZqRUlGd1JqTTg5VFROYjg?oc=5",
@@ -111,62 +167,6 @@
       "date": "July 1, 2026",
       "rawDate": "2026-07-01T16:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783258790508-zroayf",
-      "title": "Don’t get caught in the net: Spot and avoid phishing scams",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM1I2a1V2d1lDdVU4MGUxcF9NSGRPRWtQLWJTVUh2MjU1eFhOZV9jVElqRmJXeERURmVfR0EwQmpjeGpaNC1jNk52SnBFd0xsUGg3RDk3d2Y5b251QkVGaUZCOFg2QVZqY25FOTg4TVR5NUtHOWVkcll3d1dHYVBCeUw2ck5Vd9IBlgFBVV95cUxNcmV1Ujg1Zl9RSmEzMHRCdWF0cEQySUQ3ZXRwdWVwNE82NVdRbFg4MFJzTGRwWlNkaUhERXBIN2xjb1BWUThHSndsbHVCbEJBU245OGdxWWRmWmNPU0tjTDJxRnNTU1BlQ3FueXRqaGNNdmw0UHdrdG1VNTNza2hBM0NaNW9mVERNem9pTTJScGYzdDZma3c?oc=5",
-      "source": "earnest.ph",
-      "sourceLabel": "earnest.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 1, 2026",
-      "rawDate": "2026-07-01T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/earnest.metrobank.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783308881089-p5j2i",
-      "title": "Manila-based consultancy shut over Poland job scam",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNczhoZkhJazN3SGpONGtDRXk4bG1nYy0zNlVESXUxazlpeDc3QnphZXVIR1M0ZE9mMnVxNkxReXp1R1RJVUdZczZTems4QXhka29laWFFTFRHcU1VMnN0aURBWUwybUN5TU9LRkVPb3F2X1U3LTNUU0Y2eGE1cExqa1d6cUozOW42OEh3Y0RrTnh4X1J6ZDBheWpraVNSaXY3Vm1V0gGqAUFVX3lxTE9Fbnk0ZER3anZvXzRSWFNvUWdVNU5xeWRYdUZFOWk2M2ppcHp4b3dPUWthTW9fcmNQTFZSeFd2U2tBTmszUXlwSFQxaUJOVUNsVW0yTnZJN2xLTHdiSjlFcVphSUc0eEFfRVdobkZtdU5zcnB1UGFWRFloZ1VvX2JJbWpwLTdvM0VZc1lZN19OLXZuelZfcEVGTzFOdFd2eGk1ZThSbm52MnJB?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 1, 2026",
-      "rawDate": "2026-07-01T03:18:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783222000358-ywhig",
-      "title": "How to Report Smishing and Text Scams in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWtNOUpUSjF2Rm1rLTEzQ3pQU2tvUGREM092bnp4WlY3dG9Henpsb3BjOGRUdjUwOGI1QmE4QktBZXdIeWluTzkwa0hSbHQ1NFJfMWNLX1JKeVJJZFVjTjB1dnViTTVjZmc5SnhHdHBHUU1vdFE5QzhhLVlJTzJaSGN3Vnc5a0lGeGlhSUJFWlJ6dGtMejl2ZXRWbw?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 30, 2026",
-      "rawDate": "2026-06-30T13:35:39.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783048677844-cj48rr",
-      "title": "Bank Liability for Phishing Scams in the Philippines: Consumer Rights Explained",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZFZiTG9oeUhydG1IZ2lrMkQ3cWV2WWJLR0Z4cnhfdnZzcTZGNUNZS01LX2pjS21VcldQanNYeDlpUXRNanlObmVjR2w2d25xT21tc2N6VEcybjdoWEF4TmppNkZHdDRGOVkwdlBBQU52c2xIckZEQ2JTZXV5ZFZPZElNSE9BYTd2V3hDZVNFZkJ1ekYyYy1HeTg0dWpIUEFZaEg5YU9WVGptcDBOR0paVTdIMGw0QQ?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 30, 2026",
-      "rawDate": "2026-06-30T13:34:17.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

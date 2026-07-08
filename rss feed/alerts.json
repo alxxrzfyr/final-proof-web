@@ -1,10 +1,24 @@
 {
-  "fetchedAt": "2026-07-08T02:42:37.402Z",
+  "fetchedAt": "2026-07-08T14:07:45.839Z",
   "alerts": [
     {
       "id": "alert-local-1783478556302-kq0o0q",
       "title": "Pangasinan man loses P230K in bank account due to voice phishing scam",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb1JydTFfbEw4cFEtcWNCU0d5dnYzNGVoNExsYzZNcmhWRzlqd1gwOTIydmNlYXl2eHZUSm13X09weFpLeU9MdGhycWRQMkpuLWFnc3J0Z1Y5U2dkZGh1eHVmNTFnY1dwZFlGTS0xcGtyZlgzekhJVUNGUEw5Z2pwZ0FLa05NdlhtSV9qZXNGcXlqS1RpOVlYME1mQW1IU3RhUG1IazVkTkVJaFhCR1FBS0l6eTNZYTTSAbwBQVVfeXFMUE5INDhsTGwydE83TmZ3ZV83V1czbnZKd0JWSmEwOVRkSEowdVJRRmxFUUZfb3QxeWxJeEJnbTVNZS0zOWJCblFjd010Rk9BQUtsQ1h6NkFNTEhNb2RvajVueXpWYW15ZXZrMG5WbjlhWHVLbFZDTFo5RFQxWktCTnotMWxFQ3VpTlhUR2FCUXpfTWZaU0hvQjk2amZoQm5fWUdEQzZZT3p4Y2paZGd0aUJ6c1pYRmZxRlJ4UjE?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 7, 2026",
+      "rawDate": "2026-07-07T17:55:06.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783519664781-zaj96",
+      "title": "Pangasinan man loses P230K in bank account to voice phishing scam",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORnoxLVhRNks3X2poQS1KYXMyZHNTekFqXzlkY0VMTGxtaU1PTDV5dVZyYXFZcUEyN0FIcmo2NG5mVGNaRTRubHBHZW55czV0YnF2RTV6eHNOTlFlWEEwZ0x5cXI5QnNRRmdRSk5fQ0ZvZ3JNOW8yMVMtWU1UblNQQ2ozM250Rml2NTBSS19KUHRDMnNqVUFlTVhhVmI2NW5LTTFidVNVSnJkc2RVNTROQkVEa3d6bnBBc1p5VDJyTHZFbG1EeTNF0gG8AUFVX3lxTFBOSDQ4bExsMnRPN05md2VfN1dXM252SndCVkphMDlUZEhKMHVSUUZsRVFGX290MXlsSXhCZ201TWUtMzliQm5RY3dNdEZPQUFLbENYejZBTUxITW9kb2o1bnl6VmFteWV2azBuVm45YVh1S2xWQ0xaOURUMVpLQk56LTFsRUN1aU5YVEdhQlF6X01mWlNIb0I5NmpmaEJuX1lHREM2WU96eGNqWmRndGlCenNaWEZmcUZSeFIx?oc=5",
       "source": "GMA Network",
       "sourceLabel": "GMA Network",
       "sourceLogo": "newspaper",
@@ -55,6 +69,20 @@
       "date": "July 6, 2026",
       "rawDate": "2026-07-06T18:30:20.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/m.pra.gov.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783519664782-64ovmb",
+      "title": "It's Showtime: Witty Monday",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWjZaNHZyOHVsdnBLWkpGRzItbVZyVHNqTTBCS20zemVUNXRfSDQ2S0tsSXZWbEdMWUhHRFRQZ1ppSXdYVFlTVm9TU0drbHdQUW1qSjhFcjJTOXl6cUdCb1NDa1BJSHBEcUlueWp0NWI1NHR5dDZrYmZabm1Eb1p5eUtrWV9GeHdVMk9HdzBOa9IBlAFBVV95cUxQRXlYcXpad0dzNGctaHdjQ3JCTDhqVFhQT2pHaUtyeGVzNUF4YzYwemF4NDNTQ1pzM0JicVdZMl9yUlAtcUpqTjg3Sk1wbXBTSmZSRGI4Nlp0N0UyR1FsRkRtRWU2MWkzWjRsQW1IQWdTTzVaQ0dKeDJwckRTZEJ2NkwxYmoxcmk0c21FQ29PeDVHYkQ0?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 6, 2026",
+      "rawDate": "2026-07-06T03:02:11.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
       "scope": "local"
     },
     {
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1783258791645-grel6t",
-      "title": "Explain INC rally attendance, 34 PUV operators told",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaWVpTnlOb1NsVDBMVkJIdzRTVndSZlRoblMxN0dCSk1xQXBVSVRzX1lwbFJjdU5DSEpENGpNb19Eb1o1Z3U0ZGhOSzVZWXV4dUR0aXZWdmhVOEJITDVnMVVGcjN4aFVuZ09JaUQwaVRMUmd6cV9tbnVmZmRFU0ZSTHZKblhJZEo3UWZrc3l1aEU3XzNkSnhKUWFKVGZZbXE1aFZJ0gGqAUFVX3lxTFAzSXR2NGIyclQxdE10cjVuajg2N0NWbWZwYjlWWUg4VlVZWElhMHhoZ19ScFNjYXVmUV9UQWFKbHNRTmUxZVlyT3p1ZjlGTDRvZ19lUkZXSFdxNlNySUFtaWpENUx0cTBsWmhsRWctTkUyd1FNVmNIbEcwVGJjMVpzMGszaUY1aFM4N25wYWItWjY2ZDA3eGNsMXhEckhsNjBBRXVEemY2emFB?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
+      "id": "alert-international-1783519664502-k484j5",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "July 1, 2026",
-      "rawDate": "2026-07-01T16:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783258791645-sba7kp",
-      "title": "Tax break guidelines for farm storage facilities out",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT2R4OFBBY3llNmtDamlyUWM2SExycU9ORnBtTFloYlNlUlNDX0VFLWJ4QzlyeVdOOVRjc2p1RmhYYWF0dHFlTFRyOWpPWnl4WlJtc2QzUnFTbjZKYjFEa3B3UDZfeHM5dlhXLWdMZlc5ejJVM2lQMUhDLV8taktHdVJTaUYyZi10b3dQaE55X0l5R3hjN2FDR2tka1JDYTRr0gGnAUFVX3lxTE11aHlyUGNTeVRDMGdISmRPR01uY3U1dTg3Rl90RTU5bHprWXRNVUNoTGxfTGRBQ000VVlESzMxWmJIcno3T1M0dy1NUmxEWWZ4eV85aTE5ckZTRDh1bG1zWlMyeVJOZ0dsa0Jlemp6QXkyYy12SVh2OEF2QThFNFJkZXFCSVYtYlNaR29aYS1UWl9RS05fY29rVk01aF9wT1VGVkVGemFB?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 1, 2026",
-      "rawDate": "2026-07-01T16:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
+      "date": "July 8, 2026",
+      "rawDate": "2026-07-08T12:31:39.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1783434863026-ctin78",
@@ -321,20 +335,6 @@
       "date": "June 21, 2026",
       "rawDate": "2026-06-21T06:00:24.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1781842868188-n9i4l",
-      "title": "&#8216;Popa&#8217; Botnet Linked to Publicly-Traded Israeli Firm",
-      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 18, 2026",
-      "rawDate": "2026-06-18T17:37:58.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

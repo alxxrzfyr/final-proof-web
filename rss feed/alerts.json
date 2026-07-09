@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-08T14:07:45.839Z",
+  "fetchedAt": "2026-07-09T15:10:39.631Z",
   "alerts": [
     {
       "id": "alert-local-1783478556302-kq0o0q",
@@ -41,6 +41,20 @@
       "date": "July 7, 2026",
       "rawDate": "2026-07-07T16:14:31.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783609838134-fc6n7",
+      "title": "buy nys lottery tickets online for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xSXl2T0JlQXB2NEhET2pZLV9mSENNbVU0OUZWeUNNcnIxWm5aTC1Fd2dSMFZCQlV2N2NqYng3NnJ5RmtxNWhlWVVja3BldWhuOFVOM3VvSEhXNkx5NTJOTE52VlM2MFlpYm5pZQ?oc=5",
+      "source": "Philippine Retirement Authority (PRA)",
+      "sourceLabel": "Philippine Retirement Authority (PRA)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 7, 2026",
+      "rawDate": "2026-07-07T12:22:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/m.pra.gov.ph.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "July 2, 2026",
       "rawDate": "2026-07-02T02:42:34.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1782963460921-o6w8ml",
-      "title": "Kyline Alcantara recalls ‘expensive’ lesson from online scam",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejZicVFvLUxRYWpLVWtxTWQ1MXRkRHI0SGlvR2JqU1VnVmlZU05mOGducF9MRF9PUXpUMlkzT0NwcHRDZDNqWnlpMjNuSVRzMFZ2NXl5S2IxRHdOTlhHYkdVWHRQMzRpOFhES3dXY3hJLWQ0US12TFo2TjNRcDh2OGdwSFpMVm1qWFB1bXRMZ1N0SXNuZjdqcXlpelFOd2E0ajhkbkxnMzd0T3NaMjlQUdIBtwFBVV95cUxNNTVCTTVhRkcyS1pfeUtOakkwR3oxUm9sd2hyYTI3Z3Yzek1PalZXN21RY1M2eF9kbGJaWUxLOWlBTTBlMXh2dThya0ZqR1dfWE1Bb3BfbnZ3enJQVDVNaGN5b211R2xWZkVXc3VfaXljb0V2NzI2ZkpYalVJR3JzbVRBRDFnQnJfRjd3NGFTdWk2X3lxeXQtb1ZxRjUzOWlwemw1YW54MTZqRUlGd1JqTTg5VFROYjg?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 1, 2026",
-      "rawDate": "2026-07-01T16:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {

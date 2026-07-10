@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-07-09T15:10:39.631Z",
+  "fetchedAt": "2026-07-10T14:26:57.330Z",
   "alerts": [
+    {
+      "id": "alert-local-1783693615701-n4h1dp",
+      "title": "How to Report Smishing and Text Scams in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVHpON3JJTTQzNHZ4cEtVcXRjVGRYSENWd2FySUVHa1RmQzNXUUt2MWFQV1l6VzQ0V3R2azMxaENzR1ZHWmZGa3pnZzE1YXlsWTR1MmhhWGJ1ZVpTZy15aHNPWjRKamt3S0R5U3ZDbDVpbXhMbWtPVU5nQVk1ZjFGUHEtcmJvMFdaLXlxUnNsUFFJS00yQ1prc1NSbw?oc=5",
+      "source": "respicio &amp; co.",
+      "sourceLabel": "respicio &amp; co.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 10, 2026",
+      "rawDate": "2026-07-10T10:22:14.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783693615700-ezfpg",
+      "title": "Phishing, Smishing, and Vishing Explained—and How to Keep Your Credit Card Safe",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlUzS0Q0ZDNMSWM4cmxPek5zYlIwNXpMVEFWS01nY1VzelE5Z2RCV3Q2dlpaTmNUZjJKQ1NXLVFoLWQtQzE4OXVPSkVSLXNYN2tpLXhsaWdocDFmZkZBbFp1U0xlYkFHTDB1ckl0VmNybUM1UENCeW9GWHhYdWFzS3pFOWlQTlg1NmhoNHFDZ01OWExQT0J0cnFMcXRQcm9yM0lHZTVGQ0t2ZzllWVplV2lJamJtVmw00gG4AUFVX3lxTE5WVTNLRDRkM0xJYzhybE96TnNiUjA1ekxUQVZLTWdjVXN6UTlnZEJXdDZ2WlpOY1RmMkpDU1ctUWgtZC1DMTg5dU9KRVItc1g3a2kteGxpZ2hwMWZmRkFsWnVTTGViQUdMMHVySXRWY3JtQzVQQ0J5b0ZYeFh1YXNLekU5aVBOWDU2aGg0cUNnTU5YTFBPQnRycUxxdFByb3IzSUdlNUZDS3ZnOWVZWmVXaUlqYm1WbDQ?oc=5",
+      "source": "Maya",
+      "sourceLabel": "Maya",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 10, 2026",
+      "rawDate": "2026-07-10T05:26:25.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.maya.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1783478556302-kq0o0q",
       "title": "Pangasinan man loses P230K in bank account due to voice phishing scam",
@@ -139,34 +167,6 @@
       "date": "July 3, 2026",
       "rawDate": "2026-07-03T16:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783258791645-z13efc",
-      "title": "Cebu school tightens security after shooting threat",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWNiM3dEalRsZnlTcjJXdjBNX0VRVzJmenRJb2V5YmNTZG9xLTljZW0zY0tKbWpzem03VmtSckFDQ1FPVU0zNkFiLU9zZGlaZGZxeDA2NUN5RlQyeWdFMDdPU2RNQXN5QkFlUEUyWFl4ZTRXam1jdXRQRnJHcEtiS0ltV2Z0QU55WkRwTFlDRDd4YjYwV2p5Um1vR1VzQS0zblA2U9IBqwFBVV95cUxOaE1BU05fVkx2UkJjN1pjZ0JUWTRjS0dsWHh3SGZRX0RTYWRkMFRGVUJQeURrS1NSZi1maVNCT2ZDbTNEOEJVUS1TZmtWcUxnUnJ2SENKX1BuVV8zXzF3NnFtNkpGNE80cTdyUkVEVi1iUWhUVXZsSTBuSHg4czNLU1F3S3JSdlgxbXVLZnV0d0x3WU5XYy1QODA4YWtxLUlIMkVxRWlUNEZuYlE?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 2, 2026",
-      "rawDate": "2026-07-02T23:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783478556302-joux6t",
-      "title": "Family Feud: Team Add to Kurt vs Team Access Gorgeous",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUh1ZEFHaGlzZGpYUEk1aGNqTXlHRUdFZHBxODVEY0doejVLaFhRNV8tZmxZMVhhTW9HeFZrVDc0aHRGWnNEaENLUFp2UGhDaFZTRm15Qml6MHczQ0RXUXBqTXljWjVydjlUQ3NRZVhLWWMwTGdoYkgtUExyR1hYdVFXbnFzbTlTUjVzUllzcnRoNkxJQ1RjUWRuMHpBaXpHV21Qa3VvSXhoZjZfajJVQ2JxVdIBuAFBVV95cUxNalVrUWVMclI3b000TFpXQk5IcG9uRXNRU1BnNjdEQjdOZWF6X29Cc0xoSW1JazYydzh1aGtKb0drZWNFTXMyRThCTE5JdFpjNGNKbU9SZjBWSVVPUEFyRmZEbDFxalBqWm8xRzFPV21aemxNTl82cjJySEF0MDlneXF0ZzhwOElaOHpfUkh4WGt5QWhEN0swN3lvRVA4cmZMNGVjSmtqTjZOaWlneVlmNF9tZ05oVG40?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 2, 2026",
-      "rawDate": "2026-07-02T02:42:34.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
       "scope": "local"
     },
     {

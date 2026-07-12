@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-10T14:26:57.330Z",
+  "fetchedAt": "2026-07-12T13:19:44.961Z",
   "alerts": [
     {
       "id": "alert-local-1783693615701-n4h1dp",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1783862383531-i00mq",
+      "title": "‘A very good clone’: news stories faked to lure victims to scam investment sites",
+      "url": "https://www.theguardian.com/money/2026/jul/12/clone-news-sites-faked-scam-investment-sites-social-media",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 12, 2026",
+      "rawDate": "2026-07-12T06:00:11.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1783519664502-k484j5",
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
       "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "June 22, 2026",
       "rawDate": "2026-06-22T07:00:02.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1782051118537-h7wofb",
-      "title": "‘Build Vice City’: the GTA 6 scam that’s hitting gamers worldwide",
-      "url": "https://www.theguardian.com/money/2026/jun/21/gta-6-grand-theft-auto-vi-beta-test-pre-release-scams-fake",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 21, 2026",
-      "rawDate": "2026-06-21T06:00:24.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

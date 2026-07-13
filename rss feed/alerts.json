@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-12T13:19:44.961Z",
+  "fetchedAt": "2026-07-13T02:48:47.288Z",
   "alerts": [
+    {
+      "id": "alert-local-1783910926884-gjggw",
+      "title": "Telco boosts multi-layered defenses to protect customers vs scams",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNC1Db0dvLWo2ZC1QSG1LODhrWXVhS1JPMmttQU42NFZaeXQwaXhrd3plLWpXZnJzUlg4RmljM0k1SjRUdmNuWDVGbXNtaktLQlc1eU1zNVAtV29FcFJCZzNBaFZXVXF0OFNITHA5OVFsclZraVFFbmNrTUZmZWtZTXlvZHE3aWtseVBuWElIWDNKZ2pDajMwYzFNandwNGVjdGxHZnAxMjNyZnE2M3IxR3ZhT1NicUpseUVkUFNkeXNwd9IByAFBVV95cUxOV1ZKX1l0U1VfWGNvVUJ5OUk0RS1RSUkxemlLZU9hb1J0ckk0a0lBUVM2N2pMdTU4VUtkd29EVU14QWdwS3kwbXE0bjdPaXMwUHpVQWRGaEtaWGVBWjBfaEpRT1pydGd5Nm1tNGVJRExfZTY1N2VlS1RCQTFmWjVMU3hlYWYwS05aWEtCcDRrV3BWY2VjRzNpbXEzV2ktODJ5dG5zR2Z2OTlrY3ZjeHRPcm5ybkJxc3F5SEh3eU5QZWYxNDNmSkZubg?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 12, 2026",
+      "rawDate": "2026-07-12T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1783693615701-n4h1dp",
       "title": "How to Report Smishing and Text Scams in the Philippines",
@@ -153,20 +167,6 @@
       "date": "July 4, 2026",
       "rawDate": "2026-07-04T09:21:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783222001288-tuq3yu",
-      "title": "Boracay scuba group, dive shops fined for price fixing",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ3RqeHVaTGN0RXdsOEVUeW94bVZOMmJsVG5JVkViQ1BtM1dVeG5rZGJ2RjdaajlPZUd0NF9yUnB5WDhPTzJIaTN6emdMdVJIaGo2VUpYX003QmlqbENHNUEyaC12S3A4VWtFdklINXBOcnZVX3JzR3dkbm1XdzZfUG9uYzhfNFRyb2RYWHBLVVNjMGJBekRsTWtNeV9od3hvZlHSAagBQVVfeXFMTWxWWVpYUkhnRk9fUEFvbHZHT3FRTnR1NVVSV2lYV0xJX2lERU56dGNLT2NGR1BDN1hiblgwVGdvRGMyeEM2cFpPcUhYOTFNcEt0MHJxcUM4Z1lCbEN6V05kRGNfTW83TmgtcEo2MWVKSnlvbGNuTTJYd2htZ1NGcVJWSm5OZjRKWFRrS3cybGlremZMbjloTDRJcGNGQ1lEWHVfcnd1SURj?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 3, 2026",
-      "rawDate": "2026-07-03T16:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {

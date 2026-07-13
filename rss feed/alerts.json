@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-07-13T02:48:47.288Z",
+  "fetchedAt": "2026-07-13T14:34:27.296Z",
   "alerts": [
+    {
+      "id": "alert-local-1783953266304-6443z",
+      "title": "Globe adopts multi-layered defenses vs. scammers",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlUwcnRLY0w3OGgwclpUZFc5QkRJSjFjNzdVWmR6UEFqVXh2Ym5Td3FFX1VXMm5OZEsyeEx4ckgtZVdUMnQxQnRSdTVZY3dMVlNteFY2UllJd0txbVJ5VzlLdFp2NjdEMjYxYzRSc0tEaEV1SHhJVmEtX1RDbUZtTWlsUmJOV2VRT0ktUjh3R3FzTzJjdHRUTDBvbUp2ZWRiWklSemQ1eUh0RlRvZVHSAbMBQVVfeXFMTUJFMDZQRG1CaGJHRWRwREJMcUl0VnhrdzdiWS1TVnM0SVNmcV9qV2ZPQktUYlptWU9KVFVVaGkzbDNuS1l3X3pIdHh4T2JFRHZ6QW9CQ01TU0ZXR1JhaDdfZU1nbHRTMC1WZmVCVkhDN3BiSEZNNWF0M3pLLUNHZThnald3b0lsSmRfLWxuQW9kSkF6V1ZuYW9OcGFZd2xsYW1oOW1sWU9jalAtRzdfckZPNEk?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 13, 2026",
+      "rawDate": "2026-07-13T09:56:31.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1783953266074-cghf8g",
+      "title": "european lottery online for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKTTRLLUstaUxtcEZyNUJVMmVuWTlLZTc0QmFpdEFHX0RZdEJPamktalJsdlZndnFTZF9Oc2hRMWRIMUlpSU1QenF6ZnFIRnV4VlRDV0JPcl9YSU9zb0F3TkhR?oc=5",
+      "source": "mis.umin.edu.ph",
+      "sourceLabel": "mis.umin.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 12, 2026",
+      "rawDate": "2026-07-12T21:53:35.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1783910926884-gjggw",
       "title": "Telco boosts multi-layered defenses to protect customers vs scams",
@@ -139,34 +167,6 @@
       "date": "July 6, 2026",
       "rawDate": "2026-07-06T03:02:11.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783222001287-93vtq",
-      "title": "Comelec warns public over phishing scam",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObXo5SlFfQmlJclJjN3FCSnZQcm9Xb29SOVJHQ3R2NFd2OF9OSFEydWJuQXRqRzFjR3RUWkdpYzVoUjN2MVFDME1PUkFoOU1oa3VTWUVoaUI0dHdhUGM3a3lUc0hTVFdsZ3d4dzdSQlYxY0JzT3AxUHk5T3h5ZFp6Z2VZRTEybjkyRmdTc0tkRXNXczVQ0gGbAUFVX3lxTE5UQk93ZGFna2lrb3Vka3RGZlJjanVhNzBqbW5iZ2xWcVVTLUxmbmRwanNzMHVxU2xSQXRpRzZVWWhaMHdBcV9WM0dEbWotYUstanpuTXhaa25CWEpEQkVJX0IyRDlZdXBiZGI1NjlFOUM2dmVXa1RsUU9qVkNHNXZRODRqRW1MYlNYMVA2V0wyWUxnT0Z4NGVEcEs0?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 4, 2026",
-      "rawDate": "2026-07-04T16:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783258790510-uhxyy",
-      "title": "odds on lottery games for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xaWxRMzM0cklGRVhhdFJ4QmhRc0JHRjV4bEpCYXNPb1VNX3luRHRmd2xXSy1BbUdFSVN4QS05VWlFZGxrZl9NZkx4Ul9NeFR2NWl2b2tJYjIwNzJpZnc?oc=5",
-      "source": "mis.umin.edu.ph",
-      "sourceLabel": "mis.umin.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 4, 2026",
-      "rawDate": "2026-07-04T09:21:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
       "scope": "local"
     },
     {

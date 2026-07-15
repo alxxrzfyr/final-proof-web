@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-15T02:28:34.797Z",
+  "fetchedAt": "2026-07-15T13:43:49.841Z",
   "alerts": [
+    {
+      "id": "alert-local-1784123028552-sbxqu8",
+      "title": "Where to Report Smishing and Text Scams in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3ppb1pISTgxQ2oxa3FZMG5ubDA0bzZKR2FXTnE0VTk0VzE0ZDR0YXVZWTRweTRBU0NGWTJ5eHd1MGpfb29kb0dURWFzaUUtRW5BNTZOOVFUUHpBX09vZ01hVUl0Tl91emYtZmxEc2JBTnFZQ0lxdTdSTVk2dVpIVzBzaWlNZEJSU3Ffd0s0bFZCZlExQTZWRnNJSXJHdw?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 14, 2026",
+      "rawDate": "2026-07-14T12:49:36.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1784036619179-lsc9x3",
       "title": "Goodbye, SMS OTPs: Banks' move to safer checks and what it means for you",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1783609838134-fc6n7",
-      "title": "buy nys lottery tickets online for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xSXl2T0JlQXB2NEhET2pZLV9mSENNbVU0OUZWeUNNcnIxWm5aTC1Fd2dSMFZCQlV2N2NqYng3NnJ5RmtxNWhlWVVja3BldWhuOFVOM3VvSEhXNkx5NTJOTE52VlM2MFlpYm5pZQ?oc=5",
-      "source": "Philippine Retirement Authority (PRA)",
-      "sourceLabel": "Philippine Retirement Authority (PRA)",
+      "id": "alert-international-1784123028545-a3texp",
+      "title": "The scary rise of locksmith scams: ‘I was shut out with my baby – and charged £2,200 to get back in’",
+      "url": "https://www.theguardian.com/money/2026/jul/15/the-scary-rise-of-locksmith-scams-i-was-shut-out-with-my-baby-and-charged-2200-to-get-back-in",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "July 7, 2026",
-      "rawDate": "2026-07-07T12:22:08.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/m.pra.gov.ph.ico",
-      "scope": "local"
+      "date": "July 15, 2026",
+      "rawDate": "2026-07-15T04:00:46.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1783862383531-i00mq",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "June 22, 2026",
       "rawDate": "2026-06-22T17:36:28.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1782147532033-9xkgw",
-      "title": "Paris taxi scam cost £493 but Monzo won’t help me",
-      "url": "https://www.theguardian.com/money/2026/jun/22/paris-taxi-scam-monzo-bank-money-chargeback",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 22, 2026",
-      "rawDate": "2026-06-22T07:00:02.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

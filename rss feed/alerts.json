@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-14T13:43:39.598Z",
+  "fetchedAt": "2026-07-15T02:28:34.797Z",
   "alerts": [
     {
       "id": "alert-local-1784036619179-lsc9x3",
@@ -27,6 +27,20 @@
       "date": "July 14, 2026",
       "rawDate": "2026-07-14T06:36:08.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1784082513524-ajq33v",
+      "title": "Phishing Scams in the Philippines: How to Identify and Report Them",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQnB0d0Y0eVhnU0NiTWhwVzAzUEY3b1pPSl9EbFlINzVhVlRGM3F5b1VkX3AtTGIyaXhuVURIUnREd1YzbGYxaUpoc1Fhbk93ckVJY2tIaXdubWM2UllfZ2FXQzBqMUpURE5CVFFiNWpramxobU5QR0hrVXlJdEhpTERnQTZxd1Rzb1prS0dqdXBqLUI3djdsbXZNcW1Ib0dZSXlicA?oc=5",
+      "source": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 14, 2026",
+      "rawDate": "2026-07-14T05:09:18.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "July 7, 2026",
       "rawDate": "2026-07-07T12:22:08.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/m.pra.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1783434862530-7dm1s",
-      "title": "How to Report an Online Task Scam in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdG1heVNvRndkZDd0YUhDRGE4WmxESGRDV3ozWmIxcFp3d0E4V0ZaUTNVUi1BdWh6WjJ2R29sdG1BcVBXVF9naDByeDFLY0NIdFRPVTliS2RuTnlFSWU4dG4xM2VSaWlXLVhibGw3QTJKWkhQX3U3NHJYbk91SFU3bExLQmtPZVVhSHZJMG1MYTlfTWc?oc=5",
-      "source": "respicio &amp; co.",
-      "sourceLabel": "respicio &amp; co.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 7, 2026",
-      "rawDate": "2026-07-07T04:49:23.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
       "scope": "local"
     },
     {

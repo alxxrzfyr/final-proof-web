@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-16T02:36:21.859Z",
+  "fetchedAt": "2026-07-17T02:39:05.367Z",
   "alerts": [
     {
       "id": "alert-local-1784123028552-sbxqu8",
@@ -142,7 +142,7 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1783478556302-kq0o0q",
+      "id": "alert-local-1784255944410-f6uvjs",
       "title": "Pangasinan man loses P230K in bank account due to voice phishing scam",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb1JydTFfbEw4cFEtcWNCU0d5dnYzNGVoNExsYzZNcmhWRzlqd1gwOTIydmNlYXl2eHZUSm13X09weFpLeU9MdGhycWRQMkpuLWFnc3J0Z1Y5U2dkZGh1eHVmNTFnY1dwZFlGTS0xcGtyZlgzekhJVUNGUEw5Z2pwZ0FLa05NdlhtSV9qZXNGcXlqS1RpOVlYME1mQW1IU3RhUG1IazVkTkVJaFhCR1FBS0l6eTNZYTTSAbwBQVVfeXFMUE5INDhsTGwydE83TmZ3ZV83V1czbnZKd0JWSmEwOVRkSEowdVJRRmxFUUZfb3QxeWxJeEJnbTVNZS0zOWJCblFjd010Rk9BQUtsQ1h6NkFNTEhNb2RvajVueXpWYW15ZXZrMG5WbjlhWHVLbFZDTFo5RFQxWktCTnotMWxFQ3VpTlhUR2FCUXpfTWZaU0hvQjk2amZoQm5fWUdEQzZZT3p4Y2paZGd0aUJ6c1pYRmZxRlJ4UjE?oc=5",
       "source": "GMA Network",
@@ -150,8 +150,8 @@
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "July 7, 2026",
-      "rawDate": "2026-07-07T17:55:06.000Z",
+      "date": "July 8, 2026",
+      "rawDate": "2026-07-08T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
       "scope": "local"
     },
@@ -168,6 +168,20 @@
       "rawDate": "2026-07-07T17:55:06.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
       "scope": "local"
+    },
+    {
+      "id": "alert-international-1784255944810-idlvs4",
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVJ0RHFka3ZpZlFfaC1HM1MzMFFJcDJieFpkVl83UVFpYm16bzZ2ejNwYzEyYWYtX0JuYzJhczN0bHR2VjBrTmdfV2FfZmtPZGxrR2JsQXlTMGxGVGZhaThTblJUdWJwRkJFcVZMVWtiOEIyZ2FFbVZUVmdFVFYtOHVtZmJoaDg2V0Q3M3U1dF9OZmhQaW1qNDZxbnZmVmx3QVk3Vi1lUEtfVF8wc2RBbkJ4QQ?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 16, 2026",
+      "rawDate": "2026-07-16T21:22:31.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1784123028545-a3texp",
@@ -321,20 +335,6 @@
       "date": "June 23, 2026",
       "rawDate": "2026-06-23T16:12:49.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1782226187763-pz89et",
-      "title": "Job scams are growing and getting tougher to spot: ‘That’s the reality of this hell job market’",
-      "url": "https://www.theguardian.com/money/2026/jun/22/job-scams-employment-ai",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 22, 2026",
-      "rawDate": "2026-06-22T17:36:28.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

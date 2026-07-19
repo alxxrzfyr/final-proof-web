@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-17T02:39:05.367Z",
+  "fetchedAt": "2026-07-19T13:17:42.215Z",
   "alerts": [
+    {
+      "id": "alert-local-1784467061087-0j5e6b",
+      "title": "Scammers using BOC name to trap victims in ‘love scam’",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTDFOd1p0MW9PRmh6dzE1aGhMS1JqOUpnbkpvdEhvMEZodU4xeHJta09GYy1jX0VKcWtITm9HX3F1dWltVjBBNXBTQXZTZHp4MS1qa2tIVHhvZ1ZnQi0xUWhpbHpaT1hJak5lSkhTSXJ1S25yc3l4NzZCS3BOZVR5MC00VWtLT2hBMGFSNdIBmgFBVV95cUxNLTg4RW9TT3IxcjZFUEtENjJjZmdacDBCSl83R0Fqb2pyUm9uZHlQSGlBUm55Vlc5aU5EYVRrNXVjU1NhWDJVajNxWXBvcVY0Y3JkaldtRG80Ni05eTdnZHR4UUM3R04wSjhmdEFyZFV1dGdMb0xGY0w0VXdtVGhISE5jTXh1YWR3ZE9BeTROVG90MDJSNHpiZDl3?oc=5",
+      "source": "SunStar Publishing Inc.",
+      "sourceLabel": "SunStar Publishing Inc.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 19, 2026",
+      "rawDate": "2026-07-19T12:33:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1784123028552-sbxqu8",
       "title": "Where to Report Smishing and Text Scams in the Philippines",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1783519664781-zaj96",
-      "title": "Pangasinan man loses P230K in bank account to voice phishing scam",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORnoxLVhRNks3X2poQS1KYXMyZHNTekFqXzlkY0VMTGxtaU1PTDV5dVZyYXFZcUEyN0FIcmo2NG5mVGNaRTRubHBHZW55czV0YnF2RTV6eHNOTlFlWEEwZ0x5cXI5QnNRRmdRSk5fQ0ZvZ3JNOW8yMVMtWU1UblNQQ2ozM250Rml2NTBSS19KUHRDMnNqVUFlTVhhVmI2NW5LTTFidVNVSnJkc2RVNTROQkVEa3d6bnBBc1p5VDJyTHZFbG1EeTNF0gG8AUFVX3lxTFBOSDQ4bExsMnRPN05md2VfN1dXM252SndCVkphMDlUZEhKMHVSUUZsRVFGX290MXlsSXhCZ201TWUtMzliQm5RY3dNdEZPQUFLbENYejZBTUxITW9kb2o1bnl6VmFteWV2azBuVm45YVh1S2xWQ0xaOURUMVpLQk56LTFsRUN1aU5YVEdhQlF6X01mWlNIb0I5NmpmaEJuX1lHREM2WU96eGNqWmRndGlCenNaWEZmcUZSeFIx?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
+      "id": "alert-international-1784467060797-vvevj",
+      "title": "‘We noticed a login from a new device’: the message from fraudsters targeting your X account",
+      "url": "https://www.theguardian.com/money/2026/jul/19/x-scams-login-new-device-message-account-crypto-phishing",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "July 7, 2026",
-      "rawDate": "2026-07-07T17:55:06.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
+      "date": "July 19, 2026",
+      "rawDate": "2026-07-19T06:00:18.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1784255944810-idlvs4",
@@ -321,20 +335,6 @@
       "date": "June 23, 2026",
       "rawDate": "2026-06-23T20:38:20.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1782272233325-lbezh5",
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 23, 2026",
-      "rawDate": "2026-06-23T16:12:49.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

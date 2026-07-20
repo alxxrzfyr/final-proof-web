@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-19T13:17:42.215Z",
+  "fetchedAt": "2026-07-20T02:57:35.850Z",
   "alerts": [
+    {
+      "id": "alert-local-1784516254696-y43hf5",
+      "title": "Sophos Report: Identity-based attacks overtake software flaws as leading ransomware entry point",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVNqVmlvRGVSVjNiNnB2NDB6NWdIbDNuS1RZdk0xbXFTQUNDQXlaOUl6RlRjYkZ3RXJhYjFTOExjMkZwRVFoOGF0TUlXcmFJblNYY1hVUTV3Tl9kM3BjUEJBMi0ySmhKd20yV0tYQ1A1WktJRUhFNnlFLW1aa1A2blYyandfV2puRTlxb2U2RGxRWE96Q09sRXhjWU92MVg3eTB0d2FBREg3bnNYRUNwcG1CV1EtWkUtODFfb3F1a1A?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 20, 2026",
+      "rawDate": "2026-07-20T01:27:46.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1784467061087-0j5e6b",
       "title": "Scammers using BOC name to trap victims in ‘love scam’",
@@ -58,6 +72,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1784516255072-36a6so",
+      "title": "PNP to assist DepEd in nationwide active shooter drills for schools",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekkySkFiU0RQdFd2NkVxckZYQy1OY2MxT1oxb2ZqNzRib0dhTzJrSHh4NndrUjJmWlQ3TEtnSWk0OHlKLXp3NzV0ZzdYNzEzdUt6OVZBUTR1anlKY0NDemxjc0dHaWkyNWN4Y3ZpSnc1UG10a2lVelBtSVEzN2xYNjBEOXJ1TW56Q0pSNElWQkFzZDBBaVkyNWFwSkJpXzhIelU1MjVDYlNfTnF3REgwWkk3eGpfb0dPZ3c?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 14, 2026",
+      "rawDate": "2026-07-14T06:07:45.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1784082513524-ajq33v",
       "title": "Phishing Scams in the Philippines: How to Identify and Report Them",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQnB0d0Y0eVhnU0NiTWhwVzAzUEY3b1pPSl9EbFlINzVhVlRGM3F5b1VkX3AtTGIyaXhuVURIUnREd1YzbGYxaUpoc1Fhbk93ckVJY2tIaXdubWM2UllfZ2FXQzBqMUpURE5CVFFiNWpramxobU5QR0hrVXlJdEhpTERnQTZxd1Rzb1prS0dqdXBqLUI3djdsbXZNcW1Ib0dZSXlicA?oc=5",
@@ -69,20 +97,6 @@
       "date": "July 14, 2026",
       "rawDate": "2026-07-14T05:09:18.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784169380951-gh1ua",
-      "title": "PNP to assist DepEd in nationwide active shooter drills for schools",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekkySkFiU0RQdFd2NkVxckZYQy1OY2MxT1oxb2ZqNzRib0dhTzJrSHh4NndrUjJmWlQ3TEtnSWk0OHlKLXp3NzV0ZzdYNzEzdUt6OVZBUTR1anlKY0NDemxjc0dHaWkyNWN4Y3ZpSnc1UG10a2lVelBtSVEzN2xYNjBEOXJ1TW56Q0pSNElWQkFzZDBBaVkyNWFwSkJpXzhIelU1MjVDYlNfTnF3REgwWkk3eGpfb0dPZ3c?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 14, 2026",
-      "rawDate": "2026-07-14T04:32:55.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1784255944410-f6uvjs",
-      "title": "Pangasinan man loses P230K in bank account due to voice phishing scam",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb1JydTFfbEw4cFEtcWNCU0d5dnYzNGVoNExsYzZNcmhWRzlqd1gwOTIydmNlYXl2eHZUSm13X09weFpLeU9MdGhycWRQMkpuLWFnc3J0Z1Y5U2dkZGh1eHVmNTFnY1dwZFlGTS0xcGtyZlgzekhJVUNGUEw5Z2pwZ0FLa05NdlhtSV9qZXNGcXlqS1RpOVlYME1mQW1IU3RhUG1IazVkTkVJaFhCR1FBS0l6eTNZYTTSAbwBQVVfeXFMUE5INDhsTGwydE83TmZ3ZV83V1czbnZKd0JWSmEwOVRkSEowdVJRRmxFUUZfb3QxeWxJeEJnbTVNZS0zOWJCblFjd010Rk9BQUtsQ1h6NkFNTEhNb2RvajVueXpWYW15ZXZrMG5WbjlhWHVLbFZDTFo5RFQxWktCTnotMWxFQ3VpTlhUR2FCUXpfTWZaU0hvQjk2amZoQm5fWUdEQzZZT3p4Y2paZGd0aUJ6c1pYRmZxRlJ4UjE?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
+      "id": "alert-international-1784516254562-z5kpmn",
+      "title": "Rogue locksmiths prey on people’s anxieties | Letters",
+      "url": "https://www.theguardian.com/money/2026/jul/19/rogue-locksmiths-prey-on-peoples-anxieties",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "July 8, 2026",
-      "rawDate": "2026-07-08T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
+      "date": "July 19, 2026",
+      "rawDate": "2026-07-19T15:42:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1784467060797-vvevj",
@@ -321,20 +335,6 @@
       "date": "June 28, 2026",
       "rawDate": "2026-06-28T06:00:01.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1782272233942-2mikah",
-      "title": "India's Bajaj Auto says ransomware attack hits systems",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHdmUjhwZXQ4eXc4VzdEaU13U0hkSEJKaU1uWDJqSWo4c3Y2VmRWOXpMaV9scHczQWFPS2QwSGVzVkZDUV9LemdZcF9BSENmWHcyemNOZDBtckNSelpldnJlY0RzMm92LU1wQ3FHVG42U2h5ZGJTRV8zSm1jVHN1c2oxYS16LUZHcnRqUXBXZFFtRVNwUnQ4b2RITkkzaHdselA4?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 23, 2026",
-      "rawDate": "2026-06-23T20:38:20.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     }
   ]

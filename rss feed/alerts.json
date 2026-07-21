@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-20T02:57:35.850Z",
+  "fetchedAt": "2026-07-21T02:41:57.049Z",
   "alerts": [
+    {
+      "id": "alert-local-1784601716002-jiwyeg",
+      "title": "Next-gen finance app aims to protect you from scams",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzdXWkt0NmY0amZlX1Y2TEJaZ20wRFhtSU1uaEJqMmdLYS00SWhpd29YYW0xUFlteUUwR2xSV0Ztb2xIZDJlZndGeTQ3eE9tRm5PTXlTSFhWOHk5MmpyX0xqMU8ydC0wMS1ZMzFOOXlZaVBIcFJ5VkIyN2RyUGRtMG5IaDhjNnRPajRtUXdZNmdTdGlyLUE1VEdhMUlDY1gtUGNRWFo5dw?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 20, 2026",
+      "rawDate": "2026-07-20T07:32:04.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1784516254696-y43hf5",
       "title": "Sophos Report: Identity-based attacks overtake software flaws as leading ransomware entry point",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1783693615700-ezfpg",
-      "title": "Phishing, Smishing, and Vishing Explained—and How to Keep Your Credit Card Safe",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlUzS0Q0ZDNMSWM4cmxPek5zYlIwNXpMVEFWS01nY1VzelE5Z2RCV3Q2dlpaTmNUZjJKQ1NXLVFoLWQtQzE4OXVPSkVSLXNYN2tpLXhsaWdocDFmZkZBbFp1U0xlYkFHTDB1ckl0VmNybUM1UENCeW9GWHhYdWFzS3pFOWlQTlg1NmhoNHFDZ01OWExQT0J0cnFMcXRQcm9yM0lHZTVGQ0t2ZzllWVplV2lJamJtVmw00gG4AUFVX3lxTE5WVTNLRDRkM0xJYzhybE96TnNiUjA1ekxUQVZLTWdjVXN6UTlnZEJXdDZ2WlpOY1RmMkpDU1ctUWgtZC1DMTg5dU9KRVItc1g3a2kteGxpZ2hwMWZmRkFsWnVTTGViQUdMMHVySXRWY3JtQzVQQ0J5b0ZYeFh1YXNLekU5aVBOWDU2aGg0cUNnTU5YTFBPQnRycUxxdFByb3IzSUdlNUZDS3ZnOWVZWmVXaUlqYm1WbDQ?oc=5",
-      "source": "Maya",
-      "sourceLabel": "Maya",
+      "id": "alert-international-1784601716186-o3sa1i",
+      "title": "India markets regulator penalises depository over 2022 malware attack",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTVrTTlOMFduamtVazh4UGk5Ym9NTUJaMVVXcHIxNGE0YkcwNGpReWlCc2VweWlVQXNYZzFMNmJVdllYOW5ESHBWOUhMRElveWIxNmVGVEdGaU4yQU5nVGhWYlZxdkJKZXVqWWZiQV9HQlVsOFZJNU1GbC1na2hYalh4bWlOYXctNzNtWUMybkFJZUFad2R6TmJqMFYtQlJNbE5IdTJ5LUNSbFc2WmRjM0NoNktYR0pBTTUtOUJtYw?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "July 10, 2026",
-      "rawDate": "2026-07-10T05:26:25.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.maya.ph.ico",
-      "scope": "local"
+      "date": "July 20, 2026",
+      "rawDate": "2026-07-20T19:26:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1784516254562-z5kpmn",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "June 29, 2026",
       "rawDate": "2026-06-29T07:00:32.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1782654417922-fy5uyv",
-      "title": "Lost your crypto access code? Be wary, there‘s a scam for that too",
-      "url": "https://www.theguardian.com/money/2026/jun/28/scam-watch-panic-thats-just-what-fraudsters-are-waiting-for-to-steal-your-crypto-data",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 28, 2026",
-      "rawDate": "2026-06-28T06:00:01.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-21T13:50:15.534Z",
+  "fetchedAt": "2026-07-22T02:39:43.511Z",
   "alerts": [
+    {
+      "id": "alert-local-1784687983145-wha47p",
+      "title": "Government anti-cybercrime unit eyes P1.5 billion budget for 2027",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFJyZUV4R2N1X2lCQkJGaHhJeWEzaDBQNmN5dHhuSDBERW1meXRTd1V2UVVDaWZTeHlvSVNrLXJScUJMZlhBTklrN1MzNkdZbnhXQmR5dTVrb2c5OXg5WDFyVkhNZnpxSnBWVWRtTU9sZmEyaFg0MDFIRFlSbTlkNzVNSmZFZDVUb2FGM0xmMXI5RHU1d0ZJdWdlWmhjdDV4RVZKSkdRWGV3b3IzbnQxY1VHRdIBugFBVV95cUxNQ0dNQ1ZTc3BQTWlMbURIRTZMVDByT3U2WlU5b2dGTm9EVGo4YnRBQUdJUFlSZldRLWNEeDRoNUxlWDRJWUdncXZzSGQ5dUZmQklaSVl6OFhoSHhoTDBPd2FDZmVZalF4Y0JuT2poLUhKU1pTWmt4UGNNa0R2dTVGZWtWSzIyMmN6ZjlKUnBjYk5HM3J5cFJVOHVaODRLblRlVWJCQ3FuaDJQdWpFZjdPOUZDd1ZINEs2M1E?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 21, 2026",
+      "rawDate": "2026-07-21T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1784641814630-jt4y4c",
       "title": "Crime gangs snare up to $114 billion in scams in Asia-Pacific, UN says",
@@ -156,20 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1783953266304-6443z",
-      "title": "Globe adopts multi-layered defenses vs. scammers",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlUwcnRLY0w3OGgwclpUZFc5QkRJSjFjNzdVWmR6UEFqVXh2Ym5Td3FFX1VXMm5OZEsyeEx4ckgtZVdUMnQxQnRSdTVZY3dMVlNteFY2UllJd0txbVJ5VzlLdFp2NjdEMjYxYzRSc0tEaEV1SHhJVmEtX1RDbUZtTWlsUmJOV2VRT0ktUjh3R3FzTzJjdHRUTDBvbUp2ZWRiWklSemQ1eUh0RlRvZVHSAbMBQVVfeXFMTUJFMDZQRG1CaGJHRWRwREJMcUl0VnhrdzdiWS1TVnM0SVNmcV9qV2ZPQktUYlptWU9KVFVVaGkzbDNuS1l3X3pIdHh4T2JFRHZ6QW9CQ01TU0ZXR1JhaDdfZU1nbHRTMC1WZmVCVkhDN3BiSEZNNWF0M3pLLUNHZThnald3b0lsSmRfLWxuQW9kSkF6V1ZuYW9OcGFZd2xsYW1oOW1sWU9jalAtRzdfckZPNEk?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 13, 2026",
-      "rawDate": "2026-07-13T09:56:31.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-1784601716186-o3sa1i",
       "title": "India markets regulator penalises depository over 2022 malware attack",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTVrTTlOMFduamtVazh4UGk5Ym9NTUJaMVVXcHIxNGE0YkcwNGpReWlCc2VweWlVQXNYZzFMNmJVdllYOW5ESHBWOUhMRElveWIxNmVGVEdGaU4yQU5nVGhWYlZxdkJKZXVqWWZiQV9HQlVsOFZJNU1GbC1na2hYalh4bWlOYXctNzNtWUMybkFJZUFad2R6TmJqMFYtQlJNbE5IdTJ5LUNSbFc2WmRjM0NoNktYR0pBTTUtOUJtYw?oc=5",
@@ -282,6 +282,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-1784687982652-x4sr8e",
+      "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXhQaThKOWVFdktWUllmV1RDOUNoVXBGaHJoQkR0bU03em5aeGZDMFlXcFBKVkQtSjY0NVZpenJNeTFvZ0c4Y0M2ZmZJUlZEcTVvRG1lSmdFVllId0dDb3RjbEZmb3p1YU5UZ1Bkb1phcmRkWHh1dHZEQlVVLWNRWVlxb2hhOEZ5XzRaRTJoWDRQTFNWNzhhM1JfOFAtUDF3THNYdGpLcUN0c2R1OFZtNmc5VjNVTHVVSDliS3RjdkJhblZTTXoxcA?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 6, 2026",
+      "rawDate": "2026-07-06T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1783258790281-u0vht8",
       "title": "Not cool: the air conditioning scams offering fake deals in the heatwave",
       "url": "https://www.theguardian.com/money/2026/jul/05/air-conditioning-scams-fake-deals-heatwave-aldi",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "June 30, 2026",
       "rawDate": "2026-06-30T04:00:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1782748074089-tgd50a",
-      "title": "Holidaymakers warned over social media scams for fake accommodation",
-      "url": "https://www.theguardian.com/money/2026/jun/29/holidaymakers-warned-over-social-media-scams-for-fake-accommodation",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 29, 2026",
-      "rawDate": "2026-06-29T07:00:32.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

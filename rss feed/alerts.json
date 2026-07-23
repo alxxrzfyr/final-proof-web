@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-23T02:45:10.053Z",
+  "fetchedAt": "2026-07-23T13:59:43.717Z",
   "alerts": [
+    {
+      "id": "alert-local-1784815182627-sawqmc",
+      "title": "From 16,619 phishing attacks to AI-driven fraud: cyber threats intensify across the Philippines in H1 2026",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR0FIQVlSbEpEbDhpdHEtUkFjZHJ1Z0hPU1VEZm1ZNGprMV9yVWxXa3Rqc3pycUtMeDZxaXlLUUxuRENIOHdmSE5teE9jeGRXWGhEbDRtYW9RY3FxWmk0M05yV3lzTWMyalpqREFfTXJ3VVhodV9Hd3BuNDJnN29rVEUtS2h1R1hzSlZOZ1hrbUQ3UXc5S1A3am1XSE1zMTdpZHN5NHVqa3FlTVhkSWFKUVNDNWRSTUZjUTFNWDhvM2s0aVlRMGJzd0d5T3BPSGVwVEhTSw?oc=5",
+      "source": "Mindanao Times",
+      "sourceLabel": "Mindanao Times",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 23, 2026",
+      "rawDate": "2026-07-23T06:51:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.mindanaotimes.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1784774709185-n0wsi5",
       "title": "Police warn vs. 'quishing' or QR code scam",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1784516254696-y43hf5",
-      "title": "Sophos Report: Identity-based attacks overtake software flaws as leading ransomware entry point",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRVNqVmlvRGVSVjNiNnB2NDB6NWdIbDNuS1RZdk0xbXFTQUNDQXlaOUl6RlRjYkZ3RXJhYjFTOExjMkZwRVFoOGF0TUlXcmFJblNYY1hVUTV3Tl9kM3BjUEJBMi0ySmhKd20yV0tYQ1A1WktJRUhFNnlFLW1aa1A2blYyandfV2puRTlxb2U2RGxRWE96Q09sRXhjWU92MVg3eTB0d2FBREg3bnNYRUNwcG1CV1EtWkUtODFfb3F1a1A?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
+      "id": "alert-international-1784815183079-wqw9jl",
+      "title": "Pig Butchering Victims Must Prove Theft Under State Criminal Law",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnN3UjcxR2ZzelU3Nmp1dmdjN0NHeDBiSy10aUNmb1ZNOUl0NFJaU0JaUnFXd0h5M2lvX19zVVNUNTIwa3NPeXFpRVJJVk16Qm8zMXJwbV9obzR2WUdsZ25NVHhCUWt6LUJYazRMTEVESlc1TkIxYUZlWHkwSmRYbHoteWQxdlF5TlVDWUNvYnNHX1l5S2xWOFNxY0ItS01rTzlCZ04xRzRqamNvNDhGUUhFUEk?oc=5",
+      "source": "news.bloombergtax.com",
+      "sourceLabel": "news.bloombergtax.com",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "July 20, 2026",
-      "rawDate": "2026-07-20T01:27:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
-      "scope": "local"
+      "date": "July 23, 2026",
+      "rawDate": "2026-07-23T08:30:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1784601716186-o3sa1i",
@@ -321,20 +335,6 @@
       "date": "July 5, 2026",
       "rawDate": "2026-07-05T06:00:19.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1783048678428-u2gkvc",
-      "title": "Google disrupts NetNut proxy network used in malware operations",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXVETV9LX2tTaWpfLVBTcURPVXlnTi1vLUxYcnhqclRvQ3RJalpMdXBFSTROblplMXNGOU5VTDduMWNDeTk2cDMwcWNnYVA3TUVnTzRaU2ItazU4R0JYXzRabEx0LWJfNU9ndHhUSjVHU2dLYjRjLUJoc2JUeUJrVHY2MkZkRXpLQzBvX2NIbFJIUllaTHdyY21OLUxfclZ5b1J4aFViT0F6a2FnUW45Y2J1MHdfNzY4RmRB?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 2, 2026",
-      "rawDate": "2026-07-02T21:43:31.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     }
   ]

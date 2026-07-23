@@ -1,8 +1,8 @@
 {
-  "fetchedAt": "2026-07-22T13:53:46.549Z",
+  "fetchedAt": "2026-07-23T02:45:10.053Z",
   "alerts": [
     {
-      "id": "alert-local-1784728425805-htcphl",
+      "id": "alert-local-1784774709185-n0wsi5",
       "title": "Police warn vs. 'quishing' or QR code scam",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmpTZ0xEZTNNVkZGYVFJYUE4YXRfRTJvNDVSOWJaUDlXWkprWTJ6dGJvb0UxUXFERHBCYWM2TThPbUh1dnZiOGFEdXRZNzEwN0lWMDdCRWd5U2FDYkhhSzlIWk5PYUp2YkFqN3JEYmVNcm5LUzFsOVFKUndTSUhiMExlWlc3U2o2dUEtT1lUdnlXUjYtYTkxRmIxZ1dncmw3MkdRcUlVd3lZd0szYXNCSkdhSDRGempyWS1IVmw5UQ?oc=5",
       "source": "ABS-CBN",
@@ -10,9 +10,37 @@
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "July 22, 2026",
-      "rawDate": "2026-07-22T13:02:30.000Z",
+      "date": "July 23, 2026",
+      "rawDate": "2026-07-23T01:06:04.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1784774708711-0t845d",
+      "title": "PNP Cybercrime warns vs ‘quishing’",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yX19xNGRqZkQ1ZlVMVGpBRXpVSnBvNnZZaTNRR0tXMl9OQTNGbDBCQWIyS0pvdm96bG5wYUhrMzNLYk5UTFBfR2xHWXUwM0VidnI3NG9zblQwVDB2eE9PMzlYY3JkX0NwVmZDMDVLZ2dSd2pt?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 22, 2026",
+      "rawDate": "2026-07-22T17:35:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1784774708711-fw3hik",
+      "title": "PNP anti-cybercrime extremist recruitment",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtSnJkdS15VzRJVGlVODYzX20tTGdMZ2pFZ1haWHVIV3hPMEtudGRrZDNQR0pCaTZEN2UtWHA0VVJUbTNUMG1HODkwUERfUC1BUXF6VXBpZ3cybENtSVJmak5xWnJDVEdYYTdiamVzLVpDS0JqMFBoZ1hR?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 22, 2026",
+      "rawDate": "2026-07-22T15:23:41.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {
@@ -142,34 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1784467061087-0j5e6b",
-      "title": "Scammers using BOC name to trap victims in ‘love scam’",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTDFOd1p0MW9PRmh6dzE1aGhMS1JqOUpnbkpvdEhvMEZodU4xeHJta09GYy1jX0VKcWtITm9HX3F1dWltVjBBNXBTQXZTZHp4MS1qa2tIVHhvZ1ZnQi0xUWhpbHpaT1hJak5lSkhTSXJ1S25yc3l4NzZCS3BOZVR5MC00VWtLT2hBMGFSNdIBmgFBVV95cUxNLTg4RW9TT3IxcjZFUEtENjJjZmdacDBCSl83R0Fqb2pyUm9uZHlQSGlBUm55Vlc5aU5EYVRrNXVjU1NhWDJVajNxWXBvcVY0Y3JkaldtRG80Ni05eTdnZHR4UUM3R04wSjhmdEFyZFV1dGdMb0xGY0w0VXdtVGhISE5jTXh1YWR3ZE9BeTROVG90MDJSNHpiZDl3?oc=5",
-      "source": "SunStar Publishing Inc.",
-      "sourceLabel": "SunStar Publishing Inc.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 19, 2026",
-      "rawDate": "2026-07-19T12:33:51.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784123028552-sbxqu8",
-      "title": "Where to Report Smishing and Text Scams in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3ppb1pISTgxQ2oxa3FZMG5ubDA0bzZKR2FXTnE0VTk0VzE0ZDR0YXVZWTRweTRBU0NGWTJ5eHd1MGpfb29kb0dURWFzaUUtRW5BNTZOOVFUUHpBX09vZ01hVUl0Tl91emYtZmxEc2JBTnFZQ0lxdTdSTVk2dVpIVzBzaWlNZEJSU3Ffd0s0bFZCZlExQTZWRnNJSXJHdw?oc=5",
-      "source": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLabel": "RESPICIO &amp; CO. LAW FIRM",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 14, 2026",
-      "rawDate": "2026-07-14T12:49:36.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-1784601716186-o3sa1i",
       "title": "India markets regulator penalises depository over 2022 malware attack",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTVrTTlOMFduamtVazh4UGk5Ym9NTUJaMVVXcHIxNGE0YkcwNGpReWlCc2VweWlVQXNYZzFMNmJVdllYOW5ESHBWOUhMRElveWIxNmVGVEdGaU4yQU5nVGhWYlZxdkJKZXVqWWZiQV9HQlVsOFZJNU1GbC1na2hYalh4bWlOYXctNzNtWUMybkFJZUFad2R6TmJqMFYtQlJNbE5IdTJ5LUNSbFc2WmRjM0NoNktYR0pBTTUtOUJtYw?oc=5",
@@ -254,6 +254,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-1784774709278-lzdfeh",
+      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeV9uZWhJOEpwd2FoWHNGS2RtUXJKbUdPRzY0LThoeHhHZjRXcFpSNHU0OTZvdWI4VzZmVnNtRkY0TG5ROFprMXJvZTBLZU1oeURZTkpHUmI4NF9lOE84bldfMDBENC00aUl3dzgzSzNyUFlEZkF6cVVOWnRUeFBqM2M0djNxYV9DazY0TlVsbFBkbndtUW51eFpNVDVOTU5nMmNRTThXUlM0MW1YT3NfRFNBdU1vaVlyam1NM2kxZw?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 10, 2026",
+      "rawDate": "2026-07-10T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1783519664502-k484j5",
       "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
       "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
@@ -321,20 +335,6 @@
       "date": "July 2, 2026",
       "rawDate": "2026-07-02T21:43:31.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1782829201216-kaov1",
-      "title": "‘Am I losing this battle? Yes’: Martin Lewis on the online scams that steal his identity – and others’ life savings",
-      "url": "https://www.theguardian.com/money/2026/jun/30/martin-lewis-finance-expert-interview-online-scams-stolen-identity-life-savings",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "June 30, 2026",
-      "rawDate": "2026-06-30T04:00:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

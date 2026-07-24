@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-07-24T02:41:03.648Z",
+  "fetchedAt": "2026-07-24T13:45:30.437Z",
   "alerts": [
+    {
+      "id": "alert-local-1784900728934-sikmlf",
+      "title": "PNP, DICT, DTI eye crackdown vs fake QR codes",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqajA3NDZENmg4WFRTbGc3cXBGNTZOc0xnU0NxNmhDZmRBTnVzLXRvbUJ6ZVNtWWRBN3FTdkpJaXJaMXZpVjdFdU40MjEwcjFN?oc=5",
+      "source": "pna.gov.ph",
+      "sourceLabel": "pna.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 24, 2026",
+      "rawDate": "2026-07-24T05:44:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1784900728933-gs86xh",
+      "title": "PNP to intensify crackdown on fake QR code scams",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNFNLZTd2TGhEQlF4WDh0RTJ0UHRsMmFLR0VsQzROVEQ2Q0RyQ0xJVmpTNlRIMWtfcE5fc2xpYWFHLS1MNmdqb0diUEhnZTlLaWlySlR6WnptNFo1WTQyME5oUlJEcHFsa1BOUkJLMWlOWWhVT1dvcDQ2am1WYVllNHJsX2hCM3hfMFE?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 24, 2026",
+      "rawDate": "2026-07-24T04:54:52.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1784900728934-pl189",
+      "title": "PNP warns vs fake QR code scams stealing money, personal data",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWRnMzBkTzNieDd1MFBsMWQxUE94Nkt6bmYwa1NQcW1OWW1CLUxUM2oxUGhzUDJzaUdyZWozQ1VRYVctZzRfcTZFbzNPTlBUMnNDTzdLRXJYWHJEcUJhdTV6SDNPUEpCRmVzbFZvaGNQcjdIMXlEdU9aVTdYWTUwUnNWWExiMng3UWh6b1NDVnQ1VTFzOEpJS2Rn0gGnAUFVX3lxTE5wOGlrdVZ1RjN5em5VZlRMbkZpV1RnUHVGOEVkc0xNd014SUxMV0twMGlVVFFhY0l6VHpVUFFFclhEZHZvQjUwY1BCbm1TQXpyd1g2Z24xZlNxLVFJY2tvNVpXWV9fd3N1dnZwX3BRMlp2aTlXNGZLS0Z5RWtKdlo2TTBkaUNlVnZhekp0N253ajR0TW9DYVFJTFlYckZiNkxfOVk2WkR3?oc=5",
+      "source": "SunStar Publishing Inc.",
+      "sourceLabel": "SunStar Publishing Inc.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 24, 2026",
+      "rawDate": "2026-07-24T04:25:35.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1784860862323-se2wf",
       "title": "free slots to play for free for Android - Search on Google Play",
@@ -13,6 +55,20 @@
       "date": "July 23, 2026",
       "rawDate": "2026-07-23T07:24:40.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1784900728936-tajwea",
+      "title": "67 Phishing Jobs in Central Visayas: Latest Phishing Jobs Vacancies in Central Visayas 24 July 2026",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zb2Nqd1hKdlppMTRnakpsX3RYcldOVV80Q3RzT2M3N08zRmV0NEhpcWxKRFBYb1pMOFM2ZEplSnNBemQtWUE0ODBlclotN2g2aTQybGxnRW1PX0x0LWRmamZCd2E3OWRHRDNybENHX3JfVGhK?oc=5",
+      "source": "foundit.com.ph",
+      "sourceLabel": "foundit.com.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 23, 2026",
+      "rawDate": "2026-07-23T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.foundit.com.ph.ico",
       "scope": "local"
     },
     {
@@ -111,62 +167,6 @@
       "date": "July 22, 2026",
       "rawDate": "2026-07-22T08:18:30.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784687983145-wha47p",
-      "title": "Government anti-cybercrime unit eyes P1.5 billion budget for 2027",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRFJyZUV4R2N1X2lCQkJGaHhJeWEzaDBQNmN5dHhuSDBERW1meXRTd1V2UVVDaWZTeHlvSVNrLXJScUJMZlhBTklrN1MzNkdZbnhXQmR5dTVrb2c5OXg5WDFyVkhNZnpxSnBWVWRtTU9sZmEyaFg0MDFIRFlSbTlkNzVNSmZFZDVUb2FGM0xmMXI5RHU1d0ZJdWdlWmhjdDV4RVZKSkdRWGV3b3IzbnQxY1VHRdIBugFBVV95cUxNQ0dNQ1ZTc3BQTWlMbURIRTZMVDByT3U2WlU5b2dGTm9EVGo4YnRBQUdJUFlSZldRLWNEeDRoNUxlWDRJWUdncXZzSGQ5dUZmQklaSVl6OFhoSHhoTDBPd2FDZmVZalF4Y0JuT2poLUhKU1pTWmt4UGNNa0R2dTVGZWtWSzIyMmN6ZjlKUnBjYk5HM3J5cFJVOHVaODRLblRlVWJCQ3FuaDJQdWpFZjdPOUZDd1ZINEs2M1E?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 21, 2026",
-      "rawDate": "2026-07-21T16:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784641814630-jt4y4c",
-      "title": "Crime gangs snare up to $114 billion in scams in Asia-Pacific, UN says",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2lZVlA2REJhN0tOTW12WUR0cU5YZzZLcDlhX0NPYW8zM0lJUFAtX1gyRVNKdUMwaVhyT0RGbjdXYm8wbF9EX3NxbkQ5eDZIOER1NkxYTC1XLUZnSncxLWJob1ppSHZkYVZOLVN3ZG5SMVBtUmxVRFMxVEctOV9MOFFuR0huZi1aT3lKSFhUb0VnQUpDMWJDU1BNeVNWSW9ZeTkteFRqU0ZHcldyMGswVE94SmJzMVFnb1JtT2xVa3o5eTZrQXNGX0I4MNIB0AFBVV95cUxPcjhMcFRuMngyRjJZV1FhRm5wVWZpUWFBYzRTNmpBUmg1YUstd29JRG9fOHg4eXdVMXpDNURRUDladFUwVlFQWGV1SXp3TXZYZFBhbDZqZnJoaTVua1FvTXREeDJ3OU1ieXNpZlZWUXhlVXB2SW5paHFOZlF0SmNJQUxzWVlGWnFGSmR2V1dXOHVDUlUyd3pTT3NmUDFZZXpFSmlmb1puc3BwWHp6c25qV1h5X3JHY19rWGh4UnZsNG9hUWZvMVB1akpUWk9oY1lk?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 21, 2026",
-      "rawDate": "2026-07-21T11:37:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784641814445-gb5y1b",
-      "title": "PNP Heightens Cybersecurity Ahead of Marcos’ Fifth SONA to Counter Attacks, Misinformation and Online Scams",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ0tQVUU4aHd4X1hsRUJkX2kydHRYVjBaNDQ0bkFiY2xzZEIyWmJkem9WdmtfM08zckhHbTZmRE92ZHZ5MTY4eV9rc3ZzX0kwSldKTEJMa0RXeHdmbWZSQ2dsaXRWLWkwY3J5dlR1YTR0cVRIcWNRb1RFOWllNzRPdlppaFZZTmNXMnJn?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 21, 2026",
-      "rawDate": "2026-07-21T06:21:50.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784641814988-887spn",
-      "title": "NBI: 4 nabbed for selling pre-registered SIM cards, online scam",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTnE0YmhVV0pJdFRkUjN2N2k3amRkVEVUNHpxUjNNZV95amoyZjRjd1JOTlZFaW1NREE4NUJ2VWM4YmhCR013ZHBxakFmZmgwMl90YTJtVVJSQzBtR1FMWGk3NFY2eTdzX0pOdk0zMDA0c1RNMnBMZVZBd1oteXJYYlFiS1Z5bWRKQndfeHNabncwZlI2LVVranZLRFV0YmlO0gGmAUFVX3lxTE9xbUo0bXVFbWlGOGl5Y2JneUpkTFRYdF9FTW9fS19UdXNNQjVPUTF0a20tREl0Q18yS1VwTkE1Z25PbUpoZDU3WWJuRDRHMUJhQjcwUTlCQXZjQ3YxVVB4czAwaVA2eEppcDl4S1IwUkZTUWpMOEpZSUtaNm1vYS1oOHdSUHV0MkR0bjZkLVV0bVF0T1Zrd1JaV3FKMTVld2FDYl9zX0E?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 21, 2026",
-      "rawDate": "2026-07-21T05:43:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-23T13:59:43.717Z",
+  "fetchedAt": "2026-07-24T02:41:03.648Z",
   "alerts": [
+    {
+      "id": "alert-local-1784860862323-se2wf",
+      "title": "free slots to play for free for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LVks4N1hvT1RvdDJNMkNjZDhiNDVfV1R5b2Fna2RnM0dQbXB3VWIwdWFKWEVTVUQ3Sk1NNktlWjU1d1daeUFUWkNCN0NwQ0E2enFtZTJtZkJ3YWJhLUtrR043eWI3SGpHclhoaA?oc=5",
+      "source": "mis.umin.edu.ph",
+      "sourceLabel": "mis.umin.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 23, 2026",
+      "rawDate": "2026-07-23T07:24:40.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1784815182627-sawqmc",
       "title": "From 16,619 phishing attacks to AI-driven fraud: cyber threats intensify across the Philippines in H1 2026",
@@ -153,20 +167,6 @@
       "date": "July 21, 2026",
       "rawDate": "2026-07-21T05:43:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784601716002-jiwyeg",
-      "title": "Next-gen finance app aims to protect you from scams",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORzdXWkt0NmY0amZlX1Y2TEJaZ20wRFhtSU1uaEJqMmdLYS00SWhpd29YYW0xUFlteUUwR2xSV0Ztb2xIZDJlZndGeTQ3eE9tRm5PTXlTSFhWOHk5MmpyX0xqMU8ydC0wMS1ZMzFOOXlZaVBIcFJ5VkIyN2RyUGRtMG5IaDhjNnRPajRtUXdZNmdTdGlyLUE1VEdhMUlDY1gtUGNRWFo5dw?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 20, 2026",
-      "rawDate": "2026-07-20T07:32:04.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {

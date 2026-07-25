@@ -1,18 +1,32 @@
 {
-  "fetchedAt": "2026-07-24T13:45:30.437Z",
+  "fetchedAt": "2026-07-25T02:38:47.656Z",
   "alerts": [
     {
-      "id": "alert-local-1784900728934-sikmlf",
-      "title": "PNP, DICT, DTI eye crackdown vs fake QR codes",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqajA3NDZENmg4WFRTbGc3cXBGNTZOc0xnU0NxNmhDZmRBTnVzLXRvbUJ6ZVNtWWRBN3FTdkpJaXJaMXZpVjdFdU40MjEwcjFN?oc=5",
-      "source": "pna.gov.ph",
-      "sourceLabel": "pna.gov.ph",
+      "id": "alert-local-1784947126380-vl924j",
+      "title": "PNP intensifies fight vs QR ‘phishing’",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMkhiMGFVTlZCakxhOXZyLXhYNS1VRVNMR19pcVUxWVpGdFhkNl9QU1BJajNuOS1PSXYzZWxHUjE2cGh2TnM5SF9ZNmt2NHVJb3Rtck13Y3dLSkxYYXVSdVFEblUwQ2ZPY2tRUGQ4dlBEUlFjMDB2UU1n?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
       "date": "July 24, 2026",
-      "rawDate": "2026-07-24T05:44:51.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
+      "rawDate": "2026-07-24T15:42:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1784947126381-w5b6kt",
+      "title": "PNP, DICT, DTI eye crackdown vs fake QR codes",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGc2bEJxSTd0M3FMWm16bGpMOUQ1anpfaGZkaHZXUDVjM0RWdU1zWl8xOFBWRDRGc3hPTU1VTWY2b21ZNjI1ZVBQOVU3ZERKNHlPcVc0dm5FSEFpZWtrb3BYd1VqNXZpTUowX0tQMkswNHV1UTJjSFNCT2x0ZG5xVWpPV3Z3U0FZcXdER2xKNTbSAZABQVVfeXFMUDhnNmxCcUk3dDNxTFptemxqTDlENWp6X2hmZGh2V1A1YzNEVnVNc1pfMThQVkQ0RnN4T01NVU1mNm9tWTYyNWVQUDlVN2RESjR5T3FXNHZuRUhBaWVra29wWHdVajV2aU1KMF9LUDJLMDR1dVEyY0hTQk9sdGRucVVqT1d2d1NBWXF3REdsSjU2?oc=5",
+      "source": "SunStar Publishing Inc.",
+      "sourceLabel": "SunStar Publishing Inc.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 24, 2026",
+      "rawDate": "2026-07-24T08:19:03.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
       "scope": "local"
     },
     {
@@ -152,20 +166,6 @@
       "severity": "medium",
       "date": "July 22, 2026",
       "rawDate": "2026-07-22T09:53:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784728425424-ni9xtp",
-      "title": "PNP Warns Public Against QR Code Phishing Scams as Cyber Watch Tightens Ahead Marcos’ SONA",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM04tcnNLUWRGZDRCU3lmdVZwc3FjOTl3WEVkbkVxWEx6bzBZQ18wNWlWYk1vak1SWlRQdUV1YktDeEJfRkxtdk1MeUtBNGVCSVNGYWxKd1dKTmZPR3BrLWltWXNkQUx6ZEE2STg5SU5Ea3E2by16cXJUbXB4RmhnRUZB?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 22, 2026",
-      "rawDate": "2026-07-22T08:18:30.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },

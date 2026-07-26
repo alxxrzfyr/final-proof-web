@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-25T02:38:47.656Z",
+  "fetchedAt": "2026-07-26T13:22:11.642Z",
   "alerts": [
     {
       "id": "alert-local-1784947126380-vl924j",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1785072130309-yqjtvo",
+      "title": "‘I never thought I’d fall for a scam’: the fake Spotify emails that put you at risk of fraud",
+      "url": "https://www.theguardian.com/money/2026/jul/26/spotify-scam-fake-emails-fraud",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 26, 2026",
+      "rawDate": "2026-07-26T06:00:03.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1784815183079-wqw9jl",
       "title": "Pig Butchering Victims Must Prove Theft Under State Criminal Law",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnN3UjcxR2ZzelU3Nmp1dmdjN0NHeDBiSy10aUNmb1ZNOUl0NFJaU0JaUnFXd0h5M2lvX19zVVNUNTIwa3NPeXFpRVJJVk16Qm8zMXJwbV9obzR2WUdsZ25NVHhCUWt6LUJYazRMTEVESlc1TkIxYUZlWHkwSmRYbHoteWQxdlF5TlVDWUNvYnNHX1l5S2xWOFNxY0ItS01rTzlCZ04xRzRqamNvNDhGUUhFUEk?oc=5",
@@ -321,20 +335,6 @@
       "date": "July 6, 2026",
       "rawDate": "2026-07-06T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1783258790281-u0vht8",
-      "title": "Not cool: the air conditioning scams offering fake deals in the heatwave",
-      "url": "https://www.theguardian.com/money/2026/jul/05/air-conditioning-scams-fake-deals-heatwave-aldi",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 5, 2026",
-      "rawDate": "2026-07-05T06:00:19.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

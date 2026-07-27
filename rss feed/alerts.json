@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-26T13:22:11.642Z",
+  "fetchedAt": "2026-07-27T14:34:12.217Z",
   "alerts": [
+    {
+      "id": "alert-local-1785162850745-aq0cch",
+      "title": "Deped-Davao warns personnel vs scam using high-ranking execs’ names",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3RRRFRHTGFuZ2RGTHVSXzNvTTQwMWFubjhKRGV5RDA0NG5mNk1qRUN2aEVWT29DdHoycW41SjRTM1dra0JQWmVBZXVuMnI1dHd2ZEpRNFJBaEE1ZlczajRGd2YzR3g5cVo3RWZqSHJaMnNvQk40WHhOd1dvbFdXU0J1TTFVQ0RSdWF5dl9PRG1UbVl6cHZQUWdHbmhNaDlP0gGuAUFVX3lxTE8yQUZoRXBIdlN5M29HRk90SzYyMEpMeVRfUklkTHNhcmZoYkNxblZ4S0xQSkRVT3phaFJiUmtwaXdzVTl4b0JpbnhILU5UQ2FqNFFHS0dzSEFObHdRRW1mRkZyY1FlRkRFdkxzcm5xd0dadTBtUEl3NnFZa3o2TUxCR2NTcWs4eGVfQzduWkszN1RIeV9fblNISkt0TkZpRWdXVkxmX0c0MnpKZXd6QQ?oc=5",
+      "source": "SunStar Publishing Inc.",
+      "sourceLabel": "SunStar Publishing Inc.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 27, 2026",
+      "rawDate": "2026-07-27T13:19:20.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1784947126380-vl924j",
       "title": "PNP intensifies fight vs QR ‘phishing’",
@@ -153,20 +167,6 @@
       "date": "July 22, 2026",
       "rawDate": "2026-07-22T10:14:47.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784728425425-zu89mn",
-      "title": "DTI Gathers Over 200 Exporters at Bagong Pilipinas National Exporters' Fair 2026 to Boost Philippine Trade",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGV6NlhZX0I4eWFiTEdaYW9ubFhSck40R0UyRC0wRVpCWHFvenJkNFVzRkFhZE1DaVVGdzRfSzBmb21jNjEwUmk0UXNYUjgyYmNfTlh3X1JIaGxESW03amZYQ0NmS2xxT2kyZjRYX0Nvendyd205VG1kaWZKTHkyY2ZjNlM2UjZRTFlXOE1FdEdNUzVpRHZjdw?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 22, 2026",
-      "rawDate": "2026-07-22T09:53:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {

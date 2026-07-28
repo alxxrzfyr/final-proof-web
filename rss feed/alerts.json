@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-27T14:34:12.217Z",
+  "fetchedAt": "2026-07-28T02:32:52.200Z",
   "alerts": [
     {
       "id": "alert-local-1785162850745-aq0cch",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1785205971229-w5sdt9",
+      "title": "Coca-Cola resumes Fairlife milk production after hackers shut down plants",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmFxOW1XMnBKaWNjdlFUTy01ZkFoa1AzcFNKRHF3M0NKa3FzR1JqMy1KMVVJZ3VOMjZlYTROVHBCUXVYblRPb25aT21rYURmTGpaMGZOME1IOVBLZDBPRnVNdnZySFhYRFhpN1l0eHlhM1lmWjZxWlBkRDd3YmJBSUNMaTFSOUxnOHc?oc=5",
+      "source": "CBS News",
+      "sourceLabel": "CBS News",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 27, 2026",
+      "rawDate": "2026-07-27T14:39:03.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1785072130309-yqjtvo",
       "title": "‘I never thought I’d fall for a scam’: the fake Spotify emails that put you at risk of fraud",
       "url": "https://www.theguardian.com/money/2026/jul/26/spotify-scam-fake-emails-fraud",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "July 6, 2026",
       "rawDate": "2026-07-06T23:56:14.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1784687982652-x4sr8e",
-      "title": "Canadian spy agency says it hacked drug traffickers, extremists, and a ransomware gang last year",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWXhQaThKOWVFdktWUllmV1RDOUNoVXBGaHJoQkR0bU03em5aeGZDMFlXcFBKVkQtSjY0NVZpenJNeTFvZ0c4Y0M2ZmZJUlZEcTVvRG1lSmdFVllId0dDb3RjbEZmb3p1YU5UZ1Bkb1phcmRkWHh1dHZEQlVVLWNRWVlxb2hhOEZ5XzRaRTJoWDRQTFNWNzhhM1JfOFAtUDF3THNYdGpLcUN0c2R1OFZtNmc5VjNVTHVVSDliS3RjdkJhblZTTXoxcA?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 6, 2026",
-      "rawDate": "2026-07-06T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
       "scope": "international"
     }

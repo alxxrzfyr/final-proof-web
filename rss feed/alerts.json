@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-28T02:32:52.200Z",
+  "fetchedAt": "2026-07-28T14:06:43.467Z",
   "alerts": [
+    {
+      "id": "alert-local-1785247602320-ep99aj",
+      "title": "promo for limited slots only for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QVzRid19oaUFJMGNnaU1DczhMVmJjTVhfVDV0elVBWkFUbGRRdHBEckoyUzJGbExTQzVvWEhEV0cySy0xUVVWN2VNR3I0Z3VWRFdmSzlIWGNiNlZxcWwyZVVpdVBoa0EwbGNjNXF3?oc=5",
+      "source": "mis.umin.edu.ph",
+      "sourceLabel": "mis.umin.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 28, 2026",
+      "rawDate": "2026-07-28T01:58:03.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1785162850745-aq0cch",
       "title": "Deped-Davao warns personnel vs scam using high-ranking execs’ names",
@@ -153,20 +167,6 @@
       "date": "July 22, 2026",
       "rawDate": "2026-07-22T15:23:41.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784728425424-zwjraf",
-      "title": "PNP warns public vs. QR code phishing, other scams",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnWHFRSS04dWRoOVg1b213eEpEWHRjRVE2N0k2QWFoRWVEbG5OalQ4b0o5M3daOHlJdmVZUkdvYTlGSmR3cUxYSElNWlBSOGZE?oc=5",
-      "source": "pna.gov.ph",
-      "sourceLabel": "pna.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 22, 2026",
-      "rawDate": "2026-07-22T10:14:47.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-07-28T14:06:43.467Z",
+  "fetchedAt": "2026-07-30T14:01:33.827Z",
   "alerts": [
+    {
+      "id": "alert-local-1785420092491-5vkm0a",
+      "title": "Woman in ₱3.7‑M crypto scam handed to police",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0ZEYmxmTFlrY1FFbW0yUGlCcjBVSlNJY0lqLWhjblFVTTRVZExISERQRDN5X1I5bWdBeFV0cFhLa0k5dXhQQ2JFeThiblI3aHRVTHFSZzdrc2EzaFA1bnRrLTdQbExaWTA5Y1BzTGRGaFBUUTBQMVV6dXlFbkJPQVVRUG9WNFA4V00zNFhOekpLTFlxZ3k5VjJqb0s?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 30, 2026",
+      "rawDate": "2026-07-30T07:42:39.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tempo.mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1785420092491-qhbp1",
+      "title": "Citizen’s arrest: Woman in ₱3.7‑M crypto scam handed to police",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmVoVXVyQnhHNmdWTjlEdThFWjZzZ29LLUxycXBCb0YwSWdjNWdhRG5LZDF3UTFfZHQ5amVzYjVkZm44eHMxQWp6N3RMOGwwemZvV0FSN0gyb2FOa1UzOXJCY3FCdWpZWEZIbXU4MGdEVHpxR09UUFF5MGR0ODJDQ2dqVVFRZTdDR0hwSUFkVQ?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 30, 2026",
+      "rawDate": "2026-07-30T07:06:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1785420093118-pj1bim",
+      "title": "Beyond OTPs: Salmon app’s industry-leading security features are designed to stop fraud before it happens",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdkc5Sk4xaHNMT2hVbk1LTTlNODlyRGxHVHR0azh1ZTV2YkZoMEJxZktKYTM3WlFlS21PYUt5dmh2YVRMaV9TdnlUNk5HMlZmUkZQWDU3bFNrM2I2UHJDMnh6RFFObUN5bi05enFFVFNDZFZtY3hRZGF2d0h6VHczcDl0eDlHWnFEdktuSTJWZ3RNRUhtekR1SXpzclZrUnlsbURkUXY1YURabWNSREJUT1c3SElMSkt3OERXaDBrZTZnVlBXUFVWQWNad0lYdlh1eGd4QmVZZDJqd9IB3wFBVV95cUxNeU5SS3NSbWpnOU9WcFdmRmdnallHWWRCSHJaZUhLbEUyMXNWczdiZWx0Q1hibGY1MkViVGttNUhtNi1FbE43aFRHbFhrMndEYmJYVEpKUXJzcmVvdEQyS2RuS0J0UFh2MGZSaUVPUTBPd0I0UDd3cERKd3Rad1hPTlBqazE2UEplRlZRUU1OdHJORUFCa1lUbjZUTHFENGdUQWgySmoxVDdMRF9LWGRjdGhJdUNRMW13RElOVmwtTHFxTVVqXzNidENtNjlrWm9feFJqcW5DQjdOOEc5UWF3?oc=5",
+      "source": "Inquirer Technology",
+      "sourceLabel": "Inquirer Technology",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 30, 2026",
+      "rawDate": "2026-07-30T06:49:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/technology.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1785247602320-ep99aj",
       "title": "promo for limited slots only for Android - Search on Google Play",
@@ -125,48 +167,6 @@
       "date": "July 23, 2026",
       "rawDate": "2026-07-23T06:51:42.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.mindanaotimes.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784774709185-n0wsi5",
-      "title": "Police warn vs. 'quishing' or QR code scam",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZmpTZ0xEZTNNVkZGYVFJYUE4YXRfRTJvNDVSOWJaUDlXWkprWTJ6dGJvb0UxUXFERHBCYWM2TThPbUh1dnZiOGFEdXRZNzEwN0lWMDdCRWd5U2FDYkhhSzlIWk5PYUp2YkFqN3JEYmVNcm5LUzFsOVFKUndTSUhiMExlWlc3U2o2dUEtT1lUdnlXUjYtYTkxRmIxZ1dncmw3MkdRcUlVd3lZd0szYXNCSkdhSDRGempyWS1IVmw5UQ?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 23, 2026",
-      "rawDate": "2026-07-23T01:06:04.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784774708711-0t845d",
-      "title": "PNP Cybercrime warns vs ‘quishing’",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yX19xNGRqZkQ1ZlVMVGpBRXpVSnBvNnZZaTNRR0tXMl9OQTNGbDBCQWIyS0pvdm96bG5wYUhrMzNLYk5UTFBfR2xHWXUwM0VidnI3NG9zblQwVDB2eE9PMzlYY3JkX0NwVmZDMDVLZ2dSd2pt?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 22, 2026",
-      "rawDate": "2026-07-22T17:35:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784774708711-fw3hik",
-      "title": "PNP anti-cybercrime extremist recruitment",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtSnJkdS15VzRJVGlVODYzX20tTGdMZ2pFZ1haWHVIV3hPMEtudGRrZDNQR0pCaTZEN2UtWHA0VVJUbTNUMG1HODkwUERfUC1BUXF6VXBpZ3cybENtSVJmak5xWnJDVEdYYTdiamVzLVpDS0JqMFBoZ1hR?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 22, 2026",
-      "rawDate": "2026-07-22T15:23:41.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {

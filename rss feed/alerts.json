@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-31T02:49:42.064Z",
+  "fetchedAt": "2026-07-31T14:06:25.152Z",
   "alerts": [
     {
       "id": "alert-local-1785420092491-5vkm0a",
@@ -69,6 +69,20 @@
       "date": "July 27, 2026",
       "rawDate": "2026-07-27T13:19:20.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1785506784342-kpedap",
+      "title": "Cayetano on ‘ghost’ project word war with Lacson: ‘Haharapin namin’",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWGhJM0hjbnI5aEo1NGQ3QnR5d0c2M0lFOHZ6MlFCRmVtZWZDdHRFWlE0NEh3SXdyeERGZnFtR2tkVmFKZUhvNDB0SGxwQnpHVDlMRmQxRGVsSmo4SWJla3N0UDNxOEl4MEtBSmN5UF9TUVNUcnRxT3FiUDBhNHpiYm1kOGZaVS1ONVB3UURVVnkwZ0RMeDcwbDJuZHJjWEtsSXJn?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 27, 2026",
+      "rawDate": "2026-07-27T05:09:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "July 23, 2026",
       "rawDate": "2026-07-23T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.foundit.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784815182627-sawqmc",
-      "title": "From 16,619 phishing attacks to AI-driven fraud: cyber threats intensify across the Philippines in H1 2026",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR0FIQVlSbEpEbDhpdHEtUkFjZHJ1Z0hPU1VEZm1ZNGprMV9yVWxXa3Rqc3pycUtMeDZxaXlLUUxuRENIOHdmSE5teE9jeGRXWGhEbDRtYW9RY3FxWmk0M05yV3lzTWMyalpqREFfTXJ3VVhodV9Hd3BuNDJnN29rVEUtS2h1R1hzSlZOZ1hrbUQ3UXc5S1A3am1XSE1zMTdpZHN5NHVqa3FlTVhkSWFKUVNDNWRSTUZjUTFNWDhvM2s0aVlRMGJzd0d5T3BPSGVwVEhTSw?oc=5",
-      "source": "Mindanao Times",
-      "sourceLabel": "Mindanao Times",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 23, 2026",
-      "rawDate": "2026-07-23T06:51:42.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.mindanaotimes.com.ph.ico",
       "scope": "local"
     },
     {

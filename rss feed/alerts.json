@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-07-30T14:01:33.827Z",
+  "fetchedAt": "2026-07-31T02:49:42.064Z",
   "alerts": [
     {
       "id": "alert-local-1785420092491-5vkm0a",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1785466180939-c6z4jj",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 30, 2026",
+      "rawDate": "2026-07-30T16:49:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1785205971229-w5sdt9",
       "title": "Coca-Cola resumes Fairlife milk production after hackers shut down plants",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmFxOW1XMnBKaWNjdlFUTy01ZkFoa1AzcFNKRHF3M0NKa3FzR1JqMy1KMVVJZ3VOMjZlYTROVHBCUXVYblRPb25aT21rYURmTGpaMGZOME1IOVBLZDBPRnVNdnZySFhYRFhpN1l0eHlhM1lmWjZxWlBkRDd3YmJBSUNMaTFSOUxnOHc?oc=5",
@@ -321,20 +335,6 @@
       "date": "July 8, 2026",
       "rawDate": "2026-07-08T12:31:39.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1783434863026-ctin78",
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkoyRWhJY1VJcVNVTkM3TkhJc2tPc0g0b284ZjZTemtZR0hrOTZhdjJBQjdZOFZQR0RhaXZKWlB1YldJTmZuanNoUDRyQk5DSGE5N0Z5Wlc3MmVQUm1CWmtXYWcwQVVyZmY4OFRuanB3blRCakhUQlUycWdfSl9lZ210UkRCVmhSNHFGRkgxWDlrRnZK?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 6, 2026",
-      "rawDate": "2026-07-06T23:56:14.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
       "scope": "international"
     }
   ]

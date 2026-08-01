@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T02:48:04.355Z",
+  "fetchedAt": "2026-08-01T13:20:53.177Z",
   "alerts": [
     {
       "id": "alert-local-1785552483199-zbsmcl",
@@ -100,6 +100,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1785590452115-k3r2o6",
+      "title": "It's Showtime: GV Sabado",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWdqeUV1YnpQdExFNHR6WVpsc1lrcElfNmFJVWx4Q2s1d3V4TUZJSTlSbmZOS2xjTGtnRlBjYm1NQzRTWnlfZS1QZU53dHE4QVV4c1c4ZkVPdXQ5bTJiVDBEcDVkUmpSOWptdzVLWjJ3MDdnWkR6bEFsMkNMbGtSR2kxeUpXVEYza0lZ0gGQAUFVX3lxTE4tTmNsSkFZX1Nsek03RnNLM3FGbWgtQXJLdnVSN2RvMnYwREdlblVRZnVieFVyalUwT3ZJU0ZlX2Ftb0F6NXZTNWJWdzV3TjdaU3gtUWdFRDNTZ0VnR1VKUlpvNTl2RjBhalhDeGpyMHB1UzRFZEFWTEVjbEdHZk5LMHhDNW5zOU4zdFNxREZSUg?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 25, 2026",
+      "rawDate": "2026-07-25T03:22:14.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1784947126380-vl924j",
       "title": "PNP intensifies fight vs QR ‘phishing’",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMkhiMGFVTlZCakxhOXZyLXhYNS1VRVNMR19pcVUxWVpGdFhkNl9QU1BJajNuOS1PSXYzZWxHUjE2cGh2TnM5SF9ZNmt2NHVJb3Rtck13Y3dLSkxYYXVSdVFEblUwQ2ZPY2tRUGQ4dlBEUlFjMDB2UU1n?oc=5",
@@ -153,20 +167,6 @@
       "date": "July 24, 2026",
       "rawDate": "2026-07-24T04:25:35.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784860862323-se2wf",
-      "title": "free slots to play for free for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LVks4N1hvT1RvdDJNMkNjZDhiNDVfV1R5b2Fna2RnM0dQbXB3VWIwdWFKWEVTVUQ3Sk1NNktlWjU1d1daeUFUWkNCN0NwQ0E2enFtZTJtZkJ3YWJhLUtrR043eWI3SGpHclhoaA?oc=5",
-      "source": "mis.umin.edu.ph",
-      "sourceLabel": "mis.umin.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 23, 2026",
-      "rawDate": "2026-07-23T07:24:40.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-07-31T14:06:25.152Z",
+  "fetchedAt": "2026-08-01T02:48:04.355Z",
   "alerts": [
+    {
+      "id": "alert-local-1785552483199-zbsmcl",
+      "title": "Doctor lured into interacting with assistant's dummy profile in 'love scam'",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU3FtbWJQMjBGR0p1R1B6T1VoUnQ2MEtGT2ZEZWxaVmdmQmJIRC1qcGxYb093TE9ua2RNQ0M0YTMwZWhrVlFWRm9ZSVNLbFJNS1JDOThTaTd0bEtiaGtvcUJPLWZwNDJUbTZYWjZEbll5dTBXSTZjdWQtVWdHZ2ZHSnFOaWVld0oxb1dodVBYbDMtUFJVM294NnNJUXRKYzNqN2xDUHM1eW1td2JaUlgwY3FQeW4tVFYwTjRzY2hEam1jMkNTZWpDdjZRN28wcmhGM3fSAdcBQVVfeXFMTnhZcHZfeExEZFFyRW04aTlSY21JRmNwd2tkN1BwR012dGxiUktHeXhCS1NGR1VWcmhuUkxlNXFHQ2JQYW83eUxRaEVSNjVSR3Y4TUh4QmVQQ2Z6QmNSMFZXYkFYdjQ0ZHRmYU9IQUdsTk5YOU9STFN2RTVPR2Zkck54bXlGcXNGdTNGOUFsWmNIWnFpTDhuMVhCeElERGFKUWViSTN0ZGMtQURtNkVSSlMzUmlUVUJWSHVsaE5kd3V6R251TjkwZGRISzcxRWJzZEotZFJjdHc?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 31, 2026",
+      "rawDate": "2026-07-31T18:33:50.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1785420092491-5vkm0a",
       "title": "Woman in ₱3.7‑M crypto scam handed to police",
@@ -156,20 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1784900728936-tajwea",
-      "title": "67 Phishing Jobs in Central Visayas: Latest Phishing Jobs Vacancies in Central Visayas 24 July 2026",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zb2Nqd1hKdlppMTRnakpsX3RYcldOVV80Q3RzT2M3N08zRmV0NEhpcWxKRFBYb1pMOFM2ZEplSnNBemQtWUE0ODBlclotN2g2aTQybGxnRW1PX0x0LWRmamZCd2E3OWRHRDNybENHX3JfVGhK?oc=5",
-      "source": "foundit.com.ph",
-      "sourceLabel": "foundit.com.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 23, 2026",
-      "rawDate": "2026-07-23T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.foundit.com.ph.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-1785466180939-c6z4jj",
       "title": "Read This Before You Buy That TV Streaming Stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -268,6 +268,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-1785552483606-fyecwq",
+      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0RjaHFhZUZWUTF4WnRzNmlyQUZzMDMwMHpGajVVQUVGUk5UV2R4TU9TajlJRHpHQTdmcEltd3EzVG9EaVF3dFpvbUhmMU4wYWJmb1V3X1o3Z3ROMC1KNTRIZmVFNjA2amU0Z1o0czNqamVoQkJGMnAxeURwS0dNMUlfZlQ4Qk81SkViZjlUQ213SkZiZFNBRmJ4SC16RGZqM1NBNmc2YVpqVkdUR3ZTOA?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 17, 2026",
+      "rawDate": "2026-07-17T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1784255944810-idlvs4",
       "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVJ0RHFka3ZpZlFfaC1HM1MzMFFJcDJieFpkVl83UVFpYm16bzZ2ejNwYzEyYWYtX0JuYzJhczN0bHR2VjBrTmdfV2FfZmtPZGxrR2JsQXlTMGxGVGZhaThTblJUdWJwRkJFcVZMVWtiOEIyZ2FFbVZUVmdFVFYtOHVtZmJoaDg2V0Q3M3U1dF9OZmhQaW1qNDZxbnZmVmx3QVk3Vi1lUEtfVF8wc2RBbkJ4QQ?oc=5",
@@ -321,20 +335,6 @@
       "date": "July 10, 2026",
       "rawDate": "2026-07-10T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1783519664502-k484j5",
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 8, 2026",
-      "rawDate": "2026-07-08T12:31:39.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

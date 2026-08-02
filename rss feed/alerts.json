@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-01T13:20:53.177Z",
+  "fetchedAt": "2026-08-02T13:21:00.086Z",
   "alerts": [
     {
       "id": "alert-local-1785552483199-zbsmcl",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1785676858647-45emm",
+      "title": "‘You owe parking fees’: experts warn of fake RingGo text scam",
+      "url": "https://www.theguardian.com/money/2026/aug/02/parking-apps-experts-warn-of-ringgo-text-scam",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 2, 2026",
+      "rawDate": "2026-08-02T07:00:14.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1785466180939-c6z4jj",
       "title": "Read This Before You Buy That TV Streaming Stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
@@ -321,20 +335,6 @@
       "date": "July 12, 2026",
       "rawDate": "2026-07-12T06:00:11.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1784774709278-lzdfeh",
-      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeV9uZWhJOEpwd2FoWHNGS2RtUXJKbUdPRzY0LThoeHhHZjRXcFpSNHU0OTZvdWI4VzZmVnNtRkY0TG5ROFprMXJvZTBLZU1oeURZTkpHUmI4NF9lOE84bldfMDBENC00aUl3dzgzSzNyUFlEZkF6cVVOWnRUeFBqM2M0djNxYV9DazY0TlVsbFBkbndtUW51eFpNVDVOTU5nMmNRTThXUlM0MW1YT3NfRFNBdU1vaVlyam1NM2kxZw?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 10, 2026",
-      "rawDate": "2026-07-10T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
       "scope": "international"
     }
   ]

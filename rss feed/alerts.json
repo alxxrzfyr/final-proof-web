@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-03T02:48:22.900Z",
+  "fetchedAt": "2026-08-03T14:38:45.263Z",
   "alerts": [
     {
       "id": "alert-local-1785725301427-58frsa",
@@ -13,6 +13,20 @@
       "date": "August 3, 2026",
       "rawDate": "2026-08-03T01:04:46.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/unbox.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1785767923896-6y2m4i",
+      "title": "Financial scams, AI remain Phl’s top cyber threats",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQclAzWWdfSTZudEZuZ3JxekFjNmhEMDlpdkVOMUpLNWlVOXpyd05BM1N2enprNUhES0o0dUNZekVVc3BvRUxaTmNPSmF3YTRsTTlYUERRRk16MlpkeUo4N09sZWxlSXROLVFDYUlZem1GTkpBc0Q0UTFaUkFZRTc0RnppMDZwZHhBcHc?oc=5",
+      "source": "tribune.net.ph",
+      "sourceLabel": "tribune.net.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 31, 2026",
+      "rawDate": "2026-07-31T19:14:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {
@@ -72,6 +86,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1785767923897-94dedm",
+      "title": "QR codes become latest wedding trend",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Jd0pJdnJ6SVVMckhDSWNJbEg0TlJKeENDeV9FRzA2UXFaMFE1dDNnekRNVVpJTlBBbnIxQkRVNHd1Wmtob2ZWVm5jWHhnaUo0TXE5eDRjWGhIUjdRM2VNMGZPUXVua3BBMWhjMjNxcUNYcDg2SDBYZ0Vn?oc=5",
+      "source": "tribune.net.ph",
+      "sourceLabel": "tribune.net.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 28, 2026",
+      "rawDate": "2026-07-28T16:36:58.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1785247602320-ep99aj",
       "title": "promo for limited slots only for Android - Search on Google Play",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QVzRid19oaUFJMGNnaU1DczhMVmJjTVhfVDV0elVBWkFUbGRRdHBEckoyUzJGbExTQzVvWEhEV0cySy0xUVVWN2VNR3I0Z3VWRFdmSzlIWGNiNlZxcWwyZVVpdVBoa0EwbGNjNXF3?oc=5",
@@ -114,6 +142,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1785767923900-beuwp4",
+      "title": "Baguio Police Warns Residents Against QR Code Phishing",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUEZzYmtBTG5hRlZTV3ZCdVNxY29mNU8yQzRnYnY0WWRHVTMyekxyV3Jic0VMNFNZbDVrZ0FWR2NvdldoTGhHNTFVTjNzZTViRFZ1QWZPcVIwSDVqSUJoNnFTVlJ6N245QzlKeFN6b0JtLThrcVJ4WGY4REcxZUFoOGhZTF9hNUkxRzJaX3UyUUhRUQ?oc=5",
+      "source": "tribune.net.ph",
+      "sourceLabel": "tribune.net.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 25, 2026",
+      "rawDate": "2026-07-25T12:51:12.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1785590452115-k3r2o6",
       "title": "It's Showtime: GV Sabado",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWdqeUV1YnpQdExFNHR6WVpsc1lrcElfNmFJVWx4Q2s1d3V4TUZJSTlSbmZOS2xjTGtnRlBjYm1NQzRTWnlfZS1QZU53dHE4QVV4c1c4ZkVPdXQ5bTJiVDBEcDVkUmpSOWptdzVLWjJ3MDdnWkR6bEFsMkNMbGtSR2kxeUpXVEYza0lZ0gGQAUFVX3lxTE4tTmNsSkFZX1Nsek03RnNLM3FGbWgtQXJLdnVSN2RvMnYwREdlblVRZnVieFVyalUwT3ZJU0ZlX2Ftb0F6NXZTNWJWdzV3TjdaU3gtUWdFRDNTZ0VnR1VKUlpvNTl2RjBhalhDeGpyMHB1UzRFZEFWTEVjbEdHZk5LMHhDNW5zOU4zdFNxREZSUg?oc=5",
@@ -125,48 +167,6 @@
       "date": "July 25, 2026",
       "rawDate": "2026-07-25T03:22:14.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784947126380-vl924j",
-      "title": "PNP intensifies fight vs QR ‘phishing’",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMkhiMGFVTlZCakxhOXZyLXhYNS1VRVNMR19pcVUxWVpGdFhkNl9QU1BJajNuOS1PSXYzZWxHUjE2cGh2TnM5SF9ZNmt2NHVJb3Rtck13Y3dLSkxYYXVSdVFEblUwQ2ZPY2tRUGQ4dlBEUlFjMDB2UU1n?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 24, 2026",
-      "rawDate": "2026-07-24T15:42:56.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784947126381-w5b6kt",
-      "title": "PNP, DICT, DTI eye crackdown vs fake QR codes",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOGc2bEJxSTd0M3FMWm16bGpMOUQ1anpfaGZkaHZXUDVjM0RWdU1zWl8xOFBWRDRGc3hPTU1VTWY2b21ZNjI1ZVBQOVU3ZERKNHlPcVc0dm5FSEFpZWtrb3BYd1VqNXZpTUowX0tQMkswNHV1UTJjSFNCT2x0ZG5xVWpPV3Z3U0FZcXdER2xKNTbSAZABQVVfeXFMUDhnNmxCcUk3dDNxTFptemxqTDlENWp6X2hmZGh2V1A1YzNEVnVNc1pfMThQVkQ0RnN4T01NVU1mNm9tWTYyNWVQUDlVN2RESjR5T3FXNHZuRUhBaWVra29wWHdVajV2aU1KMF9LUDJLMDR1dVEyY0hTQk9sdGRucVVqT1d2d1NBWXF3REdsSjU2?oc=5",
-      "source": "SunStar Publishing Inc.",
-      "sourceLabel": "SunStar Publishing Inc.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 24, 2026",
-      "rawDate": "2026-07-24T08:19:03.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785725301429-rfrg3k",
-      "title": "PNP to intensify crackdown on fake QR code scams",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNFNLZTd2TGhEQlF4WDh0RTJ0UHRsMmFLR0VsQzROVEQ2Q0RyQ0xJVmpTNlRIMWtfcE5fc2xpYWFHLS1MNmdqb0diUEhnZTlLaWlySlR6WnptNFo1WTQyME5oUlJEcHFsa1BOUkJLMWlOWWhVT1dvcDQ2am1WYVllNHJsX2hCM3hfMFE?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 24, 2026",
-      "rawDate": "2026-07-24T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-02T13:21:00.086Z",
+  "fetchedAt": "2026-08-03T02:48:22.900Z",
   "alerts": [
+    {
+      "id": "alert-local-1785725301427-58frsa",
+      "title": "Visa, GCash to launch seamless link-and-pay feature",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvYmhfTTh1Q09pMHVYNXJWMTl2M3BDYXpyTEdDaUk1TG9wQlloQngwOE02bkFheEdvNXMxXy1yX0lFb0FvZVBhU09GVkNPaGdsd25ta3VsQ0xzUdIBX0FVX3lxTE1hbVZuZG5JU2tyRlZJVkFvZDlXRC1YVW1DRXQ4VW5BSDNDU1pzYURVb3E4SEt2MDZRWWR1M2JFZWFrNXJHbEcyMENKLVlFUDREN0pxMUctU1VmcXdvVGhN?oc=5",
+      "source": "Unbox PH",
+      "sourceLabel": "Unbox PH",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 3, 2026",
+      "rawDate": "2026-08-03T01:04:46.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/unbox.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1785552483199-zbsmcl",
       "title": "Doctor lured into interacting with assistant's dummy profile in 'love scam'",
@@ -142,7 +156,7 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1784900728933-gs86xh",
+      "id": "alert-local-1785725301429-rfrg3k",
       "title": "PNP to intensify crackdown on fake QR code scams",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNFNLZTd2TGhEQlF4WDh0RTJ0UHRsMmFLR0VsQzROVEQ2Q0RyQ0xJVmpTNlRIMWtfcE5fc2xpYWFHLS1MNmdqb0diUEhnZTlLaWlySlR6WnptNFo1WTQyME5oUlJEcHFsa1BOUkJLMWlOWWhVT1dvcDQ2am1WYVllNHJsX2hCM3hfMFE?oc=5",
       "source": "Daily Tribune",
@@ -151,22 +165,8 @@
       "category": "cybercrime",
       "severity": "medium",
       "date": "July 24, 2026",
-      "rawDate": "2026-07-24T04:54:52.000Z",
+      "rawDate": "2026-07-24T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1784900728934-pl189",
-      "title": "PNP warns vs fake QR code scams stealing money, personal data",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWRnMzBkTzNieDd1MFBsMWQxUE94Nkt6bmYwa1NQcW1OWW1CLUxUM2oxUGhzUDJzaUdyZWozQ1VRYVctZzRfcTZFbzNPTlBUMnNDTzdLRXJYWHJEcUJhdTV6SDNPUEpCRmVzbFZvaGNQcjdIMXlEdU9aVTdYWTUwUnNWWExiMng3UWh6b1NDVnQ1VTFzOEpJS2Rn0gGnAUFVX3lxTE5wOGlrdVZ1RjN5em5VZlRMbkZpV1RnUHVGOEVkc0xNd014SUxMV0twMGlVVFFhY0l6VHpVUFFFclhEZHZvQjUwY1BCbm1TQXpyd1g2Z24xZlNxLVFJY2tvNVpXWV9fd3N1dnZwX3BRMlp2aTlXNGZLS0Z5RWtKdlo2TTBkaUNlVnZhekp0N253ajR0TW9DYVFJTFlYckZiNkxfOVk2WkR3?oc=5",
-      "source": "SunStar Publishing Inc.",
-      "sourceLabel": "SunStar Publishing Inc.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 24, 2026",
-      "rawDate": "2026-07-24T04:25:35.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-06T02:33:48.365Z",
+  "fetchedAt": "2026-08-06T14:09:07.956Z",
   "alerts": [
+    {
+      "id": "alert-local-1786025346496-vzz719",
+      "title": "Robin links DepEd to communist recruitment in universities",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemVHd0praGlleHAyOEl0SGN0eEtyS1JyaWZIVXA2d2hLYjh5MHVMZFNfZ01udkFaZVNfN0ZLU1p4QWt5ejBUVkJrRVlhckJiYy1ST0lCN0Zjd2VzNUpPZzZRR0M1QXN1eS1ibkhvamFpZzVWSENaMGR0dFhkVThnUUxZV05mNjVsQ0lIanY4UjF6SzJISE9yYzJR?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 6, 2026",
+      "rawDate": "2026-08-06T03:54:47.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tempo.mb.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1785983627470-dbt3q",
       "title": "Woman nabbed for 'scamming' BTS fans with fake concert tickets",
@@ -72,6 +86,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1786025346498-eeja3",
+      "title": "free slot machine games for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00U2xpcFhQZDFjdmkxT3NNa3F3VkRtWkNFT3lTRWstYS1yUWxuaVVsdHk5Sk90RmRyVERqYlk0N3JjTWhqZTFlbFhpUGJxeHRiS3ZPNzdiakdqUmpJdW9ZRWhPcTE3N0dsTGxZ?oc=5",
+      "source": "tesda.gov.ph",
+      "sourceLabel": "tesda.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 5, 2026",
+      "rawDate": "2026-08-05T09:39:52.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1785938920807-ht6zqa",
       "title": "MMDA chair taps NBI to probe scam using NCAP",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1cwdUlEcU9SLTUyeUc5TDlaZWNpMUdqWkNLN0g2RGRpWDFvYTJCQmlzUjI3N0t5OEZaOElDeGtySUlMOFNNcmhrT1BodExmb1ZYa1JsdzNsckhVVnRMT0RLNkhXWHNGdUVNWDVBNWpCMi1JTXhzcDJ5OXRTaW1aaWZzT1k5LWhrdFHSAY8BQVVfeXFMT0gweFU3TWszNGkySWduOUpHRWNEbmtMUWlJTHozLTNpNGdqOGZ2bGtsNmdFMlVqOTE5alc5M3hXUXAtMXo1YzJ2eHlzQWRzYWt3NlVWSnliSlY3TGtTOW5zaHVCdWJHOHRhOUJEUl9PUVMzQ3BQQkJOU0tPSHdiNDJrb0VqLXlBV3YtZHBGcms?oc=5",
@@ -139,34 +167,6 @@
       "date": "August 3, 2026",
       "rawDate": "2026-08-03T01:04:46.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/unbox.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785767923896-6y2m4i",
-      "title": "Financial scams, AI remain Phl’s top cyber threats",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQclAzWWdfSTZudEZuZ3JxekFjNmhEMDlpdkVOMUpLNWlVOXpyd05BM1N2enprNUhES0o0dUNZekVVc3BvRUxaTmNPSmF3YTRsTTlYUERRRk16MlpkeUo4N09sZWxlSXROLVFDYUlZem1GTkpBc0Q0UTFaUkFZRTc0RnppMDZwZHhBcHc?oc=5",
-      "source": "tribune.net.ph",
-      "sourceLabel": "tribune.net.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 31, 2026",
-      "rawDate": "2026-07-31T19:14:08.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785552483199-zbsmcl",
-      "title": "Doctor lured into interacting with assistant's dummy profile in 'love scam'",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU3FtbWJQMjBGR0p1R1B6T1VoUnQ2MEtGT2ZEZWxaVmdmQmJIRC1qcGxYb093TE9ua2RNQ0M0YTMwZWhrVlFWRm9ZSVNLbFJNS1JDOThTaTd0bEtiaGtvcUJPLWZwNDJUbTZYWjZEbll5dTBXSTZjdWQtVWdHZ2ZHSnFOaWVld0oxb1dodVBYbDMtUFJVM294NnNJUXRKYzNqN2xDUHM1eW1td2JaUlgwY3FQeW4tVFYwTjRzY2hEam1jMkNTZWpDdjZRN28wcmhGM3fSAdcBQVVfeXFMTnhZcHZfeExEZFFyRW04aTlSY21JRmNwd2tkN1BwR012dGxiUktHeXhCS1NGR1VWcmhuUkxlNXFHQ2JQYW83eUxRaEVSNjVSR3Y4TUh4QmVQQ2Z6QmNSMFZXYkFYdjQ0ZHRmYU9IQUdsTk5YOU9STFN2RTVPR2Zkck54bXlGcXNGdTNGOUFsWmNIWnFpTDhuMVhCeElERGFKUWViSTN0ZGMtQURtNkVSSlMzUmlUVUJWSHVsaE5kd3V6R251TjkwZGRISzcxRWJzZEotZFJjdHc?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 31, 2026",
-      "rawDate": "2026-07-31T18:33:50.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
       "scope": "local"
     },
     {

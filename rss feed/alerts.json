@@ -1,18 +1,46 @@
 {
-  "fetchedAt": "2026-08-05T14:08:41.641Z",
+  "fetchedAt": "2026-08-06T02:33:48.365Z",
   "alerts": [
     {
-      "id": "alert-local-1785938920556-b1qfzg",
+      "id": "alert-local-1785983627470-dbt3q",
       "title": "Woman nabbed for 'scamming' BTS fans with fake concert tickets",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlNIckFxSi1TMUlNNnNnZWRBQXdwTV9YLTN1bEtjMnN1YnhyMldvT0N4dUMwTlpRS3ptbkJtWGxGZllvWW8wNG1GdzZfZFlyZFI2UExJWXlrS3pZeC1uLU45dWg5WnFLX2F1OVZVSHo0azhKSDRsX1lKaU1kQlhXN2E1NnBrUkJOQ1M3VWF1V1pnbjRHRUVLTHViSFVLeW5kTVlpbGVUWWZ2Nzd1Wk5B?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
+      "source": "abs-cbn.com",
+      "sourceLabel": "abs-cbn.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 6, 2026",
+      "rawDate": "2026-08-06T00:35:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1785983627021-ge5wjn",
+      "title": "jljl9 promo code for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VcVo0U1Fxb1NkSUtZNFh4U3I2WlMtZVgtQW1IcE1Ua0hFcDBqLTdTck9lUGhRcC0zeHJVVmZLbm85YmptOHpUR1hVUVdJdnFTNGQ3TkFISVFWVlNJWE56NU93?oc=5",
+      "source": "tesda.gov.ph",
+      "sourceLabel": "tesda.gov.ph",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
       "date": "August 5, 2026",
-      "rawDate": "2026-08-05T12:18:12.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "rawDate": "2026-08-05T17:52:44.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1785983627867-r8l62b",
+      "title": "MMDA probes NCAP scams",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZmNZWHAwUkFNMUdzekplUVA0VnNNUExGSDIzdnhzcE52R2Y5Mlh1RHVtMS05MmtINjgwODZDMHF1VlZvTjVteVpvT2dwNERSTHFRWHY2bmxZU3ZxSXNKQ2hveDlRTmJfYVdJemF0V2FZOGRnTGdKSl9VNjNhQdIBhAFBVV95cUxON3FuUkl3Y0d2RmVRX0h2Z19KWlFtRmRLbEtjNVUzbm5Hb0FJTmw3emtLNzR5N01DM0J2Qy1Sam9GTHVEV244aTF6OVRiQVlnSDdmODU3MERoaHhGdFJxeVlNRzFWaWdFZW5jZXktSEltNlNIZ2JocS1jSlN4aFRZakVnaTc?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 5, 2026",
+      "rawDate": "2026-08-05T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {
@@ -139,34 +167,6 @@
       "date": "July 31, 2026",
       "rawDate": "2026-07-31T18:33:50.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785420092491-5vkm0a",
-      "title": "Woman in ₱3.7‑M crypto scam handed to police",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0ZEYmxmTFlrY1FFbW0yUGlCcjBVSlNJY0lqLWhjblFVTTRVZExISERQRDN5X1I5bWdBeFV0cFhLa0k5dXhQQ2JFeThiblI3aHRVTHFSZzdrc2EzaFA1bnRrLTdQbExaWTA5Y1BzTGRGaFBUUTBQMVV6dXlFbkJPQVVRUG9WNFA4V00zNFhOekpLTFlxZ3k5VjJqb0s?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 30, 2026",
-      "rawDate": "2026-07-30T07:42:39.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tempo.mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785420092491-qhbp1",
-      "title": "Citizen’s arrest: Woman in ₱3.7‑M crypto scam handed to police",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmVoVXVyQnhHNmdWTjlEdThFWjZzZ29LLUxycXBCb0YwSWdjNWdhRG5LZDF3UTFfZHQ5amVzYjVkZm44eHMxQWp6N3RMOGwwemZvV0FSN0gyb2FOa1UzOXJCY3FCdWpZWEZIbXU4MGdEVHpxR09UUFF5MGR0ODJDQ2dqVVFRZTdDR0hwSUFkVQ?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 30, 2026",
-      "rawDate": "2026-07-30T07:06:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
       "scope": "local"
     },
     {

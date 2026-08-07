@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-06T14:09:07.956Z",
+  "fetchedAt": "2026-08-07T02:39:45.607Z",
   "alerts": [
     {
       "id": "alert-local-1786025346496-vzz719",
@@ -27,6 +27,20 @@
       "date": "August 6, 2026",
       "rawDate": "2026-08-06T00:35:51.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1786070384209-knps",
+      "title": "draw lottery online for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yVmFmNjNYaEE0STNjT0gxUHFMMWpnemNnbzdJM3dFN0FsbkZZNkIySGF4cG1NRDNBYTlWVTR6Q09vWEcxWVhtRDJSQ1ZYdUFFNjBCbGJqQjhWTHk3MmxYRDhZYUE1QQ?oc=5",
+      "source": "tesda.gov.ph",
+      "sourceLabel": "tesda.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 5, 2026",
+      "rawDate": "2026-08-05T18:57:37.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
       "scope": "local"
     },
     {
@@ -72,17 +86,17 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1785938920557-6u74zf",
+      "id": "alert-local-1786070384656-7bpj3",
       "title": "MMDA, NBI caution public vs NCAP text scam",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQempXMXg4cXFGQm9HSWlGN29kWVZMUk1QSmVtZHQ1U1dQclFNVC1QcmM1bTk5N3lValVfSHBCaVRnZXBlZjZuQlotX0FNNlZxV2ZTbWlOdTRQejNMeC1QSkl4ZUFSOUZKVUhiWW00ckQyS2EtREk0TnRsS1NpVXBHWnAxZ0RsbUU0c0Z6cTRncWVoN2U1Snk4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazhzZjhKU1pXa01lOUlrZHlic3ZQNUtLbHFUdVRYd1NvY0ptMXpBWnE5ZTJwZVpKdEtLYXFlQWpCR21XX3hHTWpya1F3M1BOeS1uTTBralBhU3F4WkctTGtVb1BKR05jOEZPYy1sSE93YlllSmRFQ0JJcGVWTU1WRjVfb01IdGctekVRSWpRUUphVzRQaWc?oc=5",
       "source": "ABS-CBN",
       "sourceLabel": "ABS-CBN",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
       "date": "August 5, 2026",
-      "rawDate": "2026-08-05T10:41:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/news.abs-cbn.com.ico",
+      "rawDate": "2026-08-05T11:40:10.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -156,18 +170,32 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1785725301427-58frsa",
-      "title": "Visa, GCash to launch seamless link-and-pay feature",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvYmhfTTh1Q09pMHVYNXJWMTl2M3BDYXpyTEdDaUk1TG9wQlloQngwOE02bkFheEdvNXMxXy1yX0lFb0FvZVBhU09GVkNPaGdsd25ta3VsQ0xzUdIBX0FVX3lxTE1hbVZuZG5JU2tyRlZJVkFvZDlXRC1YVW1DRXQ4VW5BSDNDU1pzYURVb3E4SEt2MDZRWWR1M2JFZWFrNXJHbEcyMENKLVlFUDREN0pxMUctU1VmcXdvVGhN?oc=5",
-      "source": "Unbox PH",
-      "sourceLabel": "Unbox PH",
+      "id": "alert-international-1786070384229-smoyvs",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 3, 2026",
-      "rawDate": "2026-08-03T01:04:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/unbox.ph.ico",
-      "scope": "local"
+      "date": "August 6, 2026",
+      "rawDate": "2026-08-06T17:00:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1786070384708-f9p44",
+      "title": "You click \"I'm not a robot\" all the time. But new fake CAPTCHA scam can install malware on your computer",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yeTNLd2dncG5lZzN6TEU4aV9LcjZmWDA2YlAyaHgyZ3NCR201YTczdy0tb3h0ZW9DSTVtaGJlSzE1aHNETlg3ZEY5MEZmR3hfdl94X2M5UHFmdk9CcTlLQ1RoV2czZW4tY0c3VVln?oc=5",
+      "source": "CBS News",
+      "sourceLabel": "CBS News",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 5, 2026",
+      "rawDate": "2026-08-05T11:54:20.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1785852684266-gx6h9l",
@@ -307,34 +335,6 @@
       "date": "July 17, 2026",
       "rawDate": "2026-07-17T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1784255944810-idlvs4",
-      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVJ0RHFka3ZpZlFfaC1HM1MzMFFJcDJieFpkVl83UVFpYm16bzZ2ejNwYzEyYWYtX0JuYzJhczN0bHR2VjBrTmdfV2FfZmtPZGxrR2JsQXlTMGxGVGZhaThTblJUdWJwRkJFcVZMVWtiOEIyZ2FFbVZUVmdFVFYtOHVtZmJoaDg2V0Q3M3U1dF9OZmhQaW1qNDZxbnZmVmx3QVk3Vi1lUEtfVF8wc2RBbkJ4QQ?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 16, 2026",
-      "rawDate": "2026-07-16T21:22:31.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1784123028545-a3texp",
-      "title": "The scary rise of locksmith scams: ‘I was shut out with my baby – and charged £2,200 to get back in’",
-      "url": "https://www.theguardian.com/money/2026/jul/15/the-scary-rise-of-locksmith-scams-i-was-shut-out-with-my-baby-and-charged-2200-to-get-back-in",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 15, 2026",
-      "rawDate": "2026-07-15T04:00:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

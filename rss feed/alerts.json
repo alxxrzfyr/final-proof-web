@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-07T13:02:52.557Z",
+  "fetchedAt": "2026-08-08T01:38:46.094Z",
   "alerts": [
     {
       "id": "alert-local-1786107771576-gzp29",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1786153125360-xxlx8a",
+      "title": "City of Pittsburg says it fell victim to $913K phishing scam based in Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkVPM2dqZnFxTkRCWEhSSmNqT19idTNSSm5fR0FVQnhveVhWNWd0UTJiVEFTMWs1WGlwbGh2VlRCQ2FEOFRUT1RoNFI5SFlFeC1vRVR1cW5leUt0WFUyb0h5ZmdsVkI2UWZhaFpZQUtfWV9CLUU0NEFDTnlMcngzaWdLVi1abXBwbnM0d0ViQm5CX1l1?oc=5",
+      "source": "CBS News",
+      "sourceLabel": "CBS News",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 6, 2026",
+      "rawDate": "2026-08-06T21:54:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1786070384229-smoyvs",
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
@@ -321,20 +335,6 @@
       "date": "July 19, 2026",
       "rawDate": "2026-07-19T06:00:18.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1785552483606-fyecwq",
-      "title": "FBI arrests man accused of using Steam games to drain victims’ crypto wallets",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0RjaHFhZUZWUTF4WnRzNmlyQUZzMDMwMHpGajVVQUVGUk5UV2R4TU9TajlJRHpHQTdmcEltd3EzVG9EaVF3dFpvbUhmMU4wYWJmb1V3X1o3Z3ROMC1KNTRIZmVFNjA2amU0Z1o0czNqamVoQkJGMnAxeURwS0dNMUlfZlQ4Qk81SkViZjlUQ213SkZiZFNBRmJ4SC16RGZqM1NBNmc2YVpqVkdUR3ZTOA?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 17, 2026",
-      "rawDate": "2026-07-17T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
       "scope": "international"
     }
   ]

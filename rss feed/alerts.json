@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-09T01:44:37.810Z",
+  "fetchedAt": "2026-08-09T12:50:17.538Z",
   "alerts": [
     {
       "id": "alert-local-1786239876563-0glpq8",
@@ -170,6 +170,34 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1786279816000-epbhzl",
+      "title": "‘Watch The Odyssey for free online’: scam targets film fans with fake streaming sites",
+      "url": "https://www.theguardian.com/money/2026/aug/09/watch-the-odyssey-for-free-online-scam-film-fans-fake-streaming-sites",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 9, 2026",
+      "rawDate": "2026-08-09T07:00:09.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1786279816565-da4u9i",
+      "title": "Northern California city declares emergency after malware disrupts 911, public safety systems",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVdlN1pDWFNmUkxuNThXZm5URGVQRzU4VHhtOGwtQ1hvWG0tM1ljb3l4U0cxeURtZndacC12S0syQURXcjcyMzhacFNVS2Vaa3hLVEhZVUNPdkpmODl4MXNCVWV5eDlQTkR1RjBlcDNKNHJaanpLS0tTZ2pIQ3hoSVVtTC1BVXo2?oc=5",
+      "source": "CBS News",
+      "sourceLabel": "CBS News",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 8, 2026",
+      "rawDate": "2026-08-08T23:26:20.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1786239876518-sormlf",
       "title": "New York authorities warn about gold bar scam targeting older adults",
       "url": "https://www.theguardian.com/us-news/2026/aug/08/new-york-gold-bar-scam-seniors",
@@ -307,34 +335,6 @@
       "date": "July 23, 2026",
       "rawDate": "2026-07-23T08:30:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1784601716186-o3sa1i",
-      "title": "India markets regulator penalises depository over 2022 malware attack",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTVrTTlOMFduamtVazh4UGk5Ym9NTUJaMVVXcHIxNGE0YkcwNGpReWlCc2VweWlVQXNYZzFMNmJVdllYOW5ESHBWOUhMRElveWIxNmVGVEdGaU4yQU5nVGhWYlZxdkJKZXVqWWZiQV9HQlVsOFZJNU1GbC1na2hYalh4bWlOYXctNzNtWUMybkFJZUFad2R6TmJqMFYtQlJNbE5IdTJ5LUNSbFc2WmRjM0NoNktYR0pBTTUtOUJtYw?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 20, 2026",
-      "rawDate": "2026-07-20T19:26:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1784516254562-z5kpmn",
-      "title": "Rogue locksmiths prey on people’s anxieties | Letters",
-      "url": "https://www.theguardian.com/money/2026/jul/19/rogue-locksmiths-prey-on-peoples-anxieties",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 19, 2026",
-      "rawDate": "2026-07-19T15:42:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

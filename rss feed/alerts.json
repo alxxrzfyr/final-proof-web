@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-08T01:38:46.094Z",
+  "fetchedAt": "2026-08-09T01:44:37.810Z",
   "alerts": [
+    {
+      "id": "alert-local-1786239876563-0glpq8",
+      "title": "uk lottery online for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wY21QU0VQNFg3eWQyQTZNeEptbVBXWkE5ZUFQVm9pYXhoYXZTamNqWXVvdUkwdG9NOGNFazNNbFFrRmtTTENJTzdCY0dxN0M2em1aaUN1LWJNWko5SV9n?oc=5",
+      "source": "mis.umin.edu.ph",
+      "sourceLabel": "mis.umin.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 8, 2026",
+      "rawDate": "2026-08-08T08:00:46.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1786107771576-gzp29",
       "title": "Woman nabbed for 'scamming' BTS fans with fake concert tickets",
@@ -27,6 +41,20 @@
       "date": "August 6, 2026",
       "rawDate": "2026-08-06T03:54:47.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/tempo.mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1786239876955-lrlhud",
+      "title": "Doktora niloko ng sariling assistant sa ‘love scam,’ halos P500k natangay",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSERYb1hObzNKZTZWQ19GbThwNGxCb3dJeFBkbnlQRUpoTWJuZkZWSHVsbnMwVGM2ZGw5eWxYWnR1Y1pmdkwtSW00RkpJcGtuNk9XUWtvemVXbmEwVmtRM2dOUW5mbF9pcldUbHhodWFyaUNPNElGQlpQdkJSX0t2eWFod0FHQWlEWmdGSHF2VmJCNHFOMDdKN3NtUWNwWGZZZkUxczRtMUpwNE4wNkxWeDJONTU3akpheEQtSg?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 6, 2026",
+      "rawDate": "2026-08-06T00:10:01.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -69,20 +97,6 @@
       "date": "August 5, 2026",
       "rawDate": "2026-08-05T16:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785938920556-v5f2pm",
-      "title": "Doktora niloko ng sariling assistant sa ‘love scam,’ halos P500k natangay",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSERYb1hObzNKZTZWQ19GbThwNGxCb3dJeFBkbnlQRUpoTWJuZkZWSHVsbnMwVGM2ZGw5eWxYWnR1Y1pmdkwtSW00RkpJcGtuNk9XUWtvemVXbmEwVmtRM2dOUW5mbF9pcldUbHhodWFyaUNPNElGQlpQdkJSX0t2eWFod0FHQWlEWmdGSHF2VmJCNHFOMDdKN3NtUWNwWGZZZkUxczRtMUpwNE4wNkxWeDJONTU3akpheEQtSg?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T12:04:34.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1785897058538-2ct4se",
-      "title": "PIG_BUTCHERING | Tracking | GMA News Online",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ib1VHY2hrbURtenlQWko3dTM4cjNqWXo1SUE2R0pQMGNzM0l6LUJNb25NOXltdjdjTDRCcDNQZExjMU9hY1R4emxEbnVjc0Zzb3BNRmp2Z3liYmVESWt4OVVVdHg1TVE?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
+      "id": "alert-international-1786239876518-sormlf",
+      "title": "New York authorities warn about gold bar scam targeting older adults",
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/new-york-gold-bar-scam-seniors",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 4, 2026",
-      "rawDate": "2026-08-04T19:34:10.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
+      "date": "August 8, 2026",
+      "rawDate": "2026-08-08T14:20:19.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1786153125360-xxlx8a",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "July 19, 2026",
       "rawDate": "2026-07-19T15:42:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1784467060797-vvevj",
-      "title": "‘We noticed a login from a new device’: the message from fraudsters targeting your X account",
-      "url": "https://www.theguardian.com/money/2026/jul/19/x-scams-login-new-device-message-account-crypto-phishing",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 19, 2026",
-      "rawDate": "2026-07-19T06:00:18.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

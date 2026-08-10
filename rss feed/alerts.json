@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-09T12:50:17.538Z",
+  "fetchedAt": "2026-08-10T13:07:15.136Z",
   "alerts": [
+    {
+      "id": "alert-local-1786367234482-6auz25",
+      "title": "Cyberattacks are getting faster as AI helps hackers scale",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3J0Rjhvc3BYUy1TZEtQVGFveS15bmFab1NpaTFRajJQcFo0RjdocC1DV3NtMDJjQUxjQ1FDUWJJV1FtTWtWYnFPM0NsYVk1UmNDX2UyUWVTekM4VGF6TGx2NnhWRnNnSUVoRjZPWmxMZExsTW5ELWJUUEZEX2R3TGctSU1yNnJ4Q0c5bGtud3h6b0ZuN2tUS3ZtN1XSAaIBQVVfeXFMTXdxOXBRSjRwRVJvV2haOVhUZ3VfdWY3dkx1SXNsbU5QaHlYNmVBZHVJNFJhWWpLcVhFdS0yZ1RwVVV6UF9mYVpnaE8xUjVrSXc1S1lIY3JrZmxCeGxkVGtCUmJwbjFva2wxM2hlM2VpTnhIWWVDVGRRSk9PdldMdzMyRkxpRlZOMklTTlFnUzNEczBDNjBmLXRncnNVaVRmTkVR?oc=5",
+      "source": "Inquirer Technology",
+      "sourceLabel": "Inquirer Technology",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 10, 2026",
+      "rawDate": "2026-08-10T07:08:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/technology.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1786239876563-0glpq8",
       "title": "uk lottery online for Android - Search on Google Play",
@@ -153,20 +167,6 @@
       "date": "August 5, 2026",
       "rawDate": "2026-08-05T02:16:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785897058287-6zofqi",
-      "title": "Hyperstacks Deploys Ideem’s Phishing-Resistant Passkey Authentication for Philippine Banks",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOVNIeks1MWVoMDd2ODdONjFHZFVtTVpsa0pScFV2UUlzdkNHZmJaQ3RQODZWWXZJMEpZeTZDUG0wRGJhS0tGTkJ6R1l0R1RSNzdCRURUd3pNbXhzNDZkang3QTh6THZVLWxNNmJaSEh1MVlwOXFTS2g2ODhFY0xaVzB6NHpmUFBKTHc?oc=5",
-      "source": "Fintech News Philippines",
-      "sourceLabel": "Fintech News Philippines",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T01:00:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/fintechnews.ph.ico",
       "scope": "local"
     },
     {

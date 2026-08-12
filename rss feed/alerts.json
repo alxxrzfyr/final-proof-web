@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-10T13:07:15.136Z",
+  "fetchedAt": "2026-08-12T13:08:46.252Z",
   "alerts": [
     {
       "id": "alert-local-1786367234482-6auz25",
@@ -27,6 +27,34 @@
       "date": "August 8, 2026",
       "rawDate": "2026-08-08T08:00:46.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1786540124996-m1hu0d",
+      "title": "odds of winning 6 number lottery for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnN4dVNRbE55WVBEY0lTZTh5ekhqa2JiZ2U4M3gtZ213MWxuM3NPQUY2RzF3RWhPWnF2NHhXV0RVeXJWUTZBOGxGcnZiZVQ5SkRUNUYxZ0tHSzlubktkUndPaWVwNlpQQXBHdUpieUdqcDE3ZjdxMUxSYWtYVDRNcDA3YTFxVktRYnE3UjBHV0RrVXpsVnU0Qi1CSDhYTEpCUXhCN3NiUFdUeFBfTHc?oc=5",
+      "source": "uni-president.com.ph",
+      "sourceLabel": "uni-president.com.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 7, 2026",
+      "rawDate": "2026-08-07T15:28:15.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.uni-president.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1786540124996-5cc6p4",
+      "title": "lottery with highest odds of winning for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREhvWGxXcWw5dFhwVmwwSkJmNWl6UXI3c0lhNnRjUXVvOWx3aFVfaEdGSmlWNjJraXJNdkdtcVFGT0hOZkczVGZ6amZIMWlqN19pT3gtTWNrZU1RSWJVYXkxelozNllvSTFXbFdLempMejYweUxHN3kyRnYwZG1FM0pNWUNEWVNqallTUWZ4REpDWFNKalNtSGVOX0ZDYy1kUjdVaFRIWWJzcXUwdG5tUUJCazlRak9h?oc=5",
+      "source": "uni-president.com.ph",
+      "sourceLabel": "uni-president.com.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 7, 2026",
+      "rawDate": "2026-08-07T07:20:14.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.uni-president.com.ph.ico",
       "scope": "local"
     },
     {
@@ -139,34 +167,6 @@
       "date": "August 5, 2026",
       "rawDate": "2026-08-05T09:39:52.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785938920807-ht6zqa",
-      "title": "MMDA chair taps NBI to probe scam using NCAP",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM1cwdUlEcU9SLTUyeUc5TDlaZWNpMUdqWkNLN0g2RGRpWDFvYTJCQmlzUjI3N0t5OEZaOElDeGtySUlMOFNNcmhrT1BodExmb1ZYa1JsdzNsckhVVnRMT0RLNkhXWHNGdUVNWDVBNWpCMi1JTXhzcDJ5OXRTaW1aaWZzT1k5LWhrdFHSAY8BQVVfeXFMT0gweFU3TWszNGkySWduOUpHRWNEbmtMUWlJTHozLTNpNGdqOGZ2bGtsNmdFMlVqOTE5alc5M3hXUXAtMXo1YzJ2eHlzQWRzYWt3NlVWSnliSlY3TGtTOW5zaHVCdWJHOHRhOUJEUl9PUVMzQ3BQQkJOU0tPSHdiNDJrb0VqLXlBV3YtZHBGcms?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T06:58:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785938920807-2z3o3i",
-      "title": "AI is helping hackers outpace PH firms’ cyber defenses – report",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDZNdEVxVDBnZmUwMWlQMnZEMzdZOGZIZ0xvNjNIM3pkNDBKV05yUlQzRTQ2UERJNzNUUzRPQmU4cFhxeFM4TGdjNkljaFNDREtreVJEZUNaVERIRlNBWXhyYVYxSzFGNDdrb0hFMWJCYk1TS0FfekF4ZHNBWWgtTjc1TkpkWmQzTXBXcFpsWWg5c1BwcUVLZmttRXpfRmwtcThFV9IBqgFBVV95cUxPTnhSWnphb0RYNGNiS0luZXhKbUpsM0lMNUtBbDU5aWl2UlExcFFUVHNJTlNHcXEwZ2Y3dEpCaXZCVTBaTjlNbkdZZ016TDFQWmcxRnBhOThwalRfTzlEbU5ZdExyaWN0M0ZCTy1OaXVWMl8wckZRQUFJMzg1ejZmLUFFRUs2TjVURm9zSElpVXF0RG12NER3TlBmaGQyWV9ZX2E5S2JHanJGdw?oc=5",
-      "source": "Cebu Daily News",
-      "sourceLabel": "Cebu Daily News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T02:16:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
       "scope": "local"
     },
     {

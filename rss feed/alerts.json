@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-12T13:08:46.252Z",
+  "fetchedAt": "2026-08-13T01:58:40.852Z",
   "alerts": [
     {
       "id": "alert-local-1786367234482-6auz25",
@@ -310,6 +310,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-1786586320089-0kl9l7",
+      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTZSUjUybGtPNGpPa3FQZ1puRnlqdUxfM0ZuaHRGQUN5MnYwZzZIRVRqeW5lVkpkb1h6X1hiTjFyMXZhMjZYNjZ1U0ZRT0ZwNm9CMzhySnVFX3JoSEdRcGZMUDM4endxbGVFWVZfTlFvZmJIbGM0bnlpUEliS1hjS05sd1BJOGtLa2RwZE9vY3ltQlV6clBGVUVMaS1NQQ?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "July 27, 2026",
+      "rawDate": "2026-07-27T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1785072130309-yqjtvo",
       "title": "‘I never thought I’d fall for a scam’: the fake Spotify emails that put you at risk of fraud",
       "url": "https://www.theguardian.com/money/2026/jul/26/spotify-scam-fake-emails-fraud",
@@ -321,20 +335,6 @@
       "date": "July 26, 2026",
       "rawDate": "2026-07-26T06:00:03.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1784815183079-wqw9jl",
-      "title": "Pig Butchering Victims Must Prove Theft Under State Criminal Law",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUnN3UjcxR2ZzelU3Nmp1dmdjN0NHeDBiSy10aUNmb1ZNOUl0NFJaU0JaUnFXd0h5M2lvX19zVVNUNTIwa3NPeXFpRVJJVk16Qm8zMXJwbV9obzR2WUdsZ25NVHhCUWt6LUJYazRMTEVESlc1TkIxYUZlWHkwSmRYbHoteWQxdlF5TlVDWUNvYnNHX1l5S2xWOFNxY0ItS01rTzlCZ04xRzRqamNvNDhGUUhFUEk?oc=5",
-      "source": "news.bloombergtax.com",
-      "sourceLabel": "news.bloombergtax.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 23, 2026",
-      "rawDate": "2026-07-23T08:30:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
       "scope": "international"
     }
   ]

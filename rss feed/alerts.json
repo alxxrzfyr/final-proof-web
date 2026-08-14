@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-13T01:58:40.852Z",
+  "fetchedAt": "2026-08-14T01:56:14.361Z",
   "alerts": [
     {
       "id": "alert-local-1786367234482-6auz25",
@@ -100,6 +100,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1786672573162-ytjdex",
+      "title": "online lottery win real money for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fNTlKelFEQ25BMTFmZHh5eW40bWdVdGU4eXk0THM2Mmdmb0lBdTAzSkxoZi15cjlYZW1VNUE0VEMyQ1pmX1BXeXlYd2lzM241d252Y01nNWlQZHVfNUlmbnlYc2xBSW5lTklCdlEyR1NuUFU?oc=5",
+      "source": "tesda.gov.ph",
+      "sourceLabel": "tesda.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 5, 2026",
+      "rawDate": "2026-08-05T19:13:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1786070384209-knps",
       "title": "draw lottery online for Android - Search on Google Play",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yVmFmNjNYaEE0STNjT0gxUHFMMWpnemNnbzdJM3dFN0FsbkZZNkIySGF4cG1NRDNBYTlWVTR6Q09vWEcxWVhtRDJSQ1ZYdUFFNjBCbGJqQjhWTHk3MmxYRDhZYUE1QQ?oc=5",
@@ -153,20 +167,6 @@
       "date": "August 5, 2026",
       "rawDate": "2026-08-05T11:40:10.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786025346498-eeja3",
-      "title": "free slot machine games for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00U2xpcFhQZDFjdmkxT3NNa3F3VkRtWkNFT3lTRWstYS1yUWxuaVVsdHk5Sk90RmRyVERqYlk0N3JjTWhqZTFlbFhpUGJxeHRiS3ZPNzdiakdqUmpJdW9ZRWhPcTE3N0dsTGxZ?oc=5",
-      "source": "tesda.gov.ph",
-      "sourceLabel": "tesda.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T09:39:52.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
       "scope": "local"
     },
     {

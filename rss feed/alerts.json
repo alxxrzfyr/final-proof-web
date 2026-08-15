@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T01:13:07.598Z",
+  "fetchedAt": "2026-08-15T12:36:47.758Z",
   "alerts": [
     {
       "id": "alert-local-1786756387596-ij8pe",
@@ -13,6 +13,20 @@
       "date": "August 14, 2026",
       "rawDate": "2026-08-14T12:54:41.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1786797406414-yiw3e3",
+      "title": "www betso88 cc for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PVzlGMDlxOUw0c3VEUG9jc09iTS1ST0l4U2dHRXBHVHBzRl9LcDJsYS1kb0xpcEpyaGl4V1h2bld0aFJJUUduanFtdlNuMDhOOXktSGhBeGltcUk0?oc=5",
+      "source": "crms.umin.edu.ph",
+      "sourceLabel": "crms.umin.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 14, 2026",
+      "rawDate": "2026-08-14T12:46:52.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/crms.umin.edu.ph.ico",
       "scope": "local"
     },
     {
@@ -86,6 +100,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1786797407212-nmpcxh",
+      "title": "MMDA probes NCAP scams",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZmNZWHAwUkFNMUdzekplUVA0VnNNUExGSDIzdnhzcE52R2Y5Mlh1RHVtMS05MmtINjgwODZDMHF1VlZvTjVteVpvT2dwNERSTHFRWHY2bmxZU3ZxSXNKQ2hveDlRTmJfYVdJemF0V2FZOGRnTGdKSl9VNjNhQdIBhAFBVV95cUxON3FuUkl3Y0d2RmVRX0h2Z19KWlFtRmRLbEtjNVUzbm5Hb0FJTmw3emtLNzR5N01DM0J2Qy1Sam9GTHVEV244aTF6OVRiQVlnSDdmODU3MERoaHhGdFJxeVlNRzFWaWdFZW5jZXktSEltNlNIZ2JocS1jSlN4aFRZakVnaTc?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 6, 2026",
+      "rawDate": "2026-08-06T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1786107771576-gzp29",
       "title": "Woman nabbed for 'scamming' BTS fans with fake concert tickets",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlNIckFxSi1TMUlNNnNnZWRBQXdwTV9YLTN1bEtjMnN1YnhyMldvT0N4dUMwTlpRS3ptbkJtWGxGZllvWW8wNG1GdzZfZFlyZFI2UExJWXlrS3pZeC1uLU45dWg5WnFLX2F1OVZVSHo0azhKSDRsX1lKaU1kQlhXN2E1NnBrUkJOQ1M3VWF1V1pnbjRHRUVLTHViSFVLeW5kTVlpbGVUWWZ2Nzd1Wk5B?oc=5",
@@ -138,34 +166,6 @@
       "severity": "medium",
       "date": "August 5, 2026",
       "rawDate": "2026-08-05T19:13:42.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786070384209-knps",
-      "title": "draw lottery online for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yVmFmNjNYaEE0STNjT0gxUHFMMWpnemNnbzdJM3dFN0FsbkZZNkIySGF4cG1NRDNBYTlWVTR6Q09vWEcxWVhtRDJSQ1ZYdUFFNjBCbGJqQjhWTHk3MmxYRDhZYUE1QQ?oc=5",
-      "source": "tesda.gov.ph",
-      "sourceLabel": "tesda.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T18:57:37.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785983627021-ge5wjn",
-      "title": "jljl9 promo code for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VcVo0U1Fxb1NkSUtZNFh4U3I2WlMtZVgtQW1IcE1Ua0hFcDBqLTdTck9lUGhRcC0zeHJVVmZLbm85YmptOHpUR1hVUVdJdnFTNGQ3TkFISVFWVlNJWE56NU93?oc=5",
-      "source": "tesda.gov.ph",
-      "sourceLabel": "tesda.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T17:52:44.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
       "scope": "local"
     },

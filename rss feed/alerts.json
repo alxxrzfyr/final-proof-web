@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-14T01:56:14.361Z",
+  "fetchedAt": "2026-08-15T01:13:07.598Z",
   "alerts": [
+    {
+      "id": "alert-local-1786756387596-ij8pe",
+      "title": "FALSE: Dominguez endorses bitcoin trading program",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlVxSUZkQ2JicmNqVGVVZDg4VFJIYW53WVpqZXp5X2RrcW90UG9fSnhVeHRyN0RqcnFqX0htaWlQamNuMlNMX0pIVkhSYXZvRUZINUhVZEs3TGw0LUpLYzlRdzl0MFNPZGRBZFo1SHVaWlpsdUtCYW9Mdl9LWlN2cjdJMjFleFRXamNaOWd0bUxLQQ?oc=5",
+      "source": "rappler.com",
+      "sourceLabel": "rappler.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 14, 2026",
+      "rawDate": "2026-08-14T12:54:41.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1786367234482-6auz25",
       "title": "Cyberattacks are getting faster as AI helps hackers scale",
@@ -13,6 +27,20 @@
       "date": "August 10, 2026",
       "rawDate": "2026-08-10T07:08:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/technology.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1786756386336-x8b6",
+      "title": "how to play bitcoin slots for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52NWlDYkQyenFhMC1QMjF6N1JHRi03TWM5WjZkWnVMUlgyWDJSMkRtUldOV3FLWGY2Zzc3LVNKYTRVNmJ2M0JMd2RUMDdkdVFTUnkzVlRYYm13MnUxRnBOaURmd0ZYVzhXLXc?oc=5",
+      "source": "mis.umin.edu.ph",
+      "sourceLabel": "mis.umin.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 9, 2026",
+      "rawDate": "2026-08-09T02:42:40.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
       "scope": "local"
     },
     {
@@ -139,34 +167,6 @@
       "date": "August 5, 2026",
       "rawDate": "2026-08-05T17:52:44.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1785983627867-r8l62b",
-      "title": "MMDA probes NCAP scams",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZmNZWHAwUkFNMUdzekplUVA0VnNNUExGSDIzdnhzcE52R2Y5Mlh1RHVtMS05MmtINjgwODZDMHF1VlZvTjVteVpvT2dwNERSTHFRWHY2bmxZU3ZxSXNKQ2hveDlRTmJfYVdJemF0V2FZOGRnTGdKSl9VNjNhQdIBhAFBVV95cUxON3FuUkl3Y0d2RmVRX0h2Z19KWlFtRmRLbEtjNVUzbm5Hb0FJTmw3emtLNzR5N01DM0J2Qy1Sam9GTHVEV244aTF6OVRiQVlnSDdmODU3MERoaHhGdFJxeVlNRzFWaWdFZW5jZXktSEltNlNIZ2JocS1jSlN4aFRZakVnaTc?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T16:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786070384656-7bpj3",
-      "title": "MMDA, NBI caution public vs NCAP text scam",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazhzZjhKU1pXa01lOUlrZHlic3ZQNUtLbHFUdVRYd1NvY0ptMXpBWnE5ZTJwZVpKdEtLYXFlQWpCR21XX3hHTWpya1F3M1BOeS1uTTBralBhU3F4WkctTGtVb1BKR05jOEZPYy1sSE93YlllSmRFQ0JJcGVWTU1WRjVfb01IdGctekVRSWpRUUphVzRQaWc?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T11:40:10.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {

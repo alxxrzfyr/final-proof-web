@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T01:17:33.995Z",
+  "fetchedAt": "2026-08-16T12:38:19.777Z",
   "alerts": [
     {
       "id": "alert-local-1786756387596-ij8pe",
@@ -170,6 +170,34 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1786883898313-s3h36a",
+      "title": "‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos",
+      "url": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 16, 2026",
+      "rawDate": "2026-08-16T06:00:17.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1786883899074-ykq2t3",
+      "title": "Suisun City's City Hall to remain closed through the week after malware attack",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXdFZ25DVWgtZ0lLMldad0l1UjhHRzM5Z0VtOHJVTm1sM01CX05yMERGcl9xNEFLTml6MGZvbWV0UG5ZbmlJbEVHdGZMbGo0Z3RFM1R3cmNYQkRvQmR0dFpDcEpZTVkzU3dPRllDSGEyQmoyRUxWek53SHk3MDM1am1SX1lGaVJSeHJiZDJWQnFBYjc3WHJQcl9n?oc=5",
+      "source": "CBS News",
+      "sourceLabel": "CBS News",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 11, 2026",
+      "rawDate": "2026-08-11T13:53:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1786279816000-epbhzl",
       "title": "‘Watch The Odyssey for free online’: scam targets film fans with fake streaming sites",
       "url": "https://www.theguardian.com/money/2026/aug/09/watch-the-odyssey-for-free-online-scam-film-fans-fake-streaming-sites",
@@ -307,34 +335,6 @@
       "date": "July 27, 2026",
       "rawDate": "2026-07-27T14:39:03.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1786586320089-0kl9l7",
-      "title": "Apple sued after alleged App Store crypto scam cost users $1.8M",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTTZSUjUybGtPNGpPa3FQZ1puRnlqdUxfM0ZuaHRGQUN5MnYwZzZIRVRqeW5lVkpkb1h6X1hiTjFyMXZhMjZYNjZ1U0ZRT0ZwNm9CMzhySnVFX3JoSEdRcGZMUDM4endxbGVFWVZfTlFvZmJIbGM0bnlpUEliS1hjS05sd1BJOGtLa2RwZE9vY3ltQlV6clBGVUVMaS1NQQ?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 27, 2026",
-      "rawDate": "2026-07-27T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1785072130309-yqjtvo",
-      "title": "‘I never thought I’d fall for a scam’: the fake Spotify emails that put you at risk of fraud",
-      "url": "https://www.theguardian.com/money/2026/jul/26/spotify-scam-fake-emails-fraud",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 26, 2026",
-      "rawDate": "2026-07-26T06:00:03.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

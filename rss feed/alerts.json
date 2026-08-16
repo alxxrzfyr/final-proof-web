@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-15T12:36:47.758Z",
+  "fetchedAt": "2026-08-16T01:17:33.995Z",
   "alerts": [
     {
       "id": "alert-local-1786756387596-ij8pe",
@@ -7,6 +7,20 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlVxSUZkQ2JicmNqVGVVZDg4VFJIYW53WVpqZXp5X2RrcW90UG9fSnhVeHRyN0RqcnFqX0htaWlQamNuMlNMX0pIVkhSYXZvRUZINUhVZEs3TGw0LUpLYzlRdzl0MFNPZGRBZFo1SHVaWlpsdUtCYW9Mdl9LWlN2cjdJMjFleFRXamNaOWd0bUxLQQ?oc=5",
       "source": "rappler.com",
       "sourceLabel": "rappler.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 14, 2026",
+      "rawDate": "2026-08-14T12:54:41.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1786843053992-pgcft",
+      "title": "Pasay ‘scam hub’ workers told to flirt, make victims fall for them first",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc2FzRjNOcWt6MW1ETzJ3Ym9kRks1ZWFMZnRoaWFYS3NSYnpUYjRETmRLZFVza0N5MFItaHlLRWtVSVVJVHBNU2U3YV9iWEx1WE8zUVE5UXNOMU42UGstS2tfQlAzYUpZNEdWX1FoRXktdG1hN1pVQUJnb3o3VU5mWnlrdnpOeVQ3QTZycDg0eVlTNnU2bk5XMUJyOUljS0po?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
@@ -153,20 +167,6 @@
       "date": "August 6, 2026",
       "rawDate": "2026-08-06T00:10:01.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786672573162-ytjdex",
-      "title": "online lottery win real money for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fNTlKelFEQ25BMTFmZHh5eW40bWdVdGU4eXk0THM2Mmdmb0lBdTAzSkxoZi15cjlYZW1VNUE0VEMyQ1pmX1BXeXlYd2lzM241d252Y01nNWlQZHVfNUlmbnlYc2xBSW5lTklCdlEyR1NuUFU?oc=5",
-      "source": "tesda.gov.ph",
-      "sourceLabel": "tesda.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T19:13:42.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
       "scope": "local"
     },
     {

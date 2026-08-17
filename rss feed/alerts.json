@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-16T12:38:19.777Z",
+  "fetchedAt": "2026-08-17T12:42:49.616Z",
   "alerts": [
     {
       "id": "alert-local-1786756387596-ij8pe",
@@ -44,6 +44,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1786970568238-hb0xho",
+      "title": "Ilocos Sur businesswoman loses P80K in alleged online gold scam",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZF9UV25Ic0hVbDdXanUxZ0U3bGFMc3ZDVnd6UjJsUmVBNkRJcUNEcWlSWjNBQVlJLUlfUWhaR0JnTEwxNnZoZnFaekxJZWtkX2hsZWMzVGpIaFRTSksxMnBMR01YU29LS1htUzUtUkJfVnd0NWMtbUZZQXo2SGk2WjNMOHg2cjAyOXdkeGE1WGlwR01LeV9xakJib3E4UQ?oc=5",
+      "source": "tribune.net.ph",
+      "sourceLabel": "tribune.net.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 12, 2026",
+      "rawDate": "2026-08-12T04:53:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1786367234482-6auz25",
       "title": "Cyberattacks are getting faster as AI helps hackers scale",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3J0Rjhvc3BYUy1TZEtQVGFveS15bmFab1NpaTFRajJQcFo0RjdocC1DV3NtMDJjQUxjQ1FDUWJJV1FtTWtWYnFPM0NsYVk1UmNDX2UyUWVTekM4VGF6TGx2NnhWRnNnSUVoRjZPWmxMZExsTW5ELWJUUEZEX2R3TGctSU1yNnJ4Q0c5bGtud3h6b0ZuN2tUS3ZtN1XSAaIBQVVfeXFMTXdxOXBRSjRwRVJvV2haOVhUZ3VfdWY3dkx1SXNsbU5QaHlYNmVBZHVJNFJhWWpLcVhFdS0yZ1RwVVV6UF9mYVpnaE8xUjVrSXc1S1lIY3JrZmxCeGxkVGtCUmJwbjFva2wxM2hlM2VpTnhIWWVDVGRRSk9PdldMdzMyRkxpRlZOMklTTlFnUzNEczBDNjBmLXRncnNVaVRmTkVR?oc=5",
@@ -55,6 +69,20 @@
       "date": "August 10, 2026",
       "rawDate": "2026-08-10T07:08:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/technology.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1786970568238-c7wqbs",
+      "title": "Driver's license scam",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxY2F0OW9KRnloczBnREhkMmpKWE1SWEJma0hBWUtPcndUek0zQU1pOXZ6ZHVFUV9seDdwdHBYMGluYlgwbmdHMDBiQ09Wc3c1bFB0UFVVZ2EzR3BHWGc?oc=5",
+      "source": "tribune.net.ph",
+      "sourceLabel": "tribune.net.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 10, 2026",
+      "rawDate": "2026-08-10T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {
@@ -142,34 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1786025346496-vzz719",
-      "title": "Robin links DepEd to communist recruitment in universities",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNemVHd0praGlleHAyOEl0SGN0eEtyS1JyaWZIVXA2d2hLYjh5MHVMZFNfZ01udkFaZVNfN0ZLU1p4QWt5ejBUVkJrRVlhckJiYy1ST0lCN0Zjd2VzNUpPZzZRR0M1QXN1eS1ibkhvamFpZzVWSENaMGR0dFhkVThnUUxZV05mNjVsQ0lIanY4UjF6SzJISE9yYzJR?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 6, 2026",
-      "rawDate": "2026-08-06T03:54:47.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tempo.mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786239876955-lrlhud",
-      "title": "Doktora niloko ng sariling assistant sa ‘love scam,’ halos P500k natangay",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSERYb1hObzNKZTZWQ19GbThwNGxCb3dJeFBkbnlQRUpoTWJuZkZWSHVsbnMwVGM2ZGw5eWxYWnR1Y1pmdkwtSW00RkpJcGtuNk9XUWtvemVXbmEwVmtRM2dOUW5mbF9pcldUbHhodWFyaUNPNElGQlpQdkJSX0t2eWFod0FHQWlEWmdGSHF2VmJCNHFOMDdKN3NtUWNwWGZZZkUxczRtMUpwNE4wNkxWeDJONTU3akpheEQtSg?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 6, 2026",
-      "rawDate": "2026-08-06T00:10:01.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-1786883898313-s3h36a",
       "title": "‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos",
       "url": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
@@ -212,7 +212,7 @@
       "scope": "international"
     },
     {
-      "id": "alert-international-1786279816565-da4u9i",
+      "id": "alert-international-1786970568689-kxhb5d",
       "title": "Northern California city declares emergency after malware disrupts 911, public safety systems",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVdlN1pDWFNmUkxuNThXZm5URGVQRzU4VHhtOGwtQ1hvWG0tM1ljb3l4U0cxeURtZndacC12S0syQURXcjcyMzhacFNVS2Vaa3hLVEhZVUNPdkpmODl4MXNCVWV5eDlQTkR1RjBlcDNKNHJaanpLS0tTZ2pIQ3hoSVVtTC1BVXo2?oc=5",
       "source": "CBS News",
@@ -220,8 +220,8 @@
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 8, 2026",
-      "rawDate": "2026-08-08T23:26:20.000Z",
+      "date": "August 9, 2026",
+      "rawDate": "2026-08-09T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     },

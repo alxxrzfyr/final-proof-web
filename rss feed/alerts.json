@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-17T12:42:49.616Z",
+  "fetchedAt": "2026-08-19T12:46:02.334Z",
   "alerts": [
+    {
+      "id": "alert-local-1787143561747-aazvyn",
+      "title": "GCash rolls out facial verification for GLoan and free loan scam insurance",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTVPQ2F6b01ROHo1cHFORHZCekljUXFINVdqSE8zNngzVkJMMkE1U0V1WWRrM2NyNFgwbHg0ZWE3QnJER1loUkU2NXh5T1JVbzdZLXRfNURRbXZNRW1hWVR1TklyVHlqZFhRcVZZTWc5TG81cFU4NUJjWmtSQXZmcjVpTnVZdmZpOENkVW84THpVXzZUNUtIQ2hZdHJCbENuUHNMbUtFa3lnUFV5NXBVZW5veXFhanPSAbwBQVVfeXFMT1I5YkFZRC1scmstek1sRnlUQldvWHM2OEowY0dFV3J5NHRMaklneHNobjBnX3l3TjNWZVByVjJwVC1RanpvaW9JMGdhSlBpOXlWcTVURncwRVFqRWR6YmkzekxkNEVRQ01GS2hLVjAyV0lBUklyNDVUVUlGa3pPS0NTWEdCRXdjR2VkVXNZZVhtRG1DYlBNeHoxRUxaZ1dWaXlaY0tGZFZKc2l1QUxBczFEQ1J1UnRfSGV0czE?oc=5",
+      "source": "Cebu Daily News",
+      "sourceLabel": "Cebu Daily News",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 19, 2026",
+      "rawDate": "2026-08-19T09:07:59.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1786756387596-ij8pe",
       "title": "FALSE: Dominguez endorses bitcoin trading program",
@@ -153,20 +167,6 @@
       "date": "August 6, 2026",
       "rawDate": "2026-08-06T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786107771576-gzp29",
-      "title": "Woman nabbed for 'scamming' BTS fans with fake concert tickets",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlNIckFxSi1TMUlNNnNnZWRBQXdwTV9YLTN1bEtjMnN1YnhyMldvT0N4dUMwTlpRS3ptbkJtWGxGZllvWW8wNG1GdzZfZFlyZFI2UExJWXlrS3pZeC1uLU45dWg5WnFLX2F1OVZVSHo0azhKSDRsX1lKaU1kQlhXN2E1NnBrUkJOQ1M3VWF1V1pnbjRHRUVLTHViSFVLeW5kTVlpbGVUWWZ2Nzd1Wk5B?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 6, 2026",
-      "rawDate": "2026-08-06T04:56:30.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {

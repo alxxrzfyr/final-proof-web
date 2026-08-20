@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-19T12:46:02.334Z",
+  "fetchedAt": "2026-08-20T12:49:17.425Z",
   "alerts": [
+    {
+      "id": "alert-local-1787230156169-72ags9",
+      "title": "Anti-Fraud Operations Specialist 1713257",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNi02TlY0VS0tNFVEa0xpalJBSEtJN0hrc0IweHI1YWtfYkVDT3NMMUExOFhTSTVoM3JDblhKWC1GMUZUSUhFN29UM3QyQmhpaXNuS09QNmxwemMteDlPU0NmanlZZ2h1Nld5eXhpTnFLVzliTl9tODJrQVF3eHJsU1VzSUNIcVNC?oc=5",
+      "source": "onlinejobs.ph",
+      "sourceLabel": "onlinejobs.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 20, 2026",
+      "rawDate": "2026-08-20T10:23:07.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.onlinejobs.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1787143561747-aazvyn",
       "title": "GCash rolls out facial verification for GLoan and free loan scam insurance",
@@ -153,20 +167,6 @@
       "date": "August 7, 2026",
       "rawDate": "2026-08-07T07:20:14.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.uni-president.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786797407212-nmpcxh",
-      "title": "MMDA probes NCAP scams",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJZmNZWHAwUkFNMUdzekplUVA0VnNNUExGSDIzdnhzcE52R2Y5Mlh1RHVtMS05MmtINjgwODZDMHF1VlZvTjVteVpvT2dwNERSTHFRWHY2bmxZU3ZxSXNKQ2hveDlRTmJfYVdJemF0V2FZOGRnTGdKSl9VNjNhQdIBhAFBVV95cUxON3FuUkl3Y0d2RmVRX0h2Z19KWlFtRmRLbEtjNVUzbm5Hb0FJTmw3emtLNzR5N01DM0J2Qy1Sam9GTHVEV244aTF6OVRiQVlnSDdmODU3MERoaHhGdFJxeVlNRzFWaWdFZW5jZXktSEltNlNIZ2JocS1jSlN4aFRZakVnaTc?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 6, 2026",
-      "rawDate": "2026-08-06T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {

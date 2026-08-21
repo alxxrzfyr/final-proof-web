@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-21T01:17:02.119Z",
+  "fetchedAt": "2026-08-21T12:46:29.623Z",
   "alerts": [
+    {
+      "id": "alert-local-1787316388880-5ph5rk",
+      "title": "17 arrested in twin anti-scam ops in Parañaque",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODg0SzdZSXdQeXVjSTJBQlBUdlRkQVJ6TVY1WVlvNHVwUzBFc1VXNE1MdDA0Y3p4cWtUQ2dHNzdOTTRJSzItRWItQ3d0TXF3RUxlQ0hIS1ZPSlkzSVdRUU9CaWZzaWJJb2czNlQzbDJyM0ZoekJXQWJnZzJmOEZXWXJxUWthSk84Zk5HLTNiMWhxOFVMeDRYU2RzOXduZw?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 21, 2026",
+      "rawDate": "2026-08-21T11:37:10.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1787230156169-72ags9",
       "title": "Anti-Fraud Operations Specialist 1713257",
@@ -19,6 +33,20 @@
       "id": "alert-local-1787275022117-htsim",
       "title": "How to keep your GCash and PayMaya account secure, and what to do in case of a breach",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjdLcHQ1Ty1KLUVTQjQxVEdnU0Z4Ynd5V3ZEd1hxS3N2WkRucGU2clR6b3RHQUdXN0tGQU5QUjhCOE5DRXQ0U3oxTmJPR05PZ25ZbjdYM3RRcy1fbUZVNXRjUTB0RHhPeTV2dXJVcTZNb3RyVjFwTTc2b3p4N1VCVmdOa0VCNlhnRFJBQXNQdWtEcF9PQ2NHVThLSHNXTXowZnFWbVJWMlY2QlhvQXBUOQ?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 20, 2026",
+      "rawDate": "2026-08-20T02:14:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787316389621-69suxp",
+      "title": "Security Bank users claim phishing losses totaling more than P5.7M",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFk1dmdJUFFqUW9IZjNwRFZQZ2pBMmNRemVwT2hSNDI0am16ZXRIN3l2czh1THo0eWlTSnpNQVZmcW1vR0pWb1VIR3hpTkdGdXl1UmVfdC1qcUNjTDhPVDVwM2dSenNSMTJ6cVZhRTVjWEJiUm9PN0tycXpzYjVYYXNhNzJoNXc4MkxlX015YWI?oc=5",
       "source": "Rappler",
       "sourceLabel": "Rappler",
       "sourceLogo": "newspaper",
@@ -139,34 +167,6 @@
       "date": "August 9, 2026",
       "rawDate": "2026-08-09T02:42:40.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786239876563-0glpq8",
-      "title": "uk lottery online for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9wY21QU0VQNFg3eWQyQTZNeEptbVBXWkE5ZUFQVm9pYXhoYXZTamNqWXVvdUkwdG9NOGNFazNNbFFrRmtTTENJTzdCY0dxN0M2em1aaUN1LWJNWko5SV9n?oc=5",
-      "source": "mis.umin.edu.ph",
-      "sourceLabel": "mis.umin.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 8, 2026",
-      "rawDate": "2026-08-08T08:00:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mis.umin.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786540124996-m1hu0d",
-      "title": "odds of winning 6 number lottery for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnN4dVNRbE55WVBEY0lTZTh5ekhqa2JiZ2U4M3gtZ213MWxuM3NPQUY2RzF3RWhPWnF2NHhXV0RVeXJWUTZBOGxGcnZiZVQ5SkRUNUYxZ0tHSzlubktkUndPaWVwNlpQQXBHdUpieUdqcDE3ZjdxMUxSYWtYVDRNcDA3YTFxVktRYnE3UjBHV0RrVXpsVnU0Qi1CSDhYTEpCUXhCN3NiUFdUeFBfTHc?oc=5",
-      "source": "uni-president.com.ph",
-      "sourceLabel": "uni-president.com.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 7, 2026",
-      "rawDate": "2026-08-07T15:28:15.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.uni-president.com.ph.ico",
       "scope": "local"
     },
     {

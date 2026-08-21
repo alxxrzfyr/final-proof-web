@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-20T12:49:17.425Z",
+  "fetchedAt": "2026-08-21T01:17:02.119Z",
   "alerts": [
     {
       "id": "alert-local-1787230156169-72ags9",
@@ -13,6 +13,20 @@
       "date": "August 20, 2026",
       "rawDate": "2026-08-20T10:23:07.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.onlinejobs.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787275022117-htsim",
+      "title": "How to keep your GCash and PayMaya account secure, and what to do in case of a breach",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjdLcHQ1Ty1KLUVTQjQxVEdnU0Z4Ynd5V3ZEd1hxS3N2WkRucGU2clR6b3RHQUdXN0tGQU5QUjhCOE5DRXQ0U3oxTmJPR05PZ25ZbjdYM3RRcy1fbUZVNXRjUTB0RHhPeTV2dXJVcTZNb3RyVjFwTTc2b3p4N1VCVmdOa0VCNlhnRFJBQXNQdWtEcF9PQ2NHVThLSHNXTXowZnFWbVJWMlY2QlhvQXBUOQ?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 20, 2026",
+      "rawDate": "2026-08-20T02:14:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {
@@ -152,20 +166,6 @@
       "severity": "medium",
       "date": "August 7, 2026",
       "rawDate": "2026-08-07T15:28:15.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.uni-president.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786540124996-5cc6p4",
-      "title": "lottery with highest odds of winning for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREhvWGxXcWw5dFhwVmwwSkJmNWl6UXI3c0lhNnRjUXVvOWx3aFVfaEdGSmlWNjJraXJNdkdtcVFGT0hOZkczVGZ6amZIMWlqN19pT3gtTWNrZU1RSWJVYXkxelozNllvSTFXbFdLempMejYweUxHN3kyRnYwZG1FM0pNWUNEWVNqallTUWZ4REpDWFNKalNtSGVOX0ZDYy1kUjdVaFRIWWJzcXUwdG5tUUJCazlRak9h?oc=5",
-      "source": "uni-president.com.ph",
-      "sourceLabel": "uni-president.com.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 7, 2026",
-      "rawDate": "2026-08-07T07:20:14.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.uni-president.com.ph.ico",
       "scope": "local"
     },

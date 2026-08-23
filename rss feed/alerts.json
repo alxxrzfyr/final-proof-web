@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-23T01:18:43.480Z",
+  "fetchedAt": "2026-08-23T12:39:07.225Z",
   "alerts": [
+    {
+      "id": "alert-local-1787488745787-1cg5lq",
+      "title": "draw lottery online for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05TGV0bFBYeVVHS3JzNjBxMFBnVW5uQjJNWEtrdlcwbHJvNk5NNjFiMjRXNmRud1BlZXd4NHBXbzdPWmxGWnYtNjFJa25ZRTItcEpEOENpMThnRkVyd2NpeE5oaG14WVk?oc=5",
+      "source": "DTI",
+      "sourceLabel": "DTI",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 23, 2026",
+      "rawDate": "2026-08-23T03:16:10.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/careers.dti.gov.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1787447922862-wbt7or",
       "title": "BTS’ Jungkook hacking ringleader gets 20 years in prison",
@@ -27,6 +41,20 @@
       "date": "August 22, 2026",
       "rawDate": "2026-08-22T23:23:35.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787488745787-fnw6yv",
+      "title": "lucky lottery result for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZOEY3UlRPd2JhdUJhQjdDdmpiZngtU2ZiXzhGZGVLdFBiVWJ5MXJncG5FSlR0YmhxMF9naWQ5ZklCSHVOcHlGY2hLMTVxV2s2dFZhNnlFNHBBcDdBSGN2Uk9XRXlpaVpu?oc=5",
+      "source": "DTI",
+      "sourceLabel": "DTI",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 22, 2026",
+      "rawDate": "2026-08-22T23:14:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/careers.dti.gov.ph.ico",
       "scope": "local"
     },
     {
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1786843053992-pgcft",
-      "title": "Pasay ‘scam hub’ workers told to flirt, make victims fall for them first",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPc2FzRjNOcWt6MW1ETzJ3Ym9kRks1ZWFMZnRoaWFYS3NSYnpUYjRETmRLZFVza0N5MFItaHlLRWtVSVVJVHBNU2U3YV9iWEx1WE8zUVE5UXNOMU42UGstS2tfQlAzYUpZNEdWX1FoRXktdG1hN1pVQUJnb3o3VU5mWnlrdnpOeVQ3QTZycDg0eVlTNnU2bk5XMUJyOUljS0po?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
+      "id": "alert-international-1787488745728-eokfro",
+      "title": "‘Friday afternoon fraud’: warning for UK homebuyers on bank scams",
+      "url": "https://www.theguardian.com/money/2026/aug/23/friday-afternoon-fraud-scam-conveyancing-fraud-uk-property-buyer-bank-account",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 14, 2026",
-      "rawDate": "2026-08-14T12:54:41.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786797406414-yiw3e3",
-      "title": "www betso88 cc for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PVzlGMDlxOUw0c3VEUG9jc09iTS1ST0l4U2dHRXBHVHBzRl9LcDJsYS1kb0xpcEpyaGl4V1h2bld0aFJJUUduanFtdlNuMDhOOXktSGhBeGltcUk0?oc=5",
-      "source": "crms.umin.edu.ph",
-      "sourceLabel": "crms.umin.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 14, 2026",
-      "rawDate": "2026-08-14T12:46:52.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/crms.umin.edu.ph.ico",
-      "scope": "local"
+      "date": "August 23, 2026",
+      "rawDate": "2026-08-23T06:00:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1786883898313-s3h36a",
@@ -321,20 +335,6 @@
       "date": "July 30, 2026",
       "rawDate": "2026-07-30T16:49:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1785205971229-w5sdt9",
-      "title": "Coca-Cola resumes Fairlife milk production after hackers shut down plants",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWmFxOW1XMnBKaWNjdlFUTy01ZkFoa1AzcFNKRHF3M0NKa3FzR1JqMy1KMVVJZ3VOMjZlYTROVHBCUXVYblRPb25aT21rYURmTGpaMGZOME1IOVBLZDBPRnVNdnZySFhYRFhpN1l0eHlhM1lmWjZxWlBkRDd3YmJBSUNMaTFSOUxnOHc?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 27, 2026",
-      "rawDate": "2026-07-27T14:39:03.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

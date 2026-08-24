@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-08-23T12:39:07.225Z",
+  "fetchedAt": "2026-08-24T01:16:48.800Z",
   "alerts": [
+    {
+      "id": "alert-local-1787534207367-6ghrks",
+      "title": "PHLPost warns public against 'smishing' online scams",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPblZ2TzF2cnpYRWRKMDhSc1lNZTk4SmlsRjA2TlpteGFtVDlvelBUUXlJbWxEMmFDQlhKOVpJNGJoY1VIcWkzYUtRSm5fRklSZDJOU1prZTZwaEE5bUJIMkQxaUo5Z29qcm9icnlwQkNsUHdOSlA1UlRJWGtKZFZ3aWZGZzJUdnEyNzRF0gGYAUFVX3lxTE5lUVZiRk13RmxOMlJvT2dqX0RXamx1SG8yeWhtMEt4V2tTeTNDdFc5aEFmTEZsczV3anVPbVdsRzZhWGh2M0NyMk1YSk9pLWJBR0xtRGZ5aEY2QkdmWW5kaE5pSy0yRXNvTVlDdjAta0R2NExwY0otQjFyWmVfQzl2aGNiTFBXLWI4VkdOMjJaR3JHVFdudWhP?oc=5",
+      "source": "SunStar Publishing Inc.",
+      "sourceLabel": "SunStar Publishing Inc.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 23, 2026",
+      "rawDate": "2026-08-23T17:18:18.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787534207370-9g72u",
+      "title": "win win lottery result for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wcHBaemtPdGpnUk9nNHpWckR1YnVLSzZWaUJUVGtweVZTWm4wWlJqa016ZjViUWtyOElFUlBrMlJBeWpQbWNrZWZvVUF6WmZ3THBHTDNIMXZLVFllODh4R2xyWHlreEQtb1E?oc=5",
+      "source": "DTI",
+      "sourceLabel": "DTI",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 23, 2026",
+      "rawDate": "2026-08-23T11:57:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/careers.dti.gov.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1787488745787-1cg5lq",
       "title": "draw lottery online for Android - Search on Google Play",
@@ -138,34 +166,6 @@
       "severity": "medium",
       "date": "August 20, 2026",
       "rawDate": "2026-08-20T02:14:56.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787143561747-aazvyn",
-      "title": "GCash rolls out facial verification for GLoan and free loan scam insurance",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbTVPQ2F6b01ROHo1cHFORHZCekljUXFINVdqSE8zNngzVkJMMkE1U0V1WWRrM2NyNFgwbHg0ZWE3QnJER1loUkU2NXh5T1JVbzdZLXRfNURRbXZNRW1hWVR1TklyVHlqZFhRcVZZTWc5TG81cFU4NUJjWmtSQXZmcjVpTnVZdmZpOENkVW84THpVXzZUNUtIQ2hZdHJCbENuUHNMbUtFa3lnUFV5NXBVZW5veXFhanPSAbwBQVVfeXFMT1I5YkFZRC1scmstek1sRnlUQldvWHM2OEowY0dFV3J5NHRMaklneHNobjBnX3l3TjNWZVByVjJwVC1RanpvaW9JMGdhSlBpOXlWcTVURncwRVFqRWR6YmkzekxkNEVRQ01GS2hLVjAyV0lBUklyNDVUVUlGa3pPS0NTWEdCRXdjR2VkVXNZZVhtRG1DYlBNeHoxRUxaZ1dWaXlaY0tGZFZKc2l1QUxBczFEQ1J1UnRfSGV0czE?oc=5",
-      "source": "Cebu Daily News",
-      "sourceLabel": "Cebu Daily News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 19, 2026",
-      "rawDate": "2026-08-19T09:07:59.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1786756387596-ij8pe",
-      "title": "FALSE: Dominguez endorses bitcoin trading program",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlVxSUZkQ2JicmNqVGVVZDg4VFJIYW53WVpqZXp5X2RrcW90UG9fSnhVeHRyN0RqcnFqX0htaWlQamNuMlNMX0pIVkhSYXZvRUZINUhVZEs3TGw0LUpLYzlRdzl0MFNPZGRBZFo1SHVaWlpsdUtCYW9Mdl9LWlN2cjdJMjFleFRXamNaOWd0bUxLQQ?oc=5",
-      "source": "rappler.com",
-      "sourceLabel": "rappler.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 14, 2026",
-      "rawDate": "2026-08-14T12:54:41.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },

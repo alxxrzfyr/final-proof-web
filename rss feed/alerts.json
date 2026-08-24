@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-08-24T01:16:48.800Z",
+  "fetchedAt": "2026-08-24T12:49:52.494Z",
   "alerts": [
+    {
+      "id": "alert-local-1787575792493-9ziz7",
+      "title": "FALSE: Vice Ganda endorses bitcoin product",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 24, 2026",
+      "rawDate": "2026-08-24T07:40:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787575792492-17g8p",
+      "title": "PHLPost warns public against ‘smishing’ and online scams",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm51dUNUQWRxVXZIN2xIWTRoTmU2RzN5UGVjZ0tDZXJvcFl4RlZyREFCemR6ZzNDSFZLa3FCTHRLMVI0NzVFQVduNWdmdTYyeFRINHFRTjlLRHM0VnVteURtY1ptclprc0VMXzg5ckEtOWx5MnBjUE9xNGpRMGY3OU1jUklkc1FZREpIdkJPSlZTU2U2SG9ZdXln?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 24, 2026",
+      "rawDate": "2026-08-24T02:56:09.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1787534207367-6ghrks",
       "title": "PHLPost warns public against 'smishing' online scams",
@@ -139,34 +167,6 @@
       "date": "August 20, 2026",
       "rawDate": "2026-08-20T10:23:07.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.onlinejobs.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787275022117-htsim",
-      "title": "How to keep your GCash and PayMaya account secure, and what to do in case of a breach",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjdLcHQ1Ty1KLUVTQjQxVEdnU0Z4Ynd5V3ZEd1hxS3N2WkRucGU2clR6b3RHQUdXN0tGQU5QUjhCOE5DRXQ0U3oxTmJPR05PZ25ZbjdYM3RRcy1fbUZVNXRjUTB0RHhPeTV2dXJVcTZNb3RyVjFwTTc2b3p4N1VCVmdOa0VCNlhnRFJBQXNQdWtEcF9PQ2NHVThLSHNXTXowZnFWbVJWMlY2QlhvQXBUOQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 20, 2026",
-      "rawDate": "2026-08-20T02:14:56.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787316389621-69suxp",
-      "title": "Security Bank users claim phishing losses totaling more than P5.7M",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFk1dmdJUFFqUW9IZjNwRFZQZ2pBMmNRemVwT2hSNDI0am16ZXRIN3l2czh1THo0eWlTSnpNQVZmcW1vR0pWb1VIR3hpTkdGdXl1UmVfdC1qcUNjTDhPVDVwM2dSenNSMTJ6cVZhRTVjWEJiUm9PN0tycXpzYjVYYXNhNzJoNXc4MkxlX015YWI?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 20, 2026",
-      "rawDate": "2026-08-20T02:14:56.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {

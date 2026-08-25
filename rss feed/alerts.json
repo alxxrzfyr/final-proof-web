@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-24T12:49:52.494Z",
+  "fetchedAt": "2026-08-25T01:14:45.952Z",
   "alerts": [
     {
       "id": "alert-local-1787575792493-9ziz7",
@@ -27,6 +27,20 @@
       "date": "August 24, 2026",
       "rawDate": "2026-08-24T02:56:09.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787620484602-hrf8x",
+      "title": "phmacao legit or scam for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Fdml3VXhmejQwVlU1QVgtTC1HQUdfMGRtSUV5TmJZUnlONm5KdC1raUwtVmd4TWxtOVd1RERnX0ctRVFSbEJTX1Yxd3FYSmdabC14TmdOQm42ZFZPcmo1UXpOSGVIWUk?oc=5",
+      "source": "SDGs – Philippines",
+      "sourceLabel": "SDGs – Philippines",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 24, 2026",
+      "rawDate": "2026-08-24T01:14:20.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/sdg.depdev.gov.ph.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "August 21, 2026",
       "rawDate": "2026-08-21T23:48:07.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787230156169-72ags9",
-      "title": "Anti-Fraud Operations Specialist 1713257",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNi02TlY0VS0tNFVEa0xpalJBSEtJN0hrc0IweHI1YWtfYkVDT3NMMUExOFhTSTVoM3JDblhKWC1GMUZUSUhFN29UM3QyQmhpaXNuS09QNmxwemMteDlPU0NmanlZZ2h1Nld5eXhpTnFLVzliTl9tODJrQVF3eHJsU1VzSUNIcVNC?oc=5",
-      "source": "onlinejobs.ph",
-      "sourceLabel": "onlinejobs.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 20, 2026",
-      "rawDate": "2026-08-20T10:23:07.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.onlinejobs.ph.ico",
       "scope": "local"
     },
     {

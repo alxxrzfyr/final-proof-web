@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-08-26T01:17:25.795Z",
+  "fetchedAt": "2026-08-26T12:51:33.602Z",
   "alerts": [
+    {
+      "id": "alert-local-1787748692423-k5f4b",
+      "title": "Online Task Scam",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tQlNtS3dQNmxKZFlKSWxjdEloa25nRFFlU2JzQXVOdE1zb3BkN0ZTZlRhU003SjdVSnYyeWo0V3lXUTNueUpHMGZOeDY5Sk5scUcxUUNvckVmVWswOXN3dmtwRQ?oc=5",
+      "source": "www.foi.gov.ph",
+      "sourceLabel": "www.foi.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 26, 2026",
+      "rawDate": "2026-08-26T05:52:34.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787748693601-ue0l3j",
+      "title": "FALSE: Vice Ganda endorses bitcoin product",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 26, 2026",
+      "rawDate": "2026-08-26T03:02:38.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1787661981636-kiu53m",
       "title": "Phishing, data breaches surge in PH in first half of 2026",
@@ -40,20 +68,6 @@
       "severity": "medium",
       "date": "August 24, 2026",
       "rawDate": "2026-08-24T23:10:22.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787575792493-9ziz7",
-      "title": "FALSE: Vice Ganda endorses bitcoin product",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 24, 2026",
-      "rawDate": "2026-08-24T07:40:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -142,32 +156,32 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1787447922663-mdvuft",
-      "title": "Philippine Postal Corp. warns public against 'smishing' scam",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWM5UE96MDdYTVRiSjdiRHFtT1dkRmRBdUc2bUNJY2NtY3FFbjJleEtWMElNZHltajVXRXg4SEZmMW1velh3ekxRbXNKZzNULUt6UXZiQTA0TGhRVGZRTlNhcENzQnZuWUJwLVFWZEQyWTlzTTJjLXdscVZhZmdrSGVrVWRhbDZuMno2YUU4c2FtTEpmNGJJcE9iRkxySG8wUzBnMkRtdE5na3Bq?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
+      "id": "alert-local-1787748692426-tg569",
+      "title": "www lottery result today for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vQXNwdm9ENGlEN2V3bGtYbWpoUEZSOThEOWJyYWtXVlpIMXB1Q2oyR0RTNUFjbUN2c1FOVVFGYnc0NUN2Z2RBTTQ4WDBRdUpZY180SEYtaWRBNVE3MHFnSC1mTzJzTFJZOUw0?oc=5",
+      "source": "SDGs – Philippines",
+      "sourceLabel": "SDGs – Philippines",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
       "date": "August 22, 2026",
-      "rawDate": "2026-08-22T23:23:35.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "rawDate": "2026-08-22T23:46:28.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/sdg.depdev.gov.ph.ico",
       "scope": "local"
     },
     {
-      "id": "alert-local-1787488745787-fnw6yv",
-      "title": "lucky lottery result for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZOEY3UlRPd2JhdUJhQjdDdmpiZngtU2ZiXzhGZGVLdFBiVWJ5MXJncG5FSlR0YmhxMF9naWQ5ZklCSHVOcHlGY2hLMTVxV2s2dFZhNnlFNHBBcDdBSGN2Uk9XRXlpaVpu?oc=5",
-      "source": "DTI",
-      "sourceLabel": "DTI",
+      "id": "alert-international-1787748692909-bmkyaj",
+      "title": "That fake Grand Theft Auto VI demo is actually just malware",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWksxN1hNTVEtSGxjTGI2NXJHMFRkRzBhWXFXa2toVkhFdkxOZlNjaEhjTzZKdjJKWHpMeVAwN0N4SVhBMGRzcmFQdVBuWTJnb0RxVEpBUnNCNnVtTjlQNHhmVWdGVEtycnFOclViTlU4Y25URzYzdkxBdno0endDNWhnYURRNEE1czZqaS14VHlwdEJWMEtBazh3?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 22, 2026",
-      "rawDate": "2026-08-22T23:14:51.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/careers.dti.gov.ph.ico",
-      "scope": "local"
+      "date": "August 25, 2026",
+      "rawDate": "2026-08-25T15:48:38.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1787488745728-eokfro",
@@ -321,20 +335,6 @@
       "date": "August 2, 2026",
       "rawDate": "2026-08-02T07:00:14.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1785466180939-c6z4jj",
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "July 30, 2026",
-      "rawDate": "2026-07-30T16:49:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

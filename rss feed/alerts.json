@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-25T12:46:23.058Z",
+  "fetchedAt": "2026-08-26T01:17:25.795Z",
   "alerts": [
     {
       "id": "alert-local-1787661981636-kiu53m",
@@ -27,6 +27,20 @@
       "date": "August 24, 2026",
       "rawDate": "2026-08-24T23:52:48.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/ecommerce.dti.gov.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787707045793-n8kjqm",
+      "title": "After credit card hack, Gatchalian urges Senate probe into rise of payment fraud",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTU04ZzF1dGVjNVlfSGV2S1MtcFltMjhxUW11T09fakcwV2hjZWhHdjVWWkhVR2N3RlhwU2FwaUUtUWlUcm5ORlhVTVBPTmFOWmJsdjZwYjVvVWhFbnkyOFlIWmxVa19adnlxQ29xeWE2S2FzNXB0dzNsWWJGRU92Z0pZenNYM3lrTjhwUnl1cHN2d0tzTWVITUdYclhSR1VuZVl6SmdvUzVUREZBeXJpVWFFNA?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 24, 2026",
+      "rawDate": "2026-08-24T23:10:22.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "August 22, 2026",
       "rawDate": "2026-08-22T23:14:51.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/careers.dti.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787447923479-hnbzds",
-      "title": "As Filipinos struggle to pay bills, fraudsters target them too",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWM5Z1JCR1l0SjFOczVCWjJTd2Vod0F4VDNPT2Y0TzFuOXd0YkNJZlNGd3RTNEk4Ui1oLWJiV0k2VzVBUzgxVjBVU1RES0dvTF9hRUJVWlF3SVdxYklTdzZ6NUNIX2VMOXJDclppeC1kYjRxNHZIdUtsa0xta2kycDUwdFowUFluVDdRMXk5c1NLdkZKa2xLY1ZIQ2s2NGM?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 22, 2026",
-      "rawDate": "2026-08-22T08:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-08-26T12:51:33.602Z",
+  "fetchedAt": "2026-08-27T07:50:26.608Z",
   "alerts": [
+    {
+      "id": "alert-local-1787817025434-c7ymi4",
+      "title": "GCash urges Filipinos to stay vigilant against digital scams",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXR4YmxLUG9QY3pPUURtU2czeU41RTdabm5uSU9Xd05VVWlQTHB5YW95WFpVY2JrS1lkWEg5WVN0Y3NCd3UwLUczS29ZLUdvWW1KNE5ubGdCZXhMVTkzckZXZXNsRExidU9aRGZaaE5pcWQ5NkNjWmVfWUVaXzVrMmVlSFVuNE1MTXJ3?oc=5",
+      "source": "Unbox PH",
+      "sourceLabel": "Unbox PH",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 27, 2026",
+      "rawDate": "2026-08-27T07:36:37.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/unbox.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787817025434-fgfkgo",
+      "title": "GCash rolls out facial verification for GLoan, free loan scam insurance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUXBibmRObW56VzlBbHlNbUJqUWdYUE5SUnhYN2Yxc1c3UnRfVWQ3RGpXTkkzRE1tOFdkTGZZdDhQQ2tjT2VOZWVLU3hON2tqVV9ra2o3cXVxZTdtZDB4LXNfaVBvaU1jYk80Q2lOOW9ER2tTSktDLXZxd0JPa3JNWE4zUnp6blMwTVNGTnp0aFF0c0YxUXdlRnEyN01FR0h5TFgwTmZn0gGzAUFVX3lxTE5NMXhRcWxNYmZjN1FFWU55TExLM3k3b2xEc2NfMm8wZDBneWxvSE5DbW9vdm9ucFhmdkdKZV90elFfeUxWMHJnRGZmcWtjcWlwQW8yQ29qT3NoblIxZXV2Tzg3NTdUeWpDNXFVSjFndHBIc19qNjN6NjBfMnN3SWQybEVBcG5PQS1oWU1BdFVUMWVLVG1JNEx4Rm5PbTR1cDhNcDhhbnhEZ3RoV0Z3YTI2RS1F?oc=5",
+      "source": "SunStar Publishing Inc.",
+      "sourceLabel": "SunStar Publishing Inc.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 26, 2026",
+      "rawDate": "2026-08-26T14:49:49.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1787748692423-k5f4b",
       "title": "Online Task Scam",
@@ -139,34 +167,6 @@
       "date": "August 23, 2026",
       "rawDate": "2026-08-23T03:16:10.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/careers.dti.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787447922862-wbt7or",
-      "title": "BTS’ Jungkook hacking ringleader gets 20 years in prison",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcnFCX0ZYNUZuYXBZekNqUkxPU0lXVXF3bWV5YjB0QmhsLTBjRTA1U2NFTmlZWFA1V3Jrc1ZkaUVvRlhwcHBGM3lPOVg4a0p1SU5Mb0ljUGd5RWI0WlJnQ2FoZF9HYUJXTjQxVkR4V25JanFOR3RLdEQ4RjZpNWVaYjFYTEFZeHo0aWVUTEZqVWVmZ1NnU3pZUGdiVUk0d9IBowFBVV95cUxObzZXYXFpNW1TZmEzeDBjcU1xUWtmVkF4VDlkT3otdjdFMU9meWVKbzdtbVc1MUNnaEpYSnJVREY4VHpBUWl4MjBMZ0ZXdkVmWF9QeUdUVnozRk90TWxtZnkwcjkyaF9QWlRGQ2R4aWlXRlZtbHdYSEk0V3dlTTRCU1J6cjNab2xpWHZEN2JRaVROYjR3R3lkNmZjbng0UHIydWJZ?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 23, 2026",
-      "rawDate": "2026-08-23T00:19:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/entertainment.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787748692426-tg569",
-      "title": "www lottery result today for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vQXNwdm9ENGlEN2V3bGtYbWpoUEZSOThEOWJyYWtXVlpIMXB1Q2oyR0RTNUFjbUN2c1FOVVFGYnc0NUN2Z2RBTTQ4WDBRdUpZY180SEYtaWRBNVE3MHFnSC1mTzJzTFJZOUw0?oc=5",
-      "source": "SDGs – Philippines",
-      "sourceLabel": "SDGs – Philippines",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 22, 2026",
-      "rawDate": "2026-08-22T23:46:28.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/sdg.depdev.gov.ph.ico",
       "scope": "local"
     },
     {

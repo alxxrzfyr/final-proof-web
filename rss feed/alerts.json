@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-27T07:50:26.608Z",
+  "fetchedAt": "2026-08-27T21:51:49.946Z",
   "alerts": [
+    {
+      "id": "alert-local-1787867509945-qh7mth",
+      "title": "FALSE: Vice Ganda endorses bitcoin product",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 27, 2026",
+      "rawDate": "2026-08-27T09:01:39.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1787817025434-c7ymi4",
       "title": "GCash urges Filipinos to stay vigilant against digital scams",
@@ -44,20 +58,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1787748693601-ue0l3j",
-      "title": "FALSE: Vice Ganda endorses bitcoin product",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 26, 2026",
-      "rawDate": "2026-08-26T03:02:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-local-1787661981636-kiu53m",
       "title": "Phishing, data breaches surge in PH in first half of 2026",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPME9hSHdxQm9Gc2xHWnoydGlhRGZ6R29mc1Y2UjBHck84VWlraTB0ejh0cEt1Z0RTeTRKTjJpS3EtVGVWOUxhcmdrdHMzUHZSM0g0S0xvSm4ycHZORzN4WS1TUFNudEFEbUdFZ1B4OXMwY3JGLUlGNTJhTmd4Q1BkcFFVcTl2dnAwOTVnU2lPelhycGs?oc=5",
@@ -96,6 +96,20 @@
       "severity": "medium",
       "date": "August 24, 2026",
       "rawDate": "2026-08-24T23:10:22.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787867509945-0iouio",
+      "title": "Phishing victims turn to class-action lawsuits against banks",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzFwVkQwWExrcG1jYWZMZTF3YWx2ZllUVTNOb2FoM0JpOS1wblp3bE00bVVDaWkta3hTX0czVUloVE1FRk5Lc1lGZ3dWNkNoQmtlY2FqX01jMXVxZF9sNmtWbGNxNnlkbUJ0LXAwYWhxQUlnZlRaZUdoM0IxaEdoWXNnejdRMk0?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 24, 2026",
+      "rawDate": "2026-08-24T11:56:37.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -156,18 +170,32 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1787488745787-1cg5lq",
-      "title": "draw lottery online for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05TGV0bFBYeVVHS3JzNjBxMFBnVW5uQjJNWEtrdlcwbHJvNk5NNjFiMjRXNmRud1BlZXd4NHBXbzdPWmxGWnYtNjFJa25ZRTItcEpEOENpMThnRkVyd2NpeE5oaG14WVk?oc=5",
-      "source": "DTI",
-      "sourceLabel": "DTI",
+      "id": "alert-international-1787867509006-ckw87",
+      "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGdGaFUyLXlyMlh2dXpCY3VWTHlxM0JoVnJGSzVrVDV2djJLWFdSdTcwQUVjSFFobkFNX25QWS02WGFJUHQ0TW4xdHVvelJKQVRPYU5Rd21mdzhWTUM0d01JcU9OYnpQWWt5NUp4cEwwbjJzU3diWWNFUHEwMmhFTGxXV2k5b29mS29Mby1qQV9EX2NBWWs0TQ?oc=5",
+      "source": "TechCrunch",
+      "sourceLabel": "TechCrunch",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 23, 2026",
-      "rawDate": "2026-08-23T03:16:10.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/careers.dti.gov.ph.ico",
-      "scope": "local"
+      "date": "August 27, 2026",
+      "rawDate": "2026-08-27T17:54:23.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1787867508452-o8f1b",
+      "title": "Two Alleged &#8216;TeamPCP&#8217; Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 27, 2026",
+      "rawDate": "2026-08-27T11:04:15.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1787748692909-bmkyaj",
@@ -307,34 +335,6 @@
       "date": "August 5, 2026",
       "rawDate": "2026-08-05T11:54:20.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1785852684266-gx6h9l",
-      "title": "Metro Bank customer fights for £14,000 refund after AI-linked fraud",
-      "url": "https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 4, 2026",
-      "rawDate": "2026-08-04T06:00:15.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1785676858647-45emm",
-      "title": "‘You owe parking fees’: experts warn of fake RingGo text scam",
-      "url": "https://www.theguardian.com/money/2026/aug/02/parking-apps-experts-warn-of-ringgo-text-scam",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 2, 2026",
-      "rawDate": "2026-08-02T07:00:14.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

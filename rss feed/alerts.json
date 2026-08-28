@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-28T09:54:43.798Z",
+  "fetchedAt": "2026-08-28T21:46:05.108Z",
   "alerts": [
     {
       "id": "alert-local-1787910883795-pmh9wm",
@@ -142,6 +142,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1787953563791-j5o07",
+      "title": "Philippine Postal Corp. warns public against 'smishing' scam",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWM5UE96MDdYTVRiSjdiRHFtT1dkRmRBdUc2bUNJY2NtY3FFbjJleEtWMElNZHltajVXRXg4SEZmMW1velh3ekxRbXNKZzNULUt6UXZiQTA0TGhRVGZRTlNhcENzQnZuWUJwLVFWZEQyWTlzTTJjLXdscVZhZmdrSGVrVWRhbDZuMno2YUU4c2FtTEpmNGJJcE9iRkxySG8wUzBnMkRtdE5na3Bq?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 24, 2026",
+      "rawDate": "2026-08-24T01:49:47.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1787620484602-hrf8x",
       "title": "phmacao legit or scam for Android - Search on Google Play",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Fdml3VXhmejQwVlU1QVgtTC1HQUdfMGRtSUV5TmJZUnlONm5KdC1raUwtVmd4TWxtOVd1RERnX0ctRVFSbEJTX1Yxd3FYSmdabC14TmdOQm42ZFZPcmo1UXpOSGVIWUk?oc=5",
@@ -156,20 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1787534207367-6ghrks",
-      "title": "PHLPost warns public against 'smishing' online scams",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPblZ2TzF2cnpYRWRKMDhSc1lNZTk4SmlsRjA2TlpteGFtVDlvelBUUXlJbWxEMmFDQlhKOVpJNGJoY1VIcWkzYUtRSm5fRklSZDJOU1prZTZwaEE5bUJIMkQxaUo5Z29qcm9icnlwQkNsUHdOSlA1UlRJWGtKZFZ3aWZGZzJUdnEyNzRF0gGYAUFVX3lxTE5lUVZiRk13RmxOMlJvT2dqX0RXamx1SG8yeWhtMEt4V2tTeTNDdFc5aEFmTEZsczV3anVPbVdsRzZhWGh2M0NyMk1YSk9pLWJBR0xtRGZ5aEY2QkdmWW5kaE5pSy0yRXNvTVlDdjAta0R2NExwY0otQjFyWmVfQzl2aGNiTFBXLWI4VkdOMjJaR3JHVFdudWhP?oc=5",
-      "source": "SunStar Publishing Inc.",
-      "sourceLabel": "SunStar Publishing Inc.",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 23, 2026",
-      "rawDate": "2026-08-23T17:18:18.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-1787867509006-ckw87",
       "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGdGaFUyLXlyMlh2dXpCY3VWTHlxM0JoVnJGSzVrVDV2djJLWFdSdTcwQUVjSFFobkFNX25QWS02WGFJUHQ0TW4xdHVvelJKQVRPYU5Rd21mdzhWTUM0d01JcU9OYnpQWWt5NUp4cEwwbjJzU3diWWNFUHEwMmhFTGxXV2k5b29mS29Mby1qQV9EX2NBWWs0TQ?oc=5",
@@ -181,6 +181,20 @@
       "date": "August 27, 2026",
       "rawDate": "2026-08-27T17:54:23.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1787953563703-wmv9l",
+      "title": "US federal agency confirms data breach in wake of claims by ransomware group",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjdLeER3cjdxM0hYTDJ5VzhRcHdyejRuOUw0LXN3Ym1iMXRQcWpOZDlCRkFHc1Z4allERkxGbHVmZHhzRGZ6QjZ5Z0tYa1RmXzFocFVyYS1CaGE0ZTJHMEVVbGFSMld2LWxYQUo5Q29xaWJNb0tfNU10V09wTEtULXRvM1V1cXhGeFBpUzRpTS1zbnZEazVXUld3S0F1QzVqSkYxQ2tLSGJqVXc4b1V0Y2daQnNVWEpwdHRtTmowWTY?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 27, 2026",
+      "rawDate": "2026-08-27T17:25:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     },
     {
@@ -321,20 +335,6 @@
       "date": "August 6, 2026",
       "rawDate": "2026-08-06T17:00:56.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1786070384708-f9p44",
-      "title": "You click \"I'm not a robot\" all the time. But new fake CAPTCHA scam can install malware on your computer",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yeTNLd2dncG5lZzN6TEU4aV9LcjZmWDA2YlAyaHgyZ3NCR201YTczdy0tb3h0ZW9DSTVtaGJlSzE1aHNETlg3ZEY5MEZmR3hfdl94X2M5UHFmdk9CcTlLQ1RoV2czZW4tY0c3VVln?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 5, 2026",
-      "rawDate": "2026-08-05T11:54:20.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

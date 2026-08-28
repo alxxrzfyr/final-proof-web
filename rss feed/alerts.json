@@ -1,10 +1,38 @@
 {
-  "fetchedAt": "2026-08-27T21:51:49.946Z",
+  "fetchedAt": "2026-08-28T09:54:43.798Z",
   "alerts": [
+    {
+      "id": "alert-local-1787910883795-pmh9wm",
+      "title": "BARMM polls: 7 bets battle for 2 special territory seats",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRW1RSE9jcG95dmtlbUtwYzRxeThhSlJEZk9oVWZjMnVkTkVsOFlOMXVZWEJkcmtDQURGNEpWT0F2ZlNHdDc0LTBJZDgtV1JLNWJpdFl1bVRLbWdneC1OUHZyNkNFT0dlSTBTLWtrLTlOTVB4eW9ZY2N4eHlUd0dvbS15YkpnWl83Z09kaTNBd1Q3RXNRT1VYdEZSM25iQQ?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 28, 2026",
+      "rawDate": "2026-08-28T07:20:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1787867509945-qh7mth",
       "title": "FALSE: Vice Ganda endorses bitcoin product",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 27, 2026",
+      "rawDate": "2026-08-27T09:01:39.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787910883795-88e3ez",
+      "title": "After credit card hack, Gatchalian urges Senate probe into rise of payment fraud",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTU04ZzF1dGVjNVlfSGV2S1MtcFltMjhxUW11T09fakcwV2hjZWhHdjVWWkhVR2N3RlhwU2FwaUUtUWlUcm5ORlhVTVBPTmFOWmJsdjZwYjVvVWhFbnkyOFlIWmxVa19adnlxQ29xeWE2S2FzNXB0dzNsWWJGRU92Z0pZenNYM3lrTjhwUnl1cHN2d0tzTWVITUdYclhSR1VuZVl6SmdvUzVUREZBeXJpVWFFNA?oc=5",
       "source": "Rappler",
       "sourceLabel": "Rappler",
       "sourceLogo": "newspaper",
@@ -86,20 +114,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1787707045793-n8kjqm",
-      "title": "After credit card hack, Gatchalian urges Senate probe into rise of payment fraud",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTU04ZzF1dGVjNVlfSGV2S1MtcFltMjhxUW11T09fakcwV2hjZWhHdjVWWkhVR2N3RlhwU2FwaUUtUWlUcm5ORlhVTVBPTmFOWmJsdjZwYjVvVWhFbnkyOFlIWmxVa19adnlxQ29xeWE2S2FzNXB0dzNsWWJGRU92Z0pZenNYM3lrTjhwUnl1cHN2d0tzTWVITUdYclhSR1VuZVl6SmdvUzVUREZBeXJpVWFFNA?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 24, 2026",
-      "rawDate": "2026-08-24T23:10:22.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-local-1787867509945-0iouio",
       "title": "Phishing victims turn to class-action lawsuits against banks",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzFwVkQwWExrcG1jYWZMZTF3YWx2ZllUVTNOb2FoM0JpOS1wblp3bE00bVVDaWkta3hTX0czVUloVE1FRk5Lc1lGZ3dWNkNoQmtlY2FqX01jMXVxZF9sNmtWbGNxNnlkbUJ0LXAwYWhxQUlnZlRaZUdoM0IxaEdoWXNnejdRMk0?oc=5",
@@ -153,20 +167,6 @@
       "date": "August 23, 2026",
       "rawDate": "2026-08-23T17:18:18.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787534207370-9g72u",
-      "title": "win win lottery result for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wcHBaemtPdGpnUk9nNHpWckR1YnVLSzZWaUJUVGtweVZTWm4wWlJqa016ZjViUWtyOElFUlBrMlJBeWpQbWNrZWZvVUF6WmZ3THBHTDNIMXZLVFllODh4R2xyWHlreEQtb1E?oc=5",
-      "source": "DTI",
-      "sourceLabel": "DTI",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 23, 2026",
-      "rawDate": "2026-08-23T11:57:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/careers.dti.gov.ph.ico",
       "scope": "local"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T05:54:27.653Z",
+  "fetchedAt": "2026-08-29T16:17:47.271Z",
   "alerts": [
     {
       "id": "alert-local-1787910883795-pmh9wm",
@@ -33,6 +33,20 @@
       "id": "alert-local-1787982867635-w5arx",
       "title": "Marcos wealth yarn scammers recruited in public, on social media",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkN4MmI3d0o5X2lyZUpxbFBXUVdJLU81TEFBOGdCUGxhWHBONklaSDVOZDZFbzBjSFZIY3BaVWxvRmRyTTdlMmlncnZONWVVdXd5ZWF5NnFaQ01CYzRqZk9DQjNEQVBjQUdZMUZsY2pySUticTBnY2NYT2l1UXlIaERBeGNZZmdUQTVQbHpLdTdGWG0zVC1YOU1pdDZrTFdrQzN5WmhRa1Jmdw?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 28, 2026",
+      "rawDate": "2026-08-28T01:25:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1788020267270-hj032g",
+      "title": "Another ‘pastillas’ scam? Blacklisted foreigners go in, out of PH for P150K",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTA0S1JmcXN4Qk9jTVF4Uk9sT25WdzF4UzVDUlFqekFkYmxRQmNSNGJGMUYteEZEaVpLaGN0TTF0MUpudUZIdndydHlqSm5ReGprRTRsdFpSQkp1UHJ6dnJ6aDJac0F1aXV2b2VzTDN2MDNZdnpyRFVfVHdjaGZBRnZUWW5BZUlZSUZSRW5FNUFEUmJ4UkhGcUc4WE8?oc=5",
       "source": "Rappler",
       "sourceLabel": "Rappler",
       "sourceLogo": "newspaper",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1787575792492-17g8p",
-      "title": "PHLPost warns public against ‘smishing’ and online scams",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm51dUNUQWRxVXZIN2xIWTRoTmU2RzN5UGVjZ0tDZXJvcFl4RlZyREFCemR6ZzNDSFZLa3FCTHRLMVI0NzVFQVduNWdmdTYyeFRINHFRTjlLRHM0VnVteURtY1ptclprc0VMXzg5ckEtOWx5MnBjUE9xNGpRMGY3OU1jUklkc1FZREpIdkJPSlZTU2U2SG9ZdXln?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
+      "id": "alert-international-1788020263861-hkzgt",
+      "title": "‘I’ve £80k in the account, here’s my pin’: turning the tables on the scammers",
+      "url": "https://www.theguardian.com/money/2026/aug/29/banks-scam-heres-my-pin-number-turning-the-tables-on-scammers",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 24, 2026",
-      "rawDate": "2026-08-24T02:56:09.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
+      "date": "August 29, 2026",
+      "rawDate": "2026-08-29T12:00:27.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1787982867651-xdzzyi",
@@ -184,6 +198,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-1788020264518-am3u58",
+      "title": "US federal agency confirms data breach in wake of claims by ransomware group",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjdLeER3cjdxM0hYTDJ5VzhRcHdyejRuOUw0LXN3Ym1iMXRQcWpOZDlCRkFHc1Z4allERkxGbHVmZHhzRGZ6QjZ5Z0tYa1RmXzFocFVyYS1CaGE0ZTJHMEVVbGFSMld2LWxYQUo5Q29xaWJNb0tfNU10V09wTEtULXRvM1V1cXhGeFBpUzRpTS1zbnZEazVXUld3S0F1QzVqSkYxQ2tLSGJqVXc4b1V0Y2daQnNVWEpwdHRtTmowWTY?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 28, 2026",
+      "rawDate": "2026-08-28T17:09:15.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1787867509006-ckw87",
       "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGdGaFUyLXlyMlh2dXpCY3VWTHlxM0JoVnJGSzVrVDV2djJLWFdSdTcwQUVjSFFobkFNX25QWS02WGFJUHQ0TW4xdHVvelJKQVRPYU5Rd21mdzhWTUM0d01JcU9OYnpQWWt5NUp4cEwwbjJzU3diWWNFUHEwMmhFTGxXV2k5b29mS29Mby1qQV9EX2NBWWs0TQ?oc=5",
@@ -195,20 +223,6 @@
       "date": "August 27, 2026",
       "rawDate": "2026-08-27T17:54:23.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1787953563703-wmv9l",
-      "title": "US federal agency confirms data breach in wake of claims by ransomware group",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjdLeER3cjdxM0hYTDJ5VzhRcHdyejRuOUw0LXN3Ym1iMXRQcWpOZDlCRkFHc1Z4allERkxGbHVmZHhzRGZ6QjZ5Z0tYa1RmXzFocFVyYS1CaGE0ZTJHMEVVbGFSMld2LWxYQUo5Q29xaWJNb0tfNU10V09wTEtULXRvM1V1cXhGeFBpUzRpTS1zbnZEazVXUld3S0F1QzVqSkYxQ2tLSGJqVXc4b1V0Y2daQnNVWEpwdHRtTmowWTY?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 27, 2026",
-      "rawDate": "2026-08-27T17:25:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     },
     {
@@ -321,20 +335,6 @@
       "date": "August 8, 2026",
       "rawDate": "2026-08-08T14:20:19.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1786153125360-xxlx8a",
-      "title": "City of Pittsburg says it fell victim to $913K phishing scam based in Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkVPM2dqZnFxTkRCWEhSSmNqT19idTNSSm5fR0FVQnhveVhWNWd0UTJiVEFTMWs1WGlwbGh2VlRCQ2FEOFRUT1RoNFI5SFlFeC1vRVR1cW5leUt0WFUyb0h5ZmdsVkI2UWZhaFpZQUtfWV9CLUU0NEFDTnlMcngzaWdLVi1abXBwbnM0d0ViQm5CX1l1?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 6, 2026",
-      "rawDate": "2026-08-06T21:54:08.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-28T21:46:05.108Z",
+  "fetchedAt": "2026-08-29T05:54:27.653Z",
   "alerts": [
     {
       "id": "alert-local-1787910883795-pmh9wm",
@@ -12,6 +12,34 @@
       "severity": "medium",
       "date": "August 28, 2026",
       "rawDate": "2026-08-28T07:20:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787982867635-yeypdp",
+      "title": "Security Bank users claim phishing losses totaling more than P5.7M",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUFk1dmdJUFFqUW9IZjNwRFZQZ2pBMmNRemVwT2hSNDI0am16ZXRIN3l2czh1THo0eWlTSnpNQVZmcW1vR0pWb1VIR3hpTkdGdXl1UmVfdC1qcUNjTDhPVDVwM2dSenNSMTJ6cVZhRTVjWEJiUm9PN0tycXpzYjVYYXNhNzJoNXc4MkxlX015YWI?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 28, 2026",
+      "rawDate": "2026-08-28T01:25:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1787982867635-w5arx",
+      "title": "Marcos wealth yarn scammers recruited in public, on social media",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkN4MmI3d0o5X2lyZUpxbFBXUVdJLU81TEFBOGdCUGxhWHBONklaSDVOZDZFbzBjSFZIY3BaVWxvRmRyTTdlMmlncnZONWVVdXd5ZWF5NnFaQ01CYzRqZk9DQjNEQVBjQUdZMUZsY2pySUticTBnY2NYT2l1UXlIaERBeGNZZmdUQTVQbHpLdTdGWG0zVC1YOU1pdDZrTFdrQzN5WmhRa1Jmdw?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 28, 2026",
+      "rawDate": "2026-08-28T01:25:51.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1787953563791-j5o07",
-      "title": "Philippine Postal Corp. warns public against 'smishing' scam",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSWM5UE96MDdYTVRiSjdiRHFtT1dkRmRBdUc2bUNJY2NtY3FFbjJleEtWMElNZHltajVXRXg4SEZmMW1velh3ekxRbXNKZzNULUt6UXZiQTA0TGhRVGZRTlNhcENzQnZuWUJwLVFWZEQyWTlzTTJjLXdscVZhZmdrSGVrVWRhbDZuMno2YUU4c2FtTEpmNGJJcE9iRkxySG8wUzBnMkRtdE5na3Bq?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
+      "id": "alert-international-1787982867651-xdzzyi",
+      "title": "Ransomware group says it stole Berlin data, offers it for auction",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEU2bXFCTHFZZXA0dDVYaG9JR1NpQjRkcUZnTVkwa1JRRjB2UVFkNUxMOUI2WGc2M1BDNU5vUjh2bG9iNVlDdGh4MkFYNUpPc05aWXhSeWVYY0oyTWEwczh0elFoNkRfelZIbFJjVlZGajl0aXZMamVTaDR2MTliSGNucjh3LVVWdU9BeTd6Q2JSTDdzeHpBalVxbU50dnVMeDZENVRXSlZpQmx5RXg5STdiMA?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 24, 2026",
-      "rawDate": "2026-08-24T01:49:47.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787620484602-hrf8x",
-      "title": "phmacao legit or scam for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Fdml3VXhmejQwVlU1QVgtTC1HQUdfMGRtSUV5TmJZUnlONm5KdC1raUwtVmd4TWxtOVd1RERnX0ctRVFSbEJTX1Yxd3FYSmdabC14TmdOQm42ZFZPcmo1UXpOSGVIWUk?oc=5",
-      "source": "SDGs – Philippines",
-      "sourceLabel": "SDGs – Philippines",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 24, 2026",
-      "rawDate": "2026-08-24T01:14:20.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/sdg.depdev.gov.ph.ico",
-      "scope": "local"
+      "date": "August 28, 2026",
+      "rawDate": "2026-08-28T19:34:22.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1787867509006-ckw87",
@@ -321,20 +335,6 @@
       "date": "August 6, 2026",
       "rawDate": "2026-08-06T21:54:08.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1786070384229-smoyvs",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 6, 2026",
-      "rawDate": "2026-08-06T17:00:56.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T16:17:47.271Z",
+  "fetchedAt": "2026-08-30T16:10:02.505Z",
   "alerts": [
     {
       "id": "alert-local-1787910883795-pmh9wm",
@@ -47,6 +47,20 @@
       "id": "alert-local-1788020267270-hj032g",
       "title": "Another ‘pastillas’ scam? Blacklisted foreigners go in, out of PH for P150K",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTA0S1JmcXN4Qk9jTVF4Uk9sT25WdzF4UzVDUlFqekFkYmxRQmNSNGJGMUYteEZEaVpLaGN0TTF0MUpudUZIdndydHlqSm5ReGprRTRsdFpSQkp1UHJ6dnJ6aDJac0F1aXV2b2VzTDN2MDNZdnpyRFVfVHdjaGZBRnZUWW5BZUlZSUZSRW5FNUFEUmJ4UkhGcUc4WE8?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 28, 2026",
+      "rawDate": "2026-08-28T01:25:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1788106202503-57qkyb",
+      "title": "FALSE: Ferdinand Marcos, Jose Rizal established World Bank",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFI2ZFprZEduZ1hwUkR2VWs2M1VwN3V1bEppb25EcmhqQWRfY19MbnU5SkUwTms3ZS1HdkJXZmRkSURLc0lJSmtLQ2xkSkNTczQ1R2RxXzJyd0l2Z3A1NzJFbEcxVTN0eTV6QWItYW5fNlQyX2VvU3M0Y18yc3VqaG02dzlHUWlfRFRIbTRmY2RRSGR6aFoyQ3N3SXg?oc=5",
       "source": "Rappler",
       "sourceLabel": "Rappler",
       "sourceLogo": "newspaper",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1787867509945-0iouio",
-      "title": "Phishing victims turn to class-action lawsuits against banks",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdzFwVkQwWExrcG1jYWZMZTF3YWx2ZllUVTNOb2FoM0JpOS1wblp3bE00bVVDaWkta3hTX0czVUloVE1FRk5Lc1lGZ3dWNkNoQmtlY2FqX01jMXVxZF9sNmtWbGNxNnlkbUJ0LXAwYWhxQUlnZlRaZUdoM0IxaEdoWXNnejdRMk0?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
+      "id": "alert-international-1788106201016-y8z9j",
+      "title": "New payment set up? Get in touch! The bank scam where your ‘bank’ is the scammer",
+      "url": "https://www.theguardian.com/money/2026/aug/30/new-payment-set-up-get-in-touch-the-bank-scam-where-your-bank-is-the-scammer",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 24, 2026",
-      "rawDate": "2026-08-24T11:56:37.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
+      "date": "August 30, 2026",
+      "rawDate": "2026-08-30T07:00:49.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1788020263861-hkzgt",
@@ -321,20 +335,6 @@
       "date": "August 9, 2026",
       "rawDate": "2026-08-09T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1786239876518-sormlf",
-      "title": "New York authorities warn about gold bar scam targeting older adults",
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/new-york-gold-bar-scam-seniors",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 8, 2026",
-      "rawDate": "2026-08-08T14:20:19.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-08-30T16:10:02.505Z",
+  "fetchedAt": "2026-08-31T04:02:14.896Z",
   "alerts": [
+    {
+      "id": "alert-local-1788148934895-uoa9xd",
+      "title": "PHLPost warns public against ‘smishing’ and online scams",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm51dUNUQWRxVXZIN2xIWTRoTmU2RzN5UGVjZ0tDZXJvcFl4RlZyREFCemR6ZzNDSFZLa3FCTHRLMVI0NzVFQVduNWdmdTYyeFRINHFRTjlLRHM0VnVteURtY1ptclprc0VMXzg5ckEtOWx5MnBjUE9xNGpRMGY3OU1jUklkc1FZREpIdkJPSlZTU2U2SG9ZdXln?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 30, 2026",
+      "rawDate": "2026-08-30T21:02:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1788148933698-riunnt",
+      "title": "lottery jackpot for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYdmh6eEdXWnptT2ZLMmNQQUR6T2swTWhOOXBnZzM1bUFmcmhVbXNrc01TTHpOU1ZjMmNXSDZNclZ6TFUyWW9OUllLVWFsRTZvYmJtUzRGTVZrcXRMRDJMRXFKMA?oc=5",
+      "source": "ecommerce.dti.gov.ph",
+      "sourceLabel": "ecommerce.dti.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 29, 2026",
+      "rawDate": "2026-08-29T13:08:04.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/ecommerce.dti.gov.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1787910883795-pmh9wm",
       "title": "BARMM polls: 7 bets battle for 2 special territory seats",
@@ -139,34 +167,6 @@
       "date": "August 26, 2026",
       "rawDate": "2026-08-26T05:52:34.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787661981636-kiu53m",
-      "title": "Phishing, data breaches surge in PH in first half of 2026",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPME9hSHdxQm9Gc2xHWnoydGlhRGZ6R29mc1Y2UjBHck84VWlraTB0ejh0cEt1Z0RTeTRKTjJpS3EtVGVWOUxhcmdrdHMzUHZSM0g0S0xvSm4ycHZORzN4WS1TUFNudEFEbUdFZ1B4OXMwY3JGLUlGNTJhTmd4Q1BkcFFVcTl2dnAwOTVnU2lPelhycGs?oc=5",
-      "source": "Newsbytes.PH",
-      "sourceLabel": "Newsbytes.PH",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 25, 2026",
-      "rawDate": "2026-08-25T06:54:54.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787661981637-y6velr",
-      "title": "odds on lottery games for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Hdnhqbm1tUG9GRUxMMjg4WjZoS2VWRC1wSU5nUzV6VzFzU3lZa1FiZDFqWU1qaU9QaGZTOGRFWjVyLTN0SlNXVG92aFk1eWt0UGx1NUpuSV9pYi1xTUt6elJpZ01EOHFldlFGRDNoc3RvNzZQZV9Z?oc=5",
-      "source": "ecommerce.dti.gov.ph",
-      "sourceLabel": "ecommerce.dti.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 24, 2026",
-      "rawDate": "2026-08-24T23:52:48.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/ecommerce.dti.gov.ph.ico",
       "scope": "local"
     },
     {

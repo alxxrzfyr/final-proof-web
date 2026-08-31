@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-08-31T04:02:14.896Z",
+  "fetchedAt": "2026-08-31T18:51:27.940Z",
   "alerts": [
+    {
+      "id": "alert-local-1788202287938-25228q",
+      "title": "FALSE: Vice Ganda endorses bitcoin product",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
+      "source": "rappler.com",
+      "sourceLabel": "rappler.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 31, 2026",
+      "rawDate": "2026-08-31T04:53:54.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1788148934895-uoa9xd",
       "title": "PHLPost warns public against ‘smishing’ and online scams",
@@ -12,6 +26,20 @@
       "severity": "medium",
       "date": "August 30, 2026",
       "rawDate": "2026-08-30T21:02:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1788202287938-ktdauw",
+      "title": "Marcos wealth yarn scammers recruited in public, on social media",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkN4MmI3d0o5X2lyZUpxbFBXUVdJLU81TEFBOGdCUGxhWHBONklaSDVOZDZFbzBjSFZIY3BaVWxvRmRyTTdlMmlncnZONWVVdXd5ZWF5NnFaQ01CYzRqZk9DQjNEQVBjQUdZMUZsY2pySUticTBnY2NYT2l1UXlIaERBeGNZZmdUQTVQbHpLdTdGWG0zVC1YOU1pdDZrTFdrQzN5WmhRa1Jmdw?oc=5",
+      "source": "rappler.com",
+      "sourceLabel": "rappler.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 30, 2026",
+      "rawDate": "2026-08-30T14:57:11.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -58,20 +86,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1787982867635-w5arx",
-      "title": "Marcos wealth yarn scammers recruited in public, on social media",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkN4MmI3d0o5X2lyZUpxbFBXUVdJLU81TEFBOGdCUGxhWHBONklaSDVOZDZFbzBjSFZIY3BaVWxvRmRyTTdlMmlncnZONWVVdXd5ZWF5NnFaQ01CYzRqZk9DQjNEQVBjQUdZMUZsY2pySUticTBnY2NYT2l1UXlIaERBeGNZZmdUQTVQbHpLdTdGWG0zVC1YOU1pdDZrTFdrQzN5WmhRa1Jmdw?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 28, 2026",
-      "rawDate": "2026-08-28T01:25:51.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-local-1788020267270-hj032g",
       "title": "Another ‘pastillas’ scam? Blacklisted foreigners go in, out of PH for P150K",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTA0S1JmcXN4Qk9jTVF4Uk9sT25WdzF4UzVDUlFqekFkYmxRQmNSNGJGMUYteEZEaVpLaGN0TTF0MUpudUZIdndydHlqSm5ReGprRTRsdFpSQkp1UHJ6dnJ6aDJac0F1aXV2b2VzTDN2MDNZdnpyRFVfVHdjaGZBRnZUWW5BZUlZSUZSRW5FNUFEUmJ4UkhGcUc4WE8?oc=5",
@@ -96,20 +110,6 @@
       "severity": "medium",
       "date": "August 28, 2026",
       "rawDate": "2026-08-28T01:25:51.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1787867509945-qh7mth",
-      "title": "FALSE: Vice Ganda endorses bitcoin product",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 27, 2026",
-      "rawDate": "2026-08-27T09:01:39.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },

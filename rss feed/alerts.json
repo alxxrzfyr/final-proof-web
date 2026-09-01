@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T18:51:27.940Z",
+  "fetchedAt": "2026-09-01T03:52:36.595Z",
   "alerts": [
     {
       "id": "alert-local-1788202287938-25228q",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1788234756198-wo67af",
+      "title": "Ransomware attack hits Norcross' computer systems, leaving disruptions, officials say",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWRPTnRvTmkycUtTRzZxODF4cHJRMWxNZlRkNkt4d1RIU2NveEdHTU9UNTZWSjlEd0swek5PNldVVVdJMkpObzM3YmNHRWpOa051S1VYN0NwdlBFNm1wbExKdGttUGV2MWlyWTM4Z3lDeURFVkMzODZFTXdodTZhTEZiMmFhUUdLRlE5alFJeXBiOFVvLWFjWjFleE9jVWpvZDF3R1hkMGJWQ3l3RDNjTlF3MVNwOXNZZDE2bw?oc=5",
+      "source": "CBS News",
+      "sourceLabel": "CBS News",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "August 31, 2026",
+      "rawDate": "2026-08-31T17:47:14.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1788106201016-y8z9j",
       "title": "New payment set up? Get in touch! The bank scam where your ‘bank’ is the scammer",
       "url": "https://www.theguardian.com/money/2026/aug/30/new-payment-set-up-get-in-touch-the-bank-scam-where-your-bank-is-the-scammer",
@@ -321,20 +335,6 @@
       "date": "August 9, 2026",
       "rawDate": "2026-08-09T07:00:09.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1786970568689-kxhb5d",
-      "title": "Northern California city declares emergency after malware disrupts 911, public safety systems",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVdlN1pDWFNmUkxuNThXZm5URGVQRzU4VHhtOGwtQ1hvWG0tM1ljb3l4U0cxeURtZndacC12S0syQURXcjcyMzhacFNVS2Vaa3hLVEhZVUNPdkpmODl4MXNCVWV5eDlQTkR1RjBlcDNKNHJaanpLS0tTZ2pIQ3hoSVVtTC1BVXo2?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 9, 2026",
-      "rawDate": "2026-08-09T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

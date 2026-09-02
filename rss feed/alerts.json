@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-02T03:12:08.128Z",
+  "fetchedAt": "2026-09-02T16:04:00.297Z",
   "alerts": [
+    {
+      "id": "alert-local-1788365039368-7gdfv9",
+      "title": "Dizon presses contractor to finish Manila-Cavite road before Undas",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObmlPZUVlZVU1NTNmVmdVaFlqQWlsbmpvaUNGMVNvT1JGUllpcUxuREJBUGpjUnhFRTBkZjhUUE1lNllpTVpVNjg1ci1CNmhueGwxc1NOeEZSWmRHdTN6ZlBfV1hXaUFjWkpJNmZWUE5kV3BEczNDakZveFVlRWtXTElkN0NxTDhVdVFsYWQ4dDNSbjdkbDJHUXAxYkVfMC1rS1BnV0JFOUs5Ri03b0RHeUl4cGFneVk?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 1, 2026",
+      "rawDate": "2026-09-01T22:57:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1788318727357-vee9wu",
       "title": "Chinese national nabbed over alleged rogue cell site, phishing scheme",
@@ -13,20 +27,6 @@
       "date": "September 1, 2026",
       "rawDate": "2026-09-01T16:41:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788278964529-xplu9c",
-      "title": "Dizon presses contractor to finish Manila-Cavite road before Undas",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObmlPZUVlZVU1NTNmVmdVaFlqQWlsbmpvaUNGMVNvT1JGUllpcUxuREJBUGpjUnhFRTBkZjhUUE1lNllpTVpVNjg1ci1CNmhueGwxc1NOeEZSWmRHdTN6ZlBfV1hXaUFjWkpJNmZWUE5kV3BEczNDakZveFVlRWtXTElkN0NxTDhVdVFsYWQ4dDNSbjdkbDJHUXAxYkVfMC1rS1BnV0JFOUs5Ri03b0RHeUl4cGFneVk?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 1, 2026",
-      "rawDate": "2026-09-01T14:57:10.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {

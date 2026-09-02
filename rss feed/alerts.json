@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-01T16:09:25.495Z",
+  "fetchedAt": "2026-09-02T03:12:08.128Z",
   "alerts": [
+    {
+      "id": "alert-local-1788318727357-vee9wu",
+      "title": "Chinese national nabbed over alleged rogue cell site, phishing scheme",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDcwR2JzN0d5LXVzWFB0dXFpekN2ZmlsNEZqSzhJNlQxRnJpT3kyOU9PeFUwSkdCTzZvUlVkSlhtMUt5aC0tQUFWN1FXSFJuUVZaLWY2ejJDOUlKRGJTX0MzaF9XaUtmMVFFYnpvMllMeU1pSm1PZkx4TGdwNnp2SUllQmZpZW54M3FZUnplS0l6aE5CZU14WjYyZ2NBRzhibGtuYXNfQ1NiUDFlanfSAbMBQVVfeXFMTlpTYVpKck96SHVWYno3Nm94djBveks4TkxHWXhCX1kzRm8yU1RoS1RQMWtHcEstbVlKZGZoZWQ5Y0VGNFRCV181cjZhLTdlSkJid281UGVZZjJfQTNMSDMxXy01MWVWQ0V3dVBCN3RBOEZzV3R5UzlnamQ4LURteVlfa0ZTSlVJOXFwX0hpYTBta0ZiY3p2X1pVWXRmVC00ZG9ENG1jNkplS2t5NXpoMHBaM00?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 1, 2026",
+      "rawDate": "2026-09-01T16:41:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1788278964529-xplu9c",
       "title": "Dizon presses contractor to finish Manila-Cavite road before Undas",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1787910883795-pmh9wm",
-      "title": "BARMM polls: 7 bets battle for 2 special territory seats",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRW1RSE9jcG95dmtlbUtwYzRxeThhSlJEZk9oVWZjMnVkTkVsOFlOMXVZWEJkcmtDQURGNEpWT0F2ZlNHdDc0LTBJZDgtV1JLNWJpdFl1bVRLbWdneC1OUHZyNkNFT0dlSTBTLWtrLTlOTVB4eW9ZY2N4eHlUd0dvbS15YkpnWl83Z09kaTNBd1Q3RXNRT1VYdEZSM25iQQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
+      "id": "alert-international-1788318727538-df000x",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 28, 2026",
-      "rawDate": "2026-08-28T07:20:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
+      "date": "September 1, 2026",
+      "rawDate": "2026-09-01T22:40:28.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1788234756198-wo67af",
@@ -321,20 +335,6 @@
       "date": "August 11, 2026",
       "rawDate": "2026-08-11T13:53:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1786279816000-epbhzl",
-      "title": "‘Watch The Odyssey for free online’: scam targets film fans with fake streaming sites",
-      "url": "https://www.theguardian.com/money/2026/aug/09/watch-the-odyssey-for-free-online-scam-film-fans-fake-streaming-sites",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 9, 2026",
-      "rawDate": "2026-08-09T07:00:09.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

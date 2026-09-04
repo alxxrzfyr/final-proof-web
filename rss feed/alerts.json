@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-09-02T16:04:00.297Z",
+  "fetchedAt": "2026-09-04T03:13:42.268Z",
   "alerts": [
+    {
+      "id": "alert-local-1788491620932-jb4xv2",
+      "title": "DMCA &amp; Website Takedown Specialist (Impersonation / Scam Site Removal) 1723440",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdnRQTHd4cVp2dkxrVHdBZVJRaUxuR3RzTlNUS3ZiQURCT20yVUV4WW02akVpekV5R0JwWldta2NycVk5RHBCeE1CRkxmN1NSczA0TFBKZURKOXBUWk9IdnJpMkdXSWVwaG9Ua1d6RHZyVlE0Q2E5aDVmTlFCcHkwQmVDSnB6OHdSVDZ6MF93TnFCb0JTVFYzV19SUS04QWdMLVU3V2pzX3QxMGhJRENKcE1mdw?oc=5",
+      "source": "onlinejobs.ph",
+      "sourceLabel": "onlinejobs.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 4, 2026",
+      "rawDate": "2026-09-04T01:06:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.onlinejobs.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1788491620932-f74a1p",
+      "title": "$2 jackpot lottery for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GTllnTHROeUtzU1AxMXNTSVZmejdSZWRmNEE4akFPQmYtOF91RmdEVnFCZE9kQ2NoWnZIRm9CMXZvMTh2X3oxNjBuYlBOcmh0RVpKbDBsYl9wUkpRMy10WDNyNkpYbjNUcElDTDlMMHU?oc=5",
+      "source": "silcs.edu.ph",
+      "sourceLabel": "silcs.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 3, 2026",
+      "rawDate": "2026-09-03T13:16:54.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.silcs.edu.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1788491620931-gh55v",
+      "title": "Graduate School Research about Monthly Phishing and Scam",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmpvSG9JWDFmSzlOTmxrejFwb1UzeHVxZ081RnRUZXpnRWJYWktvcjRscWlWMEVPQUk5X1NWZnllTVU2eXZMT3NILU5YcURnd2xkRTg5WHdJV21iS0tvMkd5Zm9ZRXJfWjZleTBlaGNOeXVCSlNkUjNZYXhXZVZmN0Zhd290UkpPQS1mSnZqQ2xkX050NlBQeUdn?oc=5",
+      "source": "www.foi.gov.ph",
+      "sourceLabel": "www.foi.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 3, 2026",
+      "rawDate": "2026-09-03T09:25:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1788365039368-7gdfv9",
       "title": "Dizon presses contractor to finish Manila-Cavite road before Undas",
@@ -125,48 +167,6 @@
       "date": "August 31, 2026",
       "rawDate": "2026-08-31T04:53:54.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788148934895-uoa9xd",
-      "title": "PHLPost warns public against ‘smishing’ and online scams",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm51dUNUQWRxVXZIN2xIWTRoTmU2RzN5UGVjZ0tDZXJvcFl4RlZyREFCemR6ZzNDSFZLa3FCTHRLMVI0NzVFQVduNWdmdTYyeFRINHFRTjlLRHM0VnVteURtY1ptclprc0VMXzg5ckEtOWx5MnBjUE9xNGpRMGY3OU1jUklkc1FZREpIdkJPSlZTU2U2SG9ZdXln?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 30, 2026",
-      "rawDate": "2026-08-30T21:02:42.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788202287938-ktdauw",
-      "title": "Marcos wealth yarn scammers recruited in public, on social media",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkN4MmI3d0o5X2lyZUpxbFBXUVdJLU81TEFBOGdCUGxhWHBONklaSDVOZDZFbzBjSFZIY3BaVWxvRmRyTTdlMmlncnZONWVVdXd5ZWF5NnFaQ01CYzRqZk9DQjNEQVBjQUdZMUZsY2pySUticTBnY2NYT2l1UXlIaERBeGNZZmdUQTVQbHpLdTdGWG0zVC1YOU1pdDZrTFdrQzN5WmhRa1Jmdw?oc=5",
-      "source": "rappler.com",
-      "sourceLabel": "rappler.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 30, 2026",
-      "rawDate": "2026-08-30T14:57:11.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788148933698-riunnt",
-      "title": "lottery jackpot for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYdmh6eEdXWnptT2ZLMmNQQUR6T2swTWhOOXBnZzM1bUFmcmhVbXNrc01TTHpOU1ZjMmNXSDZNclZ6TFUyWW9OUllLVWFsRTZvYmJtUzRGTVZrcXRMRDJMRXFKMA?oc=5",
-      "source": "ecommerce.dti.gov.ph",
-      "sourceLabel": "ecommerce.dti.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 29, 2026",
-      "rawDate": "2026-08-29T13:08:04.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/ecommerce.dti.gov.ph.ico",
       "scope": "local"
     },
     {

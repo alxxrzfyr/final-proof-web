@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-04T15:51:41.790Z",
+  "fetchedAt": "2026-09-05T03:15:17.409Z",
   "alerts": [
+    {
+      "id": "alert-local-1788578116854-wcj0im",
+      "title": "The new anatomy of bank fraud",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93dzc0WnA2VzdkWnotQ2NIeGdTRTFIenY1RE5CNUNCSUVRN2xkWDkwTWZDaktNMXVaUEVtNERULThzREMxNkhIX2VoNWFUemtaRmp0S05XX3ZSSGtGUUk0SVRuVWhLUEg1c09lNTNreWxGZ01WT1BIUGgxT2lCWDDSAYYBQVVfeXFMTnJRbW5mVXg1MGhaTDVHSkdqdDBLQWZ5aXhHaTFGZ1NqOTRpeXpMMDNBWFVMUDBaa0tDeWMzanc0b3lYZ0pVRThYWVFDZkFkdjNvZ1hZeU04SHRoUlVORXBKRE56emM1UEpRMjA2bnFGR0F0aU1NSUNabkM1SmdpOGdEZlF6Y0E?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 4, 2026",
+      "rawDate": "2026-09-04T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1788491620932-jb4xv2",
       "title": "DMCA &amp; Website Takedown Specialist (Impersonation / Scam Site Removal) 1723440",
@@ -41,6 +55,20 @@
       "date": "September 3, 2026",
       "rawDate": "2026-09-03T09:25:51.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1788578116421-z1tff",
+      "title": "Prosecution: AFP witnesses' testimony shows 'fraudulent' liquidation of DepEd funds",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWRyckFPQWdYODJMak93SDIwaXkyVXFCYkdTVVRXbGY2aXl4VzhDSkVmcnVDb1BkYkIxT2gtaWhjOUpaLWdaSjIxX3RfbFoxcm5DXzNuMHowNkl0T2FqWkRLZXJ1RHpzRWlXY01QcVFOTHNpWEpnTzZPVXNheHV0SVFTQjdvdEd2eXNFSG5KakY5Tnh0V0Z3ZVpvcFR3YXRYWENfc1ZCdG9JWGhmNjBxcDEzRG9NSVgtVzJVb1lEODFfcG5sVXk1Nw?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 2, 2026",
+      "rawDate": "2026-09-02T00:24:54.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -142,32 +170,32 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1788278964036-ne11sqs",
-      "title": "SSS warns members, UPLIFT beneficiaries vs email, text scams",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDhZWmNpZ0pXSTVXa21laV9qck81X3p3d2pNYU9GTVRjR3VmZERfTzFUbHpqSk1KSHgxNWI2NmxFX1Y5ajNaOVlmNk5EMlp5bXViTXhUZ1ZQS1ExaTNMcG94cXRDcWd1bDZnNmdSdFU5ZFRSZ0sxdmlPaFZBaGNNeUtKSXRpYmV5VjlV?oc=5",
-      "source": "Philippine Information Agency",
-      "sourceLabel": "Philippine Information Agency",
+      "id": "alert-international-1788578117161-7yelwf",
+      "title": "IRS Drops Crypto Scam Victims’ Tax Bill on Theft Loss Deduction",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWdaaU1qVzJma0hLRHppRm44Mm1ld25waW1LX3lYbEVWMXFweUlkV3lGUnJYR0pYZWFsM0FvczNSMlluVGdMYm82UVVvM3hrWnVMUnBFMC1JNUtFSHRYWGVyNjUwOTFlMThWb3YzRFFXeWg0TlFCRzhRV3BMUFhPTWNKcEFjaVhra2QzRnFXXzIzdnRRYlZIc3FIaEd3dnQ4NlZTWXdlVTlDakdGY1E?oc=5",
+      "source": "news.bloombergtax.com",
+      "sourceLabel": "news.bloombergtax.com",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "September 1, 2026",
-      "rawDate": "2026-09-01T07:44:55.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/pia.gov.ph.ico",
-      "scope": "local"
+      "date": "September 4, 2026",
+      "rawDate": "2026-09-04T18:34:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
+      "scope": "international"
     },
     {
-      "id": "alert-local-1788202287938-25228q",
-      "title": "FALSE: Vice Ganda endorses bitcoin product",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
-      "source": "rappler.com",
-      "sourceLabel": "rappler.com",
+      "id": "alert-international-1788578115766-xwfaka",
+      "title": "Have a little fun scamming the scammers | Letters",
+      "url": "https://www.theguardian.com/money/2026/sep/04/have-a-little-fun-scamming-the-scammers",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "August 31, 2026",
-      "rawDate": "2026-08-31T04:53:54.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
+      "date": "September 4, 2026",
+      "rawDate": "2026-09-04T16:54:12.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1788318727538-df000x",
@@ -307,34 +335,6 @@
       "date": "August 23, 2026",
       "rawDate": "2026-08-23T06:00:24.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1786883898313-s3h36a",
-      "title": "‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos",
-      "url": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 16, 2026",
-      "rawDate": "2026-08-16T06:00:17.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1786883899074-ykq2t3",
-      "title": "Suisun City's City Hall to remain closed through the week after malware attack",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXdFZ25DVWgtZ0lLMldad0l1UjhHRzM5Z0VtOHJVTm1sM01CX05yMERGcl9xNEFLTml6MGZvbWV0UG5ZbmlJbEVHdGZMbGo0Z3RFM1R3cmNYQkRvQmR0dFpDcEpZTVkzU3dPRllDSGEyQmoyRUxWek53SHk3MDM1am1SX1lGaVJSeHJiZDJWQnFBYjc3WHJQcl9n?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 11, 2026",
-      "rawDate": "2026-08-11T13:53:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-05T14:42:25.628Z",
+  "fetchedAt": "2026-09-06T03:15:22.167Z",
   "alerts": [
+    {
+      "id": "alert-local-1788664521415-8tfh9l",
+      "title": "2 Nigerian, 1 Pinay timbog sa phishing scam sa Laguna",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSEVXZnhyYldzWmZYSUZvNkZYTk1mbjdHNG9yODVNcHdwQ0ZQbkhzeWp6NVRhR1dBR3JnV29IcDM1em50TFl2STNOWnZzaF9VTFpKMk4xMjdyUUxYamJldHktOXZrck5fcEdxdnY4bllGWjBMOF8zUTNtQThxV05kcUtISTFuNnkwX1BvbUNfN1RCSjJD?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 5, 2026",
+      "rawDate": "2026-09-05T13:42:41.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1788619344161-unl0kk",
       "title": "Estafa / Love Scam",
@@ -153,20 +167,6 @@
       "date": "September 1, 2026",
       "rawDate": "2026-09-01T11:57:06.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788278964036-ji29pj",
-      "title": "Anti-Fraud Operations Specialist 1713257",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNi02TlY0VS0tNFVEa0xpalJBSEtJN0hrc0IweHI1YWtfYkVDT3NMMUExOFhTSTVoM3JDblhKWC1GMUZUSUhFN29UM3QyQmhpaXNuS09QNmxwemMteDlPU0NmanlZZ2h1Nld5eXhpTnFLVzliTl9tODJrQVF3eHJsU1VzSUNIcVNC?oc=5",
-      "source": "onlinejobs.ph",
-      "sourceLabel": "onlinejobs.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 1, 2026",
-      "rawDate": "2026-09-01T11:54:26.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.onlinejobs.ph.ico",
       "scope": "local"
     },
     {

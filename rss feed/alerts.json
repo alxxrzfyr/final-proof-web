@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-07T03:13:12.324Z",
+  "fetchedAt": "2026-09-07T17:21:56.773Z",
   "alerts": [
     {
       "id": "alert-local-1788750791111-pbfone",
@@ -114,6 +114,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1788801715576-o7nq0x2",
+      "title": "lottery more chance winning for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb3FydEdrQjZudHc1NGo5MmF2VEUtWjd1cXA0V0lzYW5rU3VlbmVob0lhaE1Ma3VSdk43alFnRGJZdVdsd1dRT3h5VDhfdnhhZ3hwODA4QVI4cFlDV1pNUkFaSy1HMWw2bnNDUl9IVnBwZHdmQ0pRMEptQUZyR1Q1Yjd4cV9ja0JkbzFvUkN0Y0FTbE1zcV8yQVJtZw?oc=5",
+      "source": "silcs.edu.ph",
+      "sourceLabel": "silcs.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 3, 2026",
+      "rawDate": "2026-09-03T14:16:28.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.silcs.edu.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1788491620932-f74a1p",
       "title": "$2 jackpot lottery for Android - Search on Google Play",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GTllnTHROeUtzU1AxMXNTSVZmejdSZWRmNEE4akFPQmYtOF91RmdEVnFCZE9kQ2NoWnZIRm9CMXZvMTh2X3oxNjBuYlBOcmh0RVpKbDBsYl9wUkpRMy10WDNyNkpYbjNUcElDTDlMMHU?oc=5",
@@ -142,32 +156,32 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1788578116421-z1tff",
-      "title": "Prosecution: AFP witnesses' testimony shows 'fraudulent' liquidation of DepEd funds",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdWRyckFPQWdYODJMak93SDIwaXkyVXFCYkdTVVRXbGY2aXl4VzhDSkVmcnVDb1BkYkIxT2gtaWhjOUpaLWdaSjIxX3RfbFoxcm5DXzNuMHowNkl0T2FqWkRLZXJ1RHpzRWlXY01QcVFOTHNpWEpnTzZPVXNheHV0SVFTQjdvdEd2eXNFSG5KakY5Tnh0V0Z3ZVpvcFR3YXRYWENfc1ZCdG9JWGhmNjBxcDEzRG9NSVgtVzJVb1lEODFfcG5sVXk1Nw?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
+      "id": "alert-local-1788801715576-pkxvw",
+      "title": "bet 365 online for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yRTE5TzZqbHZ2ZzBBR0NfTmc1Nkc4WWhPQmlYTjBjcFlGaERvU1p2dnEzVkRPWDYyUmNsTTJPWjVtMGNLZWZUQmpBQlhacVBCZzJweXpORGJMVGJVRHVlMlc0V3dVbjl2SkZveDdIOERGeEtVbndPOW1uRlY?oc=5",
+      "source": "silcs.edu.ph",
+      "sourceLabel": "silcs.edu.ph",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "September 2, 2026",
-      "rawDate": "2026-09-02T00:24:54.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "date": "September 3, 2026",
+      "rawDate": "2026-09-03T05:36:29.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.silcs.edu.ph.ico",
       "scope": "local"
     },
     {
-      "id": "alert-local-1788365039368-7gdfv9",
-      "title": "Dizon presses contractor to finish Manila-Cavite road before Undas",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObmlPZUVlZVU1NTNmVmdVaFlqQWlsbmpvaUNGMVNvT1JGUllpcUxuREJBUGpjUnhFRTBkZjhUUE1lNllpTVpVNjg1ci1CNmhueGwxc1NOeEZSWmRHdTN6ZlBfV1hXaUFjWkpJNmZWUE5kV3BEczNDakZveFVlRWtXTElkN0NxTDhVdVFsYWQ4dDNSbjdkbDJHUXAxYkVfMC1rS1BnV0JFOUs5Ri03b0RHeUl4cGFneVk?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
+      "id": "alert-international-1788801715417-th85gn",
+      "title": "The death of ‘hello’: how gen Z – and scammers – put paid to the greeting",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/07/death-of-hello-gen-z-and-scammers",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "September 1, 2026",
-      "rawDate": "2026-09-01T22:57:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
+      "date": "September 7, 2026",
+      "rawDate": "2026-09-07T14:08:36.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1788706881089-3cj02e",
@@ -321,20 +335,6 @@
       "date": "August 27, 2026",
       "rawDate": "2026-08-27T17:54:23.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1787867508452-o8f1b",
-      "title": "Two Alleged &#8216;TeamPCP&#8217; Hackers Arrested in Australia",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 27, 2026",
-      "rawDate": "2026-08-27T11:04:15.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

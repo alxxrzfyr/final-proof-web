@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-06T15:01:22.404Z",
+  "fetchedAt": "2026-09-07T03:13:12.324Z",
   "alerts": [
+    {
+      "id": "alert-local-1788750791111-pbfone",
+      "title": "Kapampangans weigh in\non Pineda clothing issue",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcmRzcF9mcXlSSlFGOFhGeGlLbFU0bGk1MGM0QlU0ZGp5Z2tnekE1WFE3bXVaRUhnOEFtbFgxaXVmSmFOLUstZEZTRllCZVEteU1pak4xMkRJeVh3VWhaTzNEMkVtck5TZ3BrTFhSdFdVVFQwdVkwelYzYW5YZFF0T1dxYjdWV2000gGWAUFVX3lxTFBRQkJka0pyLWlqSzEtdTByS0J1SEdqY0dNcHVXdXAzT3g1QktPd2VMLURxMWt1eEl0MHFiSlNJcl9LOUk0cUxIeHBTZU1hWFYtYmszY25nTExoc3drWm5VbGtLYVJoZ0QxWk11TnFTNGlFQmxuQzl2dXJRWjBhNUJFVEYzMmJ4dFBFVmdXUnRoN0VGbDJYUQ?oc=5",
+      "source": "SunStar Publishing Inc.",
+      "sourceLabel": "SunStar Publishing Inc.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 7, 2026",
+      "rawDate": "2026-09-07T00:32:15.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1788706881215-nnzhma",
       "title": "SSS warns members, Uplift beneficiaries vs email, text scams",
@@ -41,6 +55,20 @@
       "date": "September 5, 2026",
       "rawDate": "2026-09-05T13:42:41.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1788750791111-zf05jp",
+      "title": "Chad Gammad denies breakup rumors with Apple David",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSlV4eXVheGRNV0Yxd1AtRFc3T3E3cjVTdGlqWXp0aFZTbkJpcmI0VS1PWjBBSjhIbFJPSXIzNnc1TGlrUHRlUjRQc0VIclZjQl8yTU8tYU9aZ2k1M0JGUXNxV0xlekJoMWZCWmpXTGNfZmY3aWJxc0lEMGxJdkRqdktZaFZkUVhMUXfSAZcBQVVfeXFMTjFmVldFSDc2YzNKU1J2SUhLYUhhSUtzcFg2ZW81XzBGUHpXZHVUeEJOQVVrcXZIZmtVaURFOW1rcm9rN0Vhck96bGFmTnRlWmtHdHI1ekg5RVZ6V2hrNlNvSWhwSHB4LV9qaUNFTTNnYTRVNmFEZXdsSjlQcEZZNkh6dnBIRGl5WHE2cXRZZDZGRUIzUVZNUQ?oc=5",
+      "source": "SunStar Publishing Inc.",
+      "sourceLabel": "SunStar Publishing Inc.",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 5, 2026",
+      "rawDate": "2026-09-05T08:59:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.sunstar.com.ph.ico",
       "scope": "local"
     },
     {
@@ -142,34 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1788318727357-vee9wu",
-      "title": "Chinese national nabbed over alleged rogue cell site, phishing scheme",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSDcwR2JzN0d5LXVzWFB0dXFpekN2ZmlsNEZqSzhJNlQxRnJpT3kyOU9PeFUwSkdCTzZvUlVkSlhtMUt5aC0tQUFWN1FXSFJuUVZaLWY2ejJDOUlKRGJTX0MzaF9XaUtmMVFFYnpvMllMeU1pSm1PZkx4TGdwNnp2SUllQmZpZW54M3FZUnplS0l6aE5CZU14WjYyZ2NBRzhibGtuYXNfQ1NiUDFlanfSAbMBQVVfeXFMTlpTYVpKck96SHVWYno3Nm94djBveks4TkxHWXhCX1kzRm8yU1RoS1RQMWtHcEstbVlKZGZoZWQ5Y0VGNFRCV181cjZhLTdlSkJid281UGVZZjJfQTNMSDMxXy01MWVWQ0V3dVBCN3RBOEZzV3R5UzlnamQ4LURteVlfa0ZTSlVJOXFwX0hpYTBta0ZiY3p2X1pVWXRmVC00ZG9ENG1jNkplS2t5NXpoMHBaM00?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 1, 2026",
-      "rawDate": "2026-09-01T16:41:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788278964035-lrtm1r",
-      "title": "NBI warns public vs online scams using IMSI catcher device",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2ZFUXZHTGhfeVRDY2l4TUlwRUJuZHZNQ1BJWlZnWDR6MklFN2dqckNJMmdiZGV2WTMteDh6TmRlZGRDWXhPV2tKS2dCbTk5OFBuQWY5MWZHdDZrUDhIZ0dsd1R3TmEwU3hycjNMQ2h2cEp4WHU0Z0JWd3cwdG1tYjVZc2YyWm9YaVEtd1JPOW00WXdWVFVhZ19NTThTZTBxOUE?oc=5",
-      "source": "BusinessMirror",
-      "sourceLabel": "BusinessMirror",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 1, 2026",
-      "rawDate": "2026-09-01T13:10:41.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/businessmirror.com.ph.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-1788706881089-3cj02e",
       "title": "The student loan scam looking to dupe already anxious students",
       "url": "https://www.theguardian.com/money/2026/sep/06/student-loan-scam-maintenance-funds-dupe-students",
@@ -209,6 +209,20 @@
       "date": "September 4, 2026",
       "rawDate": "2026-09-04T16:54:12.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1788750791475-ef05rp",
+      "title": "Allegiant Stadium upgrade, Clark County phishing scam and Nevada powwow",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaklhTGdVNUVMLWptMm1sQVFTanpPTVg5WVdOVUowUHJMMTdaOFhicGRaMFRCeFdZRFRHaWQyRVY4R1ZOQm5XaDBza1lQVDR5c3FtQWp3MG1fd3daVEdJWno0YTdzcDNwQXNiUGJWSTFTUm9FMmlicXUtd3hRNkV5aTJKbmo4ejZNNnEtanZEaUVjSElSNTk5anhoX2h0dFFDWWFKd1VXeVZNMFI4UjloMmR3?oc=5",
+      "source": "NPR Las Vegas",
+      "sourceLabel": "NPR Las Vegas",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 3, 2026",
+      "rawDate": "2026-09-03T18:26:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/knpr.org.ico",
       "scope": "international"
     },
     {
@@ -321,20 +335,6 @@
       "date": "August 27, 2026",
       "rawDate": "2026-08-27T11:04:15.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1787748692909-bmkyaj",
-      "title": "That fake Grand Theft Auto VI demo is actually just malware",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWksxN1hNTVEtSGxjTGI2NXJHMFRkRzBhWXFXa2toVkhFdkxOZlNjaEhjTzZKdjJKWHpMeVAwN0N4SVhBMGRzcmFQdVBuWTJnb0RxVEpBUnNCNnVtTjlQNHhmVWdGVEtycnFOclViTlU4Y25URzYzdkxBdno0endDNWhnYURRNEE1czZqaS14VHlwdEJWMEtBazh3?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 25, 2026",
-      "rawDate": "2026-08-25T15:48:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
       "scope": "international"
     }
   ]

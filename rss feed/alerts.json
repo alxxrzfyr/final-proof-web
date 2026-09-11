@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-09T16:01:13.458Z",
+  "fetchedAt": "2026-09-11T03:19:43.249Z",
   "alerts": [
+    {
+      "id": "alert-local-1789096782559-hed3",
+      "title": "Travel scams are getting harder to spot. Here’s how to stay safe",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeC1TQmYxWFUtbWJrMW5DR2lEWTJ2aEVTVjBJeURnc3R1c1ZuZF8tU1IzZjAxZkZvaGQ5U1daR3BMZXY4Q3hOUkh3OXlhYWh0STVlZUc0UHhhQW1tZ29HV3VZUmZkcUdXYnd6MzNfcndONmZiUURLQlc1XzhUMzNYNDlET2tHUWxPNUI2azVPOUtUQVlRODdFSW1B?oc=5",
+      "source": "usa.inquirer.net",
+      "sourceLabel": "usa.inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 10, 2026",
+      "rawDate": "2026-09-10T08:35:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/usa.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1788969671823-ac96ph",
       "title": "Understanding Trezor Scams How to Protect Your Crypto Assets",
@@ -72,6 +86,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1789096781916-s9urw9",
+      "title": "PHLPost warns public against smishing scam",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUdDY0l1YjBKMDJDRzh5REVZUkFzRjRnT1pUYmxraE9sRzJva0JLTEdTUExzd1oyaWtCc2FFMjcxYlJSVmtXN2h2REN6Zm8tNDIxLV9pSUVIdy00WUhEYnRRS01vUVRja3BQLUpxRTV5aFRzVTVoNTRzMzY2bkxGWUlB?oc=5",
+      "source": "tribune.net.ph",
+      "sourceLabel": "tribune.net.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 9, 2026",
+      "rawDate": "2026-09-09T06:14:21.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1788924271461-gbd5ra",
       "title": "Trezor Security Risks Protecting Your Crypto from Scammers",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWJnRlNTV04yckt5U0R4dTBPM3FJSEdRVllrSzJpMlk4N0ZKUnd5azRTdjdHZjc2bGwwUDU1d2NhOFRTWlRnRUdSVkZVdDFXdENjRXJFSUV2NHdoazlRT2czMFdRbUhDdERNVTFhUHlWYmFfS3J2c0F5OHFvTWFkc0VUQk04ckR2S3c?oc=5",
@@ -138,34 +166,6 @@
       "severity": "medium",
       "date": "September 8, 2026",
       "rawDate": "2026-09-08T21:06:49.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788924271461-f4rl5d",
-      "title": "Beware of fake Trezor apps how to spot and avoid scams",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSGU0V013cmZuLVBkd0VlbFFoczBOOEQtaU1oaTlibFdfdnZta2hVdlA3ZllTZnhFRW1rYTJra0hIM182S0VidXpqTW5INXBGY0hFNUItUUlUWGQ4QXZmb3hVYndrbGg0bVh1UXRZa043YWYxNllwN0JQeXFwcFJYWlR6N3U2UEdJ?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 8, 2026",
-      "rawDate": "2026-09-08T21:06:47.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788924271462-xe2xj",
-      "title": "Recognizing and Avoiding Trezor Fake App Scams Online",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPazJJYnBIbkloMTJWNWEtc0JCRlcxOWx6QmdUUDlpVXphWkFtVHFVUkZtaGQ0b0U3TmsydU0wbnlLQ3JwQmtRcnM2Y0l2WVFWcXNEUDVzVDdDeUQ5QmVzQWp5NGF6bXJyeUFaQ3EwcFBBdkxYYlhpelY1R2huRkxVRWRqOFd0VEd0Qmc?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 8, 2026",
-      "rawDate": "2026-09-08T21:06:47.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
       "scope": "local"
     },

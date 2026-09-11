@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-09-11T03:19:43.249Z",
+  "fetchedAt": "2026-09-11T15:58:51.253Z",
   "alerts": [
+    {
+      "id": "alert-local-1789142329794-igzljr",
+      "title": "Millions of scammed Filipinos turning to tech apps over police",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjN0LWFIby1IM2Z2NGFiYjBEY2ZJT0FDS2p6eVFHbUE1bFR2dy1IVHpYbDRodG1aUjVuRElLZ254Nmlmbk50S2Eya2d1SmQteHRLNndRN1FMQndqeV9Ed1RPM3NmbkswTzBXMkR3WWFrdDB3U01KcWtsb3VyVVk5alJuYUNrQ3BVOFV0eWJBYlY0TlRsdFE?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 11, 2026",
+      "rawDate": "2026-09-11T06:26:36.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1789142329796-4sbeod",
+      "title": "Why Account Takeover Is Getting Harder to Stop",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UUTJKbTd2WElGNUU4WGZQLUxvWlF0MXd1YUxvY0J3UTREcTBKU3prSGZvdWV1Zi1LSmtRcXpKbDU1M1JJUGxBUl9hckNRZjNlTnJVbkJuM0o2YUpoT0JfUUJCTC1obmlOVUVxdmw0RWdOYTM5MkRnVDBR?oc=5",
+      "source": "Fintech News Philippines",
+      "sourceLabel": "Fintech News Philippines",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 11, 2026",
+      "rawDate": "2026-09-11T05:45:20.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/fintechnews.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1789096782559-hed3",
       "title": "Travel scams are getting harder to spot. Here’s how to stay safe",
@@ -138,34 +166,6 @@
       "severity": "medium",
       "date": "September 8, 2026",
       "rawDate": "2026-09-08T21:06:50.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788924271460-2nb3fd",
-      "title": "Protecting Your Trezor Wallet from Phishing Attacks and Scams",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORUhVUV9XbFB5TkJ2VHRLdVd1ZUEyQVNYN01ydHJGOXpVRzNiNFhVbWRQeE5VWHRFYnF5QnU3TEtjSnJkZHB3bVFPRm5XSEJMbDJLd01rOVZtd01Jdmx3eV9qakxQaTJyM2R4aml2UGh0ME9TbjAtWlN4MXdxM01MSFAySnI3UQ?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 8, 2026",
-      "rawDate": "2026-09-08T21:06:49.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788924271460-gq17fp",
-      "title": "Trezor Phishing Attacks Risks Protection Measures Explained",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVzQ1WmwwZjVGSHVPU2d1Q0dhUE1WNXpIcUdVZTlhdXo4RWZRMjB2U2M2d1c3SzNubUtIcEROU3hCVDFDSHl5a21fM2lPY2hlcC1sekxhSndmalF6SDNZYTFUcEV0TFB1U0xJbWxQalpyNUgzc2pFT2liLURQbENZRlNhS1ZIa0VPRVE?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 8, 2026",
-      "rawDate": "2026-09-08T21:06:49.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
       "scope": "local"
     },

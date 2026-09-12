@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T15:58:51.253Z",
+  "fetchedAt": "2026-09-12T15:06:32.848Z",
   "alerts": [
     {
       "id": "alert-local-1789142329794-igzljr",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1789225591144-6n9rd4",
+      "title": "Six Nigerians extradited to US over $6M online romance scam",
+      "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 12, 2026",
+      "rawDate": "2026-09-12T14:05:45.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1788801715417-th85gn",
       "title": "The death of ‘hello’: how gen Z – and scammers – put paid to the greeting",
       "url": "https://www.theguardian.com/lifeandstyle/2026/sep/07/death-of-hello-gen-z-and-scammers",
@@ -321,20 +335,6 @@
       "date": "August 28, 2026",
       "rawDate": "2026-08-28T17:09:15.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1787867509006-ckw87",
-      "title": "ATF declares ‘major incident’ as ransomware gang claims hack",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGdGaFUyLXlyMlh2dXpCY3VWTHlxM0JoVnJGSzVrVDV2djJLWFdSdTcwQUVjSFFobkFNX25QWS02WGFJUHQ0TW4xdHVvelJKQVRPYU5Rd21mdzhWTUM0d01JcU9OYnpQWWt5NUp4cEwwbjJzU3diWWNFUHEwMmhFTGxXV2k5b29mS29Mby1qQV9EX2NBWWs0TQ?oc=5",
-      "source": "TechCrunch",
-      "sourceLabel": "TechCrunch",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 27, 2026",
-      "rawDate": "2026-08-27T17:54:23.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/techcrunch.com.ico",
       "scope": "international"
     }
   ]

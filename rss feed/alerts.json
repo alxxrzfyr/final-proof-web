@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-12T15:06:32.848Z",
+  "fetchedAt": "2026-09-13T15:43:02.821Z",
   "alerts": [
+    {
+      "id": "alert-local-1789314182118-1n6vb",
+      "title": "Reservation hijacking and travel scams: Here’s how to stay safe",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWdZMmtqMWVoaWxicGNKM3ZZbEV1eHVTeTNhZ1hmTlQ3cGVFNU5hcDd2T3FQeDVYcVQ3MjhLZ2syR0h4bm5ZV0pJeVk0LUZONVBMR0ZUYU9ranlLeXBLZ2hGN2RJZUxWWkVvVnJBeW5yOEdkWVh5R1pxX0hHbzltcnNHUWtUMWF4UWJvcWtuakRxRzROc3lCeW1WWlJfcVk5VWpraGt30gGrAUFVX3lxTE9FSFZ2eE1pTExSWEFTZVJPUXhGa1kyQkxlSzM2S1dvZmhaM2VvZEM0cHgxMEN2ZUs4SHJMWlhZWkVvY19mVDRnd3dnS1dINm0wbEx2QVpERE5vdU81TENLdVN2WjVvR3JVSXJfbTlkU1BVV0ZDdjVpaTRFMkJmYnctVmwySkNTMkxnX0hmbEwwLXBscGVDYnV2eWhVV0R4dWljcm9NcklxS3lsYw?oc=5",
+      "source": "Cebu Daily News",
+      "sourceLabel": "Cebu Daily News",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 13, 2026",
+      "rawDate": "2026-09-13T10:27:32.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1789142329794-igzljr",
       "title": "Millions of scammed Filipinos turning to tech apps over police",
@@ -156,18 +170,32 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1788924271462-aht2h",
-      "title": "Trezor Wallet Security Risks and Fraud Prevention Tips",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQnhrQm1GaTU3cXpzSzR3akxyYVVSdXJZZ08tcUdhQ3JOdm9Qc1otakRUYThiSzZUY1lqQVk0bnZyM1BUU2ZLVmQ3MkFDcURJMEtvazFyTm9TUWpRdUoxeFBqdDM3ZTFBT3p1MjRXQVFNbnRHVjdWTlpweEN5Q21rQnBVU0ZFWFFL?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
+      "id": "alert-international-1789314181349-71scmk",
+      "title": "Tesco alerts police as supermarket becomes latest victim of scam ‘endorsement’ ads",
+      "url": "https://www.theguardian.com/money/2026/sep/13/tesco-scam-endorsement-haaland-bellingham-casino",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "September 8, 2026",
-      "rawDate": "2026-09-08T21:06:50.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
+      "date": "September 13, 2026",
+      "rawDate": "2026-09-13T06:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1789314181349-ozxri9",
+      "title": "‘Cheap iPhone deal’: warning over scam sites selling latest Apple mobiles",
+      "url": "https://www.theguardian.com/money/2026/sep/13/cheap-iphone-18-pro-duo-deal-price-scam-sites-apple-mobiles",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 13, 2026",
+      "rawDate": "2026-09-13T06:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1789225591144-6n9rd4",
@@ -307,34 +335,6 @@
       "date": "August 29, 2026",
       "rawDate": "2026-08-29T12:00:27.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1787982867651-xdzzyi",
-      "title": "Ransomware group says it stole Berlin data, offers it for auction",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMEU2bXFCTHFZZXA0dDVYaG9JR1NpQjRkcUZnTVkwa1JRRjB2UVFkNUxMOUI2WGc2M1BDNU5vUjh2bG9iNVlDdGh4MkFYNUpPc05aWXhSeWVYY0oyTWEwczh0elFoNkRfelZIbFJjVlZGajl0aXZMamVTaDR2MTliSGNucjh3LVVWdU9BeTd6Q2JSTDdzeHpBalVxbU50dnVMeDZENVRXSlZpQmx5RXg5STdiMA?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 28, 2026",
-      "rawDate": "2026-08-28T19:34:22.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1788020264518-am3u58",
-      "title": "US federal agency confirms data breach in wake of claims by ransomware group",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjdLeER3cjdxM0hYTDJ5VzhRcHdyejRuOUw0LXN3Ym1iMXRQcWpOZDlCRkFHc1Z4allERkxGbHVmZHhzRGZ6QjZ5Z0tYa1RmXzFocFVyYS1CaGE0ZTJHMEVVbGFSMld2LWxYQUo5Q29xaWJNb0tfNU10V09wTEtULXRvM1V1cXhGeFBpUzRpTS1zbnZEazVXUld3S0F1QzVqSkYxQ2tLSGJqVXc4b1V0Y2daQnNVWEpwdHRtTmowWTY?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 28, 2026",
-      "rawDate": "2026-08-28T17:09:15.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     }
   ]

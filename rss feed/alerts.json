@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-13T15:43:02.821Z",
+  "fetchedAt": "2026-09-14T17:49:14.888Z",
   "alerts": [
     {
       "id": "alert-local-1789314182118-1n6vb",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1789408153435-7frcfg",
+      "title": "A little rudeness can save you from being scammed? Count me in | Polly Hudson",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/14/rudeness-prevent-scam-money",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 14, 2026",
+      "rawDate": "2026-09-14T10:00:55.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1789314181349-71scmk",
       "title": "Tesco alerts police as supermarket becomes latest victim of scam ‘endorsement’ ads",
       "url": "https://www.theguardian.com/money/2026/sep/13/tesco-scam-endorsement-haaland-bellingham-casino",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "August 30, 2026",
       "rawDate": "2026-08-30T07:00:49.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1788020263861-hkzgt",
-      "title": "‘I’ve £80k in the account, here’s my pin’: turning the tables on the scammers",
-      "url": "https://www.theguardian.com/money/2026/aug/29/banks-scam-heres-my-pin-number-turning-the-tables-on-scammers",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 29, 2026",
-      "rawDate": "2026-08-29T12:00:27.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

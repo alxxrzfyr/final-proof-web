@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T17:49:14.888Z",
+  "fetchedAt": "2026-09-15T16:24:38.895Z",
   "alerts": [
     {
       "id": "alert-local-1789314182118-1n6vb",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1789489477980-mv0295",
+      "title": "Peru Economy Ministry’s X Account Hacked in Likely Crypto Scam",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVNUT2JCTjlTWDdDUDNlTDB0ZDRUVDJ6NXZEeW1rWUpUT0pLRG9kYkdHYTR0dzByS1JpUk1ubldIaXo5VnFQZTMyeUtld0lxYm1ycHV5RTdtNjlHeGV6UmZmN01NWEgxYzhWb25TRWVfSXk0UFVzT0VCbU5KU2hrbEVVUUhwR1dZV0VESEdlRnNaTm9FeHlub2piMm4wTnMtei1Rc21nSUZ0TFFXblBWOW43SQ?oc=5",
+      "source": "Bloomberg.com",
+      "sourceLabel": "Bloomberg.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 14, 2026",
+      "rawDate": "2026-09-14T17:37:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.bloomberg.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1789408153435-7frcfg",
       "title": "A little rudeness can save you from being scammed? Count me in | Polly Hudson",
       "url": "https://www.theguardian.com/commentisfree/2026/sep/14/rudeness-prevent-scam-money",
@@ -321,20 +335,6 @@
       "date": "August 31, 2026",
       "rawDate": "2026-08-31T17:47:14.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1788106201016-y8z9j",
-      "title": "New payment set up? Get in touch! The bank scam where your ‘bank’ is the scammer",
-      "url": "https://www.theguardian.com/money/2026/aug/30/new-payment-set-up-get-in-touch-the-bank-scam-where-your-bank-is-the-scammer",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 30, 2026",
-      "rawDate": "2026-08-30T07:00:49.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

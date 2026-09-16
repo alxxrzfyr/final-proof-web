@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-15T16:24:38.895Z",
+  "fetchedAt": "2026-09-16T03:38:40.486Z",
   "alerts": [
+    {
+      "id": "alert-local-1789529919303-o4jj1",
+      "title": "Anti-Fraud Operations Specialist 1731492",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFEwRWYxUWFPNlJ4NFlGQnZ1YzBLTWpDbmZNOXlWNmVMamc4ckFOQmgwc0d5Mjk3N3FYcE5pbkZWQVZQRHA0cXBDWU0xTXgzTVpKanRZaXF4eUJMUDFHMVBkT0lyaXkwWU9DS0ltaF9YYmkwYkpoaTZOQ0dZaWJiWml0Z05jLV9n?oc=5",
+      "source": "onlinejobs.ph",
+      "sourceLabel": "onlinejobs.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 15, 2026",
+      "rawDate": "2026-09-15T21:14:05.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.onlinejobs.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1789314182118-1n6vb",
       "title": "Reservation hijacking and travel scams: Here’s how to stay safe",
@@ -145,20 +159,6 @@
       "id": "alert-local-1788924271461-gbd5ra",
       "title": "Trezor Security Risks Protecting Your Crypto from Scammers",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWJnRlNTV04yckt5U0R4dTBPM3FJSEdRVllrSzJpMlk4N0ZKUnd5azRTdjdHZjc2bGwwUDU1d2NhOFRTWlRnRUdSVkZVdDFXdENjRXJFSUV2NHdoazlRT2czMFdRbUhDdERNVTFhUHlWYmFfS3J2c0F5OHFvTWFkc0VUQk04ckR2S3c?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 8, 2026",
-      "rawDate": "2026-09-08T21:06:50.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788924271461-jqunl",
-      "title": "How Trezor Protects Your Crypto with Strong Security Features",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2RxV0s0Q0RMZFF4RFVXaGYyeUNsMDN4dGczMUV6R0V4YkNDdFc3LXZDQk1USl9QWXRjU3JnVDVrVExHelZFdXNVeHB0R0FCWmF1V2VPb1hpb0pMclBlMmtIWnFTdDl0ZXFvWWQ5VWZKWTY3Mm43WFJSV093Qi05OG5fVTN3TlVU?oc=5",
       "source": "mamburao.gov.ph",
       "sourceLabel": "mamburao.gov.ph",
       "sourceLogo": "newspaper",

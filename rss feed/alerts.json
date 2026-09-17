@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-16T03:38:40.486Z",
+  "fetchedAt": "2026-09-17T03:43:38.983Z",
   "alerts": [
     {
       "id": "alert-local-1789529919303-o4jj1",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1789616618128-g2edc9",
+      "title": "Car Repairer Advances Insurance Claims Over Ransomware Attack",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGlXREx0R1pQX3hDeTNiQV9oOV9OcWl0QzJhY2lKZ2JFWnpVdlB3dnhhS2FnaG5BaWY5aV9KUzF6NExhNTdhVWo5QTRBSWx5SWhqZHQzMUhHRmRUTzhtMldjQWRIT2d5aW1zRjJCbE5mWnRLVUxySjBWT1VZc1FQZW44Y0hWUnoybjlHRWtTeDN5TDZVRlBERk1Pd0tUaGJqd2xR?oc=5",
+      "source": "Bloomberg Law News",
+      "sourceLabel": "Bloomberg Law News",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 15, 2026",
+      "rawDate": "2026-09-15T18:42:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/news.bloomberglaw.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1789489477980-mv0295",
       "title": "Peru Economy Ministry’s X Account Hacked in Likely Crypto Scam",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVNUT2JCTjlTWDdDUDNlTDB0ZDRUVDJ6NXZEeW1rWUpUT0pLRG9kYkdHYTR0dzByS1JpUk1ubldIaXo5VnFQZTMyeUtld0lxYm1ycHV5RTdtNjlHeGV6UmZmN01NWEgxYzhWb25TRWVfSXk0UFVzT0VCbU5KU2hrbEVVUUhwR1dZV0VESEdlRnNaTm9FeHlub2piMm4wTnMtei1Rc21nSUZ0TFFXblBWOW43SQ?oc=5",
@@ -321,20 +335,6 @@
       "date": "September 1, 2026",
       "rawDate": "2026-09-01T22:40:28.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1788234756198-wo67af",
-      "title": "Ransomware attack hits Norcross' computer systems, leaving disruptions, officials say",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWRPTnRvTmkycUtTRzZxODF4cHJRMWxNZlRkNkt4d1RIU2NveEdHTU9UNTZWSjlEd0swek5PNldVVVdJMkpObzM3YmNHRWpOa051S1VYN0NwdlBFNm1wbExKdGttUGV2MWlyWTM4Z3lDeURFVkMzODZFTXdodTZhTEZiMmFhUUdLRlE5alFJeXBiOFVvLWFjWjFleE9jVWpvZDF3R1hkMGJWQ3l3RDNjTlF3MVNwOXNZZDE2bw?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "August 31, 2026",
-      "rawDate": "2026-08-31T17:47:14.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

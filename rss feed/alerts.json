@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-18T03:29:49.940Z",
+  "fetchedAt": "2026-09-18T15:56:34.650Z",
   "alerts": [
     {
       "id": "alert-local-1789702188906-uo2yti",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1789746993770-l5pmug",
+      "title": "Victim of Crypto ‘Pig Butchering’ Scam Drops Tax Refund Lawsuit",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFF2b2tuYW5rLU55S1U2dk1TdHNVZmNRTUhESDNNWXhvLTJEdG1kRDF3MUNKUUtEWFA2bHJLSnkzN1JGOW1fMHNBeWJxbUxxUmxRZGV5cjNrV0lCNlppWXJETkIyZ0dxNmx2ekZ4QjViQVl5M2dMVmtBMmI3RWZLS2Jiak5CdG10MUIxbWxEUWVUQUItUDU2ZVQ0cnk5ZXIzb1RPcXhTcDZHWWJ6?oc=5",
+      "source": "news.bloombergtax.com",
+      "sourceLabel": "news.bloombergtax.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 18, 2026",
+      "rawDate": "2026-09-18T14:59:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1789616618128-g2edc9",
       "title": "Car Repairer Advances Insurance Claims Over Ransomware Attack",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGlXREx0R1pQX3hDeTNiQV9oOV9OcWl0QzJhY2lKZ2JFWnpVdlB3dnhhS2FnaG5BaWY5aV9KUzF6NExhNTdhVWo5QTRBSWx5SWhqZHQzMUhHRmRUTzhtMldjQWRIT2d5aW1zRjJCbE5mWnRLVUxySjBWT1VZc1FQZW44Y0hWUnoybjlHRWtTeDN5TDZVRlBERk1Pd0tUaGJqd2xR?oc=5",
@@ -321,20 +335,6 @@
       "date": "September 3, 2026",
       "rawDate": "2026-09-03T18:26:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/knpr.org.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1788318727538-df000x",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 1, 2026",
-      "rawDate": "2026-09-01T22:40:28.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

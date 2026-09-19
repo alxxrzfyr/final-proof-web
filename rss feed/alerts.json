@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T03:27:00.047Z",
+  "fetchedAt": "2026-09-19T15:28:28.070Z",
   "alerts": [
     {
       "id": "alert-local-1789702188906-uo2yti",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-1789831705393-j8dtat",
+      "title": "‘We lost £14,000’: can a new clampdown stamp out cowboy builders?",
+      "url": "https://www.theguardian.com/money/2026/sep/19/cowboy-traders-builders-from-hell-app-register",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 19, 2026",
+      "rawDate": "2026-09-19T07:00:40.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1789788418174-xmsdjq",
       "title": "More than 35 woman come forward in case against fake 49ers player accused of fraud",
       "url": "https://www.theguardian.com/us-news/2026/sep/18/daejon-love-49ers-fraud",
@@ -321,20 +335,6 @@
       "date": "September 4, 2026",
       "rawDate": "2026-09-04T18:34:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1788578115766-xwfaka",
-      "title": "Have a little fun scamming the scammers | Letters",
-      "url": "https://www.theguardian.com/money/2026/sep/04/have-a-little-fun-scamming-the-scammers",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 4, 2026",
-      "rawDate": "2026-09-04T16:54:12.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

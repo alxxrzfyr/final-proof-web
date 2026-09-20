@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-19T15:28:28.070Z",
+  "fetchedAt": "2026-09-20T03:43:22.717Z",
   "alerts": [
     {
       "id": "alert-local-1789702188906-uo2yti",
@@ -198,6 +198,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-1789875801404-yicr3g",
+      "title": "More than 35 women come forward in case against fake 49ers player accused of fraud",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/daejon-love-49ers-fraud",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 19, 2026",
+      "rawDate": "2026-09-19T01:37:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1789746993770-l5pmug",
       "title": "Victim of Crypto ‘Pig Butchering’ Scam Drops Tax Refund Lawsuit",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFF2b2tuYW5rLU55S1U2dk1TdHNVZmNRTUhESDNNWXhvLTJEdG1kRDF3MUNKUUtEWFA2bHJLSnkzN1JGOW1fMHNBeWJxbUxxUmxRZGV5cjNrV0lCNlppWXJETkIyZ0dxNmx2ekZ4QjViQVl5M2dMVmtBMmI3RWZLS2Jiak5CdG10MUIxbWxEUWVUQUItUDU2ZVQ0cnk5ZXIzb1RPcXhTcDZHWWJ6?oc=5",
@@ -321,20 +335,6 @@
       "date": "September 6, 2026",
       "rawDate": "2026-09-06T06:00:57.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1788578117161-7yelwf",
-      "title": "IRS Drops Crypto Scam Victims’ Tax Bill on Theft Loss Deduction",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWdaaU1qVzJma0hLRHppRm44Mm1ld25waW1LX3lYbEVWMXFweUlkV3lGUnJYR0pYZWFsM0FvczNSMlluVGdMYm82UVVvM3hrWnVMUnBFMC1JNUtFSHRYWGVyNjUwOTFlMThWb3YzRFFXeWg0TlFCRzhRV3BMUFhPTWNKcEFjaVhra2QzRnFXXzIzdnRRYlZIc3FIaEd3dnQ4NlZTWXdlVTlDakdGY1E?oc=5",
-      "source": "news.bloombergtax.com",
-      "sourceLabel": "news.bloombergtax.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 4, 2026",
-      "rawDate": "2026-09-04T18:34:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
       "scope": "international"
     }
   ]

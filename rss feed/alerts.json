@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-21T03:38:40.103Z",
+  "fetchedAt": "2026-09-21T17:56:08.559Z",
   "alerts": [
+    {
+      "id": "alert-local-1790013367592-x80wu",
+      "title": "Public vigilance urged vs digital fraud amid GCash IPO",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDRHc0NVWGQ0NE9MSG5za0pFTWJDU3hLRE1kRGpENURxdmZzdUZOVnJHaWcwN21PVTg1OWRFOHJlQ0E3a01fTjBGeXZXeU5YTkd1Z0F3MU5ScEFUN2llNlNZd1ZydlBHWld0VWVtaHdWR3FMVE56ZU9pSzloekNMUWtpZGFTaEpSaHcwUE5tOFdLWnllS01fUHM3RE5Fc2gzR0dIb3I4Sk9sZnIxbDBhbWtDbW5MY25W0gG-AUFVX3lxTFBwaVlIWlNyUkVBbmszcU5EUnFoM3J6Rk1MMjRTSXp0N0ZlTFgtNFlDNWpWajV5UVlUZEtXVnpkMlUwcnhORFZKOUViZmsyVTBwMUd2YXVsTHFUSVdYYXJqYWRhUUtrQl95b3pQaklMaGdaVFdXVm5zbkhOdGpXbkhlY016ZG9OTWFTQm9rWG9idzdsMUtHek9lOXo2NUtFQ3JHdFlDODV0WEFnaEl4R3JpMTNMMU1pWHlROTF1WVE?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 21, 2026",
+      "rawDate": "2026-09-21T09:42:43.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1789961919136-swao4b",
       "title": "Business leaders meet to fight scams and protect customer trust",
@@ -153,20 +167,6 @@
       "date": "September 10, 2026",
       "rawDate": "2026-09-10T08:35:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/usa.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789961918950-cr7r1g",
-      "title": "33jili.com for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEckx1Uk5NUV9QMzVscjFsdkZadnZzc0ktU1B3N0lQSTliZ01LV0xvVi1nSVZMRWMyVDlpejhFZXFaMXpFUU9mTkd4ZHZDb1dN?oc=5",
-      "source": "ismis.usc.edu.ph",
-      "sourceLabel": "ismis.usc.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 9, 2026",
-      "rawDate": "2026-09-09T19:54:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
       "scope": "local"
     },
     {

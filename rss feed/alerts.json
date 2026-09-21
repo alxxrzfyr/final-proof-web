@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-20T15:33:37.834Z",
+  "fetchedAt": "2026-09-21T03:38:40.103Z",
   "alerts": [
+    {
+      "id": "alert-local-1789961919136-swao4b",
+      "title": "Business leaders meet to fight scams and protect customer trust",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1lYS1NnUXM1bWdOV2RpY0JKaHQtQktpNExjeU9KYVdvbXM1OHBKWGp3QVVHSkNpUERlbnlEMFRqLU5rcUtESi15TnExNW1taHR2c25lWHZ0ZUZxcm8tQ3pSNUFheWdwZDQ4aGx0TmFQbjVZZzBaVnVyaTAyUERrT2dGWjMxLWd2WjJrZk43Y3NxSW5zVnJOUEUxTjBmRkVfTnhvMV9yVjg4Y1RhTU1LZU1KQ3c5T3AwaUE?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 21, 2026",
+      "rawDate": "2026-09-21T03:04:30.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1789702188906-uo2yti",
       "title": "Phishing URLs Detection",
@@ -30,6 +44,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1789961918950-iulvb5",
+      "title": "ace291 gaming login for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hQ1F3b3hONE1pSTdwMlFNNkZYZ1h1Wi0tRlNFTndBMDkwdk4wVlJVbE85dkhTajRsejdFWGRaME9SdnhSOE14MEpKNU1aWlR5R2xCeWpLWW15SURDUTVteDNsbENCMzhDaXJ3?oc=5",
+      "source": "tesda.gov.ph",
+      "sourceLabel": "tesda.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 15, 2026",
+      "rawDate": "2026-09-15T02:59:23.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1789314182118-1n6vb",
       "title": "Reservation hijacking and travel scams: Here’s how to stay safe",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWdZMmtqMWVoaWxicGNKM3ZZbEV1eHVTeTNhZ1hmTlQ3cGVFNU5hcDd2T3FQeDVYcVQ3MjhLZ2syR0h4bm5ZV0pJeVk0LUZONVBMR0ZUYU9ranlLeXBLZ2hGN2RJZUxWWkVvVnJBeW5yOEdkWVh5R1pxX0hHbzltcnNHUWtUMWF4UWJvcWtuakRxRzROc3lCeW1WWlJfcVk5VWpraGt30gGrAUFVX3lxTE9FSFZ2eE1pTExSWEFTZVJPUXhGa1kyQkxlSzM2S1dvZmhaM2VvZEM0cHgxMEN2ZUs4SHJMWlhZWkVvY19mVDRnd3dnS1dINm0wbEx2QVpERE5vdU81TENLdVN2WjVvR3JVSXJfbTlkU1BVV0ZDdjVpaTRFMkJmYnctVmwySkNTMkxnX0hmbEwwLXBscGVDYnV2eWhVV0R4dWljcm9NcklxS3lsYw?oc=5",
@@ -41,6 +69,20 @@
       "date": "September 13, 2026",
       "rawDate": "2026-09-13T10:27:32.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1789961918950-i9z6je",
+      "title": "lucky lottery result for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iOEJwQmNkOF96dzhkUFlseGRCUnpkSS04aWg5NER4enNtZFVUQ3dEM3Zub0NwcG9OQURaMHREcEtrSmk0M3B4Wm1SME9nMWRMWGsyZldNUmlRTms?oc=5",
+      "source": "tesda.gov.ph",
+      "sourceLabel": "tesda.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 12, 2026",
+      "rawDate": "2026-09-12T02:54:25.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tesda.gov.ph.ico",
       "scope": "local"
     },
     {
@@ -72,6 +114,34 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1789961918951-wjqha",
+      "title": "lakers 88 casino for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GYTJqV1BVc1ZzLS1aSmNIN0lyYWtjeW9XUTgwYnFtVGtvLWo0WC0telRtYnFhNU1VU3Njd1pNU0xaTS1FY0pSTk9FNVFDSXloSW9SbXI3aEs3d3k4OGc?oc=5",
+      "source": "ismis.usc.edu.ph",
+      "sourceLabel": "ismis.usc.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 10, 2026",
+      "rawDate": "2026-09-10T22:20:27.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1789961918951-wc1txd",
+      "title": "toto lottery online for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFQ3hXZkktcHcxYkN2ZHFZOGxVUjlxRmVCbVh1OVdfOW4zeVl2RTB4ZHppN2M0QjU0bXp0dThhVEhtWkRBYjdLN2JYaWZ4R0t6dlZsYXBaeDlaNWoyYktJSTZR?oc=5",
+      "source": "ismis.usc.edu.ph",
+      "sourceLabel": "ismis.usc.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 10, 2026",
+      "rawDate": "2026-09-10T19:37:23.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1789096782559-hed3",
       "title": "Travel scams are getting harder to spot. Here’s how to stay safe",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeC1TQmYxWFUtbWJrMW5DR2lEWTJ2aEVTVjBJeURnc3R1c1ZuZF8tU1IzZjAxZkZvaGQ5U1daR3BMZXY4Q3hOUkh3OXlhYWh0STVlZUc0UHhhQW1tZ29HV3VZUmZkcUdXYnd6MzNfcndONmZiUURLQlc1XzhUMzNYNDlET2tHUWxPNUI2azVPOUtUQVlRODdFSW1B?oc=5",
@@ -86,87 +156,17 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1788969671823-ac96ph",
-      "title": "Understanding Trezor Scams How to Protect Your Crypto Assets",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fd0FYZGIwRWtTY0Jva2JpMm1rcGRPcnZLNXlQNEowbUlnWWNnNk9oeXBuMlJEbjU5SWlDaXY5QW5ZZ2ptWWR2bGdtcVpVUTNkdS1NUVpFQlo?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
+      "id": "alert-local-1789961918950-cr7r1g",
+      "title": "33jili.com for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEckx1Uk5NUV9QMzVscjFsdkZadnZzc0ktU1B3N0lQSTliZ01LV0xvVi1nSVZMRWMyVDlpejhFZXFaMXpFUU9mTkd4ZHZDb1dN?oc=5",
+      "source": "ismis.usc.edu.ph",
+      "sourceLabel": "ismis.usc.edu.ph",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
       "date": "September 9, 2026",
-      "rawDate": "2026-09-09T14:01:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788969671825-fn3k3o",
-      "title": "How to Avoid Trezor Wallet Scams Protecting Your Crypto",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTdlk3S3QweHNwbC1qVmF4V2pyWTNxc21kSkFqWHZZam9PVXZYT1lQdGRiNWxzMEt6b0FNQUh0OHJXMlZBWkRyanRMMjQtVHAyaC1ILUY3cw?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 9, 2026",
-      "rawDate": "2026-09-09T14:01:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788969671823-68fs4m",
-      "title": "Protect Your Trezor Wallet from Phishing Attacks",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MOU5oTk5wUVJnckluamVtTGF4VjdLRkxmMXd6WGp6bVFhb3ZUWWkyeHNrd1piVDM0Z1N5YUhBUmo0RGVKYlI4c2trLUN2ZWtheG04N1ZOaUdzcl9XeHc?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 9, 2026",
-      "rawDate": "2026-09-09T14:01:36.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788969671823-fuvs1q",
-      "title": "Safeguard Your Trezor Wallet From Phishing Attacks Expert Tips",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqZFVJXzdVZHoyNHlwcUJaOGFJU1haa19BQzU1RU9mWVgzS3BBdFhJalk0NVZDUjZSbm9pVEtYdDhqY2hCb1I0LU9iRndNdU40ZllBdUZUNVkya3Nn?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 9, 2026",
-      "rawDate": "2026-09-09T14:01:36.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1788969671825-owll0a",
-      "title": "Trezor Wallet Security Analysis for Cryptocurrency Safety",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcElUa3l2UllhSnJlQnlUcGdpdGVHclVaRHN5dUd6UzZ5S1dBTkhDMnNTVmUyMjRmaTFVbFdOZ1F3X2NoS2djcXREV0JYSm5pXzFxNVU2bU5pdWM?oc=5",
-      "source": "mamburao.gov.ph",
-      "sourceLabel": "mamburao.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 9, 2026",
-      "rawDate": "2026-09-09T14:01:10.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mamburao.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789096781916-s9urw9",
-      "title": "PHLPost warns public against smishing scam",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUdDY0l1YjBKMDJDRzh5REVZUkFzRjRnT1pUYmxraE9sRzJva0JLTEdTUExzd1oyaWtCc2FFMjcxYlJSVmtXN2h2REN6Zm8tNDIxLV9pSUVIdy00WUhEYnRRS01vUVRja3BQLUpxRTV5aFRzVTVoNTRzMzY2bkxGWUlB?oc=5",
-      "source": "tribune.net.ph",
-      "sourceLabel": "tribune.net.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 9, 2026",
-      "rawDate": "2026-09-09T06:14:21.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "rawDate": "2026-09-09T19:54:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
       "scope": "local"
     },
     {

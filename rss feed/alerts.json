@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-22T03:37:12.945Z",
+  "fetchedAt": "2026-09-22T16:24:16.828Z",
   "alerts": [
     {
       "id": "alert-local-1790013367592-x80wu",
@@ -114,6 +114,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1790094255530-7r481h",
+      "title": "Why Account Takeover Is Getting Harder to Stop",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UUTJKbTd2WElGNUU4WGZQLUxvWlF0MXd1YUxvY0J3UTREcTBKU3prSGZvdWV1Zi1LSmtRcXpKbDU1M1JJUGxBUl9hckNRZjNlTnJVbkJuM0o2YUpoT0JfUUJCTC1obmlOVUVxdmw0RWdOYTM5MkRnVDBR?oc=5",
+      "source": "Fintech News Philippines",
+      "sourceLabel": "Fintech News Philippines",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 11, 2026",
+      "rawDate": "2026-09-11T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/fintechnews.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1789142329794-igzljr",
       "title": "Millions of scammed Filipinos turning to tech apps over police",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjN0LWFIby1IM2Z2NGFiYjBEY2ZJT0FDS2p6eVFHbUE1bFR2dy1IVHpYbDRodG1aUjVuRElLZ254Nmlmbk50S2Eya2d1SmQteHRLNndRN1FMQndqeV9Ed1RPM3NmbkswTzBXMkR3WWFrdDB3U01KcWtsb3VyVVk5alJuYUNrQ3BVOFV0eWJBYlY0TlRsdFE?oc=5",
@@ -125,20 +139,6 @@
       "date": "September 11, 2026",
       "rawDate": "2026-09-11T06:26:36.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789142329796-4sbeod",
-      "title": "Why Account Takeover Is Getting Harder to Stop",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UUTJKbTd2WElGNUU4WGZQLUxvWlF0MXd1YUxvY0J3UTREcTBKU3prSGZvdWV1Zi1LSmtRcXpKbDU1M1JJUGxBUl9hckNRZjNlTnJVbkJuM0o2YUpoT0JfUUJCTC1obmlOVUVxdmw0RWdOYTM5MkRnVDBR?oc=5",
-      "source": "Fintech News Philippines",
-      "sourceLabel": "Fintech News Philippines",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 11, 2026",
-      "rawDate": "2026-09-11T05:45:20.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/fintechnews.ph.ico",
       "scope": "local"
     },
     {
@@ -168,6 +168,20 @@
       "rawDate": "2026-09-10T19:37:23.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
       "scope": "local"
+    },
+    {
+      "id": "alert-international-1790094256826-upgohm",
+      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZk9wZGl4dnNuMWFFdWxoRkVtRy1xdDk1VnVjeXA1TUdxQ0FsMXZaTmVwcjVMT1dxVlkzbHlQZWNSOEpCU3RQQ2xMZVkzSFNYMWtRVDdUQjVDUzVvVnFqaGp3OTZseUtFbHNQQUFQWllRUWRKNjRVR0tzRDFuUDlhSlpBVmJOODNCM2ZJNUxHbGdVenh0cE1HblJxYmlHNDFmYXctalhRdVRvSE4ybEE?oc=5",
+      "source": "WIRED",
+      "sourceLabel": "WIRED",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 22, 2026",
+      "rawDate": "2026-09-22T10:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1789918415872-f4eumi",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "September 13, 2026",
       "rawDate": "2026-09-13T06:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1789225591144-6n9rd4",
-      "title": "Six Nigerians extradited to US over $6M online romance scam",
-      "url": "https://www.theguardian.com/us-news/2026/sep/12/nigerians-extradited-online-romance-scams",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 12, 2026",
-      "rawDate": "2026-09-12T14:05:45.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

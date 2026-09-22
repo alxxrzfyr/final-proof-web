@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-21T17:56:08.559Z",
+  "fetchedAt": "2026-09-22T03:37:12.945Z",
   "alerts": [
     {
       "id": "alert-local-1790013367592-x80wu",
@@ -41,6 +41,20 @@
       "date": "September 17, 2026",
       "rawDate": "2026-09-17T08:42:43.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1790048231743-4ugow6",
+      "title": "Cyber Fraud Investigations Head with 0 - 1 Years of Experience at East West Banking Corp in Taguig,Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcS1NaHBGZmMtTGlfandRdVlad0cwWGhTb1dwelJneHBjWjVEVGNMVjZvQ0NzdDlYa0dnNy1CWDh6UGUtX2hCckVoRGJsc240MmRlY2wxblBOaW5mNU5RTm5maWExRG9JcFF0eFJ5QlJDNTBFX0JkZUxOMm5LQWVkNzNEOXNLZ1BJS3BvLURMV3ptcWVPVzluZkVRX1NvcmpxaG13?oc=5",
+      "source": "foundit.com.ph",
+      "sourceLabel": "foundit.com.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 17, 2026",
+      "rawDate": "2026-09-17T02:02:45.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.foundit.com.ph.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "September 10, 2026",
       "rawDate": "2026-09-10T19:37:23.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789096782559-hed3",
-      "title": "Travel scams are getting harder to spot. Here’s how to stay safe",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeC1TQmYxWFUtbWJrMW5DR2lEWTJ2aEVTVjBJeURnc3R1c1ZuZF8tU1IzZjAxZkZvaGQ5U1daR3BMZXY4Q3hOUkh3OXlhYWh0STVlZUc0UHhhQW1tZ29HV3VZUmZkcUdXYnd6MzNfcndONmZiUURLQlc1XzhUMzNYNDlET2tHUWxPNUI2azVPOUtUQVlRODdFSW1B?oc=5",
-      "source": "usa.inquirer.net",
-      "sourceLabel": "usa.inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 10, 2026",
-      "rawDate": "2026-09-10T08:35:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/usa.inquirer.net.ico",
       "scope": "local"
     },
     {

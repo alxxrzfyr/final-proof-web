@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-22T16:24:16.828Z",
+  "fetchedAt": "2026-09-23T03:36:54.135Z",
   "alerts": [
+    {
+      "id": "alert-local-1790134613682-rihst",
+      "title": "AI fears, scams and fraud",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmdCWDhJOHhZMUIyZ3hZTEdIY1Y2MnJTRHBkSmRlU211NHRYWUpEZEZhVTNWNE5uRlpMU2hWbVBFRVFOM0NNQXpiSEZqb1JKZVZ1b1NZcENIZmExTkpDZ1J4RS1RejNqejI3czIzVTVEa0RWaHlqaHpVeEhYcnpfWUNGMNIBigFBVV95cUxNNTZ1TEJFbHpjc2ZtTVNucW44eEsyQjNnbDlpXzFjdFZTZTFWYTlmREl3ZjVfY0JoQUtYTHZOeHQtQ0M1V3IxeEYyRmszZ2N6dlE4dHA2eHN0VnZYUTVUdUFIak9uUlVDU0Q4VklrSVFJRVpPeGZwcFBCdDhJU0tnakFpV2ExVEFvVVE?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 22, 2026",
+      "rawDate": "2026-09-22T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1790013367592-x80wu",
       "title": "Public vigilance urged vs digital fraud amid GCash IPO",
@@ -27,6 +41,20 @@
       "date": "September 21, 2026",
       "rawDate": "2026-09-21T03:04:30.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1790134612880-p1sy6p",
+      "title": "win win lottery buy online for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1RDBzRC02T3lHWUJicDh4OUNWSEdqSS0xLTRZQmR5NFNPeU1Fczluc1VvcDNQUktkUG45NV9SbzVqbW5LM0JydnpuQ05WTkprblBsb3Q2b0Rqbm9CdUd2dEpGMFJvZU1BdzlR?oc=5",
+      "source": "ismis.usc.edu.ph",
+      "sourceLabel": "ismis.usc.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 20, 2026",
+      "rawDate": "2026-09-20T12:26:16.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
       "scope": "local"
     },
     {
@@ -58,6 +86,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1790134612880-b5ja9b",
+      "title": "How to Report an Online Shopping or Social Media Scam",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTcnQ4R0t4Vlo4ejI1cFFHYjFVZTJMTlRtdVRIbmV3OU1tLXkteHluN0d4ck9lbUFKTWR3M1VXVjlfZEZ5N3AtVnlWNHRaR0x0UE5iQkRpajBhZi03d2RzdEczTnRXa3Q4cVQwTEVtWlBJRlduRWc?oc=5",
+      "source": "respicio.ph",
+      "sourceLabel": "respicio.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 15, 2026",
+      "rawDate": "2026-09-15T23:48:14.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1789529919303-o4jj1",
       "title": "Anti-Fraud Operations Specialist 1731492",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFEwRWYxUWFPNlJ4NFlGQnZ1YzBLTWpDbmZNOXlWNmVMamc4ckFOQmgwc0d5Mjk3N3FYcE5pbkZWQVZQRHA0cXBDWU0xTXgzTVpKanRZaXF4eUJMUDFHMVBkT0lyaXkwWU9DS0ltaF9YYmkwYkpoaTZOQ0dZaWJiWml0Z05jLV9n?oc=5",
@@ -69,6 +111,20 @@
       "date": "September 15, 2026",
       "rawDate": "2026-09-15T21:14:05.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.onlinejobs.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1790134612879-9mznkp",
+      "title": "Clicked a Phishing Link? What to Do Now in the Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzVGtJMEVwWk1FNDRfYlEyS3YzcXFCZWlyYW5VWkFBVUZEay15NFQ2cGxyZ3F5SUVQNmx0c2UzWVhDZkRCUWUyMFo2N1hLSnRlU0o2a1J2VFRtZWRfZzN6OE95M3RaQQ?oc=5",
+      "source": "cybercode.ph",
+      "sourceLabel": "cybercode.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 15, 2026",
+      "rawDate": "2026-09-15T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/cybercode.ph.ico",
       "scope": "local"
     },
     {
@@ -111,62 +167,6 @@
       "date": "September 12, 2026",
       "rawDate": "2026-09-12T02:54:25.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/tesda.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1790094255530-7r481h",
-      "title": "Why Account Takeover Is Getting Harder to Stop",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UUTJKbTd2WElGNUU4WGZQLUxvWlF0MXd1YUxvY0J3UTREcTBKU3prSGZvdWV1Zi1LSmtRcXpKbDU1M1JJUGxBUl9hckNRZjNlTnJVbkJuM0o2YUpoT0JfUUJCTC1obmlOVUVxdmw0RWdOYTM5MkRnVDBR?oc=5",
-      "source": "Fintech News Philippines",
-      "sourceLabel": "Fintech News Philippines",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 11, 2026",
-      "rawDate": "2026-09-11T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/fintechnews.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789142329794-igzljr",
-      "title": "Millions of scammed Filipinos turning to tech apps over police",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjN0LWFIby1IM2Z2NGFiYjBEY2ZJT0FDS2p6eVFHbUE1bFR2dy1IVHpYbDRodG1aUjVuRElLZ254Nmlmbk50S2Eya2d1SmQteHRLNndRN1FMQndqeV9Ed1RPM3NmbkswTzBXMkR3WWFrdDB3U01KcWtsb3VyVVk5alJuYUNrQ3BVOFV0eWJBYlY0TlRsdFE?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 11, 2026",
-      "rawDate": "2026-09-11T06:26:36.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789961918951-wjqha",
-      "title": "lakers 88 casino for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GYTJqV1BVc1ZzLS1aSmNIN0lyYWtjeW9XUTgwYnFtVGtvLWo0WC0telRtYnFhNU1VU3Njd1pNU0xaTS1FY0pSTk9FNVFDSXloSW9SbXI3aEs3d3k4OGc?oc=5",
-      "source": "ismis.usc.edu.ph",
-      "sourceLabel": "ismis.usc.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 10, 2026",
-      "rawDate": "2026-09-10T22:20:27.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789961918951-wc1txd",
-      "title": "toto lottery online for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFQ3hXZkktcHcxYkN2ZHFZOGxVUjlxRmVCbVh1OVdfOW4zeVl2RTB4ZHppN2M0QjU0bXp0dThhVEhtWkRBYjdLN2JYaWZ4R0t6dlZsYXBaeDlaNWoyYktJSTZR?oc=5",
-      "source": "ismis.usc.edu.ph",
-      "sourceLabel": "ismis.usc.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 10, 2026",
-      "rawDate": "2026-09-10T19:37:23.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
       "scope": "local"
     },
     {

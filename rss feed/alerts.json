@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-23T03:36:54.135Z",
+  "fetchedAt": "2026-09-23T16:14:19.275Z",
   "alerts": [
+    {
+      "id": "alert-local-1790180058475-y2l00r",
+      "title": "Government brings cyber safety campaign to senior citizens amid scam risks",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenhObGFaQVZQLXBXYWtQamFjMk1NNHZyQWhYRHkyd1ZiUW9DUWF2OVV5RUN1YVk0MW1QSVNYdkI4MDI1Z0dtdXRELVNYbFl0NFpzWk1xX0YyRnFmaHJsY2lvZEFyamJNVlpCQ19zcUpMTjcyM2YzNEtzNnVXdk1xeExqS0Y0YUtUUzNOVHJhN1lVNy14c3B3amh5WHRod1BlS1A0SS1TV20xVFVSMFRnQzRyWXQxVU9oTWdtaFlJbXhxb3ZhcDhfSA?oc=5",
+      "source": "abs-cbn.com",
+      "sourceLabel": "abs-cbn.com",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 23, 2026",
+      "rawDate": "2026-09-23T14:55:04.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1790134613682-rihst",
       "title": "AI fears, scams and fraud",
@@ -16,6 +30,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1790180058031-us151",
+      "title": "Emotions, not ignorance, can make people vulnerable to scams — PNP ACG",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0ljZ0kzMVFRSGt0YmFYaTB2dWVVV3Jqa2t0YXg4aloyOHBJYnBQcHo1dDNzMGo4R3hKWVVDMkNXdFk2QkYxTDQyRVpWTXEyQTZzaFBjUHBQa0syUTFZTWY5U1VEMEFVakE2MThuMnRmbkZHYTVJVXJONmNjbThrQnJObExGeTI2UnNOOEhnTkEzWnpVRHpNZzlqUENwVlFNUHc?oc=5",
+      "source": "Philippine Information Agency",
+      "sourceLabel": "Philippine Information Agency",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 22, 2026",
+      "rawDate": "2026-09-22T08:22:12.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/pia.gov.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1790013367592-x80wu",
       "title": "Public vigilance urged vs digital fraud amid GCash IPO",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDRHc0NVWGQ0NE9MSG5za0pFTWJDU3hLRE1kRGpENURxdmZzdUZOVnJHaWcwN21PVTg1OWRFOHJlQ0E3a01fTjBGeXZXeU5YTkd1Z0F3MU5ScEFUN2llNlNZd1ZydlBHWld0VWVtaHdWR3FMVE56ZU9pSzloekNMUWtpZGFTaEpSaHcwUE5tOFdLWnllS01fUHM3RE5Fc2gzR0dIb3I4Sk9sZnIxbDBhbWtDbW5MY25W0gG-AUFVX3lxTFBwaVlIWlNyUkVBbmszcU5EUnFoM3J6Rk1MMjRTSXp0N0ZlTFgtNFlDNWpWajV5UVlUZEtXVnpkMlUwcnhORFZKOUViZmsyVTBwMUd2YXVsTHFUSVdYYXJqYWRhUUtrQl95b3pQaklMaGdaVFdXVm5zbkhOdGpXbkhlY016ZG9OTWFTQm9rWG9idzdsMUtHek9lOXo2NUtFQ3JHdFlDODV0WEFnaEl4R3JpMTNMMU1pWHlROTF1WVE?oc=5",
@@ -27,6 +55,20 @@
       "date": "September 21, 2026",
       "rawDate": "2026-09-21T09:42:43.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1790180058028-modoyq",
+      "title": "texas hold em arkadium for Android - Search on Google Play",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81azkxWk9HX0tXTEk0aUE5cjNZZVNFTWY4WHhrcGhuNHlJODlnTm96NDUtbXNkckRoYkI3YVAtSVMzblV3UHVKSU03TUZ3bnpac3dtenNYcFVZSkhnZ0RGaGZiN1ltUQ?oc=5",
+      "source": "ismis.usc.edu.ph",
+      "sourceLabel": "ismis.usc.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 21, 2026",
+      "rawDate": "2026-09-21T04:00:58.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
       "scope": "local"
     },
     {
@@ -86,6 +128,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-1790180058030-aqmrnr",
+      "title": "Digital financial fraud statistics in Batangas",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPenBGYU9zUllibGNTbXdrbHFIbEJPcGtEVkJqSXNLTTBhLUpFR0hVc1djcWtjUklvRzBXbDlYNi1oa25JOTZqdUx6T28xeG0zOXcxNGJCYUFvdUowSkhqaktLSWoycVEzUEZ6YzZRRHJOb19yeXBMck1DdGxOUDZEeDM1U1VzMHg4d21NSA?oc=5",
+      "source": "foi.gov.ph",
+      "sourceLabel": "foi.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 16, 2026",
+      "rawDate": "2026-09-16T08:34:49.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.foi.gov.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-1790134612880-b5ja9b",
       "title": "How to Report an Online Shopping or Social Media Scam",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTcnQ4R0t4Vlo4ejI1cFFHYjFVZTJMTlRtdVRIbmV3OU1tLXkteHluN0d4ck9lbUFKTWR3M1VXVjlfZEZ5N3AtVnlWNHRaR0x0UE5iQkRpajBhZi03d2RzdEczTnRXa3Q4cVQwTEVtWlBJRlduRWc?oc=5",
@@ -111,62 +167,6 @@
       "date": "September 15, 2026",
       "rawDate": "2026-09-15T21:14:05.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.onlinejobs.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1790134612879-9mznkp",
-      "title": "Clicked a Phishing Link? What to Do Now in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzVGtJMEVwWk1FNDRfYlEyS3YzcXFCZWlyYW5VWkFBVUZEay15NFQ2cGxyZ3F5SUVQNmx0c2UzWVhDZkRCUWUyMFo2N1hLSnRlU0o2a1J2VFRtZWRfZzN6OE95M3RaQQ?oc=5",
-      "source": "cybercode.ph",
-      "sourceLabel": "cybercode.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 15, 2026",
-      "rawDate": "2026-09-15T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/cybercode.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789961918950-iulvb5",
-      "title": "ace291 gaming login for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hQ1F3b3hONE1pSTdwMlFNNkZYZ1h1Wi0tRlNFTndBMDkwdk4wVlJVbE85dkhTajRsejdFWGRaME9SdnhSOE14MEpKNU1aWlR5R2xCeWpLWW15SURDUTVteDNsbENCMzhDaXJ3?oc=5",
-      "source": "tesda.gov.ph",
-      "sourceLabel": "tesda.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 15, 2026",
-      "rawDate": "2026-09-15T02:59:23.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.tesda.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789314182118-1n6vb",
-      "title": "Reservation hijacking and travel scams: Here’s how to stay safe",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWdZMmtqMWVoaWxicGNKM3ZZbEV1eHVTeTNhZ1hmTlQ3cGVFNU5hcDd2T3FQeDVYcVQ3MjhLZ2syR0h4bm5ZV0pJeVk0LUZONVBMR0ZUYU9ranlLeXBLZ2hGN2RJZUxWWkVvVnJBeW5yOEdkWVh5R1pxX0hHbzltcnNHUWtUMWF4UWJvcWtuakRxRzROc3lCeW1WWlJfcVk5VWpraGt30gGrAUFVX3lxTE9FSFZ2eE1pTExSWEFTZVJPUXhGa1kyQkxlSzM2S1dvZmhaM2VvZEM0cHgxMEN2ZUs4SHJMWlhZWkVvY19mVDRnd3dnS1dINm0wbEx2QVpERE5vdU81TENLdVN2WjVvR3JVSXJfbTlkU1BVV0ZDdjVpaTRFMkJmYnctVmwySkNTMkxnX0hmbEwwLXBscGVDYnV2eWhVV0R4dWljcm9NcklxS3lsYw?oc=5",
-      "source": "Cebu Daily News",
-      "sourceLabel": "Cebu Daily News",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 13, 2026",
-      "rawDate": "2026-09-13T10:27:32.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789961918950-i9z6je",
-      "title": "lucky lottery result for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iOEJwQmNkOF96dzhkUFlseGRCUnpkSS04aWg5NER4enNtZFVUQ3dEM3Zub0NwcG9OQURaMHREcEtrSmk0M3B4Wm1SME9nMWRMWGsyZldNUmlRTms?oc=5",
-      "source": "tesda.gov.ph",
-      "sourceLabel": "tesda.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 12, 2026",
-      "rawDate": "2026-09-12T02:54:25.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tesda.gov.ph.ico",
       "scope": "local"
     },
     {

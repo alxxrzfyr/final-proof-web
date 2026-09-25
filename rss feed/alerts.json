@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-25T03:44:29.168Z",
+  "fetchedAt": "2026-09-25T16:41:59.622Z",
   "alerts": [
+    {
+      "id": "alert-local-1790354518175-s94txj",
+      "title": "Kung minamadali ka, baka scammer ‘yan!",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkJ1Y3dEWjUzX0NiR3BlWUZya1ZRb1RXWW5weFNWQVoxdEFvZkFxNjNWbnh2QU0zS1JUdXhvbTU5a2lwQjFhUlhrVXMxekNMeGFBaWFxN21TLUw4TWdLX1hZVHJYZGFER0EwSkxqaDQ2Z3pUaEw2ZlF0Q3JLUkpDajRR?oc=5",
+      "source": "newswatchplus.ph",
+      "sourceLabel": "newswatchplus.ph",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 25, 2026",
+      "rawDate": "2026-09-25T09:10:49.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.newswatchplus.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1790307869166-aaxb5c",
       "title": "How to avoid love scams",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1790134612880-b5ja9b",
-      "title": "How to Report an Online Shopping or Social Media Scam",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTcnQ4R0t4Vlo4ejI1cFFHYjFVZTJMTlRtdVRIbmV3OU1tLXkteHluN0d4ck9lbUFKTWR3M1VXVjlfZEZ5N3AtVnlWNHRaR0x0UE5iQkRpajBhZi03d2RzdEczTnRXa3Q4cVQwTEVtWlBJRlduRWc?oc=5",
-      "source": "respicio.ph",
-      "sourceLabel": "respicio.ph",
+      "id": "alert-international-1790354518697-sntar",
+      "title": "Party Invite Phishing Scams Are the New Missed Connections",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUlocDRhNzlxNkhGV05qcUhkWjk0NUNqZ2JhRTJTYXc5QVpoVjE0UGliWTVnRkIxSGVJdzlEWTMyVVN3dzNZZTVMZHJsUWtxeHZiZnd5Wm04bE1aT01ib0xaUGlHSktuRjZKZTVvYlpmaW96cVNYQkZIeFgyWl9RN2hWd0RZNHBFMDcySGFmaWk?oc=5",
+      "source": "WIRED",
+      "sourceLabel": "WIRED",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "September 15, 2026",
-      "rawDate": "2026-09-15T23:48:14.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.respicio.ph.ico",
-      "scope": "local"
+      "date": "September 25, 2026",
+      "rawDate": "2026-09-25T11:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1790307868672-w64e4w",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "September 14, 2026",
       "rawDate": "2026-09-14T10:00:55.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1789314181349-71scmk",
-      "title": "Tesco alerts police as supermarket becomes latest victim of scam ‘endorsement’ ads",
-      "url": "https://www.theguardian.com/money/2026/sep/13/tesco-scam-endorsement-haaland-bellingham-casino",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 13, 2026",
-      "rawDate": "2026-09-13T06:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

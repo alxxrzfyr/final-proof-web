@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-09-27T04:00:04.877Z",
+  "fetchedAt": "2026-09-27T16:31:41.543Z",
   "alerts": [
+    {
+      "id": "alert-local-1790526700197-uuxbve",
+      "title": "phmacao legit or scam",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSU3haa0NJSTdlR2xwdDFLVzZhbGRLcEx1bVNmcXFraDlVWkl2MGowR1JPVzVINk42QXVGQ3VvaWpxbWRhQTZoQVRqOWZRd2V4RGhwZGxiaVlqRGhOdFdlTDZtdw?oc=5",
+      "source": "Philippine News Agency",
+      "sourceLabel": "Philippine News Agency",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 27, 2026",
+      "rawDate": "2026-09-27T05:00:16.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-1790526700198-zmu8xc",
+      "title": "free daily spins casino",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WUW1mTEREOFdSaTBQZFpkV2Y5d1U3VlJBdjBMaFJwYW1DS2dSQ2UxOTVlWTBEcUZNMFpjRjNTYVlja2xpVHNFUkV1M29kbkJYOGpGdWJubnNFVE1BUi03WnFmdFRidw?oc=5",
+      "source": "Philippine News Agency",
+      "sourceLabel": "Philippine News Agency",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 27, 2026",
+      "rawDate": "2026-09-27T01:04:19.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1790481603483-uai9ho",
       "title": "european lottery online",
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-1790180058028-modoyq",
-      "title": "texas hold em arkadium for Android - Search on Google Play",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81azkxWk9HX0tXTEk0aUE5cjNZZVNFTWY4WHhrcGhuNHlJODlnTm96NDUtbXNkckRoYkI3YVAtSVMzblV3UHVKSU03TUZ3bnpac3dtenNYcFVZSkhnZ0RGaGZiN1ltUQ?oc=5",
-      "source": "ismis.usc.edu.ph",
-      "sourceLabel": "ismis.usc.edu.ph",
+      "id": "alert-international-1790526700005-xavdjm",
+      "title": "‘Mum, where did my Robux go?’ The Roblox scam targeting children",
+      "url": "https://www.theguardian.com/games/2026/sep/27/mum-where-did-my-robux-go-the-roblox-scam-targeting-children",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "cybercrime",
       "severity": "medium",
-      "date": "September 21, 2026",
-      "rawDate": "2026-09-21T04:00:58.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/ismis.usc.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1789961919136-swao4b",
-      "title": "Business leaders meet to fight scams and protect customer trust",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1lYS1NnUXM1bWdOV2RpY0JKaHQtQktpNExjeU9KYVdvbXM1OHBKWGp3QVVHSkNpUERlbnlEMFRqLU5rcUtESi15TnExNW1taHR2c25lWHZ0ZUZxcm8tQ3pSNUFheWdwZDQ4aGx0TmFQbjVZZzBaVnVyaTAyUERrT2dGWjMxLWd2WjJrZk43Y3NxSW5zVnJOUEUxTjBmRkVfTnhvMV9yVjg4Y1RhTU1LZU1KQ3c5T3AwaUE?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 21, 2026",
-      "rawDate": "2026-09-21T03:04:30.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
+      "date": "September 27, 2026",
+      "rawDate": "2026-09-27T06:00:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1790394653975-uy7z7",
@@ -321,20 +335,6 @@
       "date": "September 15, 2026",
       "rawDate": "2026-09-15T18:42:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/news.bloomberglaw.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1789489477980-mv0295",
-      "title": "Peru Economy Ministry’s X Account Hacked in Likely Crypto Scam",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVNUT2JCTjlTWDdDUDNlTDB0ZDRUVDJ6NXZEeW1rWUpUT0pLRG9kYkdHYTR0dzByS1JpUk1ubldIaXo5VnFQZTMyeUtld0lxYm1ycHV5RTdtNjlHeGV6UmZmN01NWEgxYzhWb25TRWVfSXk0UFVzT0VCbU5KU2hrbEVVUUhwR1dZV0VESEdlRnNaTm9FeHlub2piMm4wTnMtei1Rc21nSUZ0TFFXblBWOW43SQ?oc=5",
-      "source": "Bloomberg.com",
-      "sourceLabel": "Bloomberg.com",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 14, 2026",
-      "rawDate": "2026-09-14T17:37:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.bloomberg.com.ico",
       "scope": "international"
     }
   ]

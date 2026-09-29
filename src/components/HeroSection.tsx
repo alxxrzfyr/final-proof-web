@@ -21,17 +21,13 @@ import {
   BreadcrumbSeparator,
 } from '@/components/ui/breadcrumb';
 
-import bg1 from '@/assets/backgrounds/bg-1.jpg';
-import bg2 from '@/assets/backgrounds/bg-2.jpg';
-import bg3 from '@/assets/backgrounds/bg-3.jpg';
-import bg4 from '@/assets/backgrounds/bg-4.png';
+import { HeroIntro } from './HeroIntro';
 
 interface Props {
   lang: Lang;
   onNavigate: (section: string) => void;
 }
 
-const HERO_IMAGES = [bg1, bg2, bg3, bg4];
 const STAT_ICONS = ['groups', 'security', 'monitoring', 'shield'];
 
 const renderCustomLabel = ({
@@ -102,7 +98,6 @@ const renderCustomLabel = ({
 export function HeroSection({ lang, onNavigate }: Props) {
   const t = (key: string) => translations[lang]?.[key] || translations.en[key] || key;
 
-  const [currentBg, setCurrentBg] = useState(0);
   const [activeSub, setActiveSub] = useState<string>('hero');
   const [isScrolled, setIsScrolled] = useState(false);
 
@@ -146,13 +141,6 @@ export function HeroSection({ lang, onNavigate }: Props) {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setCurrentBg((prev) => (prev + 1) % HERO_IMAGES.length);
-    }, 5000);
-
-    return () => clearInterval(interval);
-  }, []);
 
   const marqueeItemsList = [
     {
@@ -261,83 +249,11 @@ export function HeroSection({ lang, onNavigate }: Props) {
         </div>
       </div>
 
-      {/* Hero with changing background images */}
-      <div className="relative flex min-h-[60vh] flex-col justify-center overflow-hidden scroll-mt-32">
-        {HERO_IMAGES.map((img, i) => (
-          <div
-            key={i}
-            className="absolute inset-0 blur-[3px] transition-opacity duration-1000 ease-in-out"
-            style={{
-              backgroundImage: `url("${img}")`,
-              backgroundSize: 'cover',
-              backgroundPosition: 'center',
-              opacity: currentBg === i ? 1 : 0,
-            }}
-          />
-        ))}
-
-        <div className="absolute inset-0 bg-[#1a1816]/80" />
-
-        <div className="relative z-10 mx-auto w-full max-w-[1600px] px-5 pb-14 pt-24 sm:px-8 sm:pb-16 sm:pt-28 md:px-12 lg:px-16 xl:px-24">
-          
-          <div className="flex max-w-5xl flex-col gap-5 sm:gap-8">
-            <h1
-              className="break-words text-4xl leading-[1.2] tracking-tight uppercase sm:text-5xl md:text-6xl lg:text-[5rem] xl:text-[6rem]"
-              style={{ fontWeight: 900 }}
-            >
-              <span className="block text-white">{t('hero.title1')}</span>
-              <span className="mt-2 block text-yellow-400 sm:mt-3 md:mt-4">{t('hero.title2')}</span>
-            </h1>
-
-            <p
-              className="max-w-3xl text-lg leading-relaxed text-[#e5ded4] sm:text-xl md:text-2xl"
-              style={{ fontWeight: 500 }}
-            >
-              {t('hero.subtitle')}
-            </p>
-
-            <div className="mt-2 flex w-full flex-col gap-3 sm:mt-4 sm:flex-row sm:gap-4">
-              <button
-                onClick={() => onNavigate('about-scam')}
-                className="flex h-14 w-full cursor-pointer items-center justify-center gap-3 rounded-lg bg-yellow-400 px-8 text-base text-[#1a1816] shadow-md transition-colors hover:bg-yellow-500 sm:h-16 sm:w-auto sm:px-12 sm:text-lg"
-                style={{ fontWeight: 700 }}
-              >
-                <span>{t('hero.btn_learn')}</span>
-                <span className="material-symbols-outlined text-2xl">menu_book</span>
-              </button>
-
-              <a
-                href="https://cicc.gov.ph/report/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full sm:w-auto"
-              >
-                <span className="flex h-14 w-full cursor-pointer items-center justify-center gap-3 rounded-lg bg-yellow-400 px-8 text-base text-[#1a1816] shadow-md transition-colors hover:bg-yellow-500 sm:h-16 sm:w-auto sm:px-12 sm:text-lg">
-                  <span style={{ fontWeight: 700 }}>{t('hero.btn_report')}</span>
-                  <span className="material-symbols-outlined text-xl">arrow_outward</span>
-                </span>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        {/* Slideshow indicator dots */}
-        <div className="absolute bottom-6 left-1/2 z-10 flex -translate-x-1/2 gap-2">
-          {HERO_IMAGES.map((_, i) => (
-            <button
-              key={i}
-              onClick={() => setCurrentBg(i)}
-              className={`h-3 w-3 cursor-pointer rounded-full transition-all ${
-                currentBg === i ? 'w-8 bg-yellow-400' : 'bg-white/40'
-              }`}
-            />
-          ))}
-        </div>
-      </div>
+      <HeroIntro lang={lang} t={t} onNavigate={onNavigate} />
 
       {/* Marquee */}
-      <section className="group relative z-10 flex items-center overflow-hidden border-y-4 border-yellow-400 bg-gradient-to-r from-[#0a2fad] via-blue-800 to-[#0a2fad] py-4 shadow-2xl md:py-6">
-        <div className="animate-marquee flex w-max items-center whitespace-nowrap hover:[animation-play-state:paused] group-focus-within:[animation-play-state:paused]">
+      <section className="group relative z-10 flex items-center overflow-hidden bg-[#0a2fad] py-4 md:py-5">
+        <div className="animate-marquee motion-reduce:[animation-play-state:paused] flex w-max items-center whitespace-nowrap hover:[animation-play-state:paused] group-focus-within:[animation-play-state:paused]">
           {renderMarqueeGroup()}
           {renderMarqueeGroup(true)}
         </div>
@@ -361,8 +277,8 @@ export function HeroSection({ lang, onNavigate }: Props) {
           </div>
 
           <p
-            className="w-full text-lg leading-relaxed text-[#2d2926] md:text-xl lg:max-w-none"
-            style={{ fontWeight: 500, textIndent: '2em', textAlign: 'justify' }}
+            className="max-w-[70ch] text-lg leading-relaxed text-[#2d2926] md:text-xl"
+            style={{ fontWeight: 500 }}
           >
             {lang === 'fil' ? (
               <>
@@ -401,8 +317,8 @@ export function HeroSection({ lang, onNavigate }: Props) {
           </p>
 
           <p
-            className="mt-4 w-full text-lg leading-relaxed text-[#2d2926] md:text-xl lg:max-w-none"
-            style={{ fontWeight: 500, textIndent: '2em', textAlign: 'justify' }}
+            className="mt-4 max-w-[70ch] text-lg leading-relaxed text-[#2d2926] md:text-xl"
+            style={{ fontWeight: 500 }}
           >
             {lang === 'fil' ? (
               <>
@@ -541,8 +457,8 @@ export function HeroSection({ lang, onNavigate }: Props) {
             <div className="mb-6 h-1.5 w-16 rounded-full bg-[#0a2fad]" />
 
             <p
-              className="w-full text-lg leading-relaxed text-[#2d2926] md:text-xl lg:max-w-none"
-              style={{ fontWeight: 500, textIndent: '2em', textAlign: 'justify' }}
+              className="max-w-[70ch] text-lg leading-relaxed text-[#2d2926] md:text-xl"
+              style={{ fontWeight: 500 }}
             >
               {lang === 'fil' ? (
                 <>
@@ -566,8 +482,8 @@ export function HeroSection({ lang, onNavigate }: Props) {
             </p>
 
             <p
-              className="mt-4 w-full text-lg leading-relaxed text-[#2d2926] md:text-xl lg:max-w-none"
-              style={{ fontWeight: 500, textIndent: '2em', textAlign: 'justify' }}
+              className="mt-4 max-w-[70ch] text-lg leading-relaxed text-[#2d2926] md:text-xl"
+              style={{ fontWeight: 500 }}
             >
               {lang === 'fil' ? (
                 <>
@@ -878,8 +794,8 @@ export function HeroSection({ lang, onNavigate }: Props) {
             </div>
 
             <p
-              className="w-full text-lg leading-relaxed text-[#2d2926] md:text-xl lg:max-w-none"
-              style={{ fontWeight: 500, textIndent: '2em', textAlign: 'justify' }}
+              className="max-w-[70ch] text-lg leading-relaxed text-[#2d2926] md:text-xl"
+              style={{ fontWeight: 500 }}
             >
               {lang === 'fil' ? (
                 <>
@@ -914,8 +830,8 @@ export function HeroSection({ lang, onNavigate }: Props) {
             </p>
 
             <p
-              className="mt-4 w-full text-lg leading-relaxed text-[#2d2926] md:text-xl lg:max-w-none"
-              style={{ fontWeight: 500, textIndent: '2em', textAlign: 'justify' }}
+              className="mt-4 max-w-[70ch] text-lg leading-relaxed text-[#2d2926] md:text-xl"
+              style={{ fontWeight: 500 }}
             >
               {lang === 'fil' ? (
                 <>

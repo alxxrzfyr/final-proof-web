@@ -1,10 +1,75 @@
 import { writeFile, readFile } from 'fs/promises';
+import { createHash } from 'crypto';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = join(__dirname, 'alerts.json');
 const MAX_ALERTS = 12;
+const WINDOW_DAYS = 30;
+
+// ── Helpers ────────────────────────────────────────────────────────
+
+/** Stable id derived from the normalized title, so reruns don't churn alerts.json. */
+function stableId(scope, title) {
+  const key = title.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+  return `alert-${scope}-${createHash('sha1').update(key).digest('hex').slice(0, 12)}`;
+}
+
+const ENTITIES = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ' };
+function decodeEntities(str) {
+  return str
+    .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
+    .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
+    .replace(/&([a-z]+);/gi, (m, name) => ENTITIES[name.toLowerCase()] ?? m);
+}
+
+function cleanText(str) {
+  return decodeEntities(
+    str
+      .replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+      .replace(/<[^>]+>/g, ' ')
+  )
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+/**
+ * Reject SEO spam and non-news: "X legit or scam", "is X legit?", reviews,
+ * forum threads, and headlines too short to be informative.
+ */
+const JUNK_PATTERNS = [
+  /\blegit or (a )?scam\b/i,
+  /\bis .{1,40} (legit|a scam|safe)\??$/i,
+  /\b(review|reviews|complaints?)\s*(20\d\d)?$/i,
+  /\breddit\b/i,
+  /\b(how to|tips to) (earn|make money)\b/i,
+  /\b(search on google play|on the app store|apk download)\b/i,
+  /\bsites for (android|ios|iphone)\b/i,
+];
+function isJunkTitle(title) {
+  if (title.length < 28 || title.split(/\s+/).length < 5) return true;
+  return JUNK_PATTERNS.some((re) => re.test(title));
+}
+
+/** First matching rule wins; keys map to labels in the UI. */
+const CATEGORY_RULES = [
+  ['investment', /\b(crypto|bitcoin|investment|ponzi|pig.?butchering|trading platform|forex)\b/i],
+  ['romance', /\b(love scam|romance|sextortion|dating)\b/i],
+  ['job', /\b(task scam|job|recruit\w*|employment|work.?from.?home)\b/i],
+  ['shopping', /\b(online selling|booking|shopping|parcel|delivery|online seller|marketplace|travel|reservation)\b/i],
+  ['ewallet', /\b(gcash|maya|paymaya|e-?wallet|bank\w*|account takeover|sim.?swap|atm|card)\b/i],
+  ['phishing', /\b(phishing|smishing|vishing|otp|text.?blast\w*|imsi|fake (text|sms|email|link|website)|spoof\w*)\b/i],
+  ['impersonation', /\b(deepfake|impersonat\w*|pretend\w*|posing as|fake (police|agent|official))\b/i],
+  ['malware', /\b(malware|ransomware|breach|hack\w*|spyware|data leak)\b/i],
+];
+function categorize(text) {
+  for (const [key, re] of CATEGORY_RULES) if (re.test(text)) return key;
+  return 'general';
+}
+
+/** Official warnings and advisories are flagged so the UI can surface them. */
+const ADVISORY_RE = /\b(warn\w*|advisory|beware|urge[sd]?|reminds?|alert[s]?|caution\w*)\b/i;
 
 // International feeds - Online scam alerts, consumer fraud prevention, and factual reporting
 const INTL_FEEDS = [
@@ -92,20 +157,17 @@ async function fetchFromFeeds(feeds, type) {
         const sourceMatch = block.match(/<source[^>]*>([\s\S]*?)<\/source>/i);
         const extractedSource = sourceMatch ? sourceMatch[1] : feed.label;
 
-        let title = titleRaw
-          .replace(/<!\[CDATA\[(.*?)\]\]>/g, '$1')
-          .replace(/<[^>]+>/g, '')
-          .trim();
+        let title = cleanText(titleRaw);
         if (feed.url.includes('news.google.com')) {
           const lastDash = title.lastIndexOf(' - ');
           if (lastDash !== -1) title = title.substring(0, lastDash).trim();
         }
 
-        const desc = descRaw
-          .replace(/<!\[CDATA\[(.*?)\]\]>/g, '$1')
-          .replace(/<[^>]+>/g, '')
-          .trim();
-        const link = linkRaw.replace(/<!\[CDATA\[(.*?)\]\]>/g, '$1').trim();
+        const desc = cleanText(descRaw);
+        const link = cleanText(linkRaw);
+        const source = cleanText(extractedSource);
+
+        if (isJunkTitle(title)) return;
 
         // Broadened scam matching since we are now relying on strictly whitelisted, high-quality sources
         const onlineScamRegex =
@@ -151,14 +213,14 @@ async function fetchFromFeeds(feeds, type) {
           } catch (e) {}
 
           allItems.push({
-            id: `alert-${type}-${Date.now()}-${Math.random().toString(36).substring(7)}`,
+            id: stableId(type, title),
             title: title,
             url: link,
-            source: extractedSource,
-            sourceLabel: extractedSource,
+            source,
+            sourceLabel: source,
             sourceLogo: 'newspaper',
-            category: 'cybercrime',
-            severity: 'medium',
+            category: categorize(`${title} ${desc}`),
+            severity: ADVISORY_RE.test(title) ? 'high' : 'medium',
             date: displayDate,
             rawDate: isNaN(dateObj) ? new Date().toISOString() : dateObj.toISOString(),
             logo: domainIcon,
@@ -176,18 +238,41 @@ async function fetchFromFeeds(feeds, type) {
 
 function mergeAlerts(fetched, existing, type) {
   const timeLimit = new Date();
-  timeLimit.setDate(timeLimit.getDate() - 30); // 30 days for broader local context
+  timeLimit.setDate(timeLimit.getDate() - WINDOW_DAYS);
 
   const freshAlerts = fetched.filter((a) => {
     const d = new Date(a.rawDate);
     return isNaN(d) || d >= timeLimit;
   });
-  const existingType = existing.filter((a) => a.scope === type);
+  // Re-normalize previously stored alerts so old entries get stable ids,
+  // real categories, and the junk filter too.
+  const existingType = existing
+    .filter((a) => a.scope === type)
+    .map((a) => {
+      const title = cleanText(a.title || '');
+      return {
+        ...a,
+        title,
+        source: cleanText(a.source || ''),
+        sourceLabel: cleanText(a.sourceLabel || a.source || ''),
+        id: stableId(type, title),
+        category: categorize(title),
+        severity: ADVISORY_RE.test(title) ? 'high' : 'medium',
+      };
+    })
+    .filter((a) => !isJunkTitle(a.title) && new Date(a.rawDate) >= timeLimit);
 
   const allAlertsMap = new Map();
   [...existingType, ...freshAlerts].forEach((alert) => {
     if (!alert.rawDate) alert.rawDate = new Date(alert.date).toISOString();
-    const key = alert.title.toLowerCase().trim();
+    // Near-duplicate guard: same story re-syndicated with a typo fix or new suffix.
+    const key = alert.title
+      .toLowerCase()
+      .replace(/[^a-z0-9 ]+/g, '')
+      .split(/\s+/)
+      .slice(0, 7)
+      .map((w) => w.replace(/(e|a)n$/, 'an'))
+      .join(' ');
     if (!allAlertsMap.has(key)) {
       allAlertsMap.set(key, alert);
     } else {
@@ -228,22 +313,19 @@ async function fetchLatestAlerts() {
     const finalLocal = mergeAlerts(localFetched, existingLocal, 'local');
     const finalIntl = mergeAlerts(intlFetched, existingIntl, 'international');
 
-    const newLocalTitles = finalLocal.map((a) => a.title).join('|');
-    const oldLocalTitles = existingLocal
-      .slice(0, MAX_ALERTS)
-      .map((a) => a.title)
-      .join('|');
-    const newIntlTitles = finalIntl.map((a) => a.title).join('|');
-    const oldIntlTitles = existingIntl
-      .slice(0, MAX_ALERTS)
-      .map((a) => a.title)
-      .join('|');
+    // Compare the fields the UI shows, so a relabel (category/severity) also counts as a change.
+    const sig = (list) =>
+      list
+        .slice(0, MAX_ALERTS)
+        .map((a) => `${a.id}:${a.title}:${a.category}:${a.severity}`)
+        .join('|');
 
-    const isUnchanged = newLocalTitles === oldLocalTitles && newIntlTitles === oldIntlTitles;
+    const isUnchanged =
+      sig(finalLocal) === sig(existingLocal) && sig(finalIntl) === sig(existingIntl);
 
     if (isUnchanged && existingLocal.length > 0 && existingIntl.length > 0) {
       console.log(
-        `No new local or international news found within the last 7 days. Maintaining existing alerts.`
+        `No new local or international news found within the last ${WINDOW_DAYS} days. Maintaining existing alerts.`
       );
       process.exit(0);
     }

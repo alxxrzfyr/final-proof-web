@@ -1,6 +1,5 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect } from 'react';
 import { QRCodeSVG } from 'qrcode.react';
-import { LiveAlerts, type Alert, type AlertsStatus } from './LiveAlerts';
 
 import { scamTypes, quickJumpPills, type Lang, translations } from './data';
 
@@ -933,31 +932,22 @@ function LogoImage({ name }: { name: string }) {
 }
 
 export function ScamInfoSection({ lang, onNavigate }: Props & { onNavigate?: (s: string) => void }) {
-  const [alerts, setAlerts] = useState<Alert[]>([]);
-  const [alertsStatus, setAlertsStatus] = useState<AlertsStatus>('loading');
-  const [alertsFetchedAt, setAlertsFetchedAt] = useState<string>();
+  const [alerts, setAlerts] = useState<any[]>([]);
+  const [alertScope, setAlertScope] = useState<'local' | 'international'>('local');
   const [activeSub, setActiveSub] = useState<string>('what-is-scam');
   const [isScrolled, setIsScrolled] = useState(false);
 
-  const loadAlerts = useCallback(() => {
-    setAlertsStatus('loading');
-    fetch(`${import.meta.env.BASE_URL}alerts.json`, { cache: 'no-cache' })
+  useEffect(() => {
+    fetch('alerts.json')
       .then((res) => {
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        if (!res.ok) throw new Error('Network response was not ok');
         return res.json();
       })
       .then((data) => {
-        setAlerts(Array.isArray(data) ? data : data.alerts ?? []);
-        setAlertsFetchedAt(data.fetchedAt);
-        setAlertsStatus('ready');
+        setAlerts(data.alerts || data);
       })
-      .catch((err) => {
-        console.error('Failed to load alerts:', err);
-        setAlertsStatus('error');
-      });
+      .catch((err) => console.error('Failed to load alerts:', err));
   }, []);
-
-  useEffect(() => { loadAlerts(); }, [loadAlerts]);
 
   useEffect(() => {
   const target = sessionStorage.getItem('scrollTarget');
@@ -1510,7 +1500,107 @@ A legitimate agency helps people report, identify, and prevent scams and fraud. 
       <section id="alerts-resources" className="border-t border-[#e5ded4] scroll-mt-28">
         <div className="mx-auto max-w-[1400px] px-5 py-10 sm:px-8 sm:py-14 md:px-12 lg:px-16">
 
-          <LiveAlerts alerts={alerts} status={alertsStatus} fetchedAt={alertsFetchedAt} lang={lang} onRetry={loadAlerts} />
+        <div className="mb-10 overflow-hidden rounded-2xl border border-[#e5ded4] bg-[#f8f7f5] shadow-sm sm:mb-14">
+
+          {/* Container Header */}
+          <div className="flex flex-col gap-3 border-b border-[#e5ded4] bg-white px-4 py-4 sm:flex-row sm:items-center sm:gap-3 sm:px-6">
+            <div className="flex items-center gap-3">
+              <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-red-600">
+                <span className="material-symbols-outlined text-xl text-white">notifications_active</span>
+              </div>
+              <div>
+                <h3 className="tracking-tight text-[#1a1816] uppercase" style={{ fontWeight: 900, fontSize: '1.25rem' }}>
+                  Live Alerts
+                </h3>
+                <p className="text-xs text-[#5c544d]" style={{ fontWeight: 600 }}>
+                  Latest scam reports & advisories
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-3 sm:ml-auto">
+              <div className="flex flex-1 items-center rounded-full border border-[#e5ded4] bg-[#f8f7f5] p-1 sm:flex-none">
+                <button
+                  onClick={() => setAlertScope('local')}
+                  className={`rounded-full px-4 py-1.5 text-xs tracking-wider uppercase transition-all ${alertScope === 'local' ? 'bg-[#0a2fad] text-white shadow-sm' : 'text-[#5c544d] hover:text-[#1a1816]'}`}
+                  style={{ fontWeight: alertScope === 'local' ? 800 : 700 }}
+                >
+                  Local (PH)
+                </button>
+                <button
+                  onClick={() => setAlertScope('international')}
+                  className={`rounded-full px-4 py-1.5 text-xs tracking-wider uppercase transition-all ${alertScope === 'international' ? 'bg-[#0a2fad] text-white shadow-sm' : 'text-[#5c544d] hover:text-[#1a1816]'}`}
+                  style={{ fontWeight: alertScope === 'international' ? 800 : 700 }}
+                >
+                  International
+                </button>
+              </div>
+
+              <div className="flex shrink-0 items-center gap-1.5">
+                <span className="relative flex h-2.5 w-2.5">
+                  <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-red-400 opacity-75"></span>
+                  <span className="relative inline-flex h-2.5 w-2.5 rounded-full bg-red-500"></span>
+                </span>
+                <span className="text-xs tracking-wider text-red-600 uppercase" style={{ fontWeight: 700 }}>
+                  Live
+                </span>
+              </div>
+            </div>
+          </div>
+
+          {/* Alert Cards */}
+          <div className="p-4 sm:p-6">
+            <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 sm:gap-4 lg:grid-cols-3">
+              {alerts
+                .filter((a) => a.scope === alertScope || (!a.scope && alertScope === 'local'))
+                .slice(0, 12)
+                .map((alert) => (
+                  <a
+                    key={alert.id}
+                    href={alert.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="group flex flex-col rounded-xl border border-[#0a2fad] bg-white p-5 transition-all hover:border-[#0a2fad]/40 hover:shadow-lg lg:border-[#a09890]"
+                  >
+                    <div className="mb-3 flex w-full flex-wrap items-center justify-between gap-1">
+                      <div className="flex min-w-0 items-center gap-2">
+                        {alert.logo ? (
+                          <img
+                            src={alert.logo}
+                            alt={alert.source}
+                            className="h-4 w-4 shrink-0 rounded object-cover"
+                            onError={(e) => { e.currentTarget.style.display = 'none'; }}
+                          />
+                        ) : (
+                          <span className={`inline-block h-2 w-2 shrink-0 rounded-full ${alert.severity === 'high' ? 'bg-red-500' : 'bg-yellow-500'}`} />
+                        )}
+                        <span
+                          className="truncate text-[11px] tracking-wider text-[#5c544d] uppercase"
+                          style={{ fontWeight: 700 }}
+                          title={alert.source}
+                        >
+                          {alert.source}
+                        </span>
+                      </div>
+                      <span className="shrink-0 text-right text-[11px] text-[#5c544d]/50" style={{ fontWeight: 600 }}>
+                        {alert.date}
+                      </span>
+                    </div>
+                    <p
+                      className="flex-1 text-sm leading-snug text-[#1a1816] transition-colors group-hover:text-[#0a2fad] sm:text-base"
+                      style={{ fontWeight: 700 }}
+                    >
+                      {alert.title}
+                    </p>
+                    <div className="mt-3 flex items-center gap-1 text-[#0a2fad] opacity-100 transition-opacity group-hover:opacity-100 xl:opacity-0">
+                      <span className="text-xs" style={{ fontWeight: 700 }}>Read more</span>
+                      <span className="material-symbols-outlined text-sm">arrow_forward</span>
+                    </div>
+                  </a>
+                ))}
+            </div>
+          </div>
+        </div>
 
           {/* Quick Resources + Report */}
           <div className="grid grid-cols-1 gap-5 sm:gap-6 lg:grid-cols-5">

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-09-28T19:19:33.674Z",
+  "fetchedAt": "2026-09-29T04:34:14.893Z",
   "alerts": [
+    {
+      "id": "alert-local-1790656453686-5bhg9p",
+      "title": "phmacao legit or scam",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QcmlwVjFubGVpWlZZU3FSQVNkOUhOVjhTVF93clNfWFZfUHhjWFl4MkFScXBmNWczcXhWcEVObm5RSURGWWNwY3N4Yi1vSDIyV1JqTkNEVzFtamVfZUYzbW4waWY?oc=5",
+      "source": "Philippine News Agency",
+      "sourceLabel": "Philippine News Agency",
+      "sourceLogo": "newspaper",
+      "category": "cybercrime",
+      "severity": "medium",
+      "date": "September 28, 2026",
+      "rawDate": "2026-09-28T18:41:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1790623172396-uqwgj5",
       "title": "masaya game com",
@@ -40,20 +54,6 @@
       "severity": "medium",
       "date": "September 28, 2026",
       "rawDate": "2026-09-28T05:48:22.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1790623172396-np85ij",
-      "title": "phmacao legit or scam",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KNG50RGdhNlJaQnE2UUZLcXUzMENEdWxRUHdpclpBdk1aNmZPS0xaRk5ocVh3d1ZSVEJzSkR4OHVkOUxBNVBudl9peUQ4WjBsdWJYLVpUcVk0NnhjTUNIX3BzWQ?oc=5",
-      "source": "Philippine News Agency",
-      "sourceLabel": "Philippine News Agency",
-      "sourceLogo": "newspaper",
-      "category": "cybercrime",
-      "severity": "medium",
-      "date": "September 27, 2026",
-      "rawDate": "2026-09-27T15:11:15.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
       "scope": "local"
     },

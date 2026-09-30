@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-09-29T05:24:30.043Z",
+  "fetchedAt": "2026-09-30T17:41:19.755Z",
   "alerts": [
+    {
+      "id": "alert-local-1b0bcd2de609",
+      "title": "NBI nabs 120 suspects in POGO-like love scam operation",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk1ZRXhiSTczV2Q4NVN6cG9fSTZfQ3JDa0RoY3lfSjJKTktfdVpxeHNnUWF0MURvcDdPX0kzakhUVEdENjVFTHYzMmZzWGEzSi1rbG9ocnc4Vm1HU1V4Znp4YUs0M1dfTTdKSlJQX1FOQTZ5MzVIRlNGdmh6REtJQ3NHVWo2M2I3YnFlUXJFZTRnZklaM3lfOVU5anZrdVY2cjBkTk5jVDRZbGZoMTNzVHdfWVREX3BWMHfSAb8BQVVfeXFMTmZWQzFsWG93c00xQU95dWpZVVVDSl9CQWl5ZkFuRTRFcGgxZFhuU3FjNHVTQXduVTdOLXNiRUctLURmcTBrR1hlVy1uY2VsNlpacUs4YVI4WFo3M0JqM1R1dkE0OGdGMnZ6bTFqUmZ4Yko5VXE0bS1kVjNWZWFwUHIxWVVaUXNpTHJmdE1SYUl3T0J0TWd6Z1BqQ0I1dTNnbTJOcmU1ek8zRURtSW5SWkxNeUhOT0wxNmppeWRIcGc?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "romance",
+      "severity": "medium",
+      "date": "September 30, 2026",
+      "rawDate": "2026-09-30T11:36:50.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-f3e49dffd4ad",
+      "title": "NBI arrests over 120 Chinese nationals in alleged 'lust scam' operation in Makati City",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNajh1Wi1wd1AwbU5iZnNTUlFOTVpCSHFhWTh3MjE3SElPSG8wdVhPNFg2LWVlcDNXbDZEcVpOa05qYzVrbFdKaFpLd2gzaktzb3FMRDZUV0dFOFlUeEJBSkdndDdjbXAxQnlfRnREYzg5UDJ4VjlwNk9JcGpWRXZ3RHNzbWRpc25DeW1WeTJ0WVU3YmtsZ0V0ZW5SdHFkbTVFbDNpS1lfRFhwbUxWMTlLV2xTdTFmZXVvWmNzU013?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "September 30, 2026",
+      "rawDate": "2026-09-30T10:21:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/news.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-8357b7147b31",
       "title": "Are you willing to pay P8,000 for VIP access in NAIA?",
@@ -81,7 +109,7 @@
       "category": "general",
       "severity": "medium",
       "date": "September 21, 2026",
-      "rawDate": "2026-09-21T02:42:06.000Z",
+      "rawDate": "2026-09-21T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
       "scope": "local"
     },
@@ -139,34 +167,6 @@
       "date": "September 5, 2026",
       "rawDate": "2026-09-05T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-e9da690dd77d",
-      "title": "NBI arrests Chinese national in suspected IMSI catcher text-blasting scam",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX0NjcG0wUmVueE5adnhLUkpUS2pMZ3d2SHpwc2tidldJRkgwRFFicjEzTW15bnpZV1JQQjFWTlBRS3VHcDFyZENkb2lIUkdkRjhPa19OM1Bxc19XdXo0TTJoMGhBNHlFMUdYZmlsZ05iVE55MVZ2a2xpLXdkU2Z6TW5vX1hwNXVjYnRXTVpQRVp1S29zdDczVmtGU3hqUEZ5T3BUWWpZNU9fT0dqVEVIMWhHZndyc0VFcmdCeGZjSDg?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "September 1, 2026",
-      "rawDate": "2026-09-01T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-0bdb56e16150",
-      "title": "NBI warns public of scams using IMSI catchers",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2xVZ3pOcGx1U0g2MDE4TUJ3UTNvUnhNWG9VdDhuX2lESG05cDl1MDJVYWhMM3lBV0FsYzBfZG1KLVVEaEhId2lDdFIyM2tDcVpLMjFyMEpGdEJUZ0c0NFFBUktqT1BZdHBCNnpGaFJsWEdYdG1lVEwzNDd4M29HU0dXWHpaNmdqTjJobDlCbVbSAZYBQVVfeXFMTmNrWXRaRzVSQ0FKWlZmX1BFTktNMHpjY0JQTzN0aW5wZXZZOUxrSHFKelJ1UFJSRW1KaVdlemp0UHhWSUFUQWphVWtVTWlsSHBYcEhKZ0lZc2Nxb0lYNmVrMzczV0Zib0EtZVhzNUNtZUtUcDVpTFNCRXU1ZDg3SkY0S2lrR2dQZnM1MDFxUzIwVlRJYjlR?oc=5",
-      "source": "Cebu Daily News",
-      "sourceLabel": "Cebu Daily News",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "high",
-      "date": "September 1, 2026",
-      "rawDate": "2026-09-01T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-09-30T17:41:19.755Z",
+  "fetchedAt": "2026-10-01T04:29:55.927Z",
   "alerts": [
+    {
+      "id": "alert-local-b83062e4b5b6",
+      "title": "Over 120 Chinese involved in ‘lust scam’ nabbed in Makati",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDMwNzVBemZmWWZOdzVLS05Rd1dlQ0tQTnlocVdMSk1sY3c2MDM5YUZlcFN1RTBhdFJEc0t3QUt6czhQZkNRNmpTR0tMLTdMZ0dpY1A3NHB5Z1VFcERfZkdqRGJxeWgzcWNvUDcyRHRab2pMb3pla1pYdXBWLUUwdFY2Y2hCVlJBX0dCV2RyX3FNenRwcVhqVlhuMEnSAaIBQVVfeXFMTnp0MkxNdFliMWxOQlpneVp3a0paWXVIbmhOaVVOVVN2T0lQdjc2RXhkUldzNEJRbGtfMVkyeVl4U0hyVlNpNHNUbHJQVWFPbzhlXy11ckprcHNjTTVEVXJqMTZZWlhZb25FR1RfV3RVVTVqeFlCc3NBTHRrRWNkMXhXTEJTZDQzamhRUTE0VHlwNm5RdHNEWHJrempXM1ZoYlhB?oc=5",
+      "source": "globalnation.inquirer.net",
+      "sourceLabel": "globalnation.inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "September 30, 2026",
+      "rawDate": "2026-09-30T17:17:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-f3e49dffd4ad",
+      "title": "NBI arrests over 120 Chinese nationals in alleged 'lust scam' operation in Makati City",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUVWemh0dU1VTU14dW5Nd3Uyb3QzR1dwRURsV2ZBN0VfR0tEakRuRVVXek0zRlQ1SDNidGtUVzdHd3JYWm14MUY3ZzhnTVdrVHhjSDl3UzBob3RXZ2gtUURwVnpxZExIWnBaX1ZlaDBaemY4eVRzZ1k2dzhoNDNlUW1wNjRxMHJ3SmR2Rm03bll5cFZZd1hmSS1IOVpKLWhEaExrZU5JUVVqVFF4b1B1dFVJVjFIRVAxb1F1dQ?oc=5",
+      "source": "abs-cbn.com",
+      "sourceLabel": "abs-cbn.com",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "September 30, 2026",
+      "rawDate": "2026-09-30T15:34:34.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-1b0bcd2de609",
       "title": "NBI nabs 120 suspects in POGO-like love scam operation",
@@ -13,20 +41,6 @@
       "date": "September 30, 2026",
       "rawDate": "2026-09-30T11:36:50.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-f3e49dffd4ad",
-      "title": "NBI arrests over 120 Chinese nationals in alleged 'lust scam' operation in Makati City",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNajh1Wi1wd1AwbU5iZnNTUlFOTVpCSHFhWTh3MjE3SElPSG8wdVhPNFg2LWVlcDNXbDZEcVpOa05qYzVrbFdKaFpLd2gzaktzb3FMRDZUV0dFOFlUeEJBSkdndDdjbXAxQnlfRnREYzg5UDJ4VjlwNk9JcGpWRXZ3RHNzbWRpc25DeW1WeTJ0WVU3YmtsZ0V0ZW5SdHFkbTVFbDNpS1lfRFhwbUxWMTlLV2xTdTFmZXVvWmNzU013?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "September 30, 2026",
-      "rawDate": "2026-09-30T10:21:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/news.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -75,13 +89,13 @@
       "id": "alert-local-26b1e238db37",
       "title": "Government brings cyber safety campaign to senior citizens amid scam risks",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenhObGFaQVZQLXBXYWtQamFjMk1NNHZyQWhYRHkyd1ZiUW9DUWF2OVV5RUN1YVk0MW1QSVNYdkI4MDI1Z0dtdXRELVNYbFl0NFpzWk1xX0YyRnFmaHJsY2lvZEFyamJNVlpCQ19zcUpMTjcyM2YzNEtzNnVXdk1xeExqS0Y0YUtUUzNOVHJhN1lVNy14c3B3amh5WHRod1BlS1A0SS1TV20xVFVSMFRnQzRyWXQxVU9oTWdtaFlJbXhxb3ZhcDhfSA?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
+      "source": "abs-cbn.com",
+      "sourceLabel": "abs-cbn.com",
       "sourceLogo": "newspaper",
       "category": "general",
       "severity": "medium",
       "date": "September 24, 2026",
-      "rawDate": "2026-09-23T19:56:19.000Z",
+      "rawDate": "2026-09-24T09:03:45.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
@@ -153,20 +167,6 @@
       "date": "September 10, 2026",
       "rawDate": "2026-09-10T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/usa.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-60d546b6fe24",
-      "title": "The new anatomy of bank fraud",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNelVza2lsbzVyQnQyVG5uQWRTZjZKcnpvb1JVanZMTTcwckhPN2dkTllBUjEwbjhIc3JHV3hlTmhRcUNDSlJzMjNYU0prbXhQb0xicjY0STFzdGR6S3VZa0VoeFBhUHJ3ZzdkRWI2a1p2eDd1bEQxUjNXNFl2Ym9lREtic09zZ1NDcEQwd1Fha9IBlgFBVV95cUxQUFpLb3VPVnpHZ0ptT1VtUmlNYjZuQmN0VGYyYlRVTXdoODdvX3ZxMG9wUHdjSlgxSjA5VnVUb0xFVENTN1NUVGE5TGtmYVZ4LS1kWDFibHZsaHNLd2ZmeE9QaGFNeEdYUF83NHpyQmFYWENiZzRFY1BRLV9rZVVkUnRZNXJqTW82OWpNSmlBU2tVQXpIb0E?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "ewallet",
-      "severity": "medium",
-      "date": "September 5, 2026",
-      "rawDate": "2026-09-05T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {

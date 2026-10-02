@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-02T04:22:40.194Z",
+  "fetchedAt": "2026-10-02T17:32:58.663Z",
   "alerts": [
+    {
+      "id": "alert-local-322397983578",
+      "title": "FACT CHECK: Fake job posts for delivery company lead to suspicious links",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1d5UF84d0Ezc01IVWE4VU95RnJXUFNtQnZoOEN5WmxZeF9NRXhpOGFVT1VzTnkxVnFmQWc5X2tyMmFYUENDS3JSNUxuT0o3UlhMZkdISEZxNklHcTZ3dy1JT2l0WnFPdW5fb0pnNGhoVWJUMUxKMEJ6N3dtTkdJSmxCMEtDS1NFTXlIa2FkVE54dzV5?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "job",
+      "severity": "medium",
+      "date": "October 2, 2026",
+      "rawDate": "2026-10-02T11:58:16.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-cf6c2ebd66d8",
       "title": "Whoscall launches 'Di Lahat Dinededma' campaign to empower Filipinos to avoid scams without missing important calls",
@@ -13,20 +27,6 @@
       "date": "October 2, 2026",
       "rawDate": "2026-10-02T01:16:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-322397983578",
-      "title": "FACT CHECK: Fake job posts for delivery company lead to suspicious links",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1d5UF84d0Ezc01IVWE4VU95RnJXUFNtQnZoOEN5WmxZeF9NRXhpOGFVT1VzTnkxVnFmQWc5X2tyMmFYUENDS3JSNUxuT0o3UlhMZkdISEZxNklHcTZ3dy1JT2l0WnFPdW5fb0pnNGhoVWJUMUxKMEJ6N3dtTkdJSmxCMEtDS1NFTXlIa2FkVE54dzV5?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "job",
-      "severity": "medium",
-      "date": "October 2, 2026",
-      "rawDate": "2026-10-02T00:07:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {

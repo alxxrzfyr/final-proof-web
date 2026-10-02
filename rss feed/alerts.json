@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-10-01T04:29:55.927Z",
+  "fetchedAt": "2026-10-02T04:22:40.194Z",
   "alerts": [
+    {
+      "id": "alert-local-cf6c2ebd66d8",
+      "title": "Whoscall launches 'Di Lahat Dinededma' campaign to empower Filipinos to avoid scams without missing important calls",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdWNaOWMxRzlsUmJVbjh2a1hWZFhKVFFiWmZ1Q2pIMEd0clNZWXNKbDNmZXhoRFNraHlDdmN5aDl5cVdaWEFTWlo0NEJNR3Jnbk00YkNwRjRIRjRGMjFhOGtDTUxtaGg2ZWF5cWVGaE13bWhpOE5VSWd3Z0VoZHVxVDhOZjNDVWNsd2hjRUVULTM5RTAweVZWcV9zbnpUcU1tWDlqdVhKLVdhU2lta3BxdDQ1d2RHQ0NMNFJ2Vi1sZHRQblVQd2ZDSjNCQ1E1eVpGaEtZOERNWVF4X0lGMnZHSHVRXzNpTUpkNHV5d0QxeDB5ZTJHbG9nQzMxZkx5NkFON2UyLXAzSVZsZjQw0gGTAkFVX3lxTFB6cDhOMHlYUzhXbTlkZGRQOUNLU3JucHl1ODA2clA2YXVQc3lCZ3dsdHU4cTJ1OXhyUWg5bUpoMjNtSlUwT1JXQldMSkFpeWROZElIbHZWTVUzZVJ6azBheHBSVWQyWm9FaS13bGQyUjkwQXU4ajZERmZiN3NkOTJ0dTVSdGhpUnZ0NjFScndKb0NRaENuWHRZTGFZVFlYcURDVkpOdzBZd2g3YlZLa0toNHZsOEh4THhkbWJkWVNTYlJQUy1ZTEFFc3lkaHNWanBFN2haQTFfVVg5YlFCUng1RUlGZHRjTHU1dmpHcGpGSnVXdjQxb052b2JWczhIVVhtcUZIOG5FazAyWjBQLWwzcWRN?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 2, 2026",
+      "rawDate": "2026-10-02T01:16:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-322397983578",
+      "title": "FACT CHECK: Fake job posts for delivery company lead to suspicious links",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1d5UF84d0Ezc01IVWE4VU95RnJXUFNtQnZoOEN5WmxZeF9NRXhpOGFVT1VzTnkxVnFmQWc5X2tyMmFYUENDS3JSNUxuT0o3UlhMZkdISEZxNklHcTZ3dy1JT2l0WnFPdW5fb0pnNGhoVWJUMUxKMEJ6N3dtTkdJSmxCMEtDS1NFTXlIa2FkVE54dzV5?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "job",
+      "severity": "medium",
+      "date": "October 2, 2026",
+      "rawDate": "2026-10-02T00:07:46.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-b83062e4b5b6",
       "title": "Over 120 Chinese involved in ‘lust scam’ nabbed in Makati",
@@ -139,34 +167,6 @@
       "date": "September 13, 2026",
       "rawDate": "2026-09-13T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-6975636e8567",
-      "title": "Millions of scammed Filipinos turning to tech apps over police",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjN0LWFIby1IM2Z2NGFiYjBEY2ZJT0FDS2p6eVFHbUE1bFR2dy1IVHpYbDRodG1aUjVuRElLZ254Nmlmbk50S2Eya2d1SmQteHRLNndRN1FMQndqeV9Ed1RPM3NmbkswTzBXMkR3WWFrdDB3U01KcWtsb3VyVVk5alJuYUNrQ3BVOFV0eWJBYlY0TlRsdFE?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "September 11, 2026",
-      "rawDate": "2026-09-11T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-4150b13a6cc6",
-      "title": "Travel scams are getting harder to spot. Here’s how to stay safe",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeC1TQmYxWFUtbWJrMW5DR2lEWTJ2aEVTVjBJeURnc3R1c1ZuZF8tU1IzZjAxZkZvaGQ5U1daR3BMZXY4Q3hOUkh3OXlhYWh0STVlZUc0UHhhQW1tZ29HV3VZUmZkcUdXYnd6MzNfcndONmZiUURLQlc1XzhUMzNYNDlET2tHUWxPNUI2azVPOUtUQVlRODdFSW1B?oc=5",
-      "source": "INQUIRER.net USA",
-      "sourceLabel": "INQUIRER.net USA",
-      "sourceLogo": "newspaper",
-      "category": "shopping",
-      "severity": "medium",
-      "date": "September 10, 2026",
-      "rawDate": "2026-09-10T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/usa.inquirer.net.ico",
       "scope": "local"
     },
     {

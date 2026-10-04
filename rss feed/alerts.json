@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-02T17:32:58.663Z",
+  "fetchedAt": "2026-10-04T16:31:37.932Z",
   "alerts": [
     {
       "id": "alert-local-322397983578",
@@ -69,6 +69,20 @@
       "date": "September 30, 2026",
       "rawDate": "2026-09-30T11:36:50.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-b61fc4d05331",
+      "title": "online casino philippines gcash free",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WRWw4LTF4MVF3T21mbUpRMkxxWHRBNHh6YXhWbWlTRmpERGRYc2U2bFRxdzBVOVQtQ0tUcnNHV3NvWjREeXZ3WktTS1dlbTNiaXlIWFZUU0djbmRxUjU0dlFhX3pTZk1pend5WTdtVVVKQnFtVE5B?oc=5",
+      "source": "pna.gov.ph",
+      "sourceLabel": "pna.gov.ph",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "medium",
+      "date": "September 27, 2026",
+      "rawDate": "2026-09-27T23:38:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
       "scope": "local"
     },
     {
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-03933d676d16",
-      "title": "Reservation hijacking and travel scams: Here’s how to stay safe",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOWdZMmtqMWVoaWxicGNKM3ZZbEV1eHVTeTNhZ1hmTlQ3cGVFNU5hcDd2T3FQeDVYcVQ3MjhLZ2syR0h4bm5ZV0pJeVk0LUZONVBMR0ZUYU9ranlLeXBLZ2hGN2RJZUxWWkVvVnJBeW5yOEdkWVh5R1pxX0hHbzltcnNHUWtUMWF4UWJvcWtuakRxRzROc3lCeW1WWlJfcVk5VWpraGt30gGrAUFVX3lxTE9FSFZ2eE1pTExSWEFTZVJPUXhGa1kyQkxlSzM2S1dvZmhaM2VvZEM0cHgxMEN2ZUs4SHJMWlhZWkVvY19mVDRnd3dnS1dINm0wbEx2QVpERE5vdU81TENLdVN2WjVvR3JVSXJfbTlkU1BVV0ZDdjVpaTRFMkJmYnctVmwySkNTMkxnX0hmbEwwLXBscGVDYnV2eWhVV0R4dWljcm9NcklxS3lsYw?oc=5",
-      "source": "Cebu Daily News",
-      "sourceLabel": "Cebu Daily News",
+      "id": "alert-international-b221866ee5ed",
+      "title": "‘They call every week’: the phishing attacks targeting past victims",
+      "url": "https://www.theguardian.com/money/2026/oct/04/repeat-phishing-attacks-target-past-scam-victims",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "shopping",
       "severity": "medium",
-      "date": "September 13, 2026",
-      "rawDate": "2026-09-13T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/cebudailynews.inquirer.net.ico",
-      "scope": "local"
+      "date": "October 4, 2026",
+      "rawDate": "2026-10-04T06:00:20.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1cf05864c561",
@@ -321,20 +335,6 @@
       "date": "September 18, 2026",
       "rawDate": "2026-09-18T14:59:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-7a633d31eab9",
-      "title": "A little rudeness can save you from being scammed? Count me in | Polly Hudson",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/14/rudeness-prevent-scam-money",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "September 14, 2026",
-      "rawDate": "2026-09-14T10:00:55.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

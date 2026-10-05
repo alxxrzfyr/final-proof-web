@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-10-04T16:31:37.932Z",
+  "fetchedAt": "2026-10-05T04:23:58.959Z",
   "alerts": [
+    {
+      "id": "alert-local-3e3b0e69b8e9",
+      "title": "Cops tasked to step up intel drive vs POGO, online scams after Zambo Sibugay, Makati raids",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLUpQSTBJMHcyUXZHNFhZTEMzLUllZXdxYk5lMVZIR2ZBZEVPTWF0RVgzR2NscWVpSUZrLUJ1eUVJcXM1OVJrUWpXY0RwN3cwb0JLUWwzd2x0MkM5d0tGeGh4ZHQwYkdTZmMwZ1FfTXlSdnFZUHF4Yzh0SGFjd2ZpZmVURU1hQks0SWdOTjduUGtwYTg1b2o2aUdPN1EtWmh1dXBJS3NxZGtUYkU5aDFSX25PX2V1UVBq?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 5, 2026",
+      "rawDate": "2026-10-05T03:23:07.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-f5a351d01225",
+      "title": "After credit card hack, Gatchalian urges Senate probe into rise of payment fraud",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTU04ZzF1dGVjNVlfSGV2S1MtcFltMjhxUW11T09fakcwV2hjZWhHdjVWWkhVR2N3RlhwU2FwaUUtUWlUcm5ORlhVTVBPTmFOWmJsdjZwYjVvVWhFbnkyOFlIWmxVa19adnlxQ29xeWE2S2FzNXB0dzNsWWJGRU92Z0pZenNYM3lrTjhwUnl1cHN2d0tzTWVITUdYclhSR1VuZVl6SmdvUzVUREZBeXJpVWFFNA?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "high",
+      "date": "October 4, 2026",
+      "rawDate": "2026-10-04T09:57:31.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-30a09cedea01",
+      "title": "FALSE: Vice Ganda endorses bitcoin product",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "investment",
+      "severity": "medium",
+      "date": "October 4, 2026",
+      "rawDate": "2026-10-04T09:57:31.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-322397983578",
       "title": "FACT CHECK: Fake job posts for delivery company lead to suspicious links",
@@ -128,46 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-26b1e238db37",
-      "title": "Government brings cyber safety campaign to senior citizens amid scam risks",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQenhObGFaQVZQLXBXYWtQamFjMk1NNHZyQWhYRHkyd1ZiUW9DUWF2OVV5RUN1YVk0MW1QSVNYdkI4MDI1Z0dtdXRELVNYbFl0NFpzWk1xX0YyRnFmaHJsY2lvZEFyamJNVlpCQ19zcUpMTjcyM2YzNEtzNnVXdk1xeExqS0Y0YUtUUzNOVHJhN1lVNy14c3B3amh5WHRod1BlS1A0SS1TV20xVFVSMFRnQzRyWXQxVU9oTWdtaFlJbXhxb3ZhcDhfSA?oc=5",
-      "source": "abs-cbn.com",
-      "sourceLabel": "abs-cbn.com",
+      "id": "alert-international-895e21cfe21c",
+      "title": "Money stolen by scammers hijacking UK social media accounts rises 400%",
+      "url": "https://www.theguardian.com/money/2026/oct/05/scammers-hijacking-uk-social-media-accounts",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
-      "category": "general",
+      "category": "impersonation",
       "severity": "medium",
-      "date": "September 24, 2026",
-      "rawDate": "2026-09-24T09:03:45.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-41cf81488cf8",
-      "title": "Public vigilance urged vs digital fraud amid GCash IPO",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDRHc0NVWGQ0NE9MSG5za0pFTWJDU3hLRE1kRGpENURxdmZzdUZOVnJHaWcwN21PVTg1OWRFOHJlQ0E3a01fTjBGeXZXeU5YTkd1Z0F3MU5ScEFUN2llNlNZd1ZydlBHWld0VWVtaHdWR3FMVE56ZU9pSzloekNMUWtpZGFTaEpSaHcwUE5tOFdLWnllS01fUHM3RE5Fc2gzR0dIb3I4Sk9sZnIxbDBhbWtDbW5MY25W0gG-AUFVX3lxTFBwaVlIWlNyUkVBbmszcU5EUnFoM3J6Rk1MMjRTSXp0N0ZlTFgtNFlDNWpWajV5UVlUZEtXVnpkMlUwcnhORFZKOUViZmsyVTBwMUd2YXVsTHFUSVdYYXJqYWRhUUtrQl95b3pQaklMaGdaVFdXVm5zbkhOdGpXbkhlY016ZG9OTWFTQm9rWG9idzdsMUtHek9lOXo2NUtFQ3JHdFlDODV0WEFnaEl4R3JpMTNMMU1pWHlROTF1WVE?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "ewallet",
-      "severity": "high",
-      "date": "September 21, 2026",
-      "rawDate": "2026-09-21T09:42:43.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-09f41e46846a",
-      "title": "Business leaders meet to fight scams and protect customer trust",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc1lYS1NnUXM1bWdOV2RpY0JKaHQtQktpNExjeU9KYVdvbXM1OHBKWGp3QVVHSkNpUERlbnlEMFRqLU5rcUtESi15TnExNW1taHR2c25lWHZ0ZUZxcm8tQ3pSNUFheWdwZDQ4aGx0TmFQbjVZZzBaVnVyaTAyUERrT2dGWjMxLWd2WjJrZk43Y3NxSW5zVnJOUEUxTjBmRkVfTnhvMV9yVjg4Y1RhTU1LZU1KQ3c5T3AwaUE?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "September 21, 2026",
-      "rawDate": "2026-09-21T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
+      "date": "October 4, 2026",
+      "rawDate": "2026-10-04T23:01:40.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-b221866ee5ed",
@@ -176,7 +190,7 @@
       "source": "The Guardian (Scams)",
       "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
-      "category": "shopping",
+      "category": "phishing",
       "severity": "medium",
       "date": "October 4, 2026",
       "rawDate": "2026-10-04T06:00:20.000Z",
@@ -321,20 +335,6 @@
       "date": "September 19, 2026",
       "rawDate": "2026-09-19T01:37:08.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-a4ba28eaec07",
-      "title": "Victim of Crypto ‘Pig Butchering’ Scam Drops Tax Refund Lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRFF2b2tuYW5rLU55S1U2dk1TdHNVZmNRTUhESDNNWXhvLTJEdG1kRDF3MUNKUUtEWFA2bHJLSnkzN1JGOW1fMHNBeWJxbUxxUmxRZGV5cjNrV0lCNlppWXJETkIyZ0dxNmx2ekZ4QjViQVl5M2dMVmtBMmI3RWZLS2Jiak5CdG10MUIxbWxEUWVUQUItUDU2ZVQ0cnk5ZXIzb1RPcXhTcDZHWWJ6?oc=5",
-      "source": "news.bloombergtax.com",
-      "sourceLabel": "news.bloombergtax.com",
-      "sourceLogo": "newspaper",
-      "category": "investment",
-      "severity": "medium",
-      "date": "September 18, 2026",
-      "rawDate": "2026-09-18T14:59:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/news.bloombergtax.com.ico",
       "scope": "international"
     }
   ]

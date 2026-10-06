@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-06T05:11:10.671Z",
+  "fetchedAt": "2026-10-06T18:00:16.480Z",
   "alerts": [
     {
       "id": "alert-local-caffe304bf89",
@@ -170,6 +170,34 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-156853327341",
+      "title": "Asos warns customer data may be compromised after ‘unauthorised’ app access",
+      "url": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "high",
+      "date": "October 6, 2026",
+      "rawDate": "2026-10-06T17:44:16.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-dfbcccabcac3",
+      "title": "Jailed Lego collector’s insurance scam highlights UK’s £1.3bn fraud problem",
+      "url": "https://www.theguardian.com/business/2026/oct/06/lego-insurance-scam-highlights-uk-fraud",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 6, 2026",
+      "rawDate": "2026-10-06T13:07:23.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-895e21cfe21c",
       "title": "Money stolen by scammers hijacking UK social media accounts rises 400%",
       "url": "https://www.theguardian.com/money/2026/oct/05/scammers-hijacking-uk-social-media-accounts",
@@ -307,34 +335,6 @@
       "date": "September 19, 2026",
       "rawDate": "2026-09-19T18:47:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-a26aec49b7dc",
-      "title": "‘We lost £14,000’: can a new clampdown stamp out cowboy builders?",
-      "url": "https://www.theguardian.com/money/2026/sep/19/cowboy-traders-builders-from-hell-app-register",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "September 19, 2026",
-      "rawDate": "2026-09-19T07:00:40.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-df894383b733",
-      "title": "More than 35 woman come forward in case against fake 49ers player accused of fraud",
-      "url": "https://www.theguardian.com/us-news/2026/sep/18/daejon-love-49ers-fraud",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "September 19, 2026",
-      "rawDate": "2026-09-19T01:37:08.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

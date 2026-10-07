@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-10-07T04:38:33.224Z",
+  "fetchedAt": "2026-10-07T18:31:14.664Z",
   "alerts": [
+    {
+      "id": "alert-local-71933626d0e5",
+      "title": "Three pillars of defense against scams",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVNSb1d1cWVnbXV2SzRTdkQ5QWNlcWIxNmp6YkpnRzgtTVJ2djA2LW1Rb2RfcmN0OE4zNGFOYzlRSnEzbUZXZmtIM1gzYTBEaFlvUTNUaU1ickZ5RG5MZmFqNHByQnBpLUU0NVBzTjdSY2FDdlV2NHFKVDVMN0swNtIBhgFBVV95cUxObUlqSGtMekFzcFB5dm5ER0pyN21nTWRzMm5wODVqSUhMSHRQSno1Vkl3a2duNU5ma2E0NUh1NkVUM2xuOGNPcjExa2x6ZmI1eUR0dXNKSkFZTHRpTDF6V0xEZzJzTWlkLWgwRkZickd3Z3NCYUxjNlF2SUJSZ2ZaeFlJeXhVdw?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 7, 2026",
+      "rawDate": "2026-10-07T18:12:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-7235b37ff491",
+      "title": "230 scam hub workers rescued by authorities",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUVNuWkxSNUhYXzVlc2txUUhzazdob1BiUDRhTjczMjBIbGJtUnVaZ2JYQlZvelk3V1JJN2hiOTl5Wjl2ZVU0c25oczkwYXBFT2FhTHZYQ0Uxc2VZbnYyaXZtRHFuMzh5VHlpTEZmNXA1U1dZNlRXTmR4a1JFSEwxVEFhUXY0VUhQdHY2RkRaeVg5RjJuclZERXFvS0RMRTM0WmpPWlNjSExaaGloWGfSAbMBQVVfeXFMTkpkZkx3aTltc3FTOC1aOGxyUUJWdF9VSkZOV281dFJTTDBOLUJSSldoNm5kbnc1dzBNNVhEMHUxb1FLVFFpTkZmaXF6cFNFWXM0ZVBZd1RrQjJheF9WcTFUSThnSFJlZWNiYkx6MHREVEdjTDhrSzBNUmMybEhDUFNhYjE3ZWpTdHF5X0oyTmNQRnV3THdkTWFKZklJZnJwWnpxZGFsaTB5NVNWMWpnWGZCaG8?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 7, 2026",
+      "rawDate": "2026-10-07T14:50:35.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-6745caf76e92",
       "title": "Stay alert online: Join anti-scam community forum in Laguna",
@@ -11,7 +39,21 @@
       "category": "general",
       "severity": "high",
       "date": "October 7, 2026",
-      "rawDate": "2026-10-07T01:19:50.000Z",
+      "rawDate": "2026-10-07T12:59:13.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-46080593e3fd",
+      "title": "Underground AI cybercrime tools surge in 2026",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeTJMOEtkalM4Y1V1VEtCTUc3TWVDbDhFWDAtSGVEcGRvdjk4ZVRMY0M2dXlRT3ltV3RYT3N5cVk3MVlNTmJKcW9KUU9HbGdTMC1RcDFHNWxkUXk5Ui1uZjA4R2pHcC1zeVlZV2FOQ3VObl9rMTNGRnpWMFUxOFNMTjlfMHVtRkR4ckNZeG5XWFdSR0ZXdmRFaHlNUnhnOUlH?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 7, 2026",
+      "rawDate": "2026-10-07T09:22:16.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -128,46 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-f3e49dffd4ad",
-      "title": "NBI arrests over 120 Chinese nationals in alleged 'lust scam' operation in Makati City",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRUVWemh0dU1VTU14dW5Nd3Uyb3QzR1dwRURsV2ZBN0VfR0tEakRuRVVXek0zRlQ1SDNidGtUVzdHd3JYWm14MUY3ZzhnTVdrVHhjSDl3UzBob3RXZ2gtUURwVnpxZExIWnBaX1ZlaDBaemY4eVRzZ1k2dzhoNDNlUW1wNjRxMHJ3SmR2Rm03bll5cFZZd1hmSS1IOVpKLWhEaExrZU5JUVVqVFF4b1B1dFVJVjFIRVAxb1F1dQ?oc=5",
-      "source": "abs-cbn.com",
-      "sourceLabel": "abs-cbn.com",
+      "id": "alert-international-79fcaee76dae",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
-      "category": "general",
+      "category": "malware",
       "severity": "medium",
-      "date": "September 30, 2026",
-      "rawDate": "2026-09-30T15:34:34.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-1b0bcd2de609",
-      "title": "NBI nabs 120 suspects in POGO-like love scam operation",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVk1ZRXhiSTczV2Q4NVN6cG9fSTZfQ3JDa0RoY3lfSjJKTktfdVpxeHNnUWF0MURvcDdPX0kzakhUVEdENjVFTHYzMmZzWGEzSi1rbG9ocnc4Vm1HU1V4Znp4YUs0M1dfTTdKSlJQX1FOQTZ5MzVIRlNGdmh6REtJQ3NHVWo2M2I3YnFlUXJFZTRnZklaM3lfOVU5anZrdVY2cjBkTk5jVDRZbGZoMTNzVHdfWVREX3BWMHfSAb8BQVVfeXFMTmZWQzFsWG93c00xQU95dWpZVVVDSl9CQWl5ZkFuRTRFcGgxZFhuU3FjNHVTQXduVTdOLXNiRUctLURmcTBrR1hlVy1uY2VsNlpacUs4YVI4WFo3M0JqM1R1dkE0OGdGMnZ6bTFqUmZ4Yko5VXE0bS1kVjNWZWFwUHIxWVVaUXNpTHJmdE1SYUl3T0J0TWd6Z1BqQ0I1dTNnbTJOcmU1ek8zRURtSW5SWkxNeUhOT0wxNmppeWRIcGc?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "romance",
-      "severity": "medium",
-      "date": "September 30, 2026",
-      "rawDate": "2026-09-30T11:36:50.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-b61fc4d05331",
-      "title": "online casino philippines gcash free",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WRWw4LTF4MVF3T21mbUpRMkxxWHRBNHh6YXhWbWlTRmpERGRYc2U2bFRxdzBVOVQtQ0tUcnNHV3NvWjREeXZ3WktTS1dlbTNiaXlIWFZUU0djbmRxUjU0dlFhX3pTZk1pend5WTdtVVVKQnFtVE5B?oc=5",
-      "source": "pna.gov.ph",
-      "sourceLabel": "pna.gov.ph",
-      "sourceLogo": "newspaper",
-      "category": "ewallet",
-      "severity": "medium",
-      "date": "September 27, 2026",
-      "rawDate": "2026-09-27T23:38:56.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.pna.gov.ph.ico",
-      "scope": "local"
+      "date": "October 7, 2026",
+      "rawDate": "2026-10-07T13:48:45.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-156853327341",
@@ -321,20 +335,6 @@
       "date": "September 20, 2026",
       "rawDate": "2026-09-20T06:00:07.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-f3f8ddbb3a5e",
-      "title": "Deerfield school district investigating phishing email",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPclZMOU9NamF0MFpZUUZKZnFyM0NnakF5bXM3bERCRURPeHZpc0FEYV9KdFFaWXFTbFNFcXNRXzFLMkNGamJtdjJYTk14aEYtNURNUnYzVExob3lQNURXNG5UbDM2bDhKamFqRldrcUQtVzA2ck0wWTdpVkc2dDFDY2Fn?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "September 19, 2026",
-      "rawDate": "2026-09-19T18:47:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

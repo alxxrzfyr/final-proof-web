@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-08T04:49:15.417Z",
+  "fetchedAt": "2026-10-08T18:30:00.428Z",
   "alerts": [
+    {
+      "id": "alert-local-e5c31196ff7a",
+      "title": "PMAP x ADP: CYBER-READY HR: Building Resilience Against Data Breaches, Phishing & Third-Party Risks",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13MVdUd3MwMC1BX3hTNEZsUHQ1MklfT04teW1sYXYwV2lYTUo1bWdDWGt3MWo2REFWMDBPWWhmQXU0dXdYT2g1TGVXQXU5dmxoVGJFYnRranQ2eHc?oc=5",
+      "source": "People Management Association of the Philippines",
+      "sourceLabel": "People Management Association of the Philippines",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "medium",
+      "date": "October 8, 2026",
+      "rawDate": "2026-10-08T12:20:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/pmap.org.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-71933626d0e5",
       "title": "Three pillars of defense against scams",
@@ -153,20 +167,6 @@
       "date": "October 2, 2026",
       "rawDate": "2026-10-02T01:16:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-b83062e4b5b6",
-      "title": "Over 120 Chinese involved in ‘lust scam’ nabbed in Makati",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORDMwNzVBemZmWWZOdzVLS05Rd1dlQ0tQTnlocVdMSk1sY3c2MDM5YUZlcFN1RTBhdFJEc0t3QUt6czhQZkNRNmpTR0tMLTdMZ0dpY1A3NHB5Z1VFcERfZkdqRGJxeWgzcWNvUDcyRHRab2pMb3pla1pYdXBWLUUwdFY2Y2hCVlJBX0dCV2RyX3FNenRwcVhqVlhuMEnSAaIBQVVfeXFMTnp0MkxNdFliMWxOQlpneVp3a0paWXVIbmhOaVVOVVN2T0lQdjc2RXhkUldzNEJRbGtfMVkyeVl4U0hyVlNpNHNUbHJQVWFPbzhlXy11ckprcHNjTTVEVXJqMTZZWlhZb25FR1RfV3RVVTVqeFlCc3NBTHRrRWNkMXhXTEJTZDQzamhRUTE0VHlwNm5RdHNEWHJrempXM1ZoYlhB?oc=5",
-      "source": "globalnation.inquirer.net",
-      "sourceLabel": "globalnation.inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "September 30, 2026",
-      "rawDate": "2026-09-30T17:17:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
       "scope": "local"
     },
     {

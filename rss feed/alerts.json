@@ -1,17 +1,17 @@
 {
-  "fetchedAt": "2026-10-07T18:31:14.664Z",
+  "fetchedAt": "2026-10-08T04:49:15.417Z",
   "alerts": [
     {
       "id": "alert-local-71933626d0e5",
       "title": "Three pillars of defense against scams",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVNSb1d1cWVnbXV2SzRTdkQ5QWNlcWIxNmp6YkpnRzgtTVJ2djA2LW1Rb2RfcmN0OE4zNGFOYzlRSnEzbUZXZmtIM1gzYTBEaFlvUTNUaU1ickZ5RG5MZmFqNHByQnBpLUU0NVBzTjdSY2FDdlV2NHFKVDVMN0swNtIBhgFBVV95cUxObUlqSGtMekFzcFB5dm5ER0pyN21nTWRzMm5wODVqSUhMSHRQSno1Vkl3a2duNU5ma2E0NUh1NkVUM2xuOGNPcjExa2x6ZmI1eUR0dXNKSkFZTHRpTDF6V0xEZzJzTWlkLWgwRkZickd3Z3NCYUxjNlF2SUJSZ2ZaeFlJeXhVdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObUlqSGtMekFzcFB5dm5ER0pyN21nTWRzMm5wODVqSUhMSHRQSno1Vkl3a2duNU5ma2E0NUh1NkVUM2xuOGNPcjExa2x6ZmI1eUR0dXNKSkFZTHRpTDF6V0xEZzJzTWlkLWgwRkZickd3Z3NCYUxjNlF2SUJSZ2ZaeFlJeXhVd9IBhgFBVV95cUxObUlqSGtMekFzcFB5dm5ER0pyN21nTWRzMm5wODVqSUhMSHRQSno1Vkl3a2duNU5ma2E0NUh1NkVUM2xuOGNPcjExa2x6ZmI1eUR0dXNKSkFZTHRpTDF6V0xEZzJzTWlkLWgwRkZickd3Z3NCYUxjNlF2SUJSZ2ZaeFlJeXhVdw?oc=5",
       "source": "Inquirer.net",
       "sourceLabel": "Inquirer.net",
       "sourceLogo": "newspaper",
       "category": "general",
       "severity": "medium",
       "date": "October 7, 2026",
-      "rawDate": "2026-10-07T18:12:00.000Z",
+      "rawDate": "2026-10-07T18:18:52.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
       "scope": "local"
     },
@@ -176,7 +176,7 @@
       "source": "Krebs on Security",
       "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
-      "category": "malware",
+      "category": "general",
       "severity": "medium",
       "date": "October 7, 2026",
       "rawDate": "2026-10-07T13:48:45.000Z",

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-08T18:30:00.428Z",
+  "fetchedAt": "2026-10-09T04:52:21.614Z",
   "alerts": [
+    {
+      "id": "alert-local-fa44acfd487c",
+      "title": "The FBI has seized tools used by Chinese hackers for cyber operations, officials say",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaEVSY25DaEJPTWxlR3Y4MXk0WUNBTVZ1QkJKajdudXRNUTBDbVJXVlFtX2dqLTdIZGw1b1cyUDFGRVZZQWpGWlVYbVFTYVlxa1lHOVdTc1RlejRPbkNYTGE5em0zakJsM1c3Z3NUMmwxTHpmdHMzZ3lJMnIwd2lpV1ZHampwTy1uZGs2dkwyNUdhYkNmUXhVblAxSlFXT0VNSjQtcUNRWkRIWlMtclF6cGNR?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 9, 2026",
+      "rawDate": "2026-10-09T00:44:14.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-e5c31196ff7a",
       "title": "PMAP x ADP: CYBER-READY HR: Building Resilience Against Data Breaches, Phishing & Third-Party Risks",
@@ -153,20 +167,6 @@
       "date": "October 2, 2026",
       "rawDate": "2026-10-02T11:58:16.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-cf6c2ebd66d8",
-      "title": "Whoscall launches 'Di Lahat Dinededma' campaign to empower Filipinos to avoid scams without missing important calls",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdWNaOWMxRzlsUmJVbjh2a1hWZFhKVFFiWmZ1Q2pIMEd0clNZWXNKbDNmZXhoRFNraHlDdmN5aDl5cVdaWEFTWlo0NEJNR3Jnbk00YkNwRjRIRjRGMjFhOGtDTUxtaGg2ZWF5cWVGaE13bWhpOE5VSWd3Z0VoZHVxVDhOZjNDVWNsd2hjRUVULTM5RTAweVZWcV9zbnpUcU1tWDlqdVhKLVdhU2lta3BxdDQ1d2RHQ0NMNFJ2Vi1sZHRQblVQd2ZDSjNCQ1E1eVpGaEtZOERNWVF4X0lGMnZHSHVRXzNpTUpkNHV5d0QxeDB5ZTJHbG9nQzMxZkx5NkFON2UyLXAzSVZsZjQw0gGTAkFVX3lxTFB6cDhOMHlYUzhXbTlkZGRQOUNLU3JucHl1ODA2clA2YXVQc3lCZ3dsdHU4cTJ1OXhyUWg5bUpoMjNtSlUwT1JXQldMSkFpeWROZElIbHZWTVUzZVJ6azBheHBSVWQyWm9FaS13bGQyUjkwQXU4ajZERmZiN3NkOTJ0dTVSdGhpUnZ0NjFScndKb0NRaENuWHRZTGFZVFlYcURDVkpOdzBZd2g3YlZLa0toNHZsOEh4THhkbWJkWVNTYlJQUy1ZTEFFc3lkaHNWanBFN2haQTFfVVg5YlFCUng1RUlGZHRjTHU1dmpHcGpGSnVXdjQxb052b2JWczhIVVhtcUZIOG5FazAyWjBQLWwzcWRN?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 2, 2026",
-      "rawDate": "2026-10-02T01:16:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {

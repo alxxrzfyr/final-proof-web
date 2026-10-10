@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-09T18:01:42.838Z",
+  "fetchedAt": "2026-10-10T04:37:35.394Z",
   "alerts": [
+    {
+      "id": "alert-local-9404a31bfa05",
+      "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNWdocGJWRkFHUmJrR05TWU5tcXBZQktQMUZqc2lpNDJ1c29sUWMyRFY2VnFTbVM0UzQ0VVQ0RGZxV2NSZzF0Wlp0ckVsVk1JT1pseHRTb3pReU15OHNuaE44NTUzcWhEX0Rqcmg1aXdVSUducVNPbkZhbVFTa1F6R1BNUGJQdTJmY3RJOWMtcTVVenE3UHBmakdZOVpVTkxrYU9WMHZhc2RwSEtkb3JtRGdTSGNrQzU1ME5oNGo0ZjFUc2xYR2hhaE4zVVZtSFN1MmhB0gHYAUFVX3lxTE9GaHFHMUNaMEt0UTVkY1VpeXFXRTlxTTVxNy1DV1o4N056TTVBbkMzRnRodHlWZkdEeDhrRGZ0eENSWjQ5Z2RJQ3RrWk1vX1d5eUVSUlJVNG4za0l6WWhuazZ1TTFRY0RLTzhHemVxWWZvX1RJT1ozanpQX0FoUDlwZ1M3aVA5ekZRNkMyc19kS2JoUzU1TFZTT3ZIc3o2ZDBfSHBVQ3BheVdJNlZ2RkFYX2xPMDVhMHp5SlZEUFY5VW5kNE1paHMyVGdTbDQtV1Zxdzd5X2F1Qw?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 9, 2026",
+      "rawDate": "2026-10-09T20:58:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-fa44acfd487c",
       "title": "The FBI has seized tools used by Chinese hackers for cyber operations, officials say",
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-30a09cedea01",
-      "title": "FALSE: Vice Ganda endorses bitcoin product",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
+      "id": "alert-international-abaf23826797",
+      "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
-      "category": "investment",
+      "category": "malware",
       "severity": "medium",
-      "date": "October 4, 2026",
-      "rawDate": "2026-10-04T09:57:31.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
+      "date": "October 10, 2026",
+      "rawDate": "2026-10-10T00:17:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-79fcaee76dae",
@@ -321,20 +335,6 @@
       "date": "September 22, 2026",
       "rawDate": "2026-09-22T10:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-84ac9b068434",
-      "title": "Reαd carefully: how to spot – and avoid – a homoglyph attack",
-      "url": "https://www.theguardian.com/money/2026/sep/20/how-to-spot-avoid-homoglyph-attack-scam",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "September 20, 2026",
-      "rawDate": "2026-09-20T06:00:07.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

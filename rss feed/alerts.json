@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T04:37:35.394Z",
+  "fetchedAt": "2026-10-10T17:02:03.141Z",
   "alerts": [
     {
       "id": "alert-local-9404a31bfa05",
@@ -184,6 +184,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-83f5aaf088ac",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 10, 2026",
+      "rawDate": "2026-10-10T00:17:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-79fcaee76dae",
       "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
       "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
@@ -321,20 +335,6 @@
       "date": "September 23, 2026",
       "rawDate": "2026-09-23T21:33:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-7985503cba2b",
-      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZk9wZGl4dnNuMWFFdWxoRkVtRy1xdDk1VnVjeXA1TUdxQ0FsMXZaTmVwcjVMT1dxVlkzbHlQZWNSOEpCU3RQQ2xMZVkzSFNYMWtRVDdUQjVDUzVvVnFqaGp3OTZseUtFbHNQQUFQWllRUWRKNjRVR0tzRDFuUDlhSlpBVmJOODNCM2ZJNUxHbGdVenh0cE1HblJxYmlHNDFmYXctalhRdVRvSE4ybEE?oc=5",
-      "source": "WIRED",
-      "sourceLabel": "WIRED",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "September 22, 2026",
-      "rawDate": "2026-09-22T10:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
       "scope": "international"
     }
   ]

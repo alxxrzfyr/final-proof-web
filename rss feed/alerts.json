@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-10T17:02:03.141Z",
+  "fetchedAt": "2026-10-11T04:22:35.922Z",
   "alerts": [
     {
       "id": "alert-local-9404a31bfa05",
@@ -13,6 +13,20 @@
       "date": "October 9, 2026",
       "rawDate": "2026-10-09T20:58:08.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-b20c297456fe",
+      "title": "Filipinos lost P121.8 billion to scams in one year, with e-wallets the top payment channel",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeF96UU5KUmUxOUhyWVZHcUdhek5PNGFvRGxEbVRVeDRhMy1HXzFOMU5TY3BsWmNjX2RrRnRYUkh4bDlkNUZfeTM5bDJ0M25VeWZSQ20wVEpGOWh4WllXTHNLY2ZpVVMwRl9DRWwwVVhkWm5WMWZvQXk0WlE3RWFnaXRR?oc=5",
+      "source": "astig.ph",
+      "sourceLabel": "astig.ph",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 9, 2026",
+      "rawDate": "2026-10-09T16:35:04.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "October 5, 2026",
       "rawDate": "2026-10-05T07:26:38.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-f5a351d01225",
-      "title": "After credit card hack, Gatchalian urges Senate probe into rise of payment fraud",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTU04ZzF1dGVjNVlfSGV2S1MtcFltMjhxUW11T09fakcwV2hjZWhHdjVWWkhVR2N3RlhwU2FwaUUtUWlUcm5ORlhVTVBPTmFOWmJsdjZwYjVvVWhFbnkyOFlIWmxVa19adnlxQ29xeWE2S2FzNXB0dzNsWWJGRU92Z0pZenNYM3lrTjhwUnl1cHN2d0tzTWVITUdYclhSR1VuZVl6SmdvUzVUREZBeXJpVWFFNA?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "ewallet",
-      "severity": "high",
-      "date": "October 4, 2026",
-      "rawDate": "2026-10-04T09:57:31.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {

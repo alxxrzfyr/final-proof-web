@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T04:22:35.922Z",
+  "fetchedAt": "2026-10-11T17:25:34.712Z",
   "alerts": [
     {
       "id": "alert-local-9404a31bfa05",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-185b276bcffd",
+      "title": "‘You have a meeting’: the calendar phishing scam growing exponentially",
+      "url": "https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "medium",
+      "date": "October 11, 2026",
+      "rawDate": "2026-10-11T06:00:18.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-abaf23826797",
       "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
@@ -321,20 +335,6 @@
       "date": "September 25, 2026",
       "rawDate": "2026-09-25T11:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-c90c0d113f8a",
-      "title": "Scammers impersonating MyChart to steal personal information, install malware",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR0VMbF8wU0hPVmVOcFlqX0cxcmVqcFlGV3VhRXpfcGFBci1mOGFweVJzSXJjRDBmVkpCcXY1QkttZVF2QlZjb2luMUdQVTh6RjJmQ21TT2VkaUhHOHBPOU1BaTQ2MjhXYWNSTDZSYWs2SnhVSTV1UnFDSktnY0s3VlVPRWVQOG1hOFZ3MXZQN1pLZEZOSHpUcjZtMzJCeFZkNE9paXB2bFRiaWkwOUhBeWd5Qk0?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "impersonation",
-      "severity": "medium",
-      "date": "September 23, 2026",
-      "rawDate": "2026-09-23T21:33:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

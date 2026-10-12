@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-11T17:25:34.712Z",
+  "fetchedAt": "2026-10-12T04:38:40.673Z",
   "alerts": [
     {
       "id": "alert-local-9404a31bfa05",
@@ -176,7 +176,7 @@
       "source": "The Guardian (Scams)",
       "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
-      "category": "ewallet",
+      "category": "phishing",
       "severity": "medium",
       "date": "October 11, 2026",
       "rawDate": "2026-10-11T06:00:18.000Z",

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-12T04:38:40.673Z",
+  "fetchedAt": "2026-10-12T20:58:48.699Z",
   "alerts": [
     {
       "id": "alert-local-9404a31bfa05",
@@ -184,6 +184,20 @@
       "scope": "international"
     },
     {
+      "id": "alert-international-91eccf3a2061",
+      "title": "Canadian ransomware negotiator arrested amid FBI hacker crackdown",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcERTdzZuVGZ3R1NXOE1IbEpneTR1dEZaNzZwM3p1NXlrbkMxZjl6Q3lNVS1ybTY3THlTSkt3SnRQbndfalJSUkt5M1c2Tm9sb0ticnZ3b3dfNHd4N0g2emp0Qmh2SzNlWjJoX1VQRHV3NEpxTnFVYnNkOGdHbVVPS081ZVRFOUNpdGlJYy1PTnNlQkctbWlzcHdOeHhtRVh5UlRiSzRrRmpqem43MzRUS0NuamVLa0FXQWc?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 11, 2026",
+      "rawDate": "2026-10-11T02:14:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-abaf23826797",
       "title": "FBI Arrests Founder of Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
@@ -321,20 +335,6 @@
       "date": "September 25, 2026",
       "rawDate": "2026-09-25T21:44:40.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-e8bb9fe3cd6c",
-      "title": "Party Invite Phishing Scams Are the New Missed Connections",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUlocDRhNzlxNkhGV05qcUhkWjk0NUNqZ2JhRTJTYXc5QVpoVjE0UGliWTVnRkIxSGVJdzlEWTMyVVN3dzNZZTVMZHJsUWtxeHZiZnd5Wm04bE1aT01ib0xaUGlHSktuRjZKZTVvYlpmaW96cVNYQkZIeFgyWl9RN2hWd0RZNHBFMDcySGFmaWk?oc=5",
-      "source": "WIRED",
-      "sourceLabel": "WIRED",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "September 25, 2026",
-      "rawDate": "2026-09-25T11:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
       "scope": "international"
     }
   ]

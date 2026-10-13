@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-13T05:44:11.753Z",
+  "fetchedAt": "2026-10-13T18:57:03.687Z",
   "alerts": [
+    {
+      "id": "alert-local-864b08e82169",
+      "title": "Sunsetting the OTP in favor of silent security",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa0pPNzZLc3dHdzJKdV9LM2pkY1U3dEVwd2tSdDNCbUtldWpIQ0xSakFGcVhFM3JrRURtSVpfNnVGQnVCN2hPcl9xUmlsbWRFWThiQ3FBdF92YUtWNGxhOG5zaVlpeHdFcWREa0x1VFJPbWV1ZzBaLXVablZyV0VNNGtyY2lRdkxUUUR0WnlB0gGTAUFVX3lxTE11b3VYTlVUSWYzOHRoRDRRM3pOaFM3ZTYxNTd0VVNnZFpFS3lLNTZXTmdTS1hqYWRpU3c0NGE3QllGTF9XZldzY3FsSGxhM284aG5OV1o2Y3MwZ1ZTSlRJUlB2QlFMYkNYTkhicjBwczZTNEVEbUFuNDlpR3V2UWR1XzVhN3g4MVJfZHpWbUU0ci1BMA?oc=5",
+      "source": "Inquirer Technology",
+      "sourceLabel": "Inquirer Technology",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "medium",
+      "date": "October 13, 2026",
+      "rawDate": "2026-10-13T09:07:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/technology.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-2ac0e7639083",
       "title": "Scam or legit? Banks launch checker website, Google-backed game to learn",
@@ -11,7 +25,7 @@
       "category": "ewallet",
       "severity": "medium",
       "date": "October 13, 2026",
-      "rawDate": "2026-10-13T00:18:44.000Z",
+      "rawDate": "2026-10-13T08:35:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -153,20 +167,6 @@
       "date": "October 5, 2026",
       "rawDate": "2026-10-05T15:33:36.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/unbox.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-88b289872941",
-      "title": "POGO as troll farm? NBI probes raided Zamboanga Sibugay sites",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUYtRC1CdllKOHI5Qzk2MlprVVp5QVlUdGZla1FUalJaWFczaGlxNFFkWGUtcm5BUkdla3VaQ3lUMkxQRDZfUENIT0M3SEZrd3FiMDJxMVZvaTNfUGNzQUUtdC1vUjY1WGFUTHlObXlWUERKb3YtckNQUXoyZ1BjSEJnM0ZEUnY0MzR5Zl9WLWdiWHVuX2NXTGtsZUgxTVBaek15N1ZUYjJQVkZBMWM5QdIBtwFBVV95cUxQLURKUTZCbUc5SURRT05kWGJ0MkFtT0lnTXpNc21LSy1ROFBMQjZSLVQyRHRqeWNnd1FfUExhQ3NjeU56MWNSQjJBQkVuSWhrNWhjRE50d2hCTnJQdXBCeFNNZWVvV2hSSUxrcjVLczhMenVycjN6WFlxcC1zVFZ2ZUhOaERKalgxa3NZQlJlYTBlQm1zZ2diUmRmWmVHWGZ3YUIzZGtQUkNFTUtsUGtTZFdjWTZFMTA?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 5, 2026",
-      "rawDate": "2026-10-05T08:06:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {

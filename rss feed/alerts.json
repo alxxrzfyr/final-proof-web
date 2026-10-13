@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-12T20:58:48.699Z",
+  "fetchedAt": "2026-10-13T05:44:11.753Z",
   "alerts": [
+    {
+      "id": "alert-local-2ac0e7639083",
+      "title": "Scam or legit? Banks launch checker website, Google-backed game to learn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUVlRmUwZXhHcWllOEZSQjdWRVJkaFhMWUN3cVhrb1llV1VQR2hxS0FUcWxJRklvc0Q0UUprODE5aTNnUi1pYnEzdDJxaWV1VjhYNEpUTE80U2hPV2xtODdqRjZDQW9kUndMR0FwaDNZamhkTVl4d2xQa0RVVHJCUEQ5aXZXUQ?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "medium",
+      "date": "October 13, 2026",
+      "rawDate": "2026-10-13T00:18:44.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-9404a31bfa05",
       "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
@@ -153,20 +167,6 @@
       "date": "October 5, 2026",
       "rawDate": "2026-10-05T08:06:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-3e3b0e69b8e9",
-      "title": "Cops tasked to step up intel drive vs POGO, online scams after Zambo Sibugay, Makati raids",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLUpQSTBJMHcyUXZHNFhZTEMzLUllZXdxYk5lMVZIR2ZBZEVPTWF0RVgzR2NscWVpSUZrLUJ1eUVJcXM1OVJrUWpXY0RwN3cwb0JLUWwzd2x0MkM5d0tGeGh4ZHQwYkdTZmMwZ1FfTXlSdnFZUHF4Yzh0SGFjd2ZpZmVURU1hQks0SWdOTjduUGtwYTg1b2o2aUdPN1EtWmh1dXBJS3NxZGtUYkU5aDFSX25PX2V1UVBq?oc=5",
-      "source": "mb.com.ph",
-      "sourceLabel": "mb.com.ph",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 5, 2026",
-      "rawDate": "2026-10-05T07:26:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
       "scope": "local"
     },
     {

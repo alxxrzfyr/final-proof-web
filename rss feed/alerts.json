@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-13T18:57:03.687Z",
+  "fetchedAt": "2026-10-14T03:47:36.478Z",
   "alerts": [
+    {
+      "id": "alert-local-2ac0e7639083",
+      "title": "Scam or legit? Banks launch checker website, Google-backed game to learn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUVlRmUwZXhHcWllOEZSQjdWRVJkaFhMWUN3cVhrb1llV1VQR2hxS0FUcWxJRklvc0Q0UUprODE5aTNnUi1pYnEzdDJxaWV1VjhYNEpUTE80U2hPV2xtODdqRjZDQW9kUndMR0FwaDNZamhkTVl4d2xQa0RVVHJCUEQ5aXZXUQ?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "medium",
+      "date": "October 13, 2026",
+      "rawDate": "2026-10-13T23:52:16.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-864b08e82169",
       "title": "Sunsetting the OTP in favor of silent security",
@@ -13,20 +27,6 @@
       "date": "October 13, 2026",
       "rawDate": "2026-10-13T09:07:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/technology.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-2ac0e7639083",
-      "title": "Scam or legit? Banks launch checker website, Google-backed game to learn",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUVlRmUwZXhHcWllOEZSQjdWRVJkaFhMWUN3cVhrb1llV1VQR2hxS0FUcWxJRklvc0Q0UUprODE5aTNnUi1pYnEzdDJxaWV1VjhYNEpUTE80U2hPV2xtODdqRjZDQW9kUndMR0FwaDNZamhkTVl4d2xQa0RVVHJCUEQ5aXZXUQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "ewallet",
-      "severity": "medium",
-      "date": "October 13, 2026",
-      "rawDate": "2026-10-13T08:35:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {

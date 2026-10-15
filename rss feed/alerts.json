@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-14T16:40:18.889Z",
+  "fetchedAt": "2026-10-15T03:29:22.895Z",
   "alerts": [
+    {
+      "id": "alert-local-570d69b4e445",
+      "title": "solowin casino for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14Wnk3Ml9sVi1MN0dpMmVweEYzOEZCOVdkNnVkLWZzQXo0dkpIS2pGTDN0UEQxMlY2QWNNbWswNHd5djBSemNFTVRZX2xQTWxsN25ZY1V1UkZpVjAtNEpUbmctTQ?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 14, 2026",
+      "rawDate": "2026-10-14T23:39:35.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-8b982e975113",
       "title": "BOC warns anew vs love scams: Over 700 complaints since January",
@@ -16,6 +30,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-2ac0e7639083",
+      "title": "Scam or legit? Banks launch checker website, Google-backed game to learn",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUVlRmUwZXhHcWllOEZSQjdWRVJkaFhMWUN3cVhrb1llV1VQR2hxS0FUcWxJRklvc0Q0UUprODE5aTNnUi1pYnEzdDJxaWV1VjhYNEpUTE80U2hPV2xtODdqRjZDQW9kUndMR0FwaDNZamhkTVl4d2xQa0RVVHJCUEQ5aXZXUQ?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "medium",
+      "date": "October 14, 2026",
+      "rawDate": "2026-10-14T07:57:21.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-cd28f0ed53a3",
       "title": "‘Napatawad ko na’: Scam victims move on and leave fraud cases hanging",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2xXcEloTTFLSVZJdUJTYzVZOHpPWnZLZjEtQ2RzZHpvTmlpczdfenNKbWRzQWE1VmZraDcwWnpJbHVJeFRqRVhqUE4wWVp5LTV1YmFibmE2SkFQMkNZb1E0TVRnWkJUWGN3N2p0eDhKeWRfOGRxZ0xoWTEwWlBBM2JyUlR3U1h5QmhtNFIwdVEzQQ?oc=5",
@@ -26,20 +54,6 @@
       "severity": "medium",
       "date": "October 14, 2026",
       "rawDate": "2026-10-14T07:00:20.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-2ac0e7639083",
-      "title": "Scam or legit? Banks launch checker website, Google-backed game to learn",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUVlRmUwZXhHcWllOEZSQjdWRVJkaFhMWUN3cVhrb1llV1VQR2hxS0FUcWxJRklvc0Q0UUprODE5aTNnUi1pYnEzdDJxaWV1VjhYNEpUTE80U2hPV2xtODdqRjZDQW9kUndMR0FwaDNZamhkTVl4d2xQa0RVVHJCUEQ5aXZXUQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "ewallet",
-      "severity": "medium",
-      "date": "October 13, 2026",
-      "rawDate": "2026-10-13T23:52:16.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -156,27 +170,13 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-7235b37ff491",
-      "title": "230 scam hub workers rescued by authorities",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUVNuWkxSNUhYXzVlc2txUUhzazdob1BiUDRhTjczMjBIbGJtUnVaZ2JYQlZvelk3V1JJN2hiOTl5Wjl2ZVU0c25oczkwYXBFT2FhTHZYQ0Uxc2VZbnYyaXZtRHFuMzh5VHlpTEZmNXA1U1dZNlRXTmR4a1JFSEwxVEFhUXY0VUhQdHY2RkRaeVg5RjJuclZERXFvS0RMRTM0WmpPWlNjSExaaGloWGfSAbMBQVVfeXFMTkpkZkx3aTltc3FTOC1aOGxyUUJWdF9VSkZOV281dFJTTDBOLUJSSldoNm5kbnc1dzBNNVhEMHUxb1FLVFFpTkZmaXF6cFNFWXM0ZVBZd1RrQjJheF9WcTFUSThnSFJlZWNiYkx6MHREVEdjTDhrSzBNUmMybEhDUFNhYjE3ZWpTdHF5X0oyTmNQRnV3THdkTWFKZklJZnJwWnpxZGFsaTB5NVNWMWpnWGZCaG8?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 7, 2026",
-      "rawDate": "2026-10-07T14:50:35.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-1e4194e2584d",
       "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
       "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
       "source": "Krebs on Security",
       "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
-      "category": "malware",
+      "category": "general",
       "severity": "medium",
       "date": "October 14, 2026",
       "rawDate": "2026-10-14T14:22:49.000Z",

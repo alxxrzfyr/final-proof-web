@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-10-15T16:25:24.347Z",
+  "fetchedAt": "2026-10-16T16:10:59.087Z",
   "alerts": [
+    {
+      "id": "alert-local-d981b1a5bdc6",
+      "title": "baccarat live dealer for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3WmtOZGNQaVdVenhZYTJLdmF5dVVFUFJSV005M0dQRTlpZ3VqNUplXzlQcFJUU3RoVGRXbktqaU96anRXUWhqa3VPMlg0aDZVek9nUkFqdVVkWlpHUDNFTXJya2FrVGFDQm5Bb3hYZ3pkdkYy?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 16, 2026",
+      "rawDate": "2026-10-16T04:26:55.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-57ad705241b4",
+      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 16, 2026",
+      "rawDate": "2026-10-16T03:09:02.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-76c1a91b9239",
+      "title": "2 Koreans arrested for online fraud, extortion",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTzFYVzY0cFJ1RVhXZ1RqajQ4Q09DQkpEY0xla1d6ejBycUlacFVoM1l1czVLVXZQUF9IekJmS3g5VUJsTW9ZdzI4T29xZlV1c2pEb3N4UXQ0bTUxTzZBclhiYTZCbmxLQUFlaEQtSDF2U1FkSDlPX0xEOVZ5YzRfb0NtLVAtR0t4Mmg4?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 15, 2026",
+      "rawDate": "2026-10-15T20:52:11.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-e6639d1855e5",
       "title": "Fake proof of payments used in P1.4 million online selling scam",
@@ -25,21 +67,7 @@
       "category": "phishing",
       "severity": "medium",
       "date": "October 15, 2026",
-      "rawDate": "2026-10-15T08:18:06.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-57ad705241b4",
-      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 15, 2026",
-      "rawDate": "2026-10-15T05:25:59.000Z",
+      "rawDate": "2026-10-15T10:06:36.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-9404a31bfa05",
-      "title": "South Korea, Japan buffeted by hacks as AI lowers bar for cybercriminals",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNWdocGJWRkFHUmJrR05TWU5tcXBZQktQMUZqc2lpNDJ1c29sUWMyRFY2VnFTbVM0UzQ0VVQ0RGZxV2NSZzF0Wlp0ckVsVk1JT1pseHRTb3pReU15OHNuaE44NTUzcWhEX0Rqcmg1aXdVSUducVNPbkZhbVFTa1F6R1BNUGJQdTJmY3RJOWMtcTVVenE3UHBmakdZOVpVTkxrYU9WMHZhc2RwSEtkb3JtRGdTSGNrQzU1ME5oNGo0ZjFUc2xYR2hhaE4zVVZtSFN1MmhB0gHYAUFVX3lxTE9GaHFHMUNaMEt0UTVkY1VpeXFXRTlxTTVxNy1DV1o4N056TTVBbkMzRnRodHlWZkdEeDhrRGZ0eENSWjQ5Z2RJQ3RrWk1vX1d5eUVSUlJVNG4za0l6WWhuazZ1TTFRY0RLTzhHemVxWWZvX1RJT1ozanpQX0FoUDlwZ1M3aVA5ekZRNkMyc19kS2JoUzU1TFZTT3ZIc3o2ZDBfSHBVQ3BheVdJNlZ2RkFYX2xPMDVhMHp5SlZEUFY5VW5kNE1paHMyVGdTbDQtV1Zxdzd5X2F1Qw?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 9, 2026",
-      "rawDate": "2026-10-09T20:58:08.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-b20c297456fe",
-      "title": "Filipinos lost P121.8 billion to scams in one year, with e-wallets the top payment channel",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeF96UU5KUmUxOUhyWVZHcUdhek5PNGFvRGxEbVRVeDRhMy1HXzFOMU5TY3BsWmNjX2RrRnRYUkh4bDlkNUZfeTM5bDJ0M25VeWZSQ20wVEpGOWh4WllXTHNLY2ZpVVMwRl9DRWwwVVhkWm5WMWZvQXk0WlE3RWFnaXRR?oc=5",
-      "source": "astig.ph",
-      "sourceLabel": "astig.ph",
+      "id": "alert-international-2d2e67c2c23a",
+      "title": "Number of cloned number plates on UK roads at record high, data shows",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/16/cloned-number-plates-uk-roads-record-high",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "general",
       "severity": "medium",
-      "date": "October 9, 2026",
-      "rawDate": "2026-10-09T16:35:04.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
-      "scope": "local"
+      "date": "October 16, 2026",
+      "rawDate": "2026-10-16T04:00:52.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-1e4194e2584d",
@@ -321,20 +335,6 @@
       "date": "October 4, 2026",
       "rawDate": "2026-10-04T06:00:20.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1cf05864c561",
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "September 28, 2026",
-      "rawDate": "2026-09-28T15:08:57.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

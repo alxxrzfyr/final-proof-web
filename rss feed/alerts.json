@@ -1,18 +1,18 @@
 {
-  "fetchedAt": "2026-10-16T16:10:59.087Z",
+  "fetchedAt": "2026-10-17T03:15:20.609Z",
   "alerts": [
     {
-      "id": "alert-local-d981b1a5bdc6",
-      "title": "baccarat live dealer for Android - Bing Software Store",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3WmtOZGNQaVdVenhZYTJLdmF5dVVFUFJSV005M0dQRTlpZ3VqNUplXzlQcFJUU3RoVGRXbktqaU96anRXUWhqa3VPMlg0aDZVek9nUkFqdVVkWlpHUDNFTXJya2FrVGFDQm5Bb3hYZ3pkdkYy?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
+      "id": "alert-local-7838fde8dc1d",
+      "title": "Text scam knows your name? Here's how they likely got your data, says expert",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTJuXzc5emhUSjJfc2dNRXBqZGFIeGo0TXdmMXRRRy1nb0lvZXVVNTFMTlJTalhBU3lnTGtoV0lvY1BxUzlVenV5NzdZanBMWWE0T195V0JGSTFvTGVnYmVmT1l0U0tYeTBLcEdteldTWmNkLVNZcGhscDJwUE9hcDFqYWlVZUpEVDVMSWM0anhJZXpYby1aaQ?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
       "sourceLogo": "newspaper",
       "category": "general",
       "severity": "medium",
       "date": "October 16, 2026",
-      "rawDate": "2026-10-16T04:26:55.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
+      "rawDate": "2026-10-16T13:50:52.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -25,8 +25,22 @@
       "category": "malware",
       "severity": "medium",
       "date": "October 16, 2026",
-      "rawDate": "2026-10-16T03:09:02.000Z",
+      "rawDate": "2026-10-16T11:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-d981b1a5bdc6",
+      "title": "baccarat live dealer for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3WmtOZGNQaVdVenhZYTJLdmF5dVVFUFJSV005M0dQRTlpZ3VqNUplXzlQcFJUU3RoVGRXbktqaU96anRXUWhqa3VPMlg0aDZVek9nUkFqdVVkWlpHUDNFTXJya2FrVGFDQm5Bb3hYZ3pkdkYy?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 16, 2026",
+      "rawDate": "2026-10-16T04:26:55.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "October 13, 2026",
       "rawDate": "2026-10-13T09:07:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/technology.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-36307e9fa04f",
-      "title": "That official Microsoft email in your inbox might actually be a phishing scam",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzT0NVcHo1TE01NG0zZ093VFdtbGdVWGdfRzBaZUkzNzhyam9uM29kUnRKUEpvVFRZLTZFTjV3YU9DSU5kXzl1ZGdkZVAzaWZJaUkxY2dHRlc3T2dJMTZKczN5d3c4bUxhYlA0RVFLZw?oc=5",
-      "source": "astig.ph",
-      "sourceLabel": "astig.ph",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "October 13, 2026",
-      "rawDate": "2026-10-13T07:02:59.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
       "scope": "local"
     },
     {

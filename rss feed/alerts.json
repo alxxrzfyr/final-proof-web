@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-17T15:04:19.404Z",
+  "fetchedAt": "2026-10-18T03:19:39.850Z",
   "alerts": [
+    {
+      "id": "alert-local-cd28f0ed53a3",
+      "title": "‘Napatawad ko na’: Scam victims move on and leave fraud cases hanging",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2xXcEloTTFLSVZJdUJTYzVZOHpPWnZLZjEtQ2RzZHpvTmlpczdfenNKbWRzQWE1VmZraDcwWnpJbHVJeFRqRVhqUE4wWVp5LTV1YmFibmE2SkFQMkNZb1E0TVRnWkJUWGN3N2p0eDhKeWRfOGRxZ0xoWTEwWlBBM2JyUlR3U1h5QmhtNFIwdVEzQQ?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 17, 2026",
+      "rawDate": "2026-10-17T21:16:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-57ad705241b4",
       "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
@@ -124,20 +138,6 @@
       "severity": "medium",
       "date": "October 14, 2026",
       "rawDate": "2026-10-14T07:57:21.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-cd28f0ed53a3",
-      "title": "‘Napatawad ko na’: Scam victims move on and leave fraud cases hanging",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2xXcEloTTFLSVZJdUJTYzVZOHpPWnZLZjEtQ2RzZHpvTmlpczdfenNKbWRzQWE1VmZraDcwWnpJbHVJeFRqRVhqUE4wWVp5LTV1YmFibmE2SkFQMkNZb1E0TVRnWkJUWGN3N2p0eDhKeWRfOGRxZ0xoWTEwWlBBM2JyUlR3U1h5QmhtNFIwdVEzQQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 14, 2026",
-      "rawDate": "2026-10-14T07:00:20.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-18T03:19:39.850Z",
+  "fetchedAt": "2026-10-18T15:28:10.891Z",
   "alerts": [
+    {
+      "id": "alert-local-57ad705241b4",
+      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 18, 2026",
+      "rawDate": "2026-10-18T07:42:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-cd28f0ed53a3",
       "title": "‘Napatawad ko na’: Scam victims move on and leave fraud cases hanging",
@@ -16,17 +30,17 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-57ad705241b4",
-      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
+      "id": "alert-local-0046e187bf52",
+      "title": "baccarat simulator for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnb3ctZzhEOWNKdGlvR0xqR0duMnlqdTAzQmoxVDlwQlBJcWU0dlJTT3h6eDdQc0JFZ0xuWWNFTDgtS205R3lXQzctbzJLdmc4UGZCWTRXRF9QVEVJamFPd3d0QnVSVGxi?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
       "sourceLogo": "newspaper",
-      "category": "malware",
+      "category": "general",
       "severity": "medium",
       "date": "October 17, 2026",
-      "rawDate": "2026-10-17T02:30:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "rawDate": "2026-10-17T17:11:54.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
       "scope": "local"
     },
     {
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-864b08e82169",
-      "title": "Sunsetting the OTP in favor of silent security",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa0pPNzZLc3dHdzJKdV9LM2pkY1U3dEVwd2tSdDNCbUtldWpIQ0xSakFGcVhFM3JrRURtSVpfNnVGQnVCN2hPcl9xUmlsbWRFWThiQ3FBdF92YUtWNGxhOG5zaVlpeHdFcWREa0x1VFJPbWV1ZzBaLXVablZyV0VNNGtyY2lRdkxUUUR0WnlB0gGTAUFVX3lxTE11b3VYTlVUSWYzOHRoRDRRM3pOaFM3ZTYxNTd0VVNnZFpFS3lLNTZXTmdTS1hqYWRpU3c0NGE3QllGTF9XZldzY3FsSGxhM284aG5OV1o2Y3MwZ1ZTSlRJUlB2QlFMYkNYTkhicjBwczZTNEVEbUFuNDlpR3V2UWR1XzVhN3g4MVJfZHpWbUU0ci1BMA?oc=5",
-      "source": "Inquirer Technology",
-      "sourceLabel": "Inquirer Technology",
+      "id": "alert-international-0b7cb834da09",
+      "title": "£3,500 and no work done: the offer to help that’s really a roofing scam",
+      "url": "https://www.theguardian.com/money/2026/oct/18/suspected-roofing-frauds-top-citizens-advice-scam-list",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
-      "category": "phishing",
+      "category": "impersonation",
       "severity": "medium",
-      "date": "October 13, 2026",
-      "rawDate": "2026-10-13T09:07:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/technology.inquirer.net.ico",
-      "scope": "local"
+      "date": "October 18, 2026",
+      "rawDate": "2026-10-18T06:00:51.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-ae69cc7c5cbd",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "October 6, 2026",
       "rawDate": "2026-10-06T13:07:23.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-895e21cfe21c",
-      "title": "Money stolen by scammers hijacking UK social media accounts rises 400%",
-      "url": "https://www.theguardian.com/money/2026/oct/05/scammers-hijacking-uk-social-media-accounts",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 4, 2026",
-      "rawDate": "2026-10-04T23:01:40.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

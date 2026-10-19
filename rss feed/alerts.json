@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-18T15:28:10.891Z",
+  "fetchedAt": "2026-10-19T03:32:04.452Z",
   "alerts": [
+    {
+      "id": "alert-local-0046e187bf52",
+      "title": "baccarat simulator for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnb3ctZzhEOWNKdGlvR0xqR0duMnlqdTAzQmoxVDlwQlBJcWU0dlJTT3h6eDdQc0JFZ0xuWWNFTDgtS205R3lXQzctbzJLdmc4UGZCWTRXRF9QVEVJamFPd3d0QnVSVGxi?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 18, 2026",
+      "rawDate": "2026-10-18T20:36:53.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-57ad705241b4",
       "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
@@ -27,20 +41,6 @@
       "date": "October 17, 2026",
       "rawDate": "2026-10-17T21:16:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-0046e187bf52",
-      "title": "baccarat simulator for Android - Bing Software Store",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnb3ctZzhEOWNKdGlvR0xqR0duMnlqdTAzQmoxVDlwQlBJcWU0dlJTT3h6eDdQc0JFZ0xuWWNFTDgtS205R3lXQzctbzJLdmc4UGZCWTRXRF9QVEVJamFPd3d0QnVSVGxi?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 17, 2026",
-      "rawDate": "2026-10-17T17:11:54.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
       "scope": "local"
     },
     {
@@ -176,7 +176,7 @@
       "source": "The Guardian (Scams)",
       "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
-      "category": "impersonation",
+      "category": "general",
       "severity": "medium",
       "date": "October 18, 2026",
       "rawDate": "2026-10-18T06:00:51.000Z",

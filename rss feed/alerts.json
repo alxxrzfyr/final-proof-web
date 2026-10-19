@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-10-19T03:32:04.452Z",
+  "fetchedAt": "2026-10-19T18:24:30.755Z",
   "alerts": [
+    {
+      "id": "alert-local-09f1b9cd9bc1",
+      "title": "‘Love scam’ Pinay victims getting younger —BoC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQemY5aHpXaGFPTXlhaXF2SUg2Skd6aUUzdVFHM0tGQTVVd1VQUjFEQURhb2dYZ1J3MjZOOGtXcGRUbWhrYkMtemd5R1NEUzBOTU5jNkFfQUhGN2tnMWdIX3E0S1hGWjBKay1MTVdBZmhwdFNYaVMwMklqc2JVSFdRYm1DYw?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
+      "sourceLogo": "newspaper",
+      "category": "romance",
+      "severity": "medium",
+      "date": "October 19, 2026",
+      "rawDate": "2026-10-19T12:07:03.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-57ad705241b4",
+      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 19, 2026",
+      "rawDate": "2026-10-19T08:57:04.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-64d51ac2e037",
+      "title": "Globe, Makati LGU equip over 600 seniors to fight online scams",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTV5NUhhSE96a2k5cFBYTnNrODFTTU9kYXhuNE00dWhJX1hFcHlWNmNPYTJSR29CWWl6UkNiYXNRQjVSNlJVUFQtRTNKSE5VVF9PdUVLb2tja3dOeXltX0VVZ1RvX2pqOC1lU0pfdmJvTHhndGpPVnJNVDhNc051MFk3NGlyUFJ0RHpTeGxBaG52MHlj?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 19, 2026",
+      "rawDate": "2026-10-19T03:31:44.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-0046e187bf52",
       "title": "baccarat simulator for Android - Bing Software Store",
@@ -13,20 +55,6 @@
       "date": "October 18, 2026",
       "rawDate": "2026-10-18T20:36:53.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-57ad705241b4",
-      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 18, 2026",
-      "rawDate": "2026-10-18T07:42:42.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {
@@ -69,6 +97,20 @@
       "date": "October 16, 2026",
       "rawDate": "2026-10-16T04:26:55.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-300edec6820e",
+      "title": "Phl, US forces hold 16th joint maritime activity in West Philippine Sea",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkdqMEFxSWRPRHVHdDlhUjd2Ml9fUWVoeGsxaW0yZWxnTTlkN3FxdWlJOTFwQ3VoMmU1b295aGVCYTJHUi11TmVGaUZJdUppZkZoSXZxTE95ODBVSEFZZnA2QUl5bEc4dTB3T2RkbTJOLXR2Z1RJSUdqYmdIb1RnZFdWbUFudHZXa2d0UlBGNll2UkFJaWdkWHozSkdfdEdIZ09tYjZENA?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 16, 2026",
+      "rawDate": "2026-10-16T04:22:18.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {
@@ -128,46 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-8b982e975113",
-      "title": "BOC warns anew vs love scams: Over 700 complaints since January",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR0tuYWdqLVhuT0lXMjBCamFwOHd0YXQzc2VMNHZXcGFqNmFpSUh3S0lBNjJSdlJQM3p1NGlYZG50Ym1RSjVtS1dhOEFTOWFlN3FDSkdqdndXc0RMcVhfUWh2blJFYUpDWG4tdkR6Mmlad19yeEt4NUdxQmZBaFBwZkM0a05qT0VMSTJNSHdjNWhpeDdkbDM5dHpuUkR5VGlhZEHSAacBQVVfeXFMUGZ0bHNuN1VKU3h1eVNDZmRWWVluZFpiMlBxVzl2M2dUNEd4SjNQc1NiSWJSekNPOGU4QzQ4MUpsU0h2SG50aGpib2hxaDBGYlBBZ0t6aS1YdF96c3BrU1JYNGlPeVFyeHZ2S0dPVm8zNUkzclRmMjZ4MlpueGhvLUs5Z2pCSzNnYTg1WHh1azZDZU52LUFXelphbUgwUGxKbDFRQkJQdTg?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
+      "id": "alert-international-0904d7ee81b0",
+      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "high",
-      "date": "October 14, 2026",
-      "rawDate": "2026-10-14T09:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-2ac0e7639083",
-      "title": "Scam or legit? Banks launch checker website, Google-backed game to learn",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcUVlRmUwZXhHcWllOEZSQjdWRVJkaFhMWUN3cVhrb1llV1VQR2hxS0FUcWxJRklvc0Q0UUprODE5aTNnUi1pYnEzdDJxaWV1VjhYNEpUTE80U2hPV2xtODdqRjZDQW9kUndMR0FwaDNZamhkTVl4d2xQa0RVVHJCUEQ5aXZXUQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "ewallet",
+      "category": "malware",
       "severity": "medium",
-      "date": "October 14, 2026",
-      "rawDate": "2026-10-14T07:57:21.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-b9acdf8e7229",
-      "title": "DOJ Advocates Stronger Interagency Collaboration to Combat Cybercrime in the Philippines",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalNVelFsdlZiR3h6OXd0UjlBMmd0M0ZPNTgtSGxxSmVRc0p0QU1lVExzRXN1aTlJdURUMXctcEtTTlJFRm9KdXdzTlRENW1PS1FGbXJuTzJqMGJLMm94VWhuVUk3X3p3Znc3emg2RTJpcEF3MG1jVTQzNllmM1B5enpvQlFsWVVpbzFVa29Iczg5cEJ4dVdB?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 14, 2026",
-      "rawDate": "2026-10-14T06:24:11.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
+      "date": "October 19, 2026",
+      "rawDate": "2026-10-19T13:48:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-0b7cb834da09",
@@ -320,20 +334,6 @@
       "severity": "high",
       "date": "October 6, 2026",
       "rawDate": "2026-10-06T17:44:16.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-dfbcccabcac3",
-      "title": "Jailed Lego collector’s insurance scam highlights UK’s £1.3bn fraud problem",
-      "url": "https://www.theguardian.com/business/2026/oct/06/lego-insurance-scam-highlights-uk-fraud",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 6, 2026",
-      "rawDate": "2026-10-06T13:07:23.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

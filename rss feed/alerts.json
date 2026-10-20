@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-20T03:41:45.483Z",
+  "fetchedAt": "2026-10-20T16:26:19.031Z",
   "alerts": [
+    {
+      "id": "alert-local-64d51ac2e037",
+      "title": "Globe, Makati LGU equip over 600 seniors to fight online scams",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTE2RTc3MDBpUnB6aW94TWIydlJNR244QjNhcElWZW4yaVRjMmVPRVF5QzR3Z2E4RmxFUzEyRFhLVWVRWk1kcEJQMVZWaEg1S2NwV0Nyd0lsQXc3QkIzM29lWHNZamkwQmdMRUFFVzFkR3lpbEF2QWxoa0ttT1lOOUdMdTgwaU0xelhnTk1TeU44eXlmQXBaOHVKRTh6LWZpNWF0ckJ4UzFobkpIY3BXSUc0cE13d1BRMjJDQXF6T2xxWjBqc25uR9IBzwFBVV95cUxPWVpaRnFiRzBCREsyWGdrZVlmMVhGcWZPZkEtY0hJRE9GdVluZ0ZleGVzZGg0dDFIOG9OeEY4c0Vna1lYWkJubllyRlQ1V3hPU3ZjWThBUUh6ZnRhT242bHM5UFB2Vl92UFNXT0I1Nm9fUlgyQUNMRDhsSWRVeEVrS2ZCdkNRcDd0UFFjamZPNHdhMGpwTlNWUjFSNTI1OWpVTlZ5QWQyS3lrNkt5elB0QWIyTEFqandsMW84QTZFUll4b28zVFJQbDE0cGZJV2c?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 20, 2026",
+      "rawDate": "2026-10-20T05:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-54723974adf1",
       "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
@@ -12,6 +26,34 @@
       "severity": "medium",
       "date": "October 20, 2026",
       "rawDate": "2026-10-20T03:19:36.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-57ad705241b4",
+      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 20, 2026",
+      "rawDate": "2026-10-20T02:44:20.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-cd28f0ed53a3",
+      "title": "‘Napatawad ko na’: Scam victims move on and leave fraud cases hanging",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2xXcEloTTFLSVZJdUJTYzVZOHpPWnZLZjEtQ2RzZHpvTmlpczdfenNKbWRzQWE1VmZraDcwWnpJbHVJeFRqRVhqUE4wWVp5LTV1YmFibmE2SkFQMkNZb1E0TVRnWkJUWGN3N2p0eDhKeWRfOGRxZ0xoWTEwWlBBM2JyUlR3U1h5QmhtNFIwdVEzQQ?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 19, 2026",
+      "rawDate": "2026-10-19T22:58:51.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -30,34 +72,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-57ad705241b4",
-      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 19, 2026",
-      "rawDate": "2026-10-19T08:57:04.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-64d51ac2e037",
-      "title": "Globe, Makati LGU equip over 600 seniors to fight online scams",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTV5NUhhSE96a2k5cFBYTnNrODFTTU9kYXhuNE00dWhJX1hFcHlWNmNPYTJSR29CWWl6UkNiYXNRQjVSNlJVUFQtRTNKSE5VVF9PdUVLb2tja3dOeXltX0VVZ1RvX2pqOC1lU0pfdmJvTHhndGpPVnJNVDhNc051MFk3NGlyUFJ0RHpTeGxBaG52MHlj?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 19, 2026",
-      "rawDate": "2026-10-19T03:31:44.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-local-0046e187bf52",
       "title": "baccarat simulator for Android - Bing Software Store",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnb3ctZzhEOWNKdGlvR0xqR0duMnlqdTAzQmoxVDlwQlBJcWU0dlJTT3h6eDdQc0JFZ0xuWWNFTDgtS205R3lXQzctbzJLdmc4UGZCWTRXRF9QVEVJamFPd3d0QnVSVGxi?oc=5",
@@ -72,17 +86,17 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-cd28f0ed53a3",
-      "title": "‘Napatawad ko na’: Scam victims move on and leave fraud cases hanging",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2xXcEloTTFLSVZJdUJTYzVZOHpPWnZLZjEtQ2RzZHpvTmlpczdfenNKbWRzQWE1VmZraDcwWnpJbHVJeFRqRVhqUE4wWVp5LTV1YmFibmE2SkFQMkNZb1E0TVRnWkJUWGN3N2p0eDhKeWRfOGRxZ0xoWTEwWlBBM2JyUlR3U1h5QmhtNFIwdVEzQQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
+      "id": "alert-local-d981b1a5bdc6",
+      "title": "baccarat live dealer for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03a3RKR2ZabTdDbUtsSEp6bUZfME43ckVoUENjMmU0cU9fejhYY3R6UzdJdnFtVnpCNTFhV3h6SlNKbFRhMnFQLVFNckRFVEd1NjNMNTJ4WWtYdzFFYk1NY3VWV1NUOFhRVnpuZ3IzOTVaQQ?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
       "sourceLogo": "newspaper",
       "category": "general",
       "severity": "medium",
-      "date": "October 17, 2026",
-      "rawDate": "2026-10-17T21:16:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "date": "October 18, 2026",
+      "rawDate": "2026-10-18T18:36:30.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/sports.inquirer.net.ico",
       "scope": "local"
     },
     {
@@ -97,20 +111,6 @@
       "date": "October 16, 2026",
       "rawDate": "2026-10-16T13:50:52.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-d981b1a5bdc6",
-      "title": "baccarat live dealer for Android - Bing Software Store",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3WmtOZGNQaVdVenhZYTJLdmF5dVVFUFJSV005M0dQRTlpZ3VqNUplXzlQcFJUU3RoVGRXbktqaU96anRXUWhqa3VPMlg0aDZVek9nUkFqdVVkWlpHUDNFTXJya2FrVGFDQm5Bb3hYZ3pkdkYy?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 16, 2026",
-      "rawDate": "2026-10-16T04:26:55.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
       "scope": "local"
     },
     {

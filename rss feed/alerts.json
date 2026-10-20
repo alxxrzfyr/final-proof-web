@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-19T18:24:30.755Z",
+  "fetchedAt": "2026-10-20T03:41:45.483Z",
   "alerts": [
+    {
+      "id": "alert-local-54723974adf1",
+      "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT28tZTBHeUtXM2JnWmVHbjZhYXlMLXhyOEU4QUdhNnAtNU9HbVM4azNWVDBhQkgwejB3RnliNDBIU09rTlEyX24wal84d2xwYUVsWmVTQndTZ1RQcUFEeUNET3hyeGFPaF9NUUhJNTFMTEJlenlnY2Ytek1iZlY0bGZEdUNtaWNyNUMyNGhVNXliemVfSVZfUWZ5SktfOVY0X3AzQQ?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 20, 2026",
+      "rawDate": "2026-10-20T03:19:36.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-09f1b9cd9bc1",
       "title": "‘Love scam’ Pinay victims getting younger —BoC",
@@ -156,27 +170,13 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-570d69b4e445",
-      "title": "solowin casino for Android - Bing Software Store",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14Wnk3Ml9sVi1MN0dpMmVweEYzOEZCOVdkNnVkLWZzQXo0dkpIS2pGTDN0UEQxMlY2QWNNbWswNHd5djBSemNFTVRZX2xQTWxsN25ZY1V1UkZpVjAtNEpUbmctTQ?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 14, 2026",
-      "rawDate": "2026-10-14T23:39:35.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-0904d7ee81b0",
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "source": "Krebs on Security",
       "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
-      "category": "malware",
+      "category": "general",
       "severity": "medium",
       "date": "October 19, 2026",
       "rawDate": "2026-10-19T13:48:56.000Z",

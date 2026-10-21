@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-20T16:26:19.031Z",
+  "fetchedAt": "2026-10-21T03:33:41.603Z",
   "alerts": [
+    {
+      "id": "alert-local-57ad705241b4",
+      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 20, 2026",
+      "rawDate": "2026-10-20T23:40:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-64d51ac2e037",
       "title": "Globe, Makati LGU equip over 600 seniors to fight online scams",
@@ -26,20 +40,6 @@
       "severity": "medium",
       "date": "October 20, 2026",
       "rawDate": "2026-10-20T03:19:36.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-57ad705241b4",
-      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 20, 2026",
-      "rawDate": "2026-10-20T02:44:20.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -100,6 +100,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-a65511d33f7a",
+      "title": "717 live casino for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SRVVHTEtOZ0RZRnFlZjVaR0dCM2RtN3lXQl8xc1RDVXNfT2JqMWd0empoMlNtV2VQenFiUFFHZEQ4UFBSSmxUQUVVYjNpdlhYa1ZFSDlyM2U1b1k3RVBYV0JGNWI?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 18, 2026",
+      "rawDate": "2026-10-18T04:17:12.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-7838fde8dc1d",
       "title": "Text scam knows your name? Here's how they likely got your data, says expert",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTJuXzc5emhUSjJfc2dNRXBqZGFIeGo0TXdmMXRRRy1nb0lvZXVVNTFMTlJTalhBU3lnTGtoV0lvY1BxUzlVenV5NzdZanBMWWE0T195V0JGSTFvTGVnYmVmT1l0U0tYeTBLcEdteldTWmNkLVNZcGhscDJwUE9hcDFqYWlVZUpEVDVMSWM0anhJZXpYby1aaQ?oc=5",
@@ -153,20 +167,6 @@
       "date": "October 15, 2026",
       "rawDate": "2026-10-15T15:38:45.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-5efadff45b0a",
-      "title": "Microsoft, partners disrupt phishing kit ecosystem behind cybercrime operations",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3lhUWJvcDdxYklfMGR5aDB0ZWNCMmFWU3VTdGlDNTMzOVVlZktHaE1nUl94RjZ5SDAzSkw0QzI5emlMVW9nbjZKb3B0d2tUdjM3NnFoaGxNdXgzWE9ZLXVUQkRaaGVqaThjYnppWUctODdMNXFFZkNfWEp5blh6eENIU0tTM0ItdHFjdEQ1dklLRS1lcEJ3WHlETmp0NF9uVGdTN1Q1X29KLUk?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "October 15, 2026",
-      "rawDate": "2026-10-15T10:06:36.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-21T03:33:41.603Z",
+  "fetchedAt": "2026-10-21T16:43:12.663Z",
   "alerts": [
+    {
+      "id": "alert-local-52feb97573b5",
+      "title": "#ScamAlert chat room launched as digital and financial scams evolve",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2liSGh2aElyR19YaHZrUzNIOVR3c18tb05ORFpOaktoaWVZZ1JnMzdhUXBGRGYtdjg4RldJZjdsT2FJYXNZUmRoYXBjNGItVzdwbDhXdWs4LUpaaEMzVDhVYVNpSXNzOE03bkVFNHVnTUhac25LQmZuaHUxM0ZScXdyeWtjY0pDLVJDQ05ad3FXTDg?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 21, 2026",
+      "rawDate": "2026-10-21T10:58:18.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-57ad705241b4",
       "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
@@ -114,6 +128,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-263317032225",
+      "title": "nice88 voucher code philippines for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYYTc4ZnhFVU81bDZxMlhMSkRPTWtwTURXMHJGVGVqNl9xYTlTOFJncXc2XzRGbkNWRXNVbmRqUmFIb1VMVC0zek9NTXRVQkRGR3RlMUkxd3paT0dVYTFpZExwbHRzUm53YU5FLWM4dUZlalBEcEdsakt3?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 18, 2026",
+      "rawDate": "2026-10-18T01:25:34.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-7838fde8dc1d",
       "title": "Text scam knows your name? Here's how they likely got your data, says expert",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTJuXzc5emhUSjJfc2dNRXBqZGFIeGo0TXdmMXRRRy1nb0lvZXVVNTFMTlJTalhBU3lnTGtoV0lvY1BxUzlVenV5NzdZanBMWWE0T195V0JGSTFvTGVnYmVmT1l0U0tYeTBLcEdteldTWmNkLVNZcGhscDJwUE9hcDFqYWlVZUpEVDVMSWM0anhJZXpYby1aaQ?oc=5",
@@ -142,32 +170,32 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-76c1a91b9239",
-      "title": "2 Koreans arrested for online fraud, extortion",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTzFYVzY0cFJ1RVhXZ1RqajQ4Q09DQkpEY0xla1d6ejBycUlacFVoM1l1czVLVXZQUF9IekJmS3g5VUJsTW9ZdzI4T29xZlV1c2pEb3N4UXQ0bTUxTzZBclhiYTZCbmxLQUFlaEQtSDF2U1FkSDlPX0xEOVZ5YzRfb0NtLVAtR0t4Mmg4?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 15, 2026",
-      "rawDate": "2026-10-15T20:52:11.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-e6639d1855e5",
-      "title": "Fake proof of payments used in P1.4 million online selling scam",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOXzZkcEpqQlBVX3dOdy1VdzlWMmFZaHNQUHAwMXdhZk1ZVEZLOGVvVVFSak5MdlFqb3NUM3NMWWRoVVZNc3ZtUnVLTW5Fb2J5cVBoY1lnUVZvUmFMMHVwc1pyeDY0YXpKdV9HY05QOWgyZ1lKUlFNWUFaU2NtQkVwamhsbGR6aGNPRVJNRTFQdTl2OV8zdWdjTUIwc0NMVjdyeWhtLWQ4c2VrZTRIRFc2eDA2ZlM0RDdKc285SURIZjNPRUxfRlHSAcsBQVVfeXFMTzhmRHlxUXMzbTlQZGpSaEZIQ3ZndVNvdTAwTU9aT0lNQWpBUkhrdzREZzhPaE1XWkJoQVprZm5qMlBHczZJSDg2aGIzeFYtakMwUGdoLWxKS2tIVHZrSUxpTHJUcFc0TnZIVDNuNVNFMTBKbmROR0RBR0g1NFY5eVNCazlNQ3ZHMG5zYjdXcnduX3BfUUNxb1lhSlRMb3E0TjlNVy1wOG9SMURqWkpYWGJGdmJxSXljbEt4dUE3WVZnNGdFaVV1cHNkbHM?oc=5",
-      "source": "GMA Network",
-      "sourceLabel": "GMA Network",
+      "id": "alert-international-a842b410bb62",
+      "title": "Booking.com under investigation by EU regulators over fake listings and scams",
+      "url": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "shopping",
       "severity": "medium",
-      "date": "October 15, 2026",
-      "rawDate": "2026-10-15T15:38:45.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
+      "date": "October 21, 2026",
+      "rawDate": "2026-10-21T15:01:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-5d5b3ec1f3aa",
+      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
+      "sourceLogo": "newspaper",
+      "category": "shopping",
+      "severity": "medium",
+      "date": "October 21, 2026",
+      "rawDate": "2026-10-21T11:04:18.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-0904d7ee81b0",
@@ -307,34 +335,6 @@
       "date": "October 10, 2026",
       "rawDate": "2026-10-10T00:17:42.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-79fcaee76dae",
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 7, 2026",
-      "rawDate": "2026-10-07T13:48:45.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-156853327341",
-      "title": "Asos warns customer data may be compromised after ‘unauthorised’ app access",
-      "url": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "high",
-      "date": "October 6, 2026",
-      "rawDate": "2026-10-06T17:44:16.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-21T16:43:12.663Z",
+  "fetchedAt": "2026-10-22T03:33:33.813Z",
   "alerts": [
+    {
+      "id": "alert-local-57ad705241b4",
+      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 21, 2026",
+      "rawDate": "2026-10-21T14:30:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-52feb97573b5",
       "title": "#ScamAlert chat room launched as digital and financial scams evolve",
@@ -12,20 +26,6 @@
       "severity": "medium",
       "date": "October 21, 2026",
       "rawDate": "2026-10-21T10:58:18.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-57ad705241b4",
-      "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 20, 2026",
-      "rawDate": "2026-10-20T23:40:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-5d5b3ec1f3aa",
+      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
+      "sourceLogo": "newspaper",
+      "category": "shopping",
+      "severity": "medium",
+      "date": "October 21, 2026",
+      "rawDate": "2026-10-21T20:49:52.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-a842b410bb62",
       "title": "Booking.com under investigation by EU regulators over fake listings and scams",
       "url": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
@@ -181,20 +195,6 @@
       "date": "October 21, 2026",
       "rawDate": "2026-10-21T15:01:24.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-5d5b3ec1f3aa",
-      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "shopping",
-      "severity": "medium",
-      "date": "October 21, 2026",
-      "rawDate": "2026-10-21T11:04:18.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     },
     {

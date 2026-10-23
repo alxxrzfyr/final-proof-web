@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-22T16:44:12.761Z",
+  "fetchedAt": "2026-10-23T03:38:23.081Z",
   "alerts": [
     {
       "id": "alert-local-52feb97573b5",
@@ -11,7 +11,21 @@
       "category": "general",
       "severity": "medium",
       "date": "October 22, 2026",
-      "rawDate": "2026-10-22T12:03:34.000Z",
+      "rawDate": "2026-10-22T21:22:25.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-cd28f0ed53a3",
+      "title": "‘Napatawad ko na’: Scam victims move on and leave fraud cases hanging",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2xXcEloTTFLSVZJdUJTYzVZOHpPWnZLZjEtQ2RzZHpvTmlpczdfenNKbWRzQWE1VmZraDcwWnpJbHVJeFRqRVhqUE4wWVp5LTV1YmFibmE2SkFQMkNZb1E0TVRnWkJUWGN3N2p0eDhKeWRfOGRxZ0xoWTEwWlBBM2JyUlR3U1h5QmhtNFIwdVEzQQ?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 22, 2026",
+      "rawDate": "2026-10-22T11:32:36.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
@@ -72,20 +86,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-cd28f0ed53a3",
-      "title": "‘Napatawad ko na’: Scam victims move on and leave fraud cases hanging",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2xXcEloTTFLSVZJdUJTYzVZOHpPWnZLZjEtQ2RzZHpvTmlpczdfenNKbWRzQWE1VmZraDcwWnpJbHVJeFRqRVhqUE4wWVp5LTV1YmFibmE2SkFQMkNZb1E0TVRnWkJUWGN3N2p0eDhKeWRfOGRxZ0xoWTEwWlBBM2JyUlR3U1h5QmhtNFIwdVEzQQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 19, 2026",
-      "rawDate": "2026-10-19T22:58:51.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-local-09f1b9cd9bc1",
       "title": "‘Love scam’ Pinay victims getting younger —BoC",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQemY5aHpXaGFPTXlhaXF2SUg2Skd6aUUzdVFHM0tGQTVVd1VQUjFEQURhb2dYZ1J3MjZOOGtXcGRUbWhrYkMtemd5R1NEUzBOTU5jNkFfQUhGN2tnMWdIX3E0S1hGWjBKay1MTVdBZmhwdFNYaVMwMklqc2JVSFdRYm1DYw?oc=5",
@@ -97,6 +97,20 @@
       "date": "October 19, 2026",
       "rawDate": "2026-10-19T12:07:03.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-c7d8cebe1e3f",
+      "title": "Cyber Fraud Investigations Head with 0 - 1 Years of Experience at East West Banking Corp in Philippines,Taguig",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlM1Q2lLYktMOVhnV3FGV2wwZ0dtM01RTFhIY0F4bWE4RXBxbFM4czBISnowWEk4RGtsSjZtNG5hUHJHNGY3WmpZdlJ0cS1IV0R5SG41RlFNU0s5Z0YxR2xNZ09zMFRaVTVldVVDdVIzZ0NGYXBNVkl2Rkl2WmhTNVlwQkJCZk9xRHlJN2UxWmlTNW1CSFNVZ0xzb0kzbnVBOTRWMUxWOHNLQQ?oc=5",
+      "source": "foundit.com.ph",
+      "sourceLabel": "foundit.com.ph",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "medium",
+      "date": "October 19, 2026",
+      "rawDate": "2026-10-19T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.foundit.com.ph.ico",
       "scope": "local"
     },
     {
@@ -128,6 +142,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-efda86988ce4",
+      "title": "jilievo cc log in for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlVDVWVW15Mmt5WlVrYWNVcTVsekRzUUpYYWIwbV9ZZXB2OXFQemtJMUo4RnFTWDRCak90YVNqV2YzRjByLTNZdmtSLVNyZ2tPb0tmWnlDczB2LTNZSWFadWVnbUdWN3c?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 18, 2026",
+      "rawDate": "2026-10-18T08:30:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-a65511d33f7a",
       "title": "717 live casino for Android - Bing Software Store",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SRVVHTEtOZ0RZRnFlZjVaR0dCM2RtN3lXQl8xc1RDVXNfT2JqMWd0empoMlNtV2VQenFiUFFHZEQ4UFBSSmxUQUVVYjNpdlhYa1ZFSDlyM2U1b1k3RVBYV0JGNWI?oc=5",
@@ -139,34 +167,6 @@
       "date": "October 18, 2026",
       "rawDate": "2026-10-18T04:17:12.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-263317032225",
-      "title": "nice88 voucher code philippines for Android - Bing Software Store",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYYTc4ZnhFVU81bDZxMlhMSkRPTWtwTURXMHJGVGVqNl9xYTlTOFJncXc2XzRGbkNWRXNVbmRqUmFIb1VMVC0zek9NTXRVQkRGR3RlMUkxd3paT0dVYTFpZExwbHRzUm53YU5FLWM4dUZlalBEcEdsakt3?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 18, 2026",
-      "rawDate": "2026-10-18T01:25:34.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-7838fde8dc1d",
-      "title": "Text scam knows your name? Here's how they likely got your data, says expert",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaTJuXzc5emhUSjJfc2dNRXBqZGFIeGo0TXdmMXRRRy1nb0lvZXVVNTFMTlJTalhBU3lnTGtoV0lvY1BxUzlVenV5NzdZanBMWWE0T195V0JGSTFvTGVnYmVmT1l0U0tYeTBLcEdteldTWmNkLVNZcGhscDJwUE9hcDFqYWlVZUpEVDVMSWM0anhJZXpYby1aaQ?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 16, 2026",
-      "rawDate": "2026-10-16T13:50:52.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {

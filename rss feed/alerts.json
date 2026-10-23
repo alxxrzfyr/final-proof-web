@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-23T03:38:23.081Z",
+  "fetchedAt": "2026-10-23T16:34:38.884Z",
   "alerts": [
     {
       "id": "alert-local-52feb97573b5",
@@ -55,6 +55,20 @@
       "date": "October 21, 2026",
       "rawDate": "2026-10-21T14:30:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-310d572f193a",
+      "title": "Binance cryptocurrency scam warning Philippines",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORGotOG5NLWFxUWpTY055OHVsVmxPMlFyeTRLdjJwM1EwYUJoOENva2NfLVJrSmhzaHY4ZDNwYmZ4dW1abkw5Qmxjb2NUbmVBcFl4OEVaQlRjemN0N19HNkR0Qi1veTZiNEp5Z3FRSFR3dHc2VW5ONjBYRlUxM0tiN05n?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "high",
+      "date": "October 21, 2026",
+      "rawDate": "2026-10-21T07:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {
@@ -156,20 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-a65511d33f7a",
-      "title": "717 live casino for Android - Bing Software Store",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SRVVHTEtOZ0RZRnFlZjVaR0dCM2RtN3lXQl8xc1RDVXNfT2JqMWd0empoMlNtV2VQenFiUFFHZEQ4UFBSSmxUQUVVYjNpdlhYa1ZFSDlyM2U1b1k3RVBYV0JGNWI?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 18, 2026",
-      "rawDate": "2026-10-18T04:17:12.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-93334f12fc00",
       "title": "Elizabeth Holmes is back in the spotlight: why can’t we look away? – podcast",
       "url": "https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast",
@@ -181,6 +181,20 @@
       "date": "October 22, 2026",
       "rawDate": "2026-10-22T04:00:06.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-0d1bea2d4a33",
+      "title": "SafePay ransomware group has targeted hundreds this year, US agencies say",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDJYS3lvNVVTVHRuZGJ6VlByYWN3NF8tRERYSm1fa1VjTTBzODNpeElTWm1lNU9PVFczcHRYX2NnZDc2VGcwd2NsS0F6b3U0UkhKSVlmQnJCQ0lsY3loZF9rV05IWUJvTGdEY0dwTlFfR1VSdVU2bHpkbUtRQ25fci1Id3FtelVxOXYxTDZRNElsNV9lejFtTTZyNWRvY1VVS0JUSHRteGMteXpqYl9jWGNRajNQZG9jT0pnMWFQaHNON28?oc=5",
+      "source": "Reuters",
+      "sourceLabel": "Reuters",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 21, 2026",
+      "rawDate": "2026-10-21T21:50:23.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     },
     {
@@ -209,20 +223,6 @@
       "date": "October 21, 2026",
       "rawDate": "2026-10-21T15:01:24.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-0d1bea2d4a33",
-      "title": "SafePay ransomware group has targeted hundreds this year, US agencies say",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMDJYS3lvNVVTVHRuZGJ6VlByYWN3NF8tRERYSm1fa1VjTTBzODNpeElTWm1lNU9PVFczcHRYX2NnZDc2VGcwd2NsS0F6b3U0UkhKSVlmQnJCQ0lsY3loZF9rV05IWUJvTGdEY0dwTlFfR1VSdVU2bHpkbUtRQ25fci1Id3FtelVxOXYxTDZRNElsNV9lejFtTTZyNWRvY1VVS0JUSHRteGMteXpqYl9jWGNRajNQZG9jT0pnMWFQaHNON28?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 20, 2026",
-      "rawDate": "2026-10-20T23:30:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     },
     {

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-24T03:32:34.027Z",
+  "fetchedAt": "2026-10-24T15:28:51.345Z",
   "alerts": [
+    {
+      "id": "alert-local-0c4f7ae636dc",
+      "title": "Social engineering drives 39% of PH banking fraud — BPI",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSHJXV1lTWEhSZ0lWcE4xUEZheUt2SHJUd3N5N2NpRnV3WnI3b2VRNGFSVWc5RXFiX2sxOFpKWEE4Q1FzMXNMREMtbnFGNlY0OE03TS1EX2JQUG5mN0g4V2RhekZFYkFqWkt5V0dOMHVSbzNQSTNGZWNGWm5RWGtBZmNSQ0Y0V3g3bWxnMkln?oc=5",
+      "source": "Newsbytes.PH",
+      "sourceLabel": "Newsbytes.PH",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "medium",
+      "date": "October 24, 2026",
+      "rawDate": "2026-10-24T08:34:27.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-dcfa288483bc",
       "title": "Phishing email to Knicks employees an 'unfortunate mistake,' MSG spokesman says",
@@ -27,6 +41,20 @@
       "date": "October 23, 2026",
       "rawDate": "2026-10-23T18:05:18.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.espn.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-8357b7147b31",
+      "title": "Are you willing to pay P8,000 for VIP access in NAIA?",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NbEo4SWlyZ2RqNFlnTkVWcmpvVjBWc3N4d2xNNDY4ODdFeHRwVnlpUFN2RzVmNldBWXFObTVxUElZQW9CY1hJR2d4bzMzS1BEcTdmUGl4WVlvY0w0c3ZxT25sdw?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 23, 2026",
+      "rawDate": "2026-10-23T12:31:55.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {
@@ -142,34 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-c7d8cebe1e3f",
-      "title": "Cyber Fraud Investigations Head with 0 - 1 Years of Experience at East West Banking Corp in Philippines,Taguig",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlM1Q2lLYktMOVhnV3FGV2wwZ0dtM01RTFhIY0F4bWE4RXBxbFM4czBISnowWEk4RGtsSjZtNG5hUHJHNGY3WmpZdlJ0cS1IV0R5SG41RlFNU0s5Z0YxR2xNZ09zMFRaVTVldVVDdVIzZ0NGYXBNVkl2Rkl2WmhTNVlwQkJCZk9xRHlJN2UxWmlTNW1CSFNVZ0xzb0kzbnVBOTRWMUxWOHNLQQ?oc=5",
-      "source": "foundit.com.ph",
-      "sourceLabel": "foundit.com.ph",
-      "sourceLogo": "newspaper",
-      "category": "ewallet",
-      "severity": "medium",
-      "date": "October 19, 2026",
-      "rawDate": "2026-10-19T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.foundit.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-0046e187bf52",
-      "title": "baccarat simulator for Android - Bing Software Store",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnb3ctZzhEOWNKdGlvR0xqR0duMnlqdTAzQmoxVDlwQlBJcWU0dlJTT3h6eDdQc0JFZ0xuWWNFTDgtS205R3lXQzctbzJLdmc4UGZCWTRXRF9QVEVJamFPd3d0QnVSVGxi?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 18, 2026",
-      "rawDate": "2026-10-18T20:36:53.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-3e2886801a82",
       "title": "MSG says phishing test offering free Knicks championship rings was an \"unfortunate mistake\"",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHhaUTVncGN2VHM0VUtuNW5vTFFDcnR5ZWFQamMwcndPX0plMFE4NVVaYi0xTFp6TGpqVmtiWkpLRnB5ZFM2ME8wUG14VDJvWFJQNjlzT1hEUFZsNjdCVVFTWjMwTVYtS1Q5djhMOUNmWnlDR3JueGVjS2MzZEhPMTJTVV9iSTFk?oc=5",
@@ -180,6 +180,20 @@
       "severity": "medium",
       "date": "October 24, 2026",
       "rawDate": "2026-10-24T00:35:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-1d0fb5cbe772",
+      "title": "MSG uses Knicks championship ring email as phishing test",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpLbmNhYjhoMGlwSGxCb1hWM0ZpV0pPUnhDU3ZoMkY0WmRmZHI4Rk53TDhFdDAzQnFqS2daVnlZSEhkN1drZ2Q3QlJtMVVmb3h5N3hjdDl1M1BWZFZOVVV3OGRTU3M0YW1uazROOHZ6SEYzTWM4NDFLelJ3MXZOUUt2OEJQbXJiWmxGQmhOeXJrXzdWUVBjNXplMA?oc=5",
+      "source": "CBS News",
+      "sourceLabel": "CBS News",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "medium",
+      "date": "October 24, 2026",
+      "rawDate": "2026-10-24T00:34:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     },
@@ -321,20 +335,6 @@
       "date": "October 14, 2026",
       "rawDate": "2026-10-14T10:00:03.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-91eccf3a2061",
-      "title": "Canadian ransomware negotiator arrested amid FBI hacker crackdown",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcERTdzZuVGZ3R1NXOE1IbEpneTR1dEZaNzZwM3p1NXlrbkMxZjl6Q3lNVS1ybTY3THlTSkt3SnRQbndfalJSUkt5M1c2Tm9sb0ticnZ3b3dfNHd4N0g2emp0Qmh2SzNlWjJoX1VQRHV3NEpxTnFVYnNkOGdHbVVPS081ZVRFOUNpdGlJYy1PTnNlQkctbWlzcHdOeHhtRVh5UlRiSzRrRmpqem43MzRUS0NuamVLa0FXQWc?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 12, 2026",
-      "rawDate": "2026-10-12T13:07:04.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     }
   ]

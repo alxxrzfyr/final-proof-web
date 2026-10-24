@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-10-23T16:34:38.884Z",
+  "fetchedAt": "2026-10-24T03:32:34.027Z",
   "alerts": [
+    {
+      "id": "alert-local-dcfa288483bc",
+      "title": "Phishing email to Knicks employees an 'unfortunate mistake,' MSG spokesman says",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGw2QXIzVk5iV1ljWktrWUZNX1ZNLTFGYkJiUlZSeWhQY01EdU1wZmh4SzNadXhRRG9IX1lLM29NeXhWN2hOM1lqWTZzQ0Fxa0VUN1IzdUdMMkZtSnU4S1pTZ3NTSmZEWmNmTHZFa25WTFBmeFJfalBSSGg2LUZqemJxVlV6clo2OTUzQk5HRHFjM25VZ1c1TUFPME9QVTJqZ2c?oc=5",
+      "source": "ESPN Philippines",
+      "sourceLabel": "ESPN Philippines",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "medium",
+      "date": "October 23, 2026",
+      "rawDate": "2026-10-23T22:43:46.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.espn.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-4c7a05c7ea89",
+      "title": "'Can you be any worse?' Eisen sounds off on Dolan for phishing test",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkRiVzUyTkpwOURXWHpERWh1eFBGTlRuTlpSakJZakZDT3dKbjFfVDlydDRjbTJINFNGdFlrMU5QN0hWbGpmT1REalZ2MURMMkF3bERuanE4V2JQY0xURDFhbm1jb0ZRVktENE1adTlTdzVUd0J2S3RIVzV3Wnh0Qm9wUUE5MDZGSkNlUmoxTHY?oc=5",
+      "source": "ESPN Philippines",
+      "sourceLabel": "ESPN Philippines",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "medium",
+      "date": "October 23, 2026",
+      "rawDate": "2026-10-23T18:05:18.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.espn.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-52feb97573b5",
       "title": "#ScamAlert chat room launched as digital and financial scams evolve",
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-d981b1a5bdc6",
-      "title": "baccarat live dealer for Android - Bing Software Store",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03a3RKR2ZabTdDbUtsSEp6bUZfME43ckVoUENjMmU0cU9fejhYY3R6UzdJdnFtVnpCNTFhV3h6SlNKbFRhMnFQLVFNckRFVEd1NjNMNTJ4WWtYdzFFYk1NY3VWV1NUOFhRVnpuZ3IzOTVaQQ?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
+      "id": "alert-international-3e2886801a82",
+      "title": "MSG says phishing test offering free Knicks championship rings was an \"unfortunate mistake\"",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHhaUTVncGN2VHM0VUtuNW5vTFFDcnR5ZWFQamMwcndPX0plMFE4NVVaYi0xTFp6TGpqVmtiWkpLRnB5ZFM2ME8wUG14VDJvWFJQNjlzT1hEUFZsNjdCVVFTWjMwTVYtS1Q5djhMOUNmWnlDR3JueGVjS2MzZEhPMTJTVV9iSTFk?oc=5",
+      "source": "CBS News",
+      "sourceLabel": "CBS News",
       "sourceLogo": "newspaper",
-      "category": "general",
+      "category": "phishing",
       "severity": "medium",
-      "date": "October 18, 2026",
-      "rawDate": "2026-10-18T18:36:30.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/sports.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-efda86988ce4",
-      "title": "jilievo cc log in for Android - Bing Software Store",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlVDVWVW15Mmt5WlVrYWNVcTVsekRzUUpYYWIwbV9ZZXB2OXFQemtJMUo4RnFTWDRCak90YVNqV2YzRjByLTNZdmtSLVNyZ2tPb0tmWnlDczB2LTNZSWFadWVnbUdWN3c?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 18, 2026",
-      "rawDate": "2026-10-18T08:30:56.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsinfo.inquirer.net.ico",
-      "scope": "local"
+      "date": "October 24, 2026",
+      "rawDate": "2026-10-24T00:35:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-93334f12fc00",
@@ -321,20 +335,6 @@
       "date": "October 12, 2026",
       "rawDate": "2026-10-12T13:07:04.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-185b276bcffd",
-      "title": "‘You have a meeting’: the calendar phishing scam growing exponentially",
-      "url": "https://www.theguardian.com/money/2026/oct/11/calendar-phishing-scam-meeting-renewal-google-microsoft-paypal",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "October 11, 2026",
-      "rawDate": "2026-10-11T06:00:18.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

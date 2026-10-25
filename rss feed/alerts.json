@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-24T15:28:51.345Z",
+  "fetchedAt": "2026-10-25T03:29:07.784Z",
   "alerts": [
     {
       "id": "alert-local-0c4f7ae636dc",
@@ -41,6 +41,20 @@
       "date": "October 23, 2026",
       "rawDate": "2026-10-23T18:05:18.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.espn.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-2e7f58950f02",
+      "title": "NBI raids Subic scam hub, over 200 Vietnamese detained",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQTZJSFJQWTdpU0FURTNjSGNBTWdpeHZDdElnaEVRQWNpTDdtSVozSkZNUFlMUURCMFZzY0puaW50YTFsbWlMNDYxdm9nQWoxSnZzVkhndGJUVXpGV001bE0xcDVEZnJTU3I5aWUtbGlFVjVzcEYwNGNFMWl4T2tyM3JWejVvUkM3NTduVjBOSE0?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 23, 2026",
+      "rawDate": "2026-10-23T18:04:21.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-09f1b9cd9bc1",
-      "title": "‘Love scam’ Pinay victims getting younger —BoC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQemY5aHpXaGFPTXlhaXF2SUg2Skd6aUUzdVFHM0tGQTVVd1VQUjFEQURhb2dYZ1J3MjZOOGtXcGRUbWhrYkMtemd5R1NEUzBOTU5jNkFfQUhGN2tnMWdIX3E0S1hGWjBKay1MTVdBZmhwdFNYaVMwMklqc2JVSFdRYm1DYw?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
+      "id": "alert-international-bf55d9e5cc57",
+      "title": "‘An unfortunate mistake’: Knicks admit error in using championship rings as phishing bait",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYUd6MFpNVmtTTUhSd3dCaWxwTWtubzRkT1J5a04zOFdRWm5Lb2hPQURDdlA5T0ZGWmNfMUdCRGNrYzFleE9ISHd1M3RXUmFaelY0dC04MURNTVpZZGw0R05TTEltWDFNSm9hYVBqb2VRc0NvMDl1bG53NWlkZ2NIb2hwWkp2MXMySUl3aGdn?oc=5",
+      "source": "NBC News",
+      "sourceLabel": "NBC News",
       "sourceLogo": "newspaper",
-      "category": "romance",
+      "category": "phishing",
       "severity": "medium",
-      "date": "October 19, 2026",
-      "rawDate": "2026-10-19T12:07:03.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
+      "date": "October 24, 2026",
+      "rawDate": "2026-10-24T16:12:48.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.nbcnews.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-3e2886801a82",
@@ -321,20 +335,6 @@
       "date": "October 14, 2026",
       "rawDate": "2026-10-14T14:22:49.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-fe83841c1186",
-      "title": "AI linked to 84% of ransomware attacks, new report finds",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDAxYjk0QWdGcUtHV2RHQklZNXhhdkJXaG9WZkRTZUNzTjJGYmlVX0xya09iMnBLcTB4S1VTR29yVTlLTWFXV3I5cU9CeHNZUURKMHRTcHFZV091MzF0Yk1FYmd1eE1RSy1JY01pV1ljYXdReHlvVDVtUVA5TGpVaUFCZmFjMVdiYXIySEpUX0c?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 14, 2026",
-      "rawDate": "2026-10-14T10:00:03.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

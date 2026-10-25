@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-25T03:29:07.784Z",
+  "fetchedAt": "2026-10-25T15:39:04.752Z",
   "alerts": [
     {
       "id": "alert-local-0c4f7ae636dc",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-e28272c97586",
+      "title": "Cookie theft: how fraudsters get the digital key to your accounts",
+      "url": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "job",
+      "severity": "medium",
+      "date": "October 25, 2026",
+      "rawDate": "2026-10-25T07:00:56.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-bf55d9e5cc57",
       "title": "‘An unfortunate mistake’: Knicks admit error in using championship rings as phishing bait",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYUd6MFpNVmtTTUhSd3dCaWxwTWtubzRkT1J5a04zOFdRWm5Lb2hPQURDdlA5T0ZGWmNfMUdCRGNrYzFleE9ISHd1M3RXUmFaelY0dC04MURNTVpZZGw0R05TTEltWDFNSm9hYVBqb2VRc0NvMDl1bG53NWlkZ2NIb2hwWkp2MXMySUl3aGdn?oc=5",
@@ -321,20 +335,6 @@
       "date": "October 16, 2026",
       "rawDate": "2026-10-16T04:00:52.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1e4194e2584d",
-      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 14, 2026",
-      "rawDate": "2026-10-14T14:22:49.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

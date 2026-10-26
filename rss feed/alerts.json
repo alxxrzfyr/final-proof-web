@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-26T03:31:27.454Z",
+  "fetchedAt": "2026-10-26T18:20:00.444Z",
   "alerts": [
+    {
+      "id": "alert-local-041a0837e0a3",
+      "title": "Billions lost to scams? Why Filipinos still trust the wrong person online",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWDRzRlp5c3ZPaFVESFBCUVc4VlJTSzdQZUNvaGVCXzU2cVItbUFUcGJVS3RuN05ITFVzRnJKQVdEb2ZSS3FCOWJDTU9WYnRKSmI0b0dkbEZHNzNxcy10R2QxVlFhakhBMHJPNXQ3ajA1NmxPQlFKRmU0d1FpWi1PemRQcmJiNGxHNHBWdjZxcWFTNEU4N0pBTXFYUTB4ODBjczltaVRIZU50SkNaM0RKM09zNTVHX1AyUXNpOGZwczRHUkwx?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 26, 2026",
+      "rawDate": "2026-10-26T07:30:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/news.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-0c4f7ae636dc",
       "title": "Social engineering drives 39% of PH banking fraud — BPI",
@@ -114,6 +128,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-ebbf3e8680c6",
+      "title": "Nearly 40 percent of breaches start with stolen passwords. Keeper’s new local AI tool catches fake sites before you type",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMDVnNnVxbnFmaHRnMEdlTGZwNF9qNTFUSGFNbHI0d3FvSXdQb1FlRHdEbXlJZDVhbXROcmtVZHU4NEJCelB5SzgyOWlJU1dDZlI1OGp4T1p3ald4eXU0dFp2cHFpcV9FTEFYVFNrLTFQb2xVS2VrNkt3ZGNiQUQwQ1AxUWk3UQ?oc=5",
+      "source": "astig.ph",
+      "sourceLabel": "astig.ph",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 22, 2026",
+      "rawDate": "2026-10-22T02:33:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-57ad705241b4",
       "title": "OpenAI says AI models went rogue, triggering ‘unprecedented’ breach",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZYURDS3B5Z1dRODA1LWJPWUoydVRYYXl2WGtoQmEwcXRWdnZoR09MNVFubWlsZTFzVlMybFpJbFg0UnVPQ1FJTWJEdkxMc2hlMHpoZF9QNjRXVDdYSmx6MGV1NUQxOXBaQjFUSWszcEYyMUlWRWc?oc=5",
@@ -139,34 +167,6 @@
       "date": "October 21, 2026",
       "rawDate": "2026-10-21T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-64d51ac2e037",
-      "title": "Globe, Makati LGU equip over 600 seniors to fight online scams",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOTE2RTc3MDBpUnB6aW94TWIydlJNR244QjNhcElWZW4yaVRjMmVPRVF5QzR3Z2E4RmxFUzEyRFhLVWVRWk1kcEJQMVZWaEg1S2NwV0Nyd0lsQXc3QkIzM29lWHNZamkwQmdMRUFFVzFkR3lpbEF2QWxoa0ttT1lOOUdMdTgwaU0xelhnTk1TeU44eXlmQXBaOHVKRTh6LWZpNWF0ckJ4UzFobkpIY3BXSUc0cE13d1BRMjJDQXF6T2xxWjBqc25uR9IBzwFBVV95cUxPWVpaRnFiRzBCREsyWGdrZVlmMVhGcWZPZkEtY0hJRE9GdVluZ0ZleGVzZGg0dDFIOG9OeEY4c0Vna1lYWkJubllyRlQ1V3hPU3ZjWThBUUh6ZnRhT242bHM5UFB2Vl92UFNXT0I1Nm9fUlgyQUNMRDhsSWRVeEVrS2ZCdkNRcDd0UFFjamZPNHdhMGpwTlNWUjFSNTI1OWpVTlZ5QWQyS3lrNkt5elB0QWIyTEFqandsMW84QTZFUll4b28zVFJQbDE0cGZJV2c?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 20, 2026",
-      "rawDate": "2026-10-20T05:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-54723974adf1",
-      "title": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT28tZTBHeUtXM2JnWmVHbjZhYXlMLXhyOEU4QUdhNnAtNU9HbVM4azNWVDBhQkgwejB3RnliNDBIU09rTlEyX24wal84d2xwYUVsWmVTQndTZ1RQcUFEeUNET3hyeGFPaF9NUUhJNTFMTEJlenlnY2Ytek1iZlY0bGZEdUNtaWNyNUMyNGhVNXliemVfSVZfUWZ5SktfOVY0X3AzQQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 20, 2026",
-      "rawDate": "2026-10-20T03:19:36.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {

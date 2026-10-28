@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-27T17:33:40.456Z",
+  "fetchedAt": "2026-10-28T04:19:48.638Z",
   "alerts": [
     {
       "id": "alert-local-41379bb8c528",
@@ -13,6 +13,20 @@
       "date": "October 27, 2026",
       "rawDate": "2026-10-27T13:59:57.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-915ca81eaf4f",
+      "title": "Pangilinan, Aboitiz, Ang team up for P185-billion integrated LNG facility",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjZXZkNqbXYzclVvc0p4SXBNWGxOUHRhb094NEdpdl9hdE5mUWlzOUNWaVM1bUFoNFNQNTR4QkxGWmJkUXdfTzVnWUphUHh4Z2I5eFFnMVhKUXAtdUxPSDJmYlA0cUhwTkxERzEwRmpDcEN3OTREQmREOEl5T2RnSHh3UG1HbHE2TVpHaHdjdENFTE9Pb1o0?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 27, 2026",
+      "rawDate": "2026-10-27T09:45:06.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {
@@ -128,6 +142,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-9d561810e0c6",
+      "title": "NBI nets 200 Vietnamese workers in Subic scam hub raid",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnJnRVhqUXNwUTJFWDBPd19ac3BHQzFLX25QUFJuUlQ2OXFrWFdSdm9SblVkRnVwaVRYRnRrRUdkbXJfY1owdVF3TlNTeVN2SFV1V3lhS3BCazl1NXRodnBLbmN5SlRVMGhRdWMyTlk2N3ZiTkRQVFFMUzBEWVM1NDVCbUJjX3U3WG04?oc=5",
+      "source": "The Chronicle PH",
+      "sourceLabel": "The Chronicle PH",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "October 23, 2026",
+      "rawDate": "2026-10-23T08:33:57.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/thechronicle.com.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-52feb97573b5",
       "title": "#ScamAlert chat room launched as digital and financial scams evolve",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN2liSGh2aElyR19YaHZrUzNIOVR3c18tb05ORFpOaktoaWVZZ1JnMzdhUXBGRGYtdjg4RldJZjdsT2FJYXNZUmRoYXBjNGItVzdwbDhXdWs4LUpaaEMzVDhVYVNpSXNzOE03bkVFNHVnTUhac25LQmZuaHUxM0ZScXdyeWtjY0pDLVJDQ05ad3FXTDg?oc=5",
@@ -138,34 +166,6 @@
       "severity": "medium",
       "date": "October 22, 2026",
       "rawDate": "2026-10-22T21:22:25.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-accf682c791f",
-      "title": "The DOJ says the scam hubs are back, smaller and mostly Chinese",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02ci1xMkIzRmd3cko5Vkttc1dFTnhreUVWRWptd1JNSWdUaWVCS2cxWTRUTGlGS3BNZklxbEZmSk1LaG1zU2R1Zkphd0tCMWN4d25HSi02a2cwX3JTQlpLYVlDWHhUM0c4cE8xLTI3VnBpYTdiaTI3UVVxRTE?oc=5",
-      "source": "astig.ph",
-      "sourceLabel": "astig.ph",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 22, 2026",
-      "rawDate": "2026-10-22T11:34:54.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-cd28f0ed53a3",
-      "title": "‘Napatawad ko na’: Scam victims move on and leave fraud cases hanging",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2xXcEloTTFLSVZJdUJTYzVZOHpPWnZLZjEtQ2RzZHpvTmlpczdfenNKbWRzQWE1VmZraDcwWnpJbHVJeFRqRVhqUE4wWVp5LTV1YmFibmE2SkFQMkNZb1E0TVRnWkJUWGN3N2p0eDhKeWRfOGRxZ0xoWTEwWlBBM2JyUlR3U1h5QmhtNFIwdVEzQQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 22, 2026",
-      "rawDate": "2026-10-22T11:32:36.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-10-29T18:05:47.049Z",
+  "fetchedAt": "2026-10-30T04:39:49.447Z",
   "alerts": [
+    {
+      "id": "alert-local-0f3d9c8896b3",
+      "title": "GCash reminds users to stay vigilant vs scams ahead of All Saints Day",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDNkk5Z0dlZWgtY2JHVTBzU0c2dGtIZGxBNk50dHNKNmMtSGw3RUF3TzNpR2dMVXFOR3dkZUVWWWkwTHZuZ3lVN0E3UmNUWk1OQTNlal9LLW9mUGg3NTVpWGdR?oc=5",
+      "source": "Unbox PH",
+      "sourceLabel": "Unbox PH",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "high",
+      "date": "October 30, 2026",
+      "rawDate": "2026-10-30T03:30:20.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/unbox.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-89eabf63689a",
       "title": "BuCor warns job applicants vs fake recruitment announcement on social media",
@@ -153,20 +167,6 @@
       "date": "October 24, 2026",
       "rawDate": "2026-10-24T08:11:05.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-dcfa288483bc",
-      "title": "Phishing email to Knicks employees an 'unfortunate mistake,' MSG spokesman says",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRGw2QXIzVk5iV1ljWktrWUZNX1ZNLTFGYkJiUlZSeWhQY01EdU1wZmh4SzNadXhRRG9IX1lLM29NeXhWN2hOM1lqWTZzQ0Fxa0VUN1IzdUdMMkZtSnU4S1pTZ3NTSmZEWmNmTHZFa25WTFBmeFJfalBSSGg2LUZqemJxVlV6clo2OTUzQk5HRHFjM25VZ1c1TUFPME9QVTJqZ2c?oc=5",
-      "source": "ESPN Philippines",
-      "sourceLabel": "ESPN Philippines",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "October 23, 2026",
-      "rawDate": "2026-10-23T22:43:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.espn.ph.ico",
       "scope": "local"
     },
     {

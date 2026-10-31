@@ -1,18 +1,18 @@
 {
-  "fetchedAt": "2026-10-30T17:46:18.566Z",
+  "fetchedAt": "2026-10-31T04:24:25.992Z",
   "alerts": [
     {
-      "id": "alert-local-0f3d9c8896b3",
-      "title": "GCash reminds users to stay vigilant vs scams ahead of All Saints Day",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFA2eW1SMDFDSmN0SGhKMHpTWWJ4RmFWbHFsSHo1aUF2ZzFjNlJ6QlVZX0d2Q3VxRjYzYjdTNGEyazFfelZmMnFDLWRPbTZuQ01UdEJOWkM4bndGMzJpOVJvelpCUzdsTVpEdUlnYXgyOUFUeEZEc2VQVDl1ZzhhRVJZREZiX2pxUUZIeWszdjlUOFhDZHc?oc=5",
-      "source": "Punto! Central Luzon",
-      "sourceLabel": "Punto! Central Luzon",
+      "id": "alert-local-d2b8a878c433",
+      "title": "GCash reminds users to stay vigilant vs scams this All Saints Day",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZzgzV1ZoNXczS2c3ZWd0N1hnNEhsUHFmZ3NJZmRUTEhFblRIZmZXbEZMTGZYaTViNkl4OVdmMkNBSkh3aUF4eGR3dDA2M3NxeDlHMk5Qbzlod2NBSlB4YmNISVd2UF9Tc202LS1ROWNwYndnOFFpdjk5YXd2SmVxLWIzLUMyTFhVdjU2VDhObldSREREOWdXVEVoVzRackpremhQWlh6R0owVE9QZ1ZhaNIBtwFBVV95cUxNblRPc09TRHZYUkhkczdVekR2VFhFU05PUzQ4ekdoaTlDSi16TDF6a3dEVE1QWDhCeFgwWVpoZEtxRTN0U01MZUd6SHRLLVFoWkZJdGRJVVdoLVlNbGxuNmo4aTBsd01EX05JUUtvc3NUT3JWNG4yWmVWa1FqbFdzUjFMbWtKS2FJT3BkOHprYWhyRk81d1NYcXQ2WWlNeHpHWnNXcjl6Q2ltR0R6WEZUUld1a1RobUk?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
       "sourceLogo": "newspaper",
       "category": "ewallet",
       "severity": "high",
-      "date": "October 30, 2026",
-      "rawDate": "2026-10-30T12:39:21.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/punto.com.ph.ico",
+      "date": "October 31, 2026",
+      "rawDate": "2026-10-31T02:42:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-72817404d8d8",
+      "title": "AI Gives Ransomware Negotiators a New Edge in Haggling With Hackers",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjVoNGxrdDhMdDhnbGkxUHVIMWkzSFBCUkQ4bExWQ25HQWFINWFNeEhoMkJvUEFnRlUxYkhONDg3TnhBajhzUVRZM3dCUGlJOVlSTFRweWNTU2p3NnRXdVQ3Q3BsNWJGbzhCWllqSE1vaDh2V0ZyLXRUX3RYR2Vmb2NFMkE3Si10T3VRNlRfOU04akY2R2dqXw?oc=5",
+      "source": "Bloomberg.com",
+      "sourceLabel": "Bloomberg.com",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "October 30, 2026",
+      "rawDate": "2026-10-30T08:30:03.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.bloomberg.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-f9882e8e2357",
       "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlhQY2xOeTVJXzB6QllJeEdreFpkNURjYmJtUktXM0ZJZkwwSHRSZWk2Zzc4S0VIbnRtdkRtcnlJWEFtZERDU1dlLTBEMFMzNFVHYUFUNWZ0bWZtVHU5NG8tSmxEQlRySDVNb2xHM1duSVdldlZmY3piSm4xVTRYdGpydmNiYmxaUkhnU2Y0bDBhcFNMWTNadlJCYTNpYnFjWUxaX1hVNnpZQjdiWUNr?oc=5",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "October 21, 2026",
       "rawDate": "2026-10-21T21:50:23.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-5d5b3ec1f3aa",
-      "title": "Booking.com targeted in EU investigation into phishing scams, fraudulent listings",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUE53QzJMM2lRV3BrVDhCbmJOemxlT1VHejRpTHdldVZTSHF2YUdKWmhiZ2RRVmplTTVGT0lPMnJndEZHYWtiSElrNlIyUmFjS0NSWjZRUTFMNFM0a1o3ODVRblpZSW5MbXhQMVNEbko3VkNDYVZkS1JtR0ZjV1MxQmhmNEpBYTgzUnhSZ1Q3Qk9Sb2w2WE9pbWNvT0NUaHE3NTFPZ1ZBRUN2SUFXdnJSZ2hpSnFycWdfazV4WnM2eFhXUHVVRGdjWk1laWw3R0VL?oc=5",
-      "source": "Reuters",
-      "sourceLabel": "Reuters",
-      "sourceLogo": "newspaper",
-      "category": "shopping",
-      "severity": "medium",
-      "date": "October 21, 2026",
-      "rawDate": "2026-10-21T20:49:52.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.reuters.com.ico",
       "scope": "international"
     }

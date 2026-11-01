@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-31T16:54:31.417Z",
+  "fetchedAt": "2026-11-01T17:42:06.935Z",
   "alerts": [
     {
       "id": "alert-local-eb8e898ff3af",
@@ -41,6 +41,20 @@
       "date": "October 31, 2026",
       "rawDate": "2026-10-31T02:42:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-33f5dbd3ee8a",
+      "title": "GCash warns of online scams ahead Undas",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaUxPTEY1SGR4c0lPVXdTNFRDajJENldyYTQ4alFQNFJFU2hrZWFzRWxuMVphbFlkSWxFWlNXTEp4Q2NXZzBkRzAwYXlSa19wWHFhR1M3bWVMd0lhdjhtRjNIYW41ZjFINUpyNWRaU3l5U1Bfb3hfd1lVd0NJYjFILVkwRVEtei1ENGRJ?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "high",
+      "date": "October 30, 2026",
+      "rawDate": "2026-10-30T09:36:22.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
       "scope": "local"
     },
     {
@@ -156,18 +170,32 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-025e65a0cb44",
-      "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnM5T0pZYWFFWkFDRjVlbndYdmpCY2NkTmxfNkZhcW1UM1ZoSkxPanVKeFQ1WnR3aUp5S3BUNl8xVUNfYnJSVVVfUnY3X2lJUzZ6SlJFQmd3Q192SmV4THh4VTlVRTB2Yk5RNGdPeVh1YXBSRjNLeVVhOXpXRVNLUzlFaTZQWVpwMUNJaHFoVWVaWFVqak9ScVk3YlhEaHV1NFU3RQ?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
+      "id": "alert-international-1050fd0aedac",
+      "title": "Like many authors, I’m bombarded by scam fan mail. I wasn’t prepared for what would happen when I wrote back",
+      "url": "https://www.theguardian.com/books/2026/nov/01/like-many-authors-im-bombarded-by-scam-fan-mail-i-wasnt-prepared-for-what-would-happen-when-i-wrote-back",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "general",
       "severity": "medium",
-      "date": "October 27, 2026",
-      "rawDate": "2026-10-27T03:06:14.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
+      "date": "November 1, 2026",
+      "rawDate": "2026-11-01T12:00:12.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
+      "id": "alert-international-b0e759e7fbbd",
+      "title": "A gift to scammers: why you should probably keep your birthday a secret",
+      "url": "https://www.theguardian.com/money/2026/nov/01/do-not-share-date-of-birth-online-scam-fraudsters-advice",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "medium",
+      "date": "November 1, 2026",
+      "rawDate": "2026-11-01T07:00:05.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-fcb9c221df3e",
@@ -307,34 +335,6 @@
       "date": "October 24, 2026",
       "rawDate": "2026-10-24T00:35:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1d0fb5cbe772",
-      "title": "MSG uses Knicks championship ring email as phishing test",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNakpLbmNhYjhoMGlwSGxCb1hWM0ZpV0pPUnhDU3ZoMkY0WmRmZHI4Rk53TDhFdDAzQnFqS2daVnlZSEhkN1drZ2Q3QlJtMVVmb3h5N3hjdDl1M1BWZFZOVVV3OGRTU3M0YW1uazROOHZ6SEYzTWM4NDFLelJ3MXZOUUt2OEJQbXJiWmxGQmhOeXJrXzdWUVBjNXplMA?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "October 24, 2026",
-      "rawDate": "2026-10-24T00:34:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-93334f12fc00",
-      "title": "Elizabeth Holmes is back in the spotlight: why can’t we look away? – podcast",
-      "url": "https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 22, 2026",
-      "rawDate": "2026-10-22T04:00:06.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

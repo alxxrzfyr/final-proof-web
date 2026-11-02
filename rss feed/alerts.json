@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-11-01T17:42:06.935Z",
+  "fetchedAt": "2026-11-02T04:45:15.441Z",
   "alerts": [
+    {
+      "id": "alert-local-44bde1108631",
+      "title": "Chinese Fugitive Wanted for Telecom Fraud Arrested by Philippine Immigration",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlJhX1NYdTBIT0VkMGp6QWJXYWxYeEFhdjBnM1B2Tk1yNXE2U05NWmxITXgzNFpxa09Ua2RWRXVlTGdDTjVSQVdMa2hJUnlMYS02amFlSjQxU2V2MU1iOHRmNUxEUk9HYjg1b015cmhTM1NtZHJVVDduYm5BQ1ZqS0MwMWI4a2tidFdmNHg0eUtTUVcwLWVibHlyM05BaTVOWk5QaGZIRXdtTTdraUU4?oc=5",
+      "source": "Daily Tribune",
+      "sourceLabel": "Daily Tribune",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 2, 2026",
+      "rawDate": "2026-11-02T04:22:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-cd1fb1e220c0",
+      "title": "Chinese fugitive wanted for P45.2-M telco fraud nabbed in Parañaque",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1luVUVWeVRVQ3V4a0wzX2JNTnVSQ0JRdUUyQVc2bmI2ZEkyVkRIQVh2Rk9QbFotR1Vwal9FRmhGYkgxUzlubHJWLXlmb0dHVm05a05oNTlJWTNKVXlPbDlhOXg5WTd5M0Z0YmhTdm13Wmkzc01vLTlTbzhKc3A2Mk5NcUtvYkxRaEw1Mms0YnM0REZVdllrOWtHLUQ0VnNDbE4yNEN4SkFNbTFJ0gGyAUFVX3lxTE9vY2FmaVZXNl84bHhzV0RRb1pZTTZtcVduanVOa2RZb0VUVWU5QWdSS1A2UlEzbElJdUtQT2taWVEwZm9GWlRyR3pKNHA3bFk2UjVDZmNyaURabzcxcU05eVZhYmJob01IQW96ZndYMXJzSjFBUGk1LXRER05CVy1jZ3lZaWZGa29ab1d1U1MyTHhUYnVUSF9XandzSWM0VGFBMDE5dkxibDRCUzUyd2V1Q1E?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 2, 2026",
+      "rawDate": "2026-11-02T03:14:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-6e22f6330bfe",
+      "title": "BI NABS CHINESE FUGITIVE WANTED FOR TELECOMMUNICATIONS FRAUD",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnFVVkhtLW1pNTE3UlNMME1uQ2RtQml5dGdPbzk5R213R1V3a3BDZWNIb3BtSnUyRjNGVjJKeEZGay1zOTBXLWF0UU5xTW9CSmRURFB6aTdfblJUOGZkM1NuWmdNQ3hjVmhnbXZFa05lcjFZdEllbU0xbGladGs2R3p6clR0dWR0bTB1eTR2ZGtxdw?oc=5",
+      "source": "Bureau of Immigration Philippines",
+      "sourceLabel": "Bureau of Immigration Philippines",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 2, 2026",
+      "rawDate": "2026-11-02T02:33:16.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/immigration.gov.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-eb8e898ff3af",
       "title": "Susceptibility and the world of scams",
@@ -128,48 +170,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-915ca81eaf4f",
-      "title": "Pangilinan, Aboitiz, Ang team up for P185-billion integrated LNG facility",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjZXZkNqbXYzclVvc0p4SXBNWGxOUHRhb094NEdpdl9hdE5mUWlzOUNWaVM1bUFoNFNQNTR4QkxGWmJkUXdfTzVnWUphUHh4Z2I5eFFnMVhKUXAtdUxPSDJmYlA0cUhwTkxERzEwRmpDcEN3OTREQmREOEl5T2RnSHh3UG1HbHE2TVpHaHdjdENFTE9Pb1o0?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 27, 2026",
-      "rawDate": "2026-10-27T09:45:06.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-8357b7147b31",
-      "title": "Are you willing to pay P8,000 for VIP access in NAIA?",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NbEo4SWlyZ2RqNFlnTkVWcmpvVjBWc3N4d2xNNDY4ODdFeHRwVnlpUFN2RzVmNldBWXFObTVxUElZQW9CY1hJR2d4bzMzS1BEcTdmUGl4WVlvY0w0c3ZxT25sdw?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 27, 2026",
-      "rawDate": "2026-10-27T09:45:06.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-30a09cedea01",
-      "title": "FALSE: Vice Ganda endorses bitcoin product",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdkViYjR2bUNjLU5LMkc2MW9sM0J4VEVrMkthLVR0QTJDTGR2QW9uSTN5SjR5QktuUTRiTWJ5VVRhQl9DWURrbmplZElmV2FVUnNMS0FOMms4YzBiRXZXR2JtZ2N3TmthT0tvYkJqYklYai1yV2szZF9jOGktSmhwMTVxc3ZFMmhu?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "investment",
-      "severity": "medium",
-      "date": "October 27, 2026",
-      "rawDate": "2026-10-27T09:45:06.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-1050fd0aedac",
       "title": "Like many authors, I’m bombarded by scam fan mail. I wasn’t prepared for what would happen when I wrote back",
       "url": "https://www.theguardian.com/books/2026/nov/01/like-many-authors-im-bombarded-by-scam-fan-mail-i-wasnt-prepared-for-what-would-happen-when-i-wrote-back",
@@ -190,7 +190,7 @@
       "source": "The Guardian (Scams)",
       "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
-      "category": "ewallet",
+      "category": "general",
       "severity": "medium",
       "date": "November 1, 2026",
       "rawDate": "2026-11-01T07:00:05.000Z",
@@ -333,7 +333,7 @@
       "category": "phishing",
       "severity": "medium",
       "date": "October 24, 2026",
-      "rawDate": "2026-10-24T00:35:00.000Z",
+      "rawDate": "2026-10-24T07:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }

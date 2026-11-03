@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-02T21:27:47.755Z",
+  "fetchedAt": "2026-11-03T05:36:22.095Z",
   "alerts": [
     {
       "id": "alert-local-372656472fdb",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-5a5dd31047b9",
+      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 3, 2026",
+      "rawDate": "2026-11-03T02:24:31.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-1050fd0aedac",
       "title": "Like many authors, I’m bombarded by scam fan mail. I wasn’t prepared for what would happen when I wrote back",
       "url": "https://www.theguardian.com/books/2026/nov/01/like-many-authors-im-bombarded-by-scam-fan-mail-i-wasnt-prepared-for-what-would-happen-when-i-wrote-back",
@@ -321,20 +335,6 @@
       "date": "October 24, 2026",
       "rawDate": "2026-10-24T16:12:48.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.nbcnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-3e2886801a82",
-      "title": "MSG says phishing test offering free Knicks championship rings was an \"unfortunate mistake\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMHhaUTVncGN2VHM0VUtuNW5vTFFDcnR5ZWFQamMwcndPX0plMFE4NVVaYi0xTFp6TGpqVmtiWkpLRnB5ZFM2ME8wUG14VDJvWFJQNjlzT1hEUFZsNjdCVVFTWjMwTVYtS1Q5djhMOUNmWnlDR3JueGVjS2MzZEhPMTJTVV9iSTFk?oc=5",
-      "source": "CBS News",
-      "sourceLabel": "CBS News",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "October 24, 2026",
-      "rawDate": "2026-10-24T07:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
       "scope": "international"
     }
   ]

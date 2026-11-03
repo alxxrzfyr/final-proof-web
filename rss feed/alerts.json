@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-11-03T05:36:22.095Z",
+  "fetchedAt": "2026-11-03T19:10:25.106Z",
   "alerts": [
+    {
+      "id": "alert-local-7783d0a08a58",
+      "title": "Chinese, 2 Malaysians nabbed over alleged 'parcel scam' hub",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTEFYd1lYcjlDdEY2ZGw4Vk1vUVFUTk04SHp0X0xBWlhFZG5TYTc1ek9LN1E1VlVlWWVmejZ1eDdMZl8wSXZoNzMxUnlXWDdFTTU3UXlmeTlBU1l6R0JpcUkzQnIxbkw2TVVILWNGVmRhWFAxbTBJT0p4b3E1RXNpdURoZFlDV21YdGNuQm1FUGpabXFSOTNRaEV3V2JUTVpfLU1HOXNhekJkUzlYeGRWZ3hsQVViYnU3X05qdNIBwgFBVV95cUxPb1FULWg3ZmdmMzRzT0d4NTlHWFlyQjRHZy1CenZSaXNzRS1qRndXejdTOTlad19zNDZUZXc2dW01X3RaYkIwZmZ3MUNjRG16T3czWnZkZzdWclZjNVZWNzU1aHdub01xRDU4X3hTa2V5SUZHNEgzYlhvbVR6RDQ1VnhtU05vQ3V5SEswNjNkWnl6QmhmSDQ1c3A2bDIycHU0bW9jeHlWVjVDdzdPTzdnc2lucDRRcXlpUWhmbGNTcGp0UQ?oc=5",
+      "source": "GMA Network",
+      "sourceLabel": "GMA Network",
+      "sourceLogo": "newspaper",
+      "category": "shopping",
+      "severity": "medium",
+      "date": "November 3, 2026",
+      "rawDate": "2026-11-03T14:50:42.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-cff93ba48bf4",
+      "title": "How the Knicks' season, title defense got chaotic -- fast",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1A0Vm9HQngzV1dvT0V2c1ZWdUNCMmZPSEJ5cWR4TUg3YVRYdV9QX05oQ2Z6NnFtTE9kV2dNV281dkpnOGp3THctMEtuajlaeHZxYkRYNFd4cVE4OUU2TTJpY2pWOFVzRXhkZldpbjk0SVpjT3BXZDM3Wm9CRjZHTUxaT1oxQlVEUEE?oc=5",
+      "source": "ESPN Philippines",
+      "sourceLabel": "ESPN Philippines",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 3, 2026",
+      "rawDate": "2026-11-03T14:48:32.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.espn.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-6612211d3f70",
+      "title": "St. Luke’s mobile app breach may have exposed patient, employee data",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1NYMFJfTmRQZnBPLU1IN2lrZmVKZlQ4QW1RZVN5Y3JKcmswZEFjSnJTLTQzNUVrLTdKNnlZMmY2NV93aWZCamY3aThPMXVnYk5pbmNUbU04VkNJc0lSalNiYjBrdlJMdHZtQjVGRUF2RENZR1BMc0R3bmhZTDA2ZHFoQmFHb1Q4TXNVNXJEZmhkRXdiSng1djNYNHAyWG8?oc=5",
+      "source": "Newsbytes.PH",
+      "sourceLabel": "Newsbytes.PH",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "November 3, 2026",
+      "rawDate": "2026-11-03T08:21:38.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-372656472fdb",
       "title": "Chinese fugitive nabbed for fraud",
@@ -125,48 +167,6 @@
       "date": "November 2, 2026",
       "rawDate": "2026-11-02T07:37:19.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-44bde1108631",
-      "title": "Chinese Fugitive Wanted for Telecom Fraud Arrested by Philippine Immigration",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlJhX1NYdTBIT0VkMGp6QWJXYWxYeEFhdjBnM1B2Tk1yNXE2U05NWmxITXgzNFpxa09Ua2RWRXVlTGdDTjVSQVdMa2hJUnlMYS02amFlSjQxU2V2MU1iOHRmNUxEUk9HYjg1b015cmhTM1NtZHJVVDduYm5BQ1ZqS0MwMWI4a2tidFdmNHg0eUtTUVcwLWVibHlyM05BaTVOWk5QaGZIRXdtTTdraUU4?oc=5",
-      "source": "Daily Tribune",
-      "sourceLabel": "Daily Tribune",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 2, 2026",
-      "rawDate": "2026-11-02T04:22:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/tribune.net.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-cd1fb1e220c0",
-      "title": "Chinese fugitive wanted for P45.2-M telco fraud nabbed in Parañaque",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1luVUVWeVRVQ3V4a0wzX2JNTnVSQ0JRdUUyQVc2bmI2ZEkyVkRIQVh2Rk9QbFotR1Vwal9FRmhGYkgxUzlubHJWLXlmb0dHVm05a05oNTlJWTNKVXlPbDlhOXg5WTd5M0Z0YmhTdm13Wmkzc01vLTlTbzhKc3A2Mk5NcUtvYkxRaEw1Mms0YnM0REZVdllrOWtHLUQ0VnNDbE4yNEN4SkFNbTFJ0gGyAUFVX3lxTE9vY2FmaVZXNl84bHhzV0RRb1pZTTZtcVduanVOa2RZb0VUVWU5QWdSS1A2UlEzbElJdUtQT2taWVEwZm9GWlRyR3pKNHA3bFk2UjVDZmNyaURabzcxcU05eVZhYmJob01IQW96ZndYMXJzSjFBUGk1LXRER05CVy1jZ3lZaWZGa29ab1d1U1MyTHhUYnVUSF9XandzSWM0VGFBMDE5dkxibDRCUzUyd2V1Q1E?oc=5",
-      "source": "Inquirer.net",
-      "sourceLabel": "Inquirer.net",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 2, 2026",
-      "rawDate": "2026-11-02T03:14:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/globalnation.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-6e22f6330bfe",
-      "title": "BI NABS CHINESE FUGITIVE WANTED FOR TELECOMMUNICATIONS FRAUD",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnFVVkhtLW1pNTE3UlNMME1uQ2RtQml5dGdPbzk5R213R1V3a3BDZWNIb3BtSnUyRjNGVjJKeEZGay1zOTBXLWF0UU5xTW9CSmRURFB6aTdfblJUOGZkM1NuWmdNQ3hjVmhnbXZFa05lcjFZdEllbU0xbGladGs2R3p6clR0dWR0bTB1eTR2ZGtxdw?oc=5",
-      "source": "Bureau of Immigration Philippines",
-      "sourceLabel": "Bureau of Immigration Philippines",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 2, 2026",
-      "rawDate": "2026-11-02T02:33:16.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/immigration.gov.ph.ico",
       "scope": "local"
     },
     {

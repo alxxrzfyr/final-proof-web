@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-03T19:10:25.106Z",
+  "fetchedAt": "2026-11-04T19:26:56.546Z",
   "alerts": [
     {
       "id": "alert-local-7783d0a08a58",
@@ -69,6 +69,20 @@
       "date": "November 2, 2026",
       "rawDate": "2026-11-02T14:44:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/news.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-39d8a8cb6da4",
+      "title": "Prosecution eyes 6-hour inquiry for 1st witness in Duterte's ICC trial",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3dUb3dsOEctcEVoUklIa2Uzc204Rmk1dkcteWNVZUhLekdvc2t3VkNReTlydkU1X1E3VUxOLXNrZWZCOTB2TERQYnItTmZiSFNRSGM5YzRUVVJmV3phUnFRMjJOWnRicWkzVTNYUUFsN1pPbWhxTGdLWmlnNFU0NUM1VHVXcGNab1RQak51SzY4ek1yckxPQzQ2X2NFTGEtaW9DNFhxQmRfaEF0RFA2ZHhEM01oVVZVQXdic0xn?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 2, 2026",
+      "rawDate": "2026-11-02T14:16:28.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "November 2, 2026",
       "rawDate": "2026-11-02T08:42:24.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-c926ffc6012d",
-      "title": "Two foreigners held 3 Filipinos in a Malate condo and made them memorize love scam scripts. CIDG got them out.",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTE50bmRmLUpYeS1NS3dwLWo3amhhbmYtaHFfWEp3ZGtPUXdxa2VwVFZLcmJDNDdMQ1JCY0o5c1JCZmptNlBGNW1ENDZCMDNvR0tDRXFjRHNSam8zMW00OGQxTFMxelBXXzZsOEpzNlo2dW1uUE94S0RXeWJLN2hGLXhWdjM0Zw?oc=5",
-      "source": "astig.ph",
-      "sourceLabel": "astig.ph",
-      "sourceLogo": "newspaper",
-      "category": "romance",
-      "severity": "medium",
-      "date": "November 2, 2026",
-      "rawDate": "2026-11-02T07:37:19.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
       "scope": "local"
     },
     {

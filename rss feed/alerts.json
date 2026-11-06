@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T19:36:04.728Z",
+  "fetchedAt": "2026-11-06T05:25:50.546Z",
   "alerts": [
     {
       "id": "alert-local-f36b82d7e339",
@@ -86,6 +86,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-2422a3119697",
+      "title": "TV PATROL: 3 Pinoy nasagip; 2 dayuhang recruiter umano para sa love scam hub arestado",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQmFCMzVVVklFcGp0S3BJT05VRl85VG9wOUVKNWl0My0tVkg5b3NWRi1IWExsUTdqRWg4T2NpVVhJMlpSOGs2UkxGSkZQdmZPdV82TU44dllScXNlbjF0LVNOYmk4amxueGtQQURpMkh5MmpsMXR6TTFneXgzYXhSSkxMbGVPcDBzd1QyUk9FalNqYUNEdDFyeFMwazhFa3pyUXJVdXM5ajlmaFFhZXhwODNjRXFSbmhacFY1cTdWR212S2FwMGR3RmFOc2lSVU1sOHRzVQ?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "romance",
+      "severity": "medium",
+      "date": "November 3, 2026",
+      "rawDate": "2026-11-03T03:30:01.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-372656472fdb",
       "title": "Chinese fugitive nabbed for fraud",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVW1ZdEJ0OFJLbmIzajZsWjIwRzRNbzdibU1kdDF0aW9jeEdCTUJkcnV2WERSWkZLUU84X21fWWRaU3dReDJ4OXZ2MEQwbDhIdC1DN0pXY05DV01HZUVqVW80ZWp3dkEtQ3Voc0lVSUtUUXRwVXZWRW5yazhjcVgzQ21ycTNsRnc2TW8zdDZn0gGOAUFVX3lxTE9VbVl0QnQ4UktuYjNqNmxaMjBHNE1vN2JtTWR0MXRpb2N4R0JNQmRydXZYRFJaRktRTzhfbV9ZZFpTd1F4Mng5dnYwRDBsOEh0LUM3SldjTkNXTUdlRWpVbzRland2QS1DdWhzSVVJS1RRdHBVdlZFbnJrOGNxWDNDbXJxM2xGdzZNbzN0Nmc?oc=5",
@@ -97,20 +111,6 @@
       "date": "November 2, 2026",
       "rawDate": "2026-11-02T16:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-2422a3119697",
-      "title": "TV PATROL: 3 Pinoy nasagip; 2 dayuhang recruiter umano para sa love scam hub arestado",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc09SQXRmNVFNQ3pHa3RHX1BFUXFwZVZTZmZrbXc3WFdJbkk1QURBY2pzX0RQeGV2RXNYRWY2UTlmSTgtWDZ6TldvVWxVRlNvY20xWnVfZFowOFhMWDE1TE90UjlKZV8xZm41eUgzQXZ5eGJSeDZIS3M3anYwZnludjdpWWlSWDVfdVNzaWZUZzY1U3FLRnprZDNGU00wczZoZ0tuR2RzbjlYallEeDd6ZFJOMUxLcTVRLWRtYThhOXBtQWtnS0pwSnpUVm1CVk8tSlF1eA?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "romance",
-      "severity": "medium",
-      "date": "November 2, 2026",
-      "rawDate": "2026-11-02T14:44:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/news.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -168,6 +168,20 @@
       "rawDate": "2026-11-02T11:51:29.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
       "scope": "local"
+    },
+    {
+      "id": "alert-international-a35fd461a032",
+      "title": "The Queens Library network still down due to ransomware attack",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPM05RZzltRm00MW9oZkphVzZWaF9BOEVGV2xUSHFnRG9STkxPeU90MFp3QmRKN3kwclNQY2YxWXdiU0U4QUlCR3V2VUJnNjhnNXNob0RJQWRLZFp1SHNzZHQ5bEpUTXY3T0JSM0RUN0J4SDdSdzhPeFN1ZUZObkxzSTJvNnhOWE9NcEtBblJiUThQX0RDSkZYaDJwMHhtYnh2Wnlz?oc=5",
+      "source": "CBS News",
+      "sourceLabel": "CBS News",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "November 5, 2026",
+      "rawDate": "2026-11-05T23:34:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-5a5dd31047b9",
@@ -321,20 +335,6 @@
       "date": "October 25, 2026",
       "rawDate": "2026-10-25T07:00:56.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-bf55d9e5cc57",
-      "title": "‘An unfortunate mistake’: Knicks admit error in using championship rings as phishing bait",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYUd6MFpNVmtTTUhSd3dCaWxwTWtubzRkT1J5a04zOFdRWm5Lb2hPQURDdlA5T0ZGWmNfMUdCRGNrYzFleE9ISHd1M3RXUmFaelY0dC04MURNTVpZZGw0R05TTEltWDFNSm9hYVBqb2VRc0NvMDl1bG53NWlkZ2NIb2hwWkp2MXMySUl3aGdn?oc=5",
-      "source": "NBC News",
-      "sourceLabel": "NBC News",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "October 24, 2026",
-      "rawDate": "2026-10-24T16:12:48.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.nbcnews.com.ico",
       "scope": "international"
     }
   ]

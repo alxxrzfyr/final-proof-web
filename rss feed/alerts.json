@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-11-07T04:54:07.350Z",
+  "fetchedAt": "2026-11-07T17:30:15.426Z",
   "alerts": [
+    {
+      "id": "alert-local-2a0987729bdc",
+      "title": "JLJL77 Official Link - SSL Padlock Check & Phishing Clone Warning",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkRU1tN0xSYndSRzN6YW1pX1pzak1feEtQbzM3c05pOUgzVm1PVkJfYVF1TWpYTjhZcnhkUDNtcUlrMFNLWmZLb290a19jNzFhX2RUa0w1OTZGOFk?oc=5",
+      "source": "jljl77bet.ph",
+      "sourceLabel": "jljl77bet.ph",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "high",
+      "date": "November 7, 2026",
+      "rawDate": "2026-11-07T10:12:55.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/jljl77bet.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-687918c1c3af",
+      "title": "Phishing Messages: Examples, Signs & What to Do",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95eEFCc3VXTjkzVWlMWko2bWJ1RXpHODRMclJkdXM0Y2xFdUdock9WZm9lU1F1eDlMUlVGamxqbU5ZUTU2UWhEeFIyV3dTNzZLUGFFLXBMZDQ?oc=5",
+      "source": "scamcheck.ph",
+      "sourceLabel": "scamcheck.ph",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "medium",
+      "date": "November 6, 2026",
+      "rawDate": "2026-11-06T21:43:27.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/scamcheck.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-4a0a317e11f3",
       "title": "Fraud Analyst (Junior and Senior level)",
@@ -139,34 +167,6 @@
       "date": "November 2, 2026",
       "rawDate": "2026-11-02T16:00:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-39d8a8cb6da4",
-      "title": "Prosecution eyes 6-hour inquiry for 1st witness in Duterte's ICC trial",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3dUb3dsOEctcEVoUklIa2Uzc204Rmk1dkcteWNVZUhLekdvc2t3VkNReTlydkU1X1E3VUxOLXNrZWZCOTB2TERQYnItTmZiSFNRSGM5YzRUVVJmV3phUnFRMjJOWnRicWkzVTNYUUFsN1pPbWhxTGdLWmlnNFU0NUM1VHVXcGNab1RQak51SzY4ek1yckxPQzQ2X2NFTGEtaW9DNFhxQmRfaEF0RFA2ZHhEM01oVVZVQXdic0xn?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 2, 2026",
-      "rawDate": "2026-11-02T14:16:28.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-89f33b0575df",
-      "title": "PNP-CIDG arrest Taiwanese, Malaysian over ‘Love Scam’ biz",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOejl0enRRemdLVmcxWjRLeHdXcHljS0R5akFlX3VIS1ZiSjZJZnRKX00tbFV4akNxOXNRRWN4Q1lncWhRWVZZdjU4ZG5UbV81RURMTUJJWmNNVjdqRVZRSXpKTUV3VVZ2QWN3Y19VV0MtQ1NJOXVWS0RHT0J3NGMzVENwSjRRNUxHd1E?oc=5",
-      "source": "Journal News Online",
-      "sourceLabel": "Journal News Online",
-      "sourceLogo": "newspaper",
-      "category": "romance",
-      "severity": "medium",
-      "date": "November 2, 2026",
-      "rawDate": "2026-11-02T12:59:51.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/journalnews.com.ph.ico",
       "scope": "local"
     },
     {

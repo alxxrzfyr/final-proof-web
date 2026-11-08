@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T17:30:15.426Z",
+  "fetchedAt": "2026-11-08T17:41:06.915Z",
   "alerts": [
     {
       "id": "alert-local-2a0987729bdc",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-dcf033230b0f",
+      "title": "‘Free grand piano’: the scam playing on music lovers’ heartstrings",
+      "url": "https://www.theguardian.com/money/2026/nov/08/free-grand-piano-scam-emails",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 8, 2026",
+      "rawDate": "2026-11-08T07:00:33.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-5729c37cea8c",
       "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
       "url": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
@@ -321,20 +335,6 @@
       "date": "October 29, 2026",
       "rawDate": "2026-10-29T05:01:07.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.bloomberg.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1a8390c77725",
-      "title": "Fake film deals and emails from top agents: who is behind the explosion in literary scams?",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/29/paid-for-book-clubs-fake-film-deals-emails-explosion-literary-scams-authors",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 29, 2026",
-      "rawDate": "2026-10-29T05:00:22.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

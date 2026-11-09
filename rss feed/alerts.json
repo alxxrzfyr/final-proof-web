@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-11-08T17:41:06.915Z",
+  "fetchedAt": "2026-11-09T04:55:54.312Z",
   "alerts": [
+    {
+      "id": "alert-local-4049e8149a31",
+      "title": "Philippines Scams Move to E-Wallets, Now Used in 73% of Losses",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzZ4aGJVYnU5SUI1em11eEJEV0RHLXZuNFlQRDNxLTh3Rm45V3E1RTJCSUJmQ1UweFNSU2RsS0tmb1lER3l0ZTVBNXNEZlNEbWV0Q2J6RTRMUXRBeDdfNWVIQkQwcDZZajFuYmJIUFVyQmVWR2JndUtIeUIwUlJSeFp2X3BvelZjbWNjQjZEWS0zMTJzVmpQcl9GaHF3RUx1UkktT3g2Q20xcEc2NmpXbTFKQlZrbnVq?oc=5",
+      "source": "Fintech News Philippines",
+      "sourceLabel": "Fintech News Philippines",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 9, 2026",
+      "rawDate": "2026-11-09T04:30:30.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/fintechnews.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-2a0987729bdc",
       "title": "JLJL77 Official Link - SSL Padlock Check & Phishing Clone Warning",
@@ -153,20 +167,6 @@
       "date": "November 3, 2026",
       "rawDate": "2026-11-03T03:30:01.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-372656472fdb",
-      "title": "Chinese fugitive nabbed for fraud",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVW1ZdEJ0OFJLbmIzajZsWjIwRzRNbzdibU1kdDF0aW9jeEdCTUJkcnV2WERSWkZLUU84X21fWWRaU3dReDJ4OXZ2MEQwbDhIdC1DN0pXY05DV01HZUVqVW80ZWp3dkEtQ3Voc0lVSUtUUXRwVXZWRW5yazhjcVgzQ21ycTNsRnc2TW8zdDZn0gGOAUFVX3lxTE9VbVl0QnQ4UktuYjNqNmxaMjBHNE1vN2JtTWR0MXRpb2N4R0JNQmRydXZYRFJaRktRTzhfbV9ZZFpTd1F4Mng5dnYwRDBsOEh0LUM3SldjTkNXTUdlRWpVbzRland2QS1DdWhzSVVJS1RRdHBVdlZFbnJrOGNxWDNDbXJxM2xGdzZNbzN0Nmc?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 2, 2026",
-      "rawDate": "2026-11-02T16:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {

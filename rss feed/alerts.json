@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-11-09T04:55:54.312Z",
+  "fetchedAt": "2026-11-09T21:59:34.563Z",
   "alerts": [
+    {
+      "id": "alert-local-2808e4af2f8e",
+      "title": "BIR probes alleged data breach involving over 10 million taxpayer records",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGN3bkxlbHdZS1NBaGhsWmV5azU0ak1wQWtJQ0Z6T1Z3MkNIbmxoM1F3ZUlOQUx1ZW5WZjA4YUVfRTZKT2lqa2VjTS16clZrZmM5dHFfZ09oYXAwb1V2UkZJTkFkdkRnaHlLdExuYjBGTEUxTXJKNkFaXzlFanhEZ2p5Q2FYcWRjM3ZfWURkZ1RDSEF6d1h3cm5xZ01xRktaMkVqdFV2Z2RJQQ?oc=5",
+      "source": "Newsbytes.PH",
+      "sourceLabel": "Newsbytes.PH",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "November 9, 2026",
+      "rawDate": "2026-11-09T10:19:01.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-ed7820c2c508",
+      "title": "SEC confirms a data breach on its online platforms, exposing users’ names, phone numbers, and tax IDs",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yd2FKbzl1NWZyZlktNGMzX04tQ1dibjFYWVk0Y1o0Q0w1Y1N5RUdoQXp1cmp1TDdqaW54OHFCVDdZZmh5OTRJUWFRSTNYQXpZb2FaLTlwNzJudE12SXhqV2ZKMzlDS1FscWJN?oc=5",
+      "source": "astig.ph",
+      "sourceLabel": "astig.ph",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "November 9, 2026",
+      "rawDate": "2026-11-09T05:48:38.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-5b07fdb5021a",
+      "title": "Pinoys lost ₱121.8 billion to digital scams this year: Here is how fraudsters hijack your e-wallet",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzSEdpZXlVNHFCa3k1MjJlNzFHMGpiMGU4QjRGb2NpMzdOYmVzTE5VS2ZfNnRfU19NcWF3SVgxRlI5X1BwYkdWMjVJeDlZeVNvcHc1UVlOb2M1OVBKRFRoVGRKZFRjMlprRzVnSDhnUzM0SkEzOXU2Z1J1VkI?oc=5",
+      "source": "astig.ph",
+      "sourceLabel": "astig.ph",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "medium",
+      "date": "November 9, 2026",
+      "rawDate": "2026-11-09T05:22:03.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-4049e8149a31",
       "title": "Philippines Scams Move to E-Wallets, Now Used in 73% of Losses",
@@ -125,48 +167,6 @@
       "date": "November 3, 2026",
       "rawDate": "2026-11-03T14:50:42.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.gmanetwork.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-cff93ba48bf4",
-      "title": "How the Knicks' season, title defense got chaotic -- fast",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS1A0Vm9HQngzV1dvT0V2c1ZWdUNCMmZPSEJ5cWR4TUg3YVRYdV9QX05oQ2Z6NnFtTE9kV2dNV281dkpnOGp3THctMEtuajlaeHZxYkRYNFd4cVE4OUU2TTJpY2pWOFVzRXhkZldpbjk0SVpjT3BXZDM3Wm9CRjZHTUxaT1oxQlVEUEE?oc=5",
-      "source": "ESPN Philippines",
-      "sourceLabel": "ESPN Philippines",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 3, 2026",
-      "rawDate": "2026-11-03T14:48:32.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.espn.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-6612211d3f70",
-      "title": "St. Luke’s mobile app breach may have exposed patient, employee data",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1NYMFJfTmRQZnBPLU1IN2lrZmVKZlQ4QW1RZVN5Y3JKcmswZEFjSnJTLTQzNUVrLTdKNnlZMmY2NV93aWZCamY3aThPMXVnYk5pbmNUbU04VkNJc0lSalNiYjBrdlJMdHZtQjVGRUF2RENZR1BMc0R3bmhZTDA2ZHFoQmFHb1Q4TXNVNXJEZmhkRXdiSng1djNYNHAyWG8?oc=5",
-      "source": "Newsbytes.PH",
-      "sourceLabel": "Newsbytes.PH",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "November 3, 2026",
-      "rawDate": "2026-11-03T08:21:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-2422a3119697",
-      "title": "TV PATROL: 3 Pinoy nasagip; 2 dayuhang recruiter umano para sa love scam hub arestado",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQmFCMzVVVklFcGp0S3BJT05VRl85VG9wOUVKNWl0My0tVkg5b3NWRi1IWExsUTdqRWg4T2NpVVhJMlpSOGs2UkxGSkZQdmZPdV82TU44dllScXNlbjF0LVNOYmk4amxueGtQQURpMkh5MmpsMXR6TTFneXgzYXhSSkxMbGVPcDBzd1QyUk9FalNqYUNEdDFyeFMwazhFa3pyUXJVdXM5ajlmaFFhZXhwODNjRXFSbmhacFY1cTdWR212S2FwMGR3RmFOc2lSVU1sOHRzVQ?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "romance",
-      "severity": "medium",
-      "date": "November 3, 2026",
-      "rawDate": "2026-11-03T03:30:01.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {

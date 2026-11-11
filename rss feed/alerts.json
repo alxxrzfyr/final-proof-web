@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-11-11T04:57:41.989Z",
+  "fetchedAt": "2026-11-11T19:18:26.446Z",
   "alerts": [
+    {
+      "id": "alert-local-167316206800",
+      "title": "BIR admits exposure of taxpayer profile data in recent cyber breach",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN25vNU5BTUp6OHNZYnRoZUY2VGotWlJxbW1sR0tRMFpGdEZqY3Bfemo4YjZWWVdKNVd2Z1poTnFlbkdoMGpHUEprekVuWWJBRVhZRUVGS3JKbWZMREhnUlRibGk2UEpLdFFZSHBGSlZSYWNvMExZWWktRy1rdFhuRjY5eUVYWURkOXd5LWZIUU5OVVMwRWRqS1N5V1kwUXE1LTJYUzh0ONIBrAFBVV95cUxPc3BETTJPc3hDZ1RMRUpfS2VnYjBvZ2xVQ3liVWZyYmpQLXliZ2NBTWRTRldzYzVVZFVSc0VZOE1MMy15M1E4NkNPdURMeDkxZzB0cUYwY2kyQUZyejdOcU1VeTlISHdkcm9KMmFjdjVTcHdnWlB2SXV1dWNIRUdpcm9UZXMtNXdZS0d1RnhiSW1CamdVZWZJSVV6Z3lZSVlPU0ZOWFRqSmdRZHBI?oc=5",
+      "source": "Inquirer.net",
+      "sourceLabel": "Inquirer.net",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "November 11, 2026",
+      "rawDate": "2026-11-11T18:36:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-cf389f1df257",
+      "title": "NPC confirms data breach in 10 government agencies",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGtMRG9Wa05za2FKR2hjM3p4ZzZnME82MXNtV280YnozMkFTZlA4MHVtTDRjeTlOMnVjbVl0Q01jWXVGTVZyZEdVb2djeE1NMWZBeURaMVlHSU1VTnItU1lHWURON2JZc0s3eWNMclUxSmxLbk9PSTZDVGs4NFNCQ2sxMWdnQzdBc3RYSG9UVWZ0RFVMT25aQm9EZnpBdk1URGN30gGqAUFVX3lxTE9LUDhQU0dmMzBjenc3MWJzbWVId3V0M2d6NmU3Qmt3WVRuRWRwaG5YWjdRcU9IZUowLXFOY3RmUThQQllVM3hEY1FYdWtaeWhYakZiQlJLU1VzanFvQkZBVjVjNG14bkNfLU81SjNXZ0NoeGI0bEF5WnZha3hGRWZNMnZnTHZiWFFWLVJvZnBtdFotWWlFWW4waWFPWklRRTdyd3JLMTlQUk1R?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "November 11, 2026",
+      "rawDate": "2026-11-11T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-2cdf50c83774",
+      "title": "NPC confirms data breaches in 10 gov’t agencies; warns public against phishing",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRHVDTThQSjRBVkVfeE80alptLWw2S2drc2dWTm83NGpXUGwwblVBXzI0UG9mTWN3OUJLWkUwcmxBaGlHMGxXX19hbHBmS3lsRW82akRNMzVGQkVoV1VRZHBacWtGV21Ha21VR05oN1JJXzhGNVRJVGxjQ2ZxUnU4QVkwLWVCVTQyblpGV2dKQ0huUTNtQVdyZWtuNDlyVWlVdUptd2V3c1ljc1dicGFGd1N4T3FBNXBXV01XWmRqOUN6dlFseUl0UTNpSy0wQQ?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "high",
+      "date": "November 11, 2026",
+      "rawDate": "2026-11-11T03:30:17.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-c0ba6a69f4b3",
       "title": "Hackers are using AI tools like Artex to attack Southeast Asian banks in seconds",
@@ -13,20 +55,6 @@
       "date": "November 11, 2026",
       "rawDate": "2026-11-11T02:41:49.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-2cdf50c83774",
-      "title": "NPC confirms data breaches in 10 gov’t agencies; warns public against phishing",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRHVDTThQSjRBVkVfeE80alptLWw2S2drc2dWTm83NGpXUGwwblVBXzI0UG9mTWN3OUJLWkUwcmxBaGlHMGxXX19hbHBmS3lsRW82akRNMzVGQkVoV1VRZHBacWtGV21Ha21VR05oN1JJXzhGNVRJVGxjQ2ZxUnU4QVkwLWVCVTQyblpGV2dKQ0huUTNtQVdyZWtuNDlyVWlVdUptd2V3c1ljc1dicGFGd1N4T3FBNXBXV01XWmRqOUN6dlFseUl0UTNpSy0wQQ?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "high",
-      "date": "November 10, 2026",
-      "rawDate": "2026-11-10T16:51:59.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-2a0987729bdc",
-      "title": "JLJL77 Official Link - SSL Padlock Check & Phishing Clone Warning",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkRU1tN0xSYndSRzN6YW1pX1pzak1feEtQbzM3c05pOUgzVm1PVkJfYVF1TWpYTjhZcnhkUDNtcUlrMFNLWmZLb290a19jNzFhX2RUa0w1OTZGOFk?oc=5",
-      "source": "jljl77bet.ph",
-      "sourceLabel": "jljl77bet.ph",
+      "id": "alert-international-916ab6f016e8",
+      "title": "Who Runs the Ransomware Group Qilin?",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "high",
-      "date": "November 7, 2026",
-      "rawDate": "2026-11-07T10:12:55.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/jljl77bet.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-687918c1c3af",
-      "title": "Phishing Messages: Examples, Signs & What to Do",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95eEFCc3VXTjkzVWlMWko2bWJ1RXpHODRMclJkdXM0Y2xFdUdock9WZm9lU1F1eDlMUlVGamxqbU5ZUTU2UWhEeFIyV3dTNzZLUGFFLXBMZDQ?oc=5",
-      "source": "scamcheck.ph",
-      "sourceLabel": "scamcheck.ph",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
+      "category": "malware",
       "severity": "medium",
-      "date": "November 6, 2026",
-      "rawDate": "2026-11-06T21:43:27.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/scamcheck.ph.ico",
-      "scope": "local"
+      "date": "November 11, 2026",
+      "rawDate": "2026-11-11T18:06:01.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-fed22fea60cb",
@@ -321,20 +335,6 @@
       "date": "October 29, 2026",
       "rawDate": "2026-10-29T10:30:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-e95889d08f4e",
-      "title": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges",
-      "url": "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "October 29, 2026",
-      "rawDate": "2026-10-29T06:00:26.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

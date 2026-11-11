@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-11-10T19:24:19.684Z",
+  "fetchedAt": "2026-11-11T04:57:41.989Z",
   "alerts": [
+    {
+      "id": "alert-local-c0ba6a69f4b3",
+      "title": "Hackers are using AI tools like Artex to attack Southeast Asian banks in seconds",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ19wMk1tQnlKMWVDTjlwZW9xSHNHelB6S0RsWnUyZm5iQlpVOG92UDhhbXpoeDlFQTlCajRGR0hwamVranhKWGxxQmRJanpsZDBIRTBYZmY1YUs0enJRQkZaYUlLUWVrZ3FwTHpGWFJBbm1yc2JnZW94X0xQU2lSY21qWVBSaUgzR0E?oc=5",
+      "source": "astig.ph",
+      "sourceLabel": "astig.ph",
+      "sourceLogo": "newspaper",
+      "category": "ewallet",
+      "severity": "medium",
+      "date": "November 11, 2026",
+      "rawDate": "2026-11-11T02:41:49.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-2cdf50c83774",
       "title": "NPC confirms data breaches in 10 gov’t agencies; warns public against phishing",
@@ -156,27 +170,13 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-4a0a317e11f3",
-      "title": "Fraud Analyst (Junior and Senior level)",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3luSnZ2QWlJUTlQb0l6RzRJTnhBaHZNQ1pVUWU2Yi1GMjFzTUVlNlpHY1RraTVMdWJUb19SX05sdlRVdU1zMDE3SnpTeFVlUXZtak43ZTFOVFlmVzc2R1ZCLXdxUkV0Y3hjb0Y5eXpPcDRyRGhIcXk3aWVCMWd5dV9VaGlKOHZ6ZVI4WW95TmtMaTN0ZkdPTXpZWkJVMmFrYmtZeWlMcFlOX3lSOTNv?oc=5",
-      "source": "foundit.com.ph",
-      "sourceLabel": "foundit.com.ph",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 6, 2026",
-      "rawDate": "2026-11-06T20:15:15.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.foundit.com.ph.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-fed22fea60cb",
       "title": "Learn from my mistake – don’t fall for this new mobile phone scam | Zoe Williams",
       "url": "https://www.theguardian.com/commentisfree/2026/nov/10/new-mobile-phone-ballerina-scam",
       "source": "The Guardian (Scams)",
       "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
-      "category": "romance",
+      "category": "general",
       "severity": "medium",
       "date": "November 10, 2026",
       "rawDate": "2026-11-10T11:00:50.000Z",

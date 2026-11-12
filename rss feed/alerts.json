@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-11-11T19:18:26.446Z",
+  "fetchedAt": "2026-11-12T05:59:50.809Z",
   "alerts": [
+    {
+      "id": "alert-local-1db64ef9d514",
+      "title": "'Sure ka na ba?' campaign launched to prevent online scams",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMU5CYVgtYTZiS281aWh4TG9wRjI0RjhUWldKZkRsM1kwOFRXSkxKa0VQa1MwUjdXOWR2VUd3TnhJcDhBUjNEZ0FROU5QclQzQXZ4WTJtV1FHakJYeG9BUDhoQkwyXzlwOFpQWWFhUHp6Q1lqLUt0THkwZ0hXSThlY2lGQnhjOXg0UlpabzU4bWZsNkp1MFV5bUgzcnhuWGdHZ0hIbktsUTNoOHotR2MzT1pn?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 12, 2026",
+      "rawDate": "2026-11-12T05:09:48.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-cf389f1df257",
+      "title": "NPC Confirms Data Breach In 10 Government Agencies",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95TDJmOEJFOUVGMXVjVXRCd0pvOGpmNTE1UXdQZFFWV0RHTjJYMmFYeWdtU1VFa1FBcWFoQ1MxUzZlT2tVb1J1R1l4VTduMkg0RjZhNmtOZmFFTktORjluTzhWTHlET2d0UHRBTnBjMUo3SURMUGpRX00wTUcyUQ?oc=5",
+      "source": "OneNews.PH",
+      "sourceLabel": "OneNews.PH",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "November 11, 2026",
+      "rawDate": "2026-11-11T22:49:12.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.onenews.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-167316206800",
       "title": "BIR admits exposure of taxpayer profile data in recent cyber breach",
@@ -13,20 +41,6 @@
       "date": "November 11, 2026",
       "rawDate": "2026-11-11T18:36:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/business.inquirer.net.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-cf389f1df257",
-      "title": "NPC confirms data breach in 10 government agencies",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGtMRG9Wa05za2FKR2hjM3p4ZzZnME82MXNtV280YnozMkFTZlA4MHVtTDRjeTlOMnVjbVl0Q01jWXVGTVZyZEdVb2djeE1NMWZBeURaMVlHSU1VTnItU1lHWURON2JZc0s3eWNMclUxSmxLbk9PSTZDVGs4NFNCQ2sxMWdnQzdBc3RYSG9UVWZ0RFVMT25aQm9EZnpBdk1URGN30gGqAUFVX3lxTE9LUDhQU0dmMzBjenc3MWJzbWVId3V0M2d6NmU3Qmt3WVRuRWRwaG5YWjdRcU9IZUowLXFOY3RmUThQQllVM3hEY1FYdWtaeWhYakZiQlJLU1VzanFvQkZBVjVjNG14bkNfLU81SjNXZ0NoeGI0bEF5WnZha3hGRWZNMnZnTHZiWFFWLVJvZnBtdFotWWlFWW4waWFPWklRRTdyd3JLMTlQUk1R?oc=5",
-      "source": "Philstar.com",
-      "sourceLabel": "Philstar.com",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "November 11, 2026",
-      "rawDate": "2026-11-11T16:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "November 9, 2026",
       "rawDate": "2026-11-09T05:22:03.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-4049e8149a31",
-      "title": "Philippines Scams Move to E-Wallets, Now Used in 73% of Losses",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQzZ4aGJVYnU5SUI1em11eEJEV0RHLXZuNFlQRDNxLTh3Rm45V3E1RTJCSUJmQ1UweFNSU2RsS0tmb1lER3l0ZTVBNXNEZlNEbWV0Q2J6RTRMUXRBeDdfNWVIQkQwcDZZajFuYmJIUFVyQmVWR2JndUtIeUIwUlJSeFp2X3BvelZjbWNjQjZEWS0zMTJzVmpQcl9GaHF3RUx1UkktT3g2Q20xcEc2NmpXbTFKQlZrbnVq?oc=5",
-      "source": "Fintech News Philippines",
-      "sourceLabel": "Fintech News Philippines",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 9, 2026",
-      "rawDate": "2026-11-09T04:30:30.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/fintechnews.ph.ico",
       "scope": "local"
     },
     {

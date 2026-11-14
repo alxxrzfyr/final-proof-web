@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T05:13:31.895Z",
+  "fetchedAt": "2026-11-14T17:43:09.970Z",
   "alerts": [
     {
       "id": "alert-local-abb712af99ba",
@@ -170,6 +170,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-international-786830b3200d",
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jVlEzblczTFcwZTFqalo2VDNtZzVOOTlQUkR1bW04eXpqRUJWckZJR3VrWU84X3NXZ2xUZ09YQTJoQmlzeXk5aDlQaThjVXRodWRoanlIVjZHMjNjLU1wbUFKTk9OVGxFOG16Rzczek5hVDFYS0R4aQ?oc=5",
+      "source": "WIRED",
+      "sourceLabel": "WIRED",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "high",
+      "date": "November 14, 2026",
+      "rawDate": "2026-11-14T13:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
+      "scope": "international"
+    },
+    {
       "id": "alert-international-dc5ca676a19d",
       "title": "Fake film deals and emails from top agents: who is behind the explosion in literary scams? – podcast",
       "url": "https://www.theguardian.com/news/audio/2026/nov/13/fake-film-deals-and-emails-from-top-agents-who-is-behind-the-explosion-in-literary-scams-podcast",
@@ -321,20 +335,6 @@
       "date": "November 1, 2026",
       "rawDate": "2026-11-01T07:00:05.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-fcb9c221df3e",
-      "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmRWXzFmeGdEeUV0R0FycGZHVE9VVm1VbkRfbmxRcGlGZjktT2lONDdMZjVEYzBxU3FjM3lVM25QSzRfdVNRa3plZk95OWtoSk5aTU1CcktJZGRiZUNsTkVBV2V4emdma3hJd055RkFwMVg3Zmx5cmptc0VlQzdxMExBSURiNVU?oc=5",
-      "source": "WIRED",
-      "sourceLabel": "WIRED",
-      "sourceLogo": "newspaper",
-      "category": "malware",
-      "severity": "medium",
-      "date": "October 31, 2026",
-      "rawDate": "2026-10-31T12:00:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.wired.com.ico",
       "scope": "international"
     }
   ]

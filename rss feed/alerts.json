@@ -1,6 +1,48 @@
 {
-  "fetchedAt": "2026-11-15T05:06:14.662Z",
+  "fetchedAt": "2026-11-15T18:32:14.243Z",
   "alerts": [
+    {
+      "id": "alert-local-5f32edb36458",
+      "title": "GameZone Trust & Safety: PAGCOR, KYC & Anti-Phishing",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UeUhRZ1VTSWZia2p1bEctLXdYOXdYTGQwaWZxZXZEdWdSbHdUdzdkb0VfTE4zeE50dXM5R1BGa2IzOTNienhsSkhR?oc=5",
+      "source": "gamezone1.ph",
+      "sourceLabel": "gamezone1.ph",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "medium",
+      "date": "November 15, 2026",
+      "rawDate": "2026-11-15T09:54:05.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/gamezone1.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-d99e72a9948e",
+      "title": "NBI Arrests 31 in Bohol Over Alleged $10-M Investment, Crypto & Romance Scam Network",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1YzNjcxbHFlS1lkYk5wdzdGeVczMkl6YXdqSUFLNlpZUUstdWxJenBqUTV0anJMZGQzUmd1c3R4cEY4M29UUUI3UDBvOWR3bUpiNWhlMjgzeXp5VjF3MWlmUmFYcnJ2TzFtSzZCemZLblpielgzR1FMRy1KWGZ0Zkx4ZEg2X1hwUUstS3dZdGMxXzFjcmc?oc=5",
+      "source": "PhilNews",
+      "sourceLabel": "PhilNews",
+      "sourceLogo": "newspaper",
+      "category": "investment",
+      "severity": "medium",
+      "date": "November 15, 2026",
+      "rawDate": "2026-11-15T09:37:41.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/philnews.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-dd089fb162f6",
+      "title": "NBI arrests 31 in Bohol raids on a $10-million crypto and romance scam network",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZZXdDZDRCdDF2ZEYyS3Vjc2Z1NFc5OFRKRTByYkpEVkktOHFxNGlBZ21XRTNhS0JnVGxwQkhXM2pXb3d1SE95NUF2YnBuM3dsMTRLa0d4a0lselRTckY4UXZMWk5tdDJOelhNdlA4RXA2QQ?oc=5",
+      "source": "astig.ph",
+      "sourceLabel": "astig.ph",
+      "sourceLogo": "newspaper",
+      "category": "investment",
+      "severity": "medium",
+      "date": "November 15, 2026",
+      "rawDate": "2026-11-15T09:35:08.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-abb712af99ba",
       "title": "12 Christmas scams to watch out for",
@@ -128,46 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-b743a870f47f",
-      "title": "What to do after falling victim to an online scam",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGYyREs3ZEtsaU1HWE9aRFFmSGNTN3NKbVlLOGZrTVhtSEtlUTRGR3pFMnZXbkJQcU95UWFWRzJ0U3NmWDQ0U0FITTdna3ZwdVg0ZEJUS3QxT1VyNHFvbTFSUHJsb2lNT1ZiSGFsN0sxall0WU9VQ3czT0JOQTJUZDZqbkpuMXNSSGxiS2Z5dTZzWnM4bW9FWlVpZm8tWDk5N3NncG1nRkQ?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
+      "id": "alert-international-181cf8eec5de",
+      "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+      "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
       "category": "general",
       "severity": "medium",
-      "date": "November 13, 2026",
-      "rawDate": "2026-11-13T16:46:59.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-48ba3ed1e5ba",
-      "title": "SEC Conducts Investigation of Data Security Incident",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRE5IZGR4UHZiYTJfUzk4NVFLOE5uS09zWE5MYmZXMDNFelVKWHFMZ0hRay1vNEk0ejBGXzRkYnV4VTVnZ2hxWVhjdzNFTUNXTjRRbTVCVmYxakpsUlhJSTRmNU1TZEx3YUkzaGNHX1cxU1NQdDBXTGVtend0bDk1d0N2TndEWTd2YlBVRg?oc=5",
-      "source": "dopay.ph",
-      "sourceLabel": "dopay.ph",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 13, 2026",
-      "rawDate": "2026-11-13T07:08:12.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/dopay.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-c78652b56875",
-      "title": "ph888 scam for Android - Bing Software Store - Balita",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oMUpLOEM1YUZ5QzBIZWlvcTVWYTYyYlZYQk1UNEE1b3FKdlJWWVoyWTVQakdnM2lKa25acVh0MTA4ejd6aExhQlp4YUdpaDdDSUt2a0hnNA?oc=5",
-      "source": "Balita - Philippine News",
-      "sourceLabel": "Balita - Philippine News",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 13, 2026",
-      "rawDate": "2026-11-13T06:13:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/balita.mb.com.ph.ico",
-      "scope": "local"
+      "date": "November 15, 2026",
+      "rawDate": "2026-11-15T07:00:06.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-786830b3200d",
@@ -320,20 +334,6 @@
       "severity": "medium",
       "date": "November 1, 2026",
       "rawDate": "2026-11-01T12:00:12.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-b0e759e7fbbd",
-      "title": "A gift to scammers: why you should probably keep your birthday a secret",
-      "url": "https://www.theguardian.com/money/2026/nov/01/do-not-share-date-of-birth-online-scam-fraudsters-advice",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 1, 2026",
-      "rawDate": "2026-11-01T07:00:05.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }

@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-14T17:43:09.970Z",
+  "fetchedAt": "2026-11-15T05:06:14.662Z",
   "alerts": [
     {
       "id": "alert-local-abb712af99ba",
@@ -55,6 +55,20 @@
       "date": "November 13, 2026",
       "rawDate": "2026-11-13T23:11:23.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/balita.mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-5e67efb0b065",
+      "title": "PH government agencies bear brunt of Q3 data breaches— cybersecurity firm",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2t6Um1iNG1fbnhtaU9fSENDbXpfeThFekN0bHRpSG45Wnk2SGc2bEtISEhBdjdxTU5XMEZDYm16TGRBbmFWbzNVMTVjeFV4Q0MtWjlaMDlkRkhGcU96cUd6dkh5RnN6VHl6aHJwakY2LS1ENUlxbFZ4ZXVTNjZPeVhsN1QtUGptakFFMmtjXy1QNWFPN1VVT2FvZG1jcU5oZS1mTks1ZWtpYktab1NKT1g2c1VLWVdJZ0k5LXp2WDY4ZzZvTEo0?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 13, 2026",
+      "rawDate": "2026-11-13T20:22:07.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -125,20 +139,6 @@
       "date": "November 13, 2026",
       "rawDate": "2026-11-13T16:46:59.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-5e67efb0b065",
-      "title": "PH government agencies bear brunt of Q3 data breaches— cybersecurity firm",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDBXaGhVSGJIQlVyNFVzQ0taekUzZ1VQc1J0cU84NENSZWRldEhmcGYtVzFsN1lDUU9Mb2pWYUpPTUVsYUl5U1RwaklqOTBEQU5aQ3VUZmlwTmxYRHBudnJ0T2dBYTl6RERjc2pod0VEelpKaEpxeHFmczJQbHVKYy1CSU1pcW4yNHFVTUpYV0VsZjZhdmJSMW02VkxVTkQwWlVpd2dBT09lUlFlVkJoS09Uald2NFZnOVVTZC0xRzRCa0ZMWHJB?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 13, 2026",
-      "rawDate": "2026-11-13T12:29:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/news.abs-cbn.com.ico",
       "scope": "local"
     },
     {

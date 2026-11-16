@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-11-15T18:32:14.243Z",
+  "fetchedAt": "2026-11-16T05:03:41.252Z",
   "alerts": [
+    {
+      "id": "alert-local-c32c2ef9b581",
+      "title": "Phisherman: phishing link browser extension/ Hannah Mae P. Balba [and three others]",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObzlPUm9fZlVfV2ZwVjd0NDZPNlRxanNmSFhVNG5uMTl0V2VUUnFYUTNlYVZubk5BWUtIcmtRZV9TbXI2bjIzSkxoSUlXcGtZNmpCeVhGMEYxY1BsS1pwNnhUMkd6cDE4UHQ1TnJFdElZZ3NJaW0tVmgwMU5mZHdlVmZLQy1PTnRzUU5wUlAtNndUSWJVYUp1SGFLX3hXUjdFNEhVcEVRSldqMUc1MG9qRGpNbS1uR194MjFESkdIYWJYejJYMmxaMG1KYnhBUFpKX1UwTnhkbw?oc=5",
+      "source": "opac.nu-laguna.edu.ph",
+      "sourceLabel": "opac.nu-laguna.edu.ph",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "medium",
+      "date": "November 15, 2026",
+      "rawDate": "2026-11-15T16:10:31.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/opac.nu-laguna.edu.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-5f32edb36458",
       "title": "GameZone Trust & Safety: PAGCOR, KYC & Anti-Phishing",
@@ -153,20 +167,6 @@
       "date": "November 13, 2026",
       "rawDate": "2026-11-13T17:48:12.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/balita.mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-f359a2dcdef0",
-      "title": "When will Microsoft fully restore services?",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEhYVW9iSWxSenFya1ZjRl9INUc1Vll3eFlyMUhxZHBRZEZCVU9tU2MybGdEYWZIVV9xbFpCR2lzNjVmcDhSQXJ0VzNfYkZfX041MXktMHpkSVVIdm5VVnNFT1Z3Wlc0YWdjRmZYVV9acklDbWxPc2RGZTY5eTVrQU9DbkRPYVRhN3IwSEZoWm5TMWpGUkowNFZmRV9OakU?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 13, 2026",
-      "rawDate": "2026-11-13T17:24:24.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
       "scope": "local"
     },
     {

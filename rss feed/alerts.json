@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-11-16T05:03:41.252Z",
+  "fetchedAt": "2026-11-16T21:42:09.518Z",
   "alerts": [
+    {
+      "id": "alert-local-0709700b3288",
+      "title": "fantan casino for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNRWpDVkRxa2tkMk8tRmIxYmFhZ1lhR1Y4S1dxSDI5ZFlscHNPX0R1Ql9HSmQtTzlTOWdsQ0F2ZTNsRUJkcW8xMnFtZzc5NlRT?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 16, 2026",
+      "rawDate": "2026-11-16T17:23:09.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-2dac9da7f96f",
+      "title": "bitcoin roulette for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yQ0N0U2VwaG4zd2J1MnA0Q1lvWVlGS1V1bTNybVlhTjh4d25BYTd6NERORE9HazhaOVRYUWlrQndWUWVScllISmdlMDBwRkJ0eFNkM2tB?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "investment",
+      "severity": "medium",
+      "date": "November 16, 2026",
+      "rawDate": "2026-11-16T16:25:02.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-c32c2ef9b581",
       "title": "Phisherman: phishing link browser extension/ Hannah Mae P. Balba [and three others]",
@@ -86,20 +114,6 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-50ae2164e747",
-      "title": "bitcoin roulette for Android - Bing Software Store - Balita",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82T1kzR3hVb2RiSUFwS0NEUk5qXzRlbE5FQzJ4NVdWbGd3dWVZY0xDajJid2pvdk9DRXhNa0VnY0o3TlR1QjE2VDV6Qm5CU0ZQWEV2MWJpME0zc0JOQTNJ?oc=5",
-      "source": "Balita - Philippine News",
-      "sourceLabel": "Balita - Philippine News",
-      "sourceLogo": "newspaper",
-      "category": "investment",
-      "severity": "medium",
-      "date": "November 14, 2026",
-      "rawDate": "2026-11-14T00:01:51.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/balita.mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-local-c3ef8910b3cd",
       "title": "Gcash Player for Android - Bing Software Store - Balita",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92SXRDVk9nOUpsY1VCT1c0Z2dxek8xellkWXpPZGFpVlppRDZaNXhUVjh5UjlrU3pITGhKbEcyeFFTdWxuMkRZWUc1NThkUEhfWHMtSWtnVDNnUQ?oc=5",
@@ -152,20 +166,6 @@
       "severity": "medium",
       "date": "November 13, 2026",
       "rawDate": "2026-11-13T18:03:13.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/balita.mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-25a837d8426c",
-      "title": "reserve your slots now synonym for Android - Bing Software Store - Balita",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yNGw3TExTbkl0M21QUjVnR05UWkxXRHoxUGZZdHdzWVBncVNvMDJJUWsxdXBLb1UzOVYzdjlMUVV5Y1JreU9oWnZHU1BEclJBbzlQSnh5OGxMc3VscTNzWGkyOFNMWjROMzQ5Wkc5RXZEdEk?oc=5",
-      "source": "Balita - Philippine News",
-      "sourceLabel": "Balita - Philippine News",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 13, 2026",
-      "rawDate": "2026-11-13T17:48:12.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/balita.mb.com.ph.ico",
       "scope": "local"
     },

@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-11-16T21:42:09.518Z",
+  "fetchedAt": "2026-11-17T06:52:03.568Z",
   "alerts": [
+    {
+      "id": "alert-local-89745797ba90",
+      "title": "bonus doubledown casino for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUcmd4bThJNnFtRFFGaXQxclJnUmdUazcwaC16QWNpVnI5akNJTUFBamZlSmlOXzF4STliMzRRU0VMcnlldXp0NWhrVHBXaklUemR5UTZkTFJLR2ZWOXc?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 16, 2026",
+      "rawDate": "2026-11-16T20:28:15.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-0709700b3288",
       "title": "fantan casino for Android - Bing Software Store",
@@ -12,6 +26,20 @@
       "severity": "medium",
       "date": "November 16, 2026",
       "rawDate": "2026-11-16T17:23:09.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-739aaf2b13fd",
+      "title": "odds on lottery games for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jdjlmb2VqQnRhREJ6akhFdXQ3dWRGelpfWFgtSzItMVVfX2gxOENQSFNRVzk4akZMQk9FVGhpbGptdUtLUUtJdnNyOVp2OHc3YlFEZ052ekRBclYtaUE?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 16, 2026",
+      "rawDate": "2026-11-16T17:00:45.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
       "scope": "local"
     },
@@ -142,32 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-4d74ce3662c4",
-      "title": "real money casino android app for Android - Bing Software Store - Balita",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEclBiU01SaWJtLVhSb1RCMDRDOWR6R1BSSXVsamlCRnpkNmJlZVZBcEUwYk9pdkJGV2lTOEtzRWg0MXZfUG0wS21uc3g3VTdSM1RiZjZQY3I3aFJBR0pqOU5rTGJieE5TLU5xcWh3OFE?oc=5",
-      "source": "Balita - Philippine News",
-      "sourceLabel": "Balita - Philippine News",
+      "id": "alert-international-b30262f31259",
+      "title": "‘Nothing they said made sense’: down the rabbit hole with Britain’s sovereign citizens",
+      "url": "https://www.theguardian.com/news/2026/nov/17/nothing-they-said-made-sense-down-the-rabbit-hole-with-britains-sovereign-citizens",
+      "source": "The Guardian (Scams)",
+      "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
-      "category": "general",
+      "category": "investment",
       "severity": "medium",
-      "date": "November 13, 2026",
-      "rawDate": "2026-11-13T19:56:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/balita.mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-9bc07875dd20",
-      "title": "live sports betting for Android - Bing Software Store - Balita",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GVjdRS1NFTVhFMmdJcHQ3Z1kwbHc2MzJwWGhQTmZiZkZnWUx4c0h5THBtZHgtdHp0Y25xZm5sUHRCZXhXQzFIaUItQUxHSVh2ZnBDbWxkWFcwZmpROWNiYTg1QQ?oc=5",
-      "source": "Balita - Philippine News",
-      "sourceLabel": "Balita - Philippine News",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 13, 2026",
-      "rawDate": "2026-11-13T18:03:13.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/balita.mb.com.ph.ico",
-      "scope": "local"
+      "date": "November 17, 2026",
+      "rawDate": "2026-11-17T05:00:04.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-181cf8eec5de",
@@ -321,20 +335,6 @@
       "date": "November 3, 2026",
       "rawDate": "2026-11-03T02:24:31.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-1050fd0aedac",
-      "title": "Like many authors, I’m bombarded by scam fan mail. I wasn’t prepared for what would happen when I wrote back",
-      "url": "https://www.theguardian.com/books/2026/nov/01/like-many-authors-im-bombarded-by-scam-fan-mail-i-wasnt-prepared-for-what-would-happen-when-i-wrote-back",
-      "source": "The Guardian (Scams)",
-      "sourceLabel": "The Guardian (Scams)",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 1, 2026",
-      "rawDate": "2026-11-01T12:00:12.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.theguardian.com.ico",
       "scope": "international"
     }
   ]

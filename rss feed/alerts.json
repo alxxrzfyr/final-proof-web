@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-11-17T06:52:03.568Z",
+  "fetchedAt": "2026-11-17T20:31:42.222Z",
   "alerts": [
+    {
+      "id": "alert-local-c507f65d8001",
+      "title": "mpq recruitment slots for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vZ3pWV1IzdUp4Mllkb2QtSGR6NkxpYUxJbEtFMTlUUVBHZGlkdjRXN0dRSGNmSHBPZkp6czN1MGYxQi1qdHRQdUZRU09CU3FuUS13VG1XOUtaME9j?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "job",
+      "severity": "medium",
+      "date": "November 17, 2026",
+      "rawDate": "2026-11-17T05:37:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-89745797ba90",
       "title": "bonus doubledown casino for Android - Bing Software Store",
@@ -55,6 +69,20 @@
       "date": "November 16, 2026",
       "rawDate": "2026-11-16T16:25:02.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-27ade205e3e5",
+      "title": "31 arrested in alleged P639-M investment, romance scam in Bohol",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHVIU2lfUXV6YXBfcHVCUGRUODRoZl8yaUZEdDhFdUQ1QnZOblRDckJwWTJLSExtWlJCTFlLYTlxRkJXb2FQU05ITGhUWFJoZnc0Y2xHNl9mTjl4dnY2MFB4MTc4Q2JTRl95TllQZ2NCaU5Vd0JXTTJLUEpXS1g2cXcwTHJ0bjZqVkFtd0lNQ1dpVl9pWkRDVFdRRDY0YkgyWnhCMzJ2UW8wZUZ4UXhfbE5Edk9FMUE?oc=5",
+      "source": "ABS-CBN",
+      "sourceLabel": "ABS-CBN",
+      "sourceLogo": "newspaper",
+      "category": "investment",
+      "severity": "medium",
+      "date": "November 16, 2026",
+      "rawDate": "2026-11-16T00:19:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/news.abs-cbn.com.ico",
       "scope": "local"
     },
     {
@@ -142,41 +170,13 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-c3ef8910b3cd",
-      "title": "Gcash Player for Android - Bing Software Store - Balita",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92SXRDVk9nOUpsY1VCT1c0Z2dxek8xellkWXpPZGFpVlppRDZaNXhUVjh5UjlrU3pITGhKbEcyeFFTdWxuMkRZWUc1NThkUEhfWHMtSWtnVDNnUQ?oc=5",
-      "source": "Balita - Philippine News",
-      "sourceLabel": "Balita - Philippine News",
-      "sourceLogo": "newspaper",
-      "category": "ewallet",
-      "severity": "medium",
-      "date": "November 13, 2026",
-      "rawDate": "2026-11-13T23:11:23.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/balita.mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-5e67efb0b065",
-      "title": "PH government agencies bear brunt of Q3 data breaches— cybersecurity firm",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2t6Um1iNG1fbnhtaU9fSENDbXpfeThFekN0bHRpSG45Wnk2SGc2bEtISEhBdjdxTU5XMEZDYm16TGRBbmFWbzNVMTVjeFV4Q0MtWjlaMDlkRkhGcU96cUd6dkh5RnN6VHl6aHJwakY2LS1ENUlxbFZ4ZXVTNjZPeVhsN1QtUGptakFFMmtjXy1QNWFPN1VVT2FvZG1jcU5oZS1mTks1ZWtpYktab1NKT1g2c1VLWVdJZ0k5LXp2WDY4ZzZvTEo0?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 13, 2026",
-      "rawDate": "2026-11-13T20:22:07.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
       "id": "alert-international-b30262f31259",
       "title": "‘Nothing they said made sense’: down the rabbit hole with Britain’s sovereign citizens",
       "url": "https://www.theguardian.com/news/2026/nov/17/nothing-they-said-made-sense-down-the-rabbit-hole-with-britains-sovereign-citizens",
       "source": "The Guardian (Scams)",
       "sourceLabel": "The Guardian (Scams)",
       "sourceLogo": "newspaper",
-      "category": "investment",
+      "category": "general",
       "severity": "medium",
       "date": "November 17, 2026",
       "rawDate": "2026-11-17T05:00:04.000Z",

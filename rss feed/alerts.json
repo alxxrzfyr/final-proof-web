@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-17T20:31:42.222Z",
+  "fetchedAt": "2026-11-18T06:11:07.312Z",
   "alerts": [
     {
       "id": "alert-local-c507f65d8001",
@@ -12,6 +12,20 @@
       "severity": "medium",
       "date": "November 17, 2026",
       "rawDate": "2026-11-17T05:37:24.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-ed35f01fd03a",
+      "title": "free 50 register no deposit bonus for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NNTAySnF2Y1RKajVjeWcxTjhad1Uza1JjZXZGRzdSWHRKOTFHM3NhRGxSdVdvejJTbEcxcVFHMk1zS19GanJDcVh3Zld1WnZ2b3hJUGFKcllQNzk2RW9HQmNxSjU4MmdUUGxFag?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 16, 2026",
+      "rawDate": "2026-11-16T23:50:49.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
       "scope": "local"
     },
@@ -156,18 +170,18 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-401ae5367bcb",
-      "title": "jj777 for Android - Bing Software Store - Balita",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVNDAyeXFleEdJeVZwREJYUllxeEJ4VkQwTk5KeVd6WGtNb1NTQ3gySzZWTkt6ZThnTTg2cW9wbnFtYTdhQkpGZHVnUHNaRGdqbWc?oc=5",
-      "source": "Balita - Philippine News",
-      "sourceLabel": "Balita - Philippine News",
+      "id": "alert-international-5dc8d44f82bd",
+      "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+      "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+      "source": "Krebs on Security",
+      "sourceLabel": "Krebs on Security",
       "sourceLogo": "newspaper",
-      "category": "general",
+      "category": "malware",
       "severity": "medium",
-      "date": "November 14, 2026",
-      "rawDate": "2026-11-14T02:54:46.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/balita.mb.com.ph.ico",
-      "scope": "local"
+      "date": "November 18, 2026",
+      "rawDate": "2026-11-18T02:52:04.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
+      "scope": "international"
     },
     {
       "id": "alert-international-b30262f31259",
@@ -321,20 +335,6 @@
       "date": "November 5, 2026",
       "rawDate": "2026-11-05T23:34:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/www.cbsnews.com.ico",
-      "scope": "international"
-    },
-    {
-      "id": "alert-international-5a5dd31047b9",
-      "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
-      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
-      "source": "Krebs on Security",
-      "sourceLabel": "Krebs on Security",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 3, 2026",
-      "rawDate": "2026-11-03T02:24:31.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico",
       "scope": "international"
     }
   ]

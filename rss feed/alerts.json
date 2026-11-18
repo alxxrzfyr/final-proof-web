@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-11-18T06:11:07.312Z",
+  "fetchedAt": "2026-11-18T20:02:21.306Z",
   "alerts": [
+    {
+      "id": "alert-local-119fc6d56550",
+      "title": "[DECODED] Scam season and the leaks that may make it worse",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zaEJjUW8yejJsTHdvN19WVndaNEZrTGh5c01fT1N4Nl80Tk9IMHBRV1Z3VERWcFByOGdhRXZZZmxUNUpvbU1keEFGMlVtS0gxeHI4dVVEMVFGenEydW1OSEtGbTQwWkJNZTBLMHhRY3Q0eHhiRFZpR3RaVldDZw?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 18, 2026",
+      "rawDate": "2026-11-18T10:00:27.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-788e96c78641",
+      "title": "Data breach or leak reported? Consider your personal information security",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmtEZFFSQ1dyMHMtcjlkdFpzWGdXQUs4dkgyRGVkSFRjOW81VVM3dU5aVllIUDdScHI4bVA2VWdNOXpJQ1VwNUltQVhuWVFVZU9PQnp3Q3FYaEhrdjdxTXNpMUZTQUh5MDZIa1FSLUZWdVlGRF9UeGtlYzRtaGlFenptX3gxX2Z3c3FsQXNydFJSWUtMRllR?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "November 18, 2026",
+      "rawDate": "2026-11-18T07:45:29.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-c507f65d8001",
       "title": "mpq recruitment slots for Android - Bing Software Store",
@@ -139,34 +167,6 @@
       "date": "November 15, 2026",
       "rawDate": "2026-11-15T09:37:41.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/philnews.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-dd089fb162f6",
-      "title": "NBI arrests 31 in Bohol raids on a $10-million crypto and romance scam network",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZZXdDZDRCdDF2ZEYyS3Vjc2Z1NFc5OFRKRTByYkpEVkktOHFxNGlBZ21XRTNhS0JnVGxwQkhXM2pXb3d1SE95NUF2YnBuM3dsMTRLa0d4a0lselRTckY4UXZMWk5tdDJOelhNdlA4RXA2QQ?oc=5",
-      "source": "astig.ph",
-      "sourceLabel": "astig.ph",
-      "sourceLogo": "newspaper",
-      "category": "investment",
-      "severity": "medium",
-      "date": "November 15, 2026",
-      "rawDate": "2026-11-15T09:35:08.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/astig.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-abb712af99ba",
-      "title": "12 Christmas scams to watch out for",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WNXAtWHJ1S2VZNDNURGpOYTVuV0hqREpQdFcwU3RtNzZQYXFjMThCZW0xb3lPaGRoOW5tWW8xQ0Zsd3ZTbWZrclQ2Rmkwc2g1Z0ROOS1uTXExbklDOTVFdGplQmJGSzF5Y2QxaWluUVRuZ2JZMUo4?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 14, 2026",
-      "rawDate": "2026-11-14T03:01:38.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {

@@ -1,6 +1,34 @@
 {
-  "fetchedAt": "2026-11-19T06:12:38.569Z",
+  "fetchedAt": "2026-11-19T20:01:45.502Z",
   "alerts": [
+    {
+      "id": "alert-local-119fc6d56550",
+      "title": "[DECODED] Scam season and the leaks that may make it worse",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zaEJjUW8yejJsTHdvN19WVndaNEZrTGh5c01fT1N4Nl80Tk9IMHBRV1Z3VERWcFByOGdhRXZZZmxUNUpvbU1keEFGMlVtS0gxeHI4dVVEMVFGenEydW1OSEtGbTQwWkJNZTBLMHhRY3Q0eHhiRFZpR3RaVldDZw?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 19, 2026",
+      "rawDate": "2026-11-19T19:49:32.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-e8f592f02cea",
+      "title": "JoyRide confirms app data breach",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQemhmN0RzODZVSl8ySmxWbnJKT2h5UlhQNTMwWEw2emt4SDFRd2ZzZnBkcTJUTnhyd1JMb1AzUGZwS0RqeVhCbGdXMzNIWWdLc3NyLThNWjdSSXBBZEdCQUxTNzBsR3lIMEkzT0NISWhNRmRYZUs4c09zbS1mbGo3TF9YX195VnVoQlNHN3RR0gGUAUFVX3lxTE5DcmJkQUVBckVHSTV5RDRCeDgyVHNmSjFiN1RNSUpabzFKcGRCQ2FVYWJYQ0JMbk9zWjJlQnNKYnBCLWNXb0dKR3JaMjNfRUt3S1ZsRHpwTDV0cXVKdE1FZEVNQjVqRkhJN0poXzdEMjZmeVRSTXVMcHNvZ05CNnlqcnpQX21lTU9lYWFtMkJiM0x6aHI?oc=5",
+      "source": "Philstar.com",
+      "sourceLabel": "Philstar.com",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "November 19, 2026",
+      "rawDate": "2026-11-19T16:00:00.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.philstar.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-c63982079c8a",
       "title": "DOJ unveils nationwide anti-scam campaign, opens online hiring portal",
@@ -13,20 +41,6 @@
       "date": "November 18, 2026",
       "rawDate": "2026-11-18T14:46:05.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-119fc6d56550",
-      "title": "[DECODED] Scam season and the leaks that may make it worse",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zaEJjUW8yejJsTHdvN19WVndaNEZrTGh5c01fT1N4Nl80Tk9IMHBRV1Z3VERWcFByOGdhRXZZZmxUNUpvbU1keEFGMlVtS0gxeHI4dVVEMVFGenEydW1OSEtGbTQwWkJNZTBLMHhRY3Q0eHhiRFZpR3RaVldDZw?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
-      "sourceLogo": "newspaper",
-      "category": "general",
-      "severity": "medium",
-      "date": "November 18, 2026",
-      "rawDate": "2026-11-18T10:00:27.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
       "scope": "local"
     },
     {
@@ -153,20 +167,6 @@
       "date": "November 16, 2026",
       "rawDate": "2026-11-16T00:19:00.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/news.abs-cbn.com.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-c32c2ef9b581",
-      "title": "Phisherman: phishing link browser extension/ Hannah Mae P. Balba [and three others]",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObzlPUm9fZlVfV2ZwVjd0NDZPNlRxanNmSFhVNG5uMTl0V2VUUnFYUTNlYVZubk5BWUtIcmtRZV9TbXI2bjIzSkxoSUlXcGtZNmpCeVhGMEYxY1BsS1pwNnhUMkd6cDE4UHQ1TnJFdElZZ3NJaW0tVmgwMU5mZHdlVmZLQy1PTnRzUU5wUlAtNndUSWJVYUp1SGFLX3hXUjdFNEhVcEVRSldqMUc1MG9qRGpNbS1uR194MjFESkdIYWJYejJYMmxaMG1KYnhBUFpKX1UwTnhkbw?oc=5",
-      "source": "opac.nu-laguna.edu.ph",
-      "sourceLabel": "opac.nu-laguna.edu.ph",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "November 15, 2026",
-      "rawDate": "2026-11-15T16:10:31.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/opac.nu-laguna.edu.ph.ico",
       "scope": "local"
     },
     {

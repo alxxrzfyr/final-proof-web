@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-11-18T20:02:21.306Z",
+  "fetchedAt": "2026-11-19T06:12:38.569Z",
   "alerts": [
+    {
+      "id": "alert-local-c63982079c8a",
+      "title": "DOJ unveils nationwide anti-scam campaign, opens online hiring portal",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNkFRcXpWclFGSldPbU5OQ1luMHJUWjJpMjBUYzZkdEpGSnBYd1BIamJHVXpXMHQ3dk5vTEptZ3B1MThsZzI2VVRMQlU0UmFRZTMxeG1iRUlVdzQ5UzdOQmJFbi0zTzVHRTlrRkw0am9hR3I1SDUtemZ5aFNMVXVHLUd1cVpLLTBiNjdjcGNvYkNzdkFzZ0RJc0RoczU3dTM4UXZj?oc=5",
+      "source": "Newsbytes.PH",
+      "sourceLabel": "Newsbytes.PH",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 18, 2026",
+      "rawDate": "2026-11-18T14:46:05.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/newsbytes.ph.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-119fc6d56550",
       "title": "[DECODED] Scam season and the leaks that may make it worse",
@@ -114,6 +128,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-2b6cc541725e",
+      "title": "Spotting Fake OKBet Phishing Links & Spoofed APK Portals",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HTEQwZTNhOVN2Qi1FYkF5eHhIYWY3NnpBNnhLTHFzelRqUEhpN2xNOHVMbjFBci1JMWZZMUN0QTRBcGhocnUwNWZjTklEY2Q1OEp0Z2xNbGtaQktuN0dGV2lONUZpZw?oc=5",
+      "source": "okbet1.ph",
+      "sourceLabel": "okbet1.ph",
+      "sourceLogo": "newspaper",
+      "category": "phishing",
+      "severity": "medium",
+      "date": "November 16, 2026",
+      "rawDate": "2026-11-16T08:13:31.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/okbet1.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-27ade205e3e5",
       "title": "31 arrested in alleged P639-M investment, romance scam in Bohol",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHVIU2lfUXV6YXBfcHVCUGRUODRoZl8yaUZEdDhFdUQ1QnZOblRDckJwWTJLSExtWlJCTFlLYTlxRkJXb2FQU05ITGhUWFJoZnc0Y2xHNl9mTjl4dnY2MFB4MTc4Q2JTRl95TllQZ2NCaU5Vd0JXTTJLUEpXS1g2cXcwTHJ0bjZqVkFtd0lNQ1dpVl9pWkRDVFdRRDY0YkgyWnhCMzJ2UW8wZUZ4UXhfbE5Edk9FMUE?oc=5",
@@ -139,34 +167,6 @@
       "date": "November 15, 2026",
       "rawDate": "2026-11-15T16:10:31.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/opac.nu-laguna.edu.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-5f32edb36458",
-      "title": "GameZone Trust & Safety: PAGCOR, KYC & Anti-Phishing",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UeUhRZ1VTSWZia2p1bEctLXdYOXdYTGQwaWZxZXZEdWdSbHdUdzdkb0VfTE4zeE50dXM5R1BGa2IzOTNienhsSkhR?oc=5",
-      "source": "gamezone1.ph",
-      "sourceLabel": "gamezone1.ph",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "November 15, 2026",
-      "rawDate": "2026-11-15T09:54:05.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/gamezone1.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-d99e72a9948e",
-      "title": "NBI Arrests 31 in Bohol Over Alleged $10-M Investment, Crypto & Romance Scam Network",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1YzNjcxbHFlS1lkYk5wdzdGeVczMkl6YXdqSUFLNlpZUUstdWxJenBqUTV0anJMZGQzUmd1c3R4cEY4M29UUUI3UDBvOWR3bUpiNWhlMjgzeXp5VjF3MWlmUmFYcnJ2TzFtSzZCemZLblpielgzR1FMRy1KWGZ0Zkx4ZEg2X1hwUUstS3dZdGMxXzFjcmc?oc=5",
-      "source": "PhilNews",
-      "sourceLabel": "PhilNews",
-      "sourceLogo": "newspaper",
-      "category": "investment",
-      "severity": "medium",
-      "date": "November 15, 2026",
-      "rawDate": "2026-11-15T09:37:41.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/philnews.ph.ico",
       "scope": "local"
     },
     {

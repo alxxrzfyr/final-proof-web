@@ -1,6 +1,20 @@
 {
-  "fetchedAt": "2026-11-19T20:01:45.502Z",
+  "fetchedAt": "2026-11-20T05:58:02.901Z",
   "alerts": [
+    {
+      "id": "alert-local-788e96c78641",
+      "title": "Data breach or leak reported? Consider your personal information security",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmtEZFFSQ1dyMHMtcjlkdFpzWGdXQUs4dkgyRGVkSFRjOW81VVM3dU5aVllIUDdScHI4bVA2VWdNOXpJQ1VwNUltQVhuWVFVZU9PQnp3Q3FYaEhrdjdxTXNpMUZTQUh5MDZIa1FSLUZWdVlGRF9UeGtlYzRtaGlFenptX3gxX2Z3c3FsQXNydFJSWUtMRllR?oc=5",
+      "source": "Rappler",
+      "sourceLabel": "Rappler",
+      "sourceLogo": "newspaper",
+      "category": "malware",
+      "severity": "medium",
+      "date": "November 20, 2026",
+      "rawDate": "2026-11-20T03:31:48.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "scope": "local"
+    },
     {
       "id": "alert-local-119fc6d56550",
       "title": "[DECODED] Scam season and the leaks that may make it worse",
@@ -44,17 +58,31 @@
       "scope": "local"
     },
     {
-      "id": "alert-local-788e96c78641",
-      "title": "Data breach or leak reported? Consider your personal information security",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmtEZFFSQ1dyMHMtcjlkdFpzWGdXQUs4dkgyRGVkSFRjOW81VVM3dU5aVllIUDdScHI4bVA2VWdNOXpJQ1VwNUltQVhuWVFVZU9PQnp3Q3FYaEhrdjdxTXNpMUZTQUh5MDZIa1FSLUZWdVlGRF9UeGtlYzRtaGlFenptX3gxX2Z3c3FsQXNydFJSWUtMRllR?oc=5",
-      "source": "Rappler",
-      "sourceLabel": "Rappler",
+      "id": "alert-local-8a724f2a1ad4",
+      "title": "online lottery today for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83TFJuOXFWa0JXWTM1MUNKUGpEbW11NHZySUVjcW9Zb3pRXzY3UVdzVk04b0g2OGF4bkw2U0NkNk1aMURuLXk5bWZSdkRhcTZGVC1iaGZDVkN3SG5w?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
       "sourceLogo": "newspaper",
-      "category": "malware",
+      "category": "general",
       "severity": "medium",
-      "date": "November 18, 2026",
-      "rawDate": "2026-11-18T07:45:29.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/www.rappler.com.ico",
+      "date": "November 17, 2026",
+      "rawDate": "2026-11-17T12:55:45.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
+      "id": "alert-local-dbc066f05ba4",
+      "title": "european lottery online for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ERTlEWHFPRUZIQ3FQTmFsWlY2TVlaQmdnNkFvY3J4d1lqVVlYWE4zT2YyTFFwbmdsbkoxMGdSNU5pS1VIZk9sdVZZcEJSN3hld1FkOGxzSmcyZmUzYWwzQg?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 17, 2026",
+      "rawDate": "2026-11-17T12:10:01.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
       "scope": "local"
     },
     {
@@ -100,6 +128,20 @@
       "scope": "local"
     },
     {
+      "id": "alert-local-ec52244ca6ae",
+      "title": "online betting agencies for Android - Bing Software Store",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05dGNxWUNKOGF3RmhsS1ZCU291VmNGWFdva2xXZGt6MWJHalNfWXBudlRmMXpwUndIWHNiTUtLTnFTVkhiM2Jzc0VwUzhzZjNYbGFqRGh6T2kxR2kxclFRZw?oc=5",
+      "source": "Manila Bulletin",
+      "sourceLabel": "Manila Bulletin",
+      "sourceLogo": "newspaper",
+      "category": "general",
+      "severity": "medium",
+      "date": "November 16, 2026",
+      "rawDate": "2026-11-16T20:16:21.000Z",
+      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
+      "scope": "local"
+    },
+    {
       "id": "alert-local-0709700b3288",
       "title": "fantan casino for Android - Bing Software Store",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNRWpDVkRxa2tkMk8tRmIxYmFhZ1lhR1Y4S1dxSDI5ZFlscHNPX0R1Ql9HSmQtTzlTOWdsQ0F2ZTNsRUJkcW8xMnFtZzc5NlRT?oc=5",
@@ -125,48 +167,6 @@
       "date": "November 16, 2026",
       "rawDate": "2026-11-16T17:00:45.000Z",
       "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-2dac9da7f96f",
-      "title": "bitcoin roulette for Android - Bing Software Store",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yQ0N0U2VwaG4zd2J1MnA0Q1lvWVlGS1V1bTNybVlhTjh4d25BYTd6NERORE9HazhaOVRYUWlrQndWUWVScllISmdlMDBwRkJ0eFNkM2tB?oc=5",
-      "source": "Manila Bulletin",
-      "sourceLabel": "Manila Bulletin",
-      "sourceLogo": "newspaper",
-      "category": "investment",
-      "severity": "medium",
-      "date": "November 16, 2026",
-      "rawDate": "2026-11-16T16:25:02.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/mb.com.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-2b6cc541725e",
-      "title": "Spotting Fake OKBet Phishing Links & Spoofed APK Portals",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HTEQwZTNhOVN2Qi1FYkF5eHhIYWY3NnpBNnhLTHFzelRqUEhpN2xNOHVMbjFBci1JMWZZMUN0QTRBcGhocnUwNWZjTklEY2Q1OEp0Z2xNbGtaQktuN0dGV2lONUZpZw?oc=5",
-      "source": "okbet1.ph",
-      "sourceLabel": "okbet1.ph",
-      "sourceLogo": "newspaper",
-      "category": "phishing",
-      "severity": "medium",
-      "date": "November 16, 2026",
-      "rawDate": "2026-11-16T08:13:31.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/okbet1.ph.ico",
-      "scope": "local"
-    },
-    {
-      "id": "alert-local-27ade205e3e5",
-      "title": "31 arrested in alleged P639-M investment, romance scam in Bohol",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTHVIU2lfUXV6YXBfcHVCUGRUODRoZl8yaUZEdDhFdUQ1QnZOblRDckJwWTJLSExtWlJCTFlLYTlxRkJXb2FQU05ITGhUWFJoZnc0Y2xHNl9mTjl4dnY2MFB4MTc4Q2JTRl95TllQZ2NCaU5Vd0JXTTJLUEpXS1g2cXcwTHJ0bjZqVkFtd0lNQ1dpVl9pWkRDVFdRRDY0YkgyWnhCMzJ2UW8wZUZ4UXhfbE5Edk9FMUE?oc=5",
-      "source": "ABS-CBN",
-      "sourceLabel": "ABS-CBN",
-      "sourceLogo": "newspaper",
-      "category": "investment",
-      "severity": "medium",
-      "date": "November 16, 2026",
-      "rawDate": "2026-11-16T00:19:00.000Z",
-      "logo": "https://icons.duckduckgo.com/ip3/news.abs-cbn.com.ico",
       "scope": "local"
     },
     {
